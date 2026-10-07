@@ -54,6 +54,7 @@ Durações ficam em `lib/game/config.ts` (`NORMAL_CLIP_SECONDS = 15`, `HARD_CLIP
 ```
 data/
   catalog.json                    # CURADO À MÃO. Categorias e artistas.
+  CATEGORIAS.md                   # Bandas de cada categoria, espelhando o catalog.json.
   generated/
     pools/{categoria}.json        # GERADO por pool:build. Não editar à mão.
     schedules/{categoria}.json    # GERADO por schedule:build. Não editar à mão.
@@ -80,6 +81,8 @@ data/
 ```
 
 Um artista pode estar em várias categorias. `deezerId: null` significa "ainda não resolvido".
+
+**Sempre que mexer em categorias ou artistas no `catalog.json`** (adicionar, remover, renomear, mudar de categoria), atualizar também o `data/CATEGORIAS.md` no mesmo commit.
 
 **`catalog:resolve`** busca no Deezer os artistas com `deezerId: null`. Só grava o ID automaticamente quando há correspondência exata de nome e o candidato é claramente o mais popular (`nb_fan`). Nos casos ambíguos, imprime os 3 melhores candidatos (nome, fãs, link) e não grava nada. Nunca chutar.
 
