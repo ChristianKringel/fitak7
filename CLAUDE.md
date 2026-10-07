@@ -27,7 +27,7 @@ pnpm schedule:build   # gera a agenda dos desafios diários
 
 **Rodada:** toca um trecho do preview de 30s do Deezer. O jogador escolhe 1 entre 4 opções. Erro ou acerto, a rodada termina e a resposta é revelada (título, artista, álbum, capa, link do Deezer).
 
-**Opções:** durante o palpite, cada opção mostra o título da música com o artista embaixo. Composição das 3 opções erradas: 2 do mesmo artista da resposta + 1 de outro artista da mesma categoria. Se o artista não tiver músicas suficientes, completar com outros artistas da categoria. Nenhuma opção pode ser outra versão da resposta (ao vivo, remaster etc.) nem ter título igual ao de outra opção.
+**Opções:** durante o palpite, cada opção mostra o título da música com o artista embaixo. Composição sorteada a cada rodada (`OPTION_PLANS` em `lib/game/options.ts`), contando a resposta: 2 do artista certo + 1 + 1 de outros (30%); 1 do artista certo + 2 de um outro artista, como isca, + 1 de outro (40%); 4 artistas diferentes (30%). Nunca 2 + 2 nem mais de 2 opções do mesmo artista. Se o artista não tiver músicas suficientes, completar com outros artistas da categoria. Nenhuma opção pode ser outra versão da resposta (ao vivo, remaster etc.) nem ter título igual ao de outra opção.
 
 **Respostas:** só os 10% mais populares de cada artista (pelo rank do Deezer, mínimo de 3 músicas) podem ser a resposta, com mais peso para as mais tocadas. As outras músicas só aparecem como opções erradas. Ajustável em `lib/game/config.ts` (`TOP_SHARE_PER_ARTIST`, `MIN_TOP_SONGS_PER_ARTIST`).
 

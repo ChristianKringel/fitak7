@@ -4,6 +4,8 @@ import { normalizeTitle } from "./normalize";
 import {
   buildOptions,
   NotEnoughOptionsError,
+  OPTION_PLANS,
+  pickOptionPlan,
   SIMILAR_POPULARITY_WINDOW,
   type OptionSong,
 } from "./options";
@@ -33,17 +35,36 @@ function seeds(count: number) {
   return Array.from({ length: count }, (_, i) => seededRng(`seed-${i}`));
 }
 
+describe("pickOptionPlan", () => {
+  it("can pick every plan", () => {
+    const picked = new Set(seeds(200).map((rng) => JSON.stringify(pickOptionPlan(rng))));
+    expect(picked.size).toBe(OPTION_PLANS.length);
+  });
+
+  it("has a song by the answer's artist in 30% of the rounds", () => {
+    const total = OPTION_PLANS.reduce((n, p) => n + p.weight, 0);
+    const same = OPTION_PLANS.filter((p) => p.plan.sameArtist === 1).reduce((n, p) => n + p.weight, 0);
+    expect(same / total).toBeCloseTo(0.3);
+  });
+});
+
 describe("buildOptions", () => {
-  it("has the answer, 2 songs by the same artist and 1 by another", () => {
+  it("mixes the artists randomly, never more than 2 options per artist", () => {
     const answer = POOL[0];
-    for (const rng of seeds(50)) {
+    const shapes = new Set<string>();
+    for (const rng of seeds(400)) {
       const { songs, answerIndex } = buildOptions(answer, POOL, rng);
       expect(songs).toHaveLength(4);
       expect(songs[answerIndex]).toBe(answer);
-      const distractors = songs.filter((s) => s !== answer);
-      expect(distractors.filter((s) => s.artist === answer.artist)).toHaveLength(2);
-      expect(distractors.filter((s) => s.artist !== answer.artist)).toHaveLength(1);
+      const perArtist = new Map<string, number>();
+      for (const s of songs) perArtist.set(s.artist, (perArtist.get(s.artist) ?? 0) + 1);
+      expect(Math.max(...perArtist.values())).toBeLessThanOrEqual(2);
+      const same = perArtist.get(answer.artist)!;
+      const others = [...perArtist].filter(([a]) => a !== answer.artist).map(([, n]) => n);
+      shapes.add(`${same}|${others.sort().join("+")}`);
     }
+    // 2+1+1, 1+2+1 (bait), 1+1+1+1; never 2+2.
+    expect(shapes).toEqual(new Set(["2|1+1", "1|1+2", "1|1+1+1"]));
   });
 
   it("places the answer in every position across seeds", () => {
@@ -69,12 +90,14 @@ describe("buildOptions", () => {
     }
   });
 
-  it("uses one song of the artist plus two others when the artist has 2 songs", () => {
+  it("uses at most one song of the artist when the artist has 2 songs", () => {
     const answer = POOL.find((s) => s.title === "Surfista Calhorda")!;
-    const { songs } = buildOptions(answer, POOL, seededRng("y"));
-    const others = songs.filter((s) => s !== answer);
-    expect(others.filter((s) => s.artist === "Replicantes")).toHaveLength(1);
-    expect(others.filter((s) => s.artist !== "Replicantes")).toHaveLength(2);
+    for (const rng of seeds(50)) {
+      const { songs } = buildOptions(answer, POOL, rng);
+      const others = songs.filter((s) => s !== answer);
+      expect(others).toHaveLength(3);
+      expect(others.filter((s) => s.artist === "Replicantes").length).toBeLessThanOrEqual(1);
+    }
   });
 
   it("completes with the same artist when the category has one artist", () => {
