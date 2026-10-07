@@ -1,0 +1,278 @@
+{
+  "categories": [
+    {
+      "slug": "rock-gaucho",
+      "name": "Rock Gaúcho",
+      "description": "Bandas de rock do Rio Grande do Sul."
+    },
+    {
+      "slug": "rock-br",
+      "name": "Rock Brasileiro",
+      "description": "Clássicos do rock nacional."
+    },
+    {
+      "slug": "musica-gaucha",
+      "name": "Música Gaúcha / Nativista",
+      "description": "Música regional e nativista do Rio Grande do Sul."
+    },
+    {
+      "slug": "bandinhas",
+      "name": "Bandinhas",
+      "description": "Bandinhas alemãs e italianas do Sul do Brasil."
+    }
+  ],
+  "artists": [
+    {
+      "name": "Engenheiros do Hawaii",
+      "deezerId": 14691,
+      "categories": [
+        "rock-gaucho",
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Nenhum de Nós",
+      "deezerId": 114140,
+      "categories": [
+        "rock-gaucho",
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Replicantes",
+      "deezerId": 1402768,
+      "categories": [
+        "rock-gaucho"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "TNT",
+      "deezerId": 72410042,
+      "categories": [
+        "rock-gaucho"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cachorro Grande",
+      "deezerId": 14827,
+      "categories": [
+        "rock-gaucho"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Bidê ou Balde",
+      "deezerId": 16903,
+      "categories": [
+        "rock-gaucho"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Graforréia Xilarmônica",
+      "deezerId": 14454127,
+      "categories": [
+        "rock-gaucho"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Papas da Língua",
+      "deezerId": 16320,
+      "categories": [
+        "rock-gaucho"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Comunidade Nin-Jitsu",
+      "deezerId": 4570864,
+      "categories": [
+        "rock-gaucho"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Legião Urbana",
+      "deezerId": 15810,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Titãs",
+      "deezerId": 17005,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Paralamas do Sucesso",
+      "deezerId": 16230,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Barão Vermelho",
+      "deezerId": 13946,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Capital Inicial",
+      "deezerId": 16275,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ira!",
+      "deezerId": 15770,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Serranos",
+      "deezerId": 156375,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Teixeirinha",
+      "deezerId": 156387,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gaúcho da Fronteira",
+      "deezerId": 102438,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Monarcas",
+      "deezerId": 1430481,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Renato Borghetti",
+      "deezerId": 115982,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Mirins",
+      "deezerId": 5794371,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Super Banda Choppão",
+      "deezerId": 7102771,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Montanari",
+      "deezerId": 6295446,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "La Montanara",
+      "deezerId": 8602750,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Orquestra La Montanara. O perfil exato \"La Montanara\" (212939637) está vazio."
+    },
+    {
+      "name": "Super Musical Monte Carlo",
+      "deezerId": 157164462,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    }
+  ]
+}
