@@ -273,18 +273,15 @@
           "answerIndex": 3
         },
         {
-          "songId": "gaucho-da-fronteira--paixao-ingrata",
-          "trackId": 3485035421,
-          "altTrackIds": [
-            725959472,
-            732965572
-          ],
-          "title": "Paixão ingrata",
+          "songId": "gaucho-da-fronteira--pai-celestial",
+          "trackId": 1420111,
+          "altTrackIds": [],
+          "title": "Pai Celestial",
           "artist": "Gaúcho da Fronteira",
           "options": [
             "Rancheirinha Puladinha",
-            "Cevando O Amargo",
-            "Paixão ingrata",
+            "Recado Pro Patrão",
+            "Pai Celestial",
             "Tão pedindo um vanerão"
           ],
           "answerIndex": 2
@@ -597,16 +594,19 @@
           "answerIndex": 2
         },
         {
-          "songId": "gaucho-da-fronteira--quando-danco-um-vanerao",
-          "trackId": 1420085,
-          "altTrackIds": [],
-          "title": "Quando Danço Um Vanerão",
+          "songId": "gaucho-da-fronteira--paixao-ingrata",
+          "trackId": 3485035421,
+          "altTrackIds": [
+            725959472,
+            732965572
+          ],
+          "title": "Paixão ingrata",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Tão pedindo um vanerão",
+            "Querência Amada",
             "Bachianas Brasileiras, No. 5 (Cantillena)",
-            "Quando Danço Um Vanerão",
-            "Paixão ingrata"
+            "Paixão ingrata",
+            "Quando Danço Um Vanerão"
           ],
           "answerIndex": 2
         },
@@ -766,7 +766,7 @@
           "artist": "Gaúcho da Fronteira",
           "options": [
             "A Sanga Da Vizinha",
-            "Gandaieiro",
+            "Balança Brasil",
             "Desculpe",
             "Vanerinha do Namoro"
           ],
@@ -819,32 +819,32 @@
     "2026-10-16": {
       "rounds": [
         {
-          "songId": "os-monarcas--sonhando-na-vaneira",
-          "trackId": 1815710817,
-          "altTrackIds": [
-            428454242
-          ],
-          "title": "Sonhando na Vaneira",
+          "songId": "os-monarcas--santuario-de-xucros",
+          "trackId": 428454412,
+          "altTrackIds": [],
+          "title": "Santuário de Xucros",
           "artist": "Os Monarcas",
           "options": [
-            "Sonhando na Vaneira",
-            "Sistema Antigo",
-            "Panela Velha",
-            "Vai Que Vai"
+            "Santuário de Xucros",
+            "Vanera Largada",
+            "BATENDO ÁGUA",
+            "Prece Telúrica"
           ],
           "answerIndex": 0
         },
         {
-          "songId": "gaucho-da-fronteira--pai-celestial",
-          "trackId": 1420111,
-          "altTrackIds": [],
-          "title": "Pai Celestial",
+          "songId": "gaucho-da-fronteira--nheco-vari-nheco-fun",
+          "trackId": 732965652,
+          "altTrackIds": [
+            725922102
+          ],
+          "title": "Nheco Vari Nheco Fun",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Recado Pro Patrão",
-            "Pai Celestial",
+            "Não Aperta Aparicio",
+            "Nheco Vari Nheco Fun",
             "Sonhando Na Vanera",
-            "Querência Amada"
+            "Recado Pro Patrão"
           ],
           "answerIndex": 1
         },
@@ -897,30 +897,32 @@
     "2026-10-17": {
       "rounds": [
         {
-          "songId": "os-monarcas--vanera-largada",
-          "trackId": 478345852,
+          "songId": "os-monarcas--vaneira-grossa",
+          "trackId": 428454272,
           "altTrackIds": [],
-          "title": "Vanera Largada",
+          "title": "Vaneira Grossa",
           "artist": "Os Monarcas",
           "options": [
-            "Sonhando Na Vanera",
-            "Bailar Milonga Faz Bem",
-            "Vanera Largada",
-            "Bugio Extraviado"
+            "Cheiro de Galpão",
+            "Brasil de Bombacha",
+            "Vaneira Grossa",
+            "Hino Riograndense"
           ],
           "answerIndex": 2
         },
         {
-          "songId": "gaucho-da-fronteira--recado-pro-patrao",
-          "trackId": 1420179,
-          "altTrackIds": [],
-          "title": "Recado Pro Patrão",
+          "songId": "gaucho-da-fronteira--querencia-amada",
+          "trackId": 732965672,
+          "altTrackIds": [
+            725920712
+          ],
+          "title": "Querência Amada",
           "artist": "Gaúcho da Fronteira",
           "options": [
             "Forronerão",
+            "Querência Amada",
             "Recado Pro Patrão",
-            "A Conquista Do Oeste",
-            "Sonhando Na Vanera"
+            "Rancheirinha Puladinha"
           ],
           "answerIndex": 1
         },
@@ -989,18 +991,15 @@
           "answerIndex": 3
         },
         {
-          "songId": "gaucho-da-fronteira--nheco-vari-nheco-fum",
-          "trackId": 3589781451,
-          "altTrackIds": [
-            9054772,
-            3539486291
-          ],
-          "title": "Nheco Vari, Nheco Fum",
+          "songId": "gaucho-da-fronteira--nao-aperta-aparicio",
+          "trackId": 1420236,
+          "altTrackIds": [],
+          "title": "Não Aperta Aparicio",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Nheco Vari, Nheco Fum",
+            "Não Aperta Aparicio",
+            "Mercedita",
             "A Utilidade do Dedo",
-            "Tradição Gaúcha",
             "Bem-Me-Quer"
           ],
           "answerIndex": 0
@@ -1174,9 +1173,9 @@
           "artist": "Gaúcho da Fronteira",
           "options": [
             "Doutor e Domador",
-            "Sonhando com ela",
+            "Segura o tchê!",
             "Autilidade Do Dedo",
-            "Segura o tchê!"
+            "Tradição Gaúcha"
           ],
           "answerIndex": 2
         },
@@ -1241,16 +1240,16 @@
           "answerIndex": 0
         },
         {
-          "songId": "gaucho-da-fronteira--sonhando-com-ela",
-          "trackId": 3498383751,
+          "songId": "gaucho-da-fronteira--rindo-a-toa",
+          "trackId": 1390554262,
           "altTrackIds": [],
-          "title": "Sonhando com ela",
+          "title": "Rindo à Toa",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Sonhando com ela",
+            "Rindo à Toa",
             "Meu Nome É Tchê!",
             "A Conquista Do Oeste",
-            "Rindo à Toa"
+            "Tradição Gaúcha"
           ],
           "answerIndex": 0
         },
@@ -1353,16 +1352,18 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-monarcas--sonhando-na-vanera",
-          "trackId": 425695102,
-          "altTrackIds": [],
-          "title": "Sonhando Na Vanera",
+          "songId": "os-monarcas--sonhando-na-vaneira",
+          "trackId": 1815710817,
+          "altTrackIds": [
+            428454242
+          ],
+          "title": "Sonhando na Vaneira",
           "artist": "Os Monarcas",
           "options": [
-            "Sonhando Na Vanera",
-            "Eu Não Sou Convencido",
-            "Recordação",
-            "Mãos"
+            "Sonhando na Vaneira",
+            "Vai Que Vai",
+            "Adeus Mariana",
+            "Gineteando o Temporal"
           ],
           "answerIndex": 0
         }
@@ -1419,16 +1420,14 @@
           "answerIndex": 0
         },
         {
-          "songId": "gaucho-da-fronteira--querencia-amada",
-          "trackId": 732965672,
-          "altTrackIds": [
-            725920712
-          ],
-          "title": "Querência Amada",
+          "songId": "gaucho-da-fronteira--recado-pro-patrao",
+          "trackId": 1420179,
+          "altTrackIds": [],
+          "title": "Recado Pro Patrão",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "A Primeira Vez",
-            "Querência Amada",
+            "Atorando um Chote",
+            "Recado Pro Patrão",
             "Mercedita",
             "Recordação"
           ],
@@ -1548,18 +1547,18 @@
           "answerIndex": 3
         },
         {
-          "songId": "os-monarcas--aquerenciado",
-          "trackId": 428454422,
+          "songId": "os-mirins--vanerinha-do-namoro",
+          "trackId": 1780643827,
           "altTrackIds": [
-            425695132
+            3550753591
           ],
-          "title": "Aquerenciado",
-          "artist": "Os Monarcas",
+          "title": "Vanerinha do Namoro",
+          "artist": "Os Mirins",
           "options": [
-            "Aquerenciado",
-            "Recordação",
-            "Perfil Gaúcho",
-            "Bem-Me-Quer"
+            "Vanerinha do Namoro",
+            "Entrando No M'bororé",
+            "1barbaridade",
+            "Alma de Guitarra"
           ],
           "answerIndex": 0
         },
@@ -1581,18 +1580,16 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-mirins--no-ronco-do-bugio",
-          "trackId": 3217998081,
-          "altTrackIds": [
-            479095982
-          ],
-          "title": "No Ronco do Bugio",
-          "artist": "Os Mirins",
+          "songId": "os-monarcas--rancheira-puladinha",
+          "trackId": 428454322,
+          "altTrackIds": [],
+          "title": "Rancheira Puladinha",
+          "artist": "Os Monarcas",
           "options": [
-            "BATENDO ÁGUA",
-            "No Ronco do Bugio",
-            "Valsa do Meu Pai",
-            "Baile de Candieiro"
+            "Baile Da Mariquinha",
+            "Rancheira Puladinha",
+            "Eu Não Sou Convencido",
+            "Os de Bota e Bombacha"
           ],
           "answerIndex": 1
         },
@@ -1685,16 +1682,16 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-mirins--promessas-do-meu-pai",
-          "trackId": 482886582,
+          "songId": "os-mirins--peao-campeiro",
+          "trackId": 519193222,
           "altTrackIds": [],
-          "title": "Promessas do Meu Pai",
+          "title": "Peão Campeiro",
           "artist": "Os Mirins",
           "options": [
-            "Forronerão",
-            "Tempos de Guri",
-            "Promessas do Meu Pai",
-            "No Ronco do Bugio"
+            "A Sanga Da Vizinha",
+            "Peão Domador",
+            "Peão Campeiro",
+            "Som Campeiro"
           ],
           "answerIndex": 2
         }
@@ -1748,16 +1745,18 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-monarcas--bailar-milonga-faz-bem",
-          "trackId": 414494652,
-          "altTrackIds": [],
-          "title": "Bailar Milonga Faz Bem",
+          "songId": "os-monarcas--aquerenciado",
+          "trackId": 428454422,
+          "altTrackIds": [
+            425695132
+          ],
+          "title": "Aquerenciado",
           "artist": "Os Monarcas",
           "options": [
-            "Bailar Milonga Faz Bem",
-            "Carreirada",
-            "Vanera Largada",
-            "Milonga Velha Milonga"
+            "Aquerenciado",
+            "Hospitaleira Vacaria",
+            "Tirando o Meu Chapéu Pra Deus",
+            "Prece Telúrica"
           ],
           "answerIndex": 0
         },
@@ -1865,8 +1864,8 @@
           "title": "A Utilidade do Dedo",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Sonhando com ela",
             "Nheco Vari, Nheco Fum",
+            "A Conquista Do Oeste",
             "A Utilidade do Dedo",
             "Eu Não Sou Convencido"
           ],
@@ -1893,32 +1892,32 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-mirins--vanera-xucra",
-          "trackId": 1780643837,
+          "songId": "os-mirins--vaneirinha-da-saudade",
+          "trackId": 430320432,
           "altTrackIds": [
-            3550753691
+            482886542
           ],
-          "title": "Vanera Xucra",
+          "title": "Vaneirinha da Saudade",
           "artist": "Os Mirins",
           "options": [
-            "Vanera Xucra",
-            "BARRANCA E FRONTEIRA",
-            "Baile de Candieiro",
-            "Peão Domador"
+            "Vaneirinha da Saudade",
+            "DO FUNDO DA GROTA",
+            "Ha Ha Haia Lagartixa Baia",
+            "O Tranco da Morena Rosa"
           ],
           "answerIndex": 0
         },
         {
-          "songId": "os-monarcas--santuario-de-xucros",
-          "trackId": 428454412,
+          "songId": "os-monarcas--sonhando-na-vanera",
+          "trackId": 425695102,
           "altTrackIds": [],
-          "title": "Santuário de Xucros",
+          "title": "Sonhando Na Vanera",
           "artist": "Os Monarcas",
           "options": [
-            "Milonga de Verão",
-            "Vanera Xucra",
+            "Rancheira Puladinha",
+            "Som Campeiro",
             "Vanera Largada",
-            "Santuário de Xucros"
+            "Sonhando Na Vanera"
           ],
           "answerIndex": 3
         },
@@ -1943,19 +1942,16 @@
     "2026-10-30": {
       "rounds": [
         {
-          "songId": "teixeirinha--o-colono",
-          "trackId": 3256137,
-          "altTrackIds": [
-            391365402,
-            1059292722
-          ],
-          "title": "O Colono",
+          "songId": "teixeirinha--o-xoti-e-lindo",
+          "trackId": 4103473,
+          "altTrackIds": [],
+          "title": "O xoti é lindo",
           "artist": "Teixeirinha",
           "options": [
-            "Pedaços de mim",
-            "O Colono",
-            "Cobra sucuri",
-            "Não Encosta a Barriguinha"
+            "Rancho do capivari",
+            "O xoti é lindo",
+            "Moda Da Mula Preta",
+            "Milonga de Clarear o Dia"
           ],
           "answerIndex": 1
         },
@@ -1995,18 +1991,18 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-mirins--vanerinha-do-namoro",
-          "trackId": 1780643827,
+          "songId": "os-mirins--vanera-xucra",
+          "trackId": 1780643837,
           "altTrackIds": [
-            3550753591
+            3550753691
           ],
-          "title": "Vanerinha do Namoro",
+          "title": "Vanera Xucra",
           "artist": "Os Mirins",
           "options": [
-            "Vanerinha do Namoro",
-            "Alma de Guitarra",
-            "Nheco Vari, Nheco Fum",
-            "Bola Nas Costa"
+            "Vanera Xucra",
+            "Baile de Candieiro",
+            "Nheco Vari Nheco Fun",
+            "Peão Domador"
           ],
           "answerIndex": 0
         },
@@ -2029,32 +2025,33 @@
     "2026-10-31": {
       "rounds": [
         {
-          "songId": "os-serranos--eu-sou-do-sul",
-          "trackId": 416209092,
+          "songId": "os-serranos--fandango-gaucho",
+          "trackId": 478323382,
           "altTrackIds": [],
-          "title": "Eu Sou do Sul",
+          "title": "Fandango Gaúcho",
           "artist": "Os Serranos",
           "options": [
-            "O Tranco da Morena Rosa",
-            "A Estampa do Rio Grande",
-            "Eu Sou do Sul",
-            "BUGIO NOVO"
+            "\"Aparpando os Recavém\"",
+            "Doutor e Domador",
+            "Fandango Gaúcho",
+            "MENSAGEM DE SAUDADE"
           ],
           "answerIndex": 2
         },
         {
-          "songId": "gaucho-da-fronteira--nheco-vari-nheco-fun",
-          "trackId": 732965652,
+          "songId": "gaucho-da-fronteira--nheco-vari-nheco-fum",
+          "trackId": 3589781451,
           "altTrackIds": [
-            725922102
+            9054772,
+            3539486291
           ],
-          "title": "Nheco Vari Nheco Fun",
+          "title": "Nheco Vari, Nheco Fum",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Nheco Vari Nheco Fun",
-            "Os de Bota e Bombacha",
-            "Recado Pro Patrão",
-            "Recordação"
+            "Nheco Vari, Nheco Fum",
+            "Milonga de Clarear o Dia",
+            "Recordação",
+            "Lambendo Espoleta"
           ],
           "answerIndex": 0
         },
@@ -2096,14 +2093,14 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-monarcas--milonga-de-clarear-o-dia",
-          "trackId": 1815696917,
+          "songId": "os-monarcas--meu-verso",
+          "trackId": 423228572,
           "altTrackIds": [],
-          "title": "Milonga de Clarear o Dia",
+          "title": "Meu Verso",
           "artist": "Os Monarcas",
           "options": [
-            "Milonga de Clarear o Dia",
-            "Sonhando Na Vanera",
+            "Meu Verso",
+            "Bruxinha de Pano",
             "Bailar Milonga Faz Bem",
             "Rancho E Cerca De Pedra"
           ],
@@ -2148,43 +2145,45 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-serranos--batendo-agua",
-          "trackId": 588232652,
+          "songId": "os-serranos--bugio-novo",
+          "trackId": 588232682,
           "altTrackIds": [],
-          "title": "BATENDO ÁGUA",
+          "title": "BUGIO NOVO",
           "artist": "Os Serranos",
           "options": [
-            "Fandango Gaúcho",
-            "BATENDO ÁGUA",
-            "Mate de Esperança",
-            "Nos Varzedos da Fronteira"
+            "Serrano, Sim Senhor!",
+            "BUGIO NOVO",
+            "ME COMPARANDO AO RIO GRANDE",
+            "Panela Velha"
           ],
           "answerIndex": 1
         },
         {
-          "songId": "os-monarcas--prece-telurica",
-          "trackId": 428454342,
+          "songId": "os-monarcas--perfil-gaucho",
+          "trackId": 414494622,
           "altTrackIds": [],
-          "title": "Prece Telúrica",
+          "title": "Perfil Gaúcho",
           "artist": "Os Monarcas",
           "options": [
-            "Prece Telúrica",
+            "Perfil Gaúcho",
             "Recordação",
-            "Vanera Largada",
+            "Campeiro do Rio Grande",
             "Eu Não Sou Convencido"
           ],
           "answerIndex": 0
         },
         {
-          "songId": "os-mirins--peao-campeiro",
-          "trackId": 519193222,
-          "altTrackIds": [],
-          "title": "Peão Campeiro",
+          "songId": "os-mirins--no-ronco-do-bugio",
+          "trackId": 3217998081,
+          "altTrackIds": [
+            479095982
+          ],
+          "title": "No Ronco do Bugio",
           "artist": "Os Mirins",
           "options": [
             "Vira Virou",
-            "Peão Campeiro",
-            "1barbaridade",
+            "No Ronco do Bugio",
+            "Xote Laranjeira",
             "\"Aparpando os Recavém\""
           ],
           "answerIndex": 1
@@ -2241,16 +2240,16 @@
           "answerIndex": 0
         },
         {
-          "songId": "gaucho-da-fronteira--rindo-a-toa",
-          "trackId": 1390554262,
+          "songId": "gaucho-da-fronteira--recordacao",
+          "trackId": 1420121,
           "altTrackIds": [],
-          "title": "Rindo à Toa",
+          "title": "Recordação",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Rindo à Toa",
-            "Rancho E Cerca De Pedra",
-            "Tradição Gaúcha",
-            "Sonhando com ela"
+            "Recordação",
+            "Sambanerao",
+            "Forronerão",
+            "Pai Celestial"
           ],
           "answerIndex": 0
         },
@@ -2305,16 +2304,16 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-serranos--fandango-gaucho",
-          "trackId": 478323382,
+          "songId": "os-serranos--eu-sou-do-sul",
+          "trackId": 416209092,
           "altTrackIds": [],
-          "title": "Fandango Gaúcho",
+          "title": "Eu Sou do Sul",
           "artist": "Os Serranos",
           "options": [
-            "Fandango Gaúcho",
-            "Baile Da Mariquinha",
-            "Entrando No M'bororé",
-            "Milonga de Clarear o Dia"
+            "Eu Sou do Sul",
+            "Serrano, Sim Senhor!",
+            "Nossa Vanera",
+            "Gineteando o Temporal"
           ],
           "answerIndex": 0
         },
@@ -2377,18 +2376,18 @@
           "answerIndex": 3
         },
         {
-          "songId": "os-mirins--vaneirinha-da-saudade",
-          "trackId": 430320432,
+          "songId": "os-mirins--valsa-do-meu-pai",
+          "trackId": 1780643867,
           "altTrackIds": [
-            482886542
+            3550753561
           ],
-          "title": "Vaneirinha da Saudade",
+          "title": "Valsa do Meu Pai",
           "artist": "Os Mirins",
           "options": [
+            "No Ronco do Bugio",
+            "Valsa do Meu Pai",
             "Vaneirinha do Amor",
-            "Vaneirinha da Saudade",
-            "Ha Ha Haia Lagartixa Baia",
-            "Hino Riograndense"
+            "Corra Se Puderes"
           ],
           "answerIndex": 1
         },
@@ -2410,30 +2409,32 @@
           "answerIndex": 3
         },
         {
-          "songId": "os-serranos--morena-rosa",
-          "trackId": 416209162,
+          "songId": "os-serranos--poncho-molhado",
+          "trackId": 588232762,
           "altTrackIds": [],
-          "title": "Morena Rosa",
+          "title": "PONCHO MOLHADO",
           "artist": "Os Serranos",
           "options": [
-            "Fandangueando",
-            "MENSAGEM DE SAUDADE",
-            "Morena Rosa",
-            "Jeito de Galpão"
+            "Eu Não Sou Convencido",
+            "BATENDO ÁGUA",
+            "PONCHO MOLHADO",
+            "MENSAGEM DE SAUDADE"
           ],
           "answerIndex": 2
         },
         {
-          "songId": "os-monarcas--vaneira-grossa",
-          "trackId": 428454272,
-          "altTrackIds": [],
-          "title": "Vaneira Grossa",
-          "artist": "Os Monarcas",
+          "songId": "teixeirinha--a-morte-nao-marca-hora",
+          "trackId": 14644750,
+          "altTrackIds": [
+            14671778
+          ],
+          "title": "A morte não marca hora",
+          "artist": "Teixeirinha",
           "options": [
-            "Vaneirinha do Amor",
-            "Vaneira Grossa",
-            "Não Encosta a Barriguinha",
-            "Brasil de Bombacha"
+            "Mercedita",
+            "A morte não marca hora",
+            "A gaita velha do seu Ary",
+            "Espero ser feliz"
           ],
           "answerIndex": 1
         }
@@ -2456,16 +2457,16 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-monarcas--milonga-velha-milonga",
-          "trackId": 414540082,
+          "songId": "os-monarcas--milonga-de-clarear-o-dia",
+          "trackId": 1815696917,
           "altTrackIds": [],
-          "title": "Milonga Velha Milonga",
+          "title": "Milonga de Clarear o Dia",
           "artist": "Os Monarcas",
           "options": [
             "Bailar Milonga Faz Bem",
-            "Milonga Velha Milonga",
-            "Moda Da Mula Preta",
-            "Milonga de Verão"
+            "Milonga de Clarear o Dia",
+            "O Pobre João",
+            "Vanera Largada"
           ],
           "answerIndex": 1
         },
@@ -2503,16 +2504,16 @@
           "answerIndex": 2
         },
         {
-          "songId": "gaucho-da-fronteira--nao-aperta-aparicio",
-          "trackId": 1420236,
+          "songId": "gaucho-da-fronteira--lambendo-espoleta",
+          "trackId": 849477592,
           "altTrackIds": [],
-          "title": "Não Aperta Aparicio",
+          "title": "Lambendo Espoleta",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Recado Pro Patrão",
-            "La Casa del Chamamé",
-            "Não Aperta Aparicio",
-            "Gaúcho Doble Chapa"
+            "Nheco Vari, Nheco Fum",
+            "Esbarrando",
+            "Lambendo Espoleta",
+            "Segura o tchê!"
           ],
           "answerIndex": 2
         }
@@ -2563,32 +2564,30 @@
           "answerIndex": 3
         },
         {
-          "songId": "renato-borghetti--hospitaleira-vacaria",
-          "trackId": 1727259,
-          "altTrackIds": [
-            68839649
-          ],
-          "title": "Hospitaleira Vacaria",
+          "songId": "renato-borghetti--esbarrando",
+          "trackId": 61443952,
+          "altTrackIds": [],
+          "title": "Esbarrando",
           "artist": "Renato Borghetti",
           "options": [
-            "Vanera Largada",
-            "Bailinho Na Capela",
-            "Hospitaleira Vacaria",
-            "Pulo do Grilo"
+            "Sina de Gaiteiro",
+            "Carreirada",
+            "Esbarrando",
+            "Laçador"
           ],
           "answerIndex": 2
         },
         {
-          "songId": "os-monarcas--perfil-gaucho",
-          "trackId": 414494622,
+          "songId": "os-monarcas--prece-telurica",
+          "trackId": 428454342,
           "altTrackIds": [],
-          "title": "Perfil Gaúcho",
+          "title": "Prece Telúrica",
           "artist": "Os Monarcas",
           "options": [
             "Vira Virou",
-            "Tirando o Meu Chapéu Pra Deus",
-            "No Império das Estâncias",
-            "Perfil Gaúcho"
+            "Bem-Me-Quer",
+            "Sonhando Na Vanera",
+            "Prece Telúrica"
           ],
           "answerIndex": 3
         }
@@ -2614,60 +2613,60 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-mirins--alma-de-guitarra",
-          "trackId": 482886612,
+          "songId": "gaucho-da-fronteira--quando-danco-um-vanerao",
+          "trackId": 1420085,
           "altTrackIds": [],
-          "title": "Alma de Guitarra",
-          "artist": "Os Mirins",
+          "title": "Quando Danço Um Vanerão",
+          "artist": "Gaúcho da Fronteira",
           "options": [
-            "Vanerinha do Namoro",
-            "Voltando Pra Ser Feliz",
-            "Milonga de Clarear o Dia",
-            "Alma de Guitarra"
+            "Castelhana",
+            "Paixão ingrata",
+            "Brasil de Bombacha",
+            "Quando Danço Um Vanerão"
           ],
           "answerIndex": 3
         },
         {
-          "songId": "teixeirinha--a-morte-nao-marca-hora",
-          "trackId": 14644750,
-          "altTrackIds": [
-            14671778
-          ],
-          "title": "A morte não marca hora",
-          "artist": "Teixeirinha",
+          "songId": "os-serranos--doutor-e-domador",
+          "trackId": 1185721022,
+          "altTrackIds": [],
+          "title": "Doutor e Domador",
+          "artist": "Os Serranos",
           "options": [
-            "Recado Pro Patrão",
-            "A morte não marca hora",
-            "A gaita velha do seu Ary",
-            "Espero ser feliz"
+            "Balança Brasil",
+            "Doutor e Domador",
+            "Ginete de Fronteira",
+            "BUGIO DA FRONTEIRA"
           ],
           "answerIndex": 1
         },
         {
-          "songId": "os-serranos--mensagem-de-saudade",
-          "trackId": 588232702,
+          "songId": "teixeirinha--rancho-do-capivari",
+          "trackId": 4103469,
           "altTrackIds": [],
-          "title": "MENSAGEM DE SAUDADE",
-          "artist": "Os Serranos",
+          "title": "Rancho do capivari",
+          "artist": "Teixeirinha",
           "options": [
+            "Caminhoneiro amigo",
+            "Gaúcho de passo fundo",
             "Entrando No M'bororé",
-            "Ginete de Fronteira",
-            "Llegada",
-            "MENSAGEM DE SAUDADE"
+            "Rancho do capivari"
           ],
           "answerIndex": 3
         },
         {
-          "songId": "gaucho-da-fronteira--recordacao",
-          "trackId": 1420121,
-          "altTrackIds": [],
-          "title": "Recordação",
-          "artist": "Gaúcho da Fronteira",
+          "songId": "os-mirins--baralho",
+          "trackId": 3219653761,
+          "altTrackIds": [
+            482886662
+          ],
+          "title": "Baralho",
+          "artist": "Os Mirins",
           "options": [
-            "A Conquista Do Oeste",
-            "Querência Amada",
-            "Recordação",
-            "Bailinho Na Capela"
+            "Vanerinha do Namoro",
+            "Recanto da Natureza",
+            "Baralho",
+            "Rancho do capivari"
           ],
           "answerIndex": 2
         }
@@ -2676,42 +2675,44 @@
     "2026-11-08": {
       "rounds": [
         {
-          "songId": "teixeirinha--rancho-do-capivari",
-          "trackId": 4103469,
-          "altTrackIds": [],
-          "title": "Rancho do capivari",
+          "songId": "teixeirinha--pedacos-de-mim",
+          "trackId": 4103471,
+          "altTrackIds": [
+            85027249
+          ],
+          "title": "Pedaços de mim",
           "artist": "Teixeirinha",
           "options": [
-            "Crime de amor",
-            "Rancho do capivari",
-            "DOCE SAUDADE",
-            "A Volta Do Tordilho Negro"
+            "Valsas Das Flores",
+            "Pedaços de mim",
+            "No Ronco do Bugio",
+            "Triste madrugada"
           ],
           "answerIndex": 1
         },
         {
-          "songId": "os-serranos--bugio-novo",
-          "trackId": 588232682,
+          "songId": "os-serranos--batendo-agua",
+          "trackId": 588232652,
           "altTrackIds": [],
-          "title": "BUGIO NOVO",
+          "title": "BATENDO ÁGUA",
           "artist": "Os Serranos",
           "options": [
-            "A Estampa do Rio Grande",
-            "Tirando o Meu Chapéu Pra Deus",
-            "BUGIO NOVO",
+            "Baile Da Mariquinha",
+            "Santuário de Xucros",
+            "BATENDO ÁGUA",
             "Bate Coxa No Totonho"
           ],
           "answerIndex": 2
         },
         {
-          "songId": "os-monarcas--rancheira-puladinha",
-          "trackId": 428454322,
+          "songId": "os-monarcas--os-de-bota-e-bombacha",
+          "trackId": 478350222,
           "altTrackIds": [],
-          "title": "Rancheira Puladinha",
+          "title": "Os de Bota e Bombacha",
           "artist": "Os Monarcas",
           "options": [
-            "No Império das Estâncias",
-            "Rancheira Puladinha",
+            "Rancheirinha Puladinha",
+            "Os de Bota e Bombacha",
             "Peão Domador",
             "Sonhando Na Vanera"
           ],
@@ -2738,18 +2739,16 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-mirins--aparpando-os-recavem",
-          "trackId": 448646652,
-          "altTrackIds": [
-            479096042
-          ],
-          "title": "\"Aparpando os Recavém\"",
+          "songId": "os-mirins--alma-de-guitarra",
+          "trackId": 482886612,
+          "altTrackIds": [],
+          "title": "Alma de Guitarra",
           "artist": "Os Mirins",
           "options": [
-            "A morte não marca hora",
-            "\"Aparpando os Recavém\"",
-            "Peão Campeiro",
-            "Som Campeiro"
+            "Amor de gaúcho",
+            "Alma de Guitarra",
+            "Meu Nome É Tchê!",
+            "Baralho"
           ],
           "answerIndex": 1
         }
@@ -2758,77 +2757,81 @@
     "2026-11-09": {
       "rounds": [
         {
-          "songId": "os-mirins--valsa-do-meu-pai",
-          "trackId": 1780643867,
-          "altTrackIds": [
-            3550753561
-          ],
-          "title": "Valsa do Meu Pai",
+          "songId": "os-mirins--promessas-do-meu-pai",
+          "trackId": 482886582,
+          "altTrackIds": [],
+          "title": "Promessas do Meu Pai",
           "artist": "Os Mirins",
           "options": [
-            "Promessas do Meu Pai",
-            "Vaneirinha do Amor",
-            "Brasil de Bombacha",
-            "Valsa do Meu Pai"
+            "Baile de Candieiro",
+            "Xote Laranjeira",
+            "Aquerenciado",
+            "Promessas do Meu Pai"
           ],
           "answerIndex": 3
         },
         {
-          "songId": "renato-borghetti--bugio-extraviado",
-          "trackId": 526322102,
-          "altTrackIds": [
-            13620716,
-            16288920
-          ],
-          "title": "Bugio Extraviado",
-          "artist": "Renato Borghetti",
+          "songId": "os-serranos--morena-rosa",
+          "trackId": 416209162,
+          "altTrackIds": [],
+          "title": "Morena Rosa",
+          "artist": "Os Serranos",
           "options": [
-            "Bugio Extraviado",
-            "Rancho E Cerca De Pedra",
-            "Laçador",
-            "PRENDINHA MEU AMOR"
+            "Morena Rosa",
+            "MENSAGEM DE SAUDADE",
+            "PRENDINHA MEU AMOR",
+            "Sina de Gaiteiro"
           ],
           "answerIndex": 0
         },
         {
-          "songId": "teixeirinha--o-xoti-e-lindo",
-          "trackId": 4103473,
-          "altTrackIds": [],
-          "title": "O xoti é lindo",
+          "songId": "renato-borghetti--sambanerao",
+          "trackId": 2989677,
+          "altTrackIds": [
+            17138863,
+            802559712,
+            1643052922,
+            1675693437,
+            3677254132
+          ],
+          "title": "Sambanerao",
+          "artist": "Renato Borghetti",
+          "options": [
+            "Vira Virou",
+            "Mates de Saudade",
+            "Sambanerao",
+            "Pulo do Grilo"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "teixeirinha--o-colono",
+          "trackId": 3256137,
+          "altTrackIds": [
+            391365402,
+            1059292722
+          ],
+          "title": "O Colono",
           "artist": "Teixeirinha",
           "options": [
-            "Ela tornou-se freira",
-            "Morena Rosa",
-            "O xoti é lindo",
-            "Rancho do capivari"
+            "Cortando Estradão",
+            "Valsas Das Flores",
+            "O Colono",
+            "No Ronco do Bugio"
           ],
           "answerIndex": 2
         },
         {
-          "songId": "os-serranos--atorando-um-chote",
-          "trackId": 478323372,
+          "songId": "os-monarcas--bailar-milonga-faz-bem",
+          "trackId": 414494652,
           "altTrackIds": [],
-          "title": "Atorando um Chote",
-          "artist": "Os Serranos",
-          "options": [
-            "VANEIRA GROSSA",
-            "A Primeira Vez",
-            "Atorando um Chote",
-            "Corra Se Puderes"
-          ],
-          "answerIndex": 2
-        },
-        {
-          "songId": "os-monarcas--bem-me-quer",
-          "trackId": 478350212,
-          "altTrackIds": [],
-          "title": "Bem-Me-Quer",
+          "title": "Bailar Milonga Faz Bem",
           "artist": "Os Monarcas",
           "options": [
-            "Eu Não Sou Convencido",
-            "Os de Bota e Bombacha",
-            "Bem-Me-Quer",
-            "Vanera Xucra"
+            "Milonga de Verão",
+            "Milonga de Clarear o Dia",
+            "Bailar Milonga Faz Bem",
+            "Voltando Pra Ser Feliz"
           ],
           "answerIndex": 2
         }
@@ -2837,30 +2840,30 @@
     "2026-11-10": {
       "rounds": [
         {
-          "songId": "os-serranos--doutor-e-domador",
-          "trackId": 1185721022,
+          "songId": "os-monarcas--vanera-largada",
+          "trackId": 478345852,
           "altTrackIds": [],
-          "title": "Doutor e Domador",
-          "artist": "Os Serranos",
+          "title": "Vanera Largada",
+          "artist": "Os Monarcas",
           "options": [
-            "BUGIO DA FRONTEIRA",
-            "MENSAGEM DE SAUDADE",
-            "Rancho do capivari",
-            "Doutor e Domador"
+            "Milonga de Verão",
+            "Milonga Velha Milonga",
+            "Laçador",
+            "Vanera Largada"
           ],
           "answerIndex": 3
         },
         {
-          "songId": "os-monarcas--os-de-bota-e-bombacha",
-          "trackId": 478350222,
+          "songId": "os-serranos--atorando-um-chote",
+          "trackId": 478323372,
           "altTrackIds": [],
-          "title": "Os de Bota e Bombacha",
-          "artist": "Os Monarcas",
+          "title": "Atorando um Chote",
+          "artist": "Os Serranos",
           "options": [
-            "Vanera Xucra",
-            "Os de Bota e Bombacha",
-            "Bem-Me-Quer",
-            "Prece Telúrica"
+            "Recado Pro Patrão",
+            "Atorando um Chote",
+            "Timbre de Galo",
+            "Baile da Serra"
           ],
           "answerIndex": 1
         },
@@ -2879,18 +2882,18 @@
           "answerIndex": 3
         },
         {
-          "songId": "teixeirinha--pedacos-de-mim",
-          "trackId": 4103471,
+          "songId": "renato-borghetti--hospitaleira-vacaria",
+          "trackId": 1727259,
           "altTrackIds": [
-            85027249
+            68839649
           ],
-          "title": "Pedaços de mim",
-          "artist": "Teixeirinha",
+          "title": "Hospitaleira Vacaria",
+          "artist": "Renato Borghetti",
           "options": [
-            "Verde e amarelo",
-            "Pedaços de mim",
-            "A gaita velha do seu Ary",
-            "Promessas do Meu Pai"
+            "Llegada",
+            "Hospitaleira Vacaria",
+            "La Casa del Chamamé",
+            "Fandango Gaúcho"
           ],
           "answerIndex": 1
         },
@@ -2913,30 +2916,33 @@
     "2026-11-11": {
       "rounds": [
         {
-          "songId": "os-monarcas--meu-verso",
-          "trackId": 423228572,
-          "altTrackIds": [],
-          "title": "Meu Verso",
-          "artist": "Os Monarcas",
+          "songId": "os-mirins--meu-nome-e-tche",
+          "trackId": 430320452,
+          "altTrackIds": [
+            448646502,
+            482883722
+          ],
+          "title": "Meu Nome É Tchê!",
+          "artist": "Os Mirins",
           "options": [
-            "Meu Verso",
-            "Pedro no Sapato",
-            "O Gaúcho e o Cavalo",
-            "Fandangueando"
+            "Meu Nome É Tchê!",
+            "Ultima gineteada",
+            "Vanerinha do Namoro",
+            "Vanera Xucra"
           ],
           "answerIndex": 0
         },
         {
-          "songId": "os-serranos--poncho-molhado",
-          "trackId": 588232762,
+          "songId": "os-serranos--mensagem-de-saudade",
+          "trackId": 588232702,
           "altTrackIds": [],
-          "title": "PONCHO MOLHADO",
+          "title": "MENSAGEM DE SAUDADE",
           "artist": "Os Serranos",
           "options": [
-            "Entrando No M'bororé",
-            "PONCHO MOLHADO",
-            "Vira Virou",
-            "BATENDO ÁGUA"
+            "ABRE O FOLE TIO BILIA",
+            "MENSAGEM DE SAUDADE",
+            "Vaneirão Gaúcho",
+            "Entrando No M'bororé"
           ],
           "answerIndex": 1
         },
@@ -2955,31 +2961,32 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-mirins--baralho",
-          "trackId": 3219653761,
-          "altTrackIds": [
-            482886662
-          ],
-          "title": "Baralho",
-          "artist": "Os Mirins",
+          "songId": "os-monarcas--bem-me-quer",
+          "trackId": 478350212,
+          "altTrackIds": [],
+          "title": "Bem-Me-Quer",
+          "artist": "Os Monarcas",
           "options": [
-            "Baralho",
-            "Recanto da Natureza",
-            "Bailar Milonga Faz Bem",
-            "Vanerinha do Namoro"
+            "Bem-Me-Quer",
+            "Eu Não Sou Convencido",
+            "A morte não marca hora",
+            "Milonga de Clarear o Dia"
           ],
           "answerIndex": 0
         },
         {
-          "songId": "renato-borghetti--esbarrando",
-          "trackId": 61443952,
-          "altTrackIds": [],
-          "title": "Esbarrando",
+          "songId": "renato-borghetti--bugio-extraviado",
+          "trackId": 526322102,
+          "altTrackIds": [
+            13620716,
+            16288920
+          ],
+          "title": "Bugio Extraviado",
           "artist": "Renato Borghetti",
           "options": [
-            "Esbarrando",
+            "Bugio Extraviado",
             "Llegada",
-            "Gandaieiro",
+            "Desculpe",
             "Vaneirão Gaúcho"
           ],
           "answerIndex": 0
@@ -2989,6 +2996,36 @@
     "2026-11-12": {
       "rounds": [
         {
+          "songId": "os-mirins--aparpando-os-recavem",
+          "trackId": 448646652,
+          "altTrackIds": [
+            479096042
+          ],
+          "title": "\"Aparpando os Recavém\"",
+          "artist": "Os Mirins",
+          "options": [
+            "La Casa del Chamamé",
+            "\"Aparpando os Recavém\"",
+            "Peão Domador",
+            "No Ronco do Bugio"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-monarcas--milonga-velha-milonga",
+          "trackId": 414540082,
+          "altTrackIds": [],
+          "title": "Milonga Velha Milonga",
+          "artist": "Os Monarcas",
+          "options": [
+            "Milonga de Verão",
+            "Amor de gaúcho",
+            "Milonga Velha Milonga",
+            "O Gaúcho e o Cavalo"
+          ],
+          "answerIndex": 2
+        },
+        {
           "songId": "os-mirins--doce-saudade",
           "trackId": 653031652,
           "altTrackIds": [
@@ -2997,47 +3034,10 @@
           "title": "DOCE SAUDADE",
           "artist": "Os Mirins",
           "options": [
-            "Hospitaleira Vacaria",
             "DOCE SAUDADE",
-            "Vanera Xucra",
-            "Voltando Pra Ser Feliz"
-          ],
-          "answerIndex": 1
-        },
-        {
-          "songId": "renato-borghetti--sambanerao",
-          "trackId": 2989677,
-          "altTrackIds": [
-            17138863,
-            802559712,
-            1643052922,
-            1675693437,
-            3677254132
-          ],
-          "title": "Sambanerao",
-          "artist": "Renato Borghetti",
-          "options": [
-            "Pega Leve",
-            "Recordação",
-            "Sambanerao",
-            "Pulo do Grilo"
-          ],
-          "answerIndex": 2
-        },
-        {
-          "songId": "os-mirins--meu-nome-e-tche",
-          "trackId": 430320452,
-          "altTrackIds": [
-            448646502,
-            482883722
-          ],
-          "title": "Meu Nome É Tchê!",
-          "artist": "Os Mirins",
-          "options": [
-            "Meu Nome É Tchê!",
             "Alma de Guitarra",
-            "Recanto da Natureza",
-            "Baile Da Mariquinha"
+            "Baralho",
+            "ABRE O FOLE TIO BILIA"
           ],
           "answerIndex": 0
         },
@@ -3067,7 +3067,7 @@
             "Rindo à Toa",
             "Segura o tchê!",
             "Sonhando com ela",
-            "Não Chora China Véia"
+            "Morena Rosa"
           ],
           "answerIndex": 1
         }
@@ -3179,18 +3179,15 @@
           "answerIndex": 0
         },
         {
-          "songId": "gaucho-da-fronteira--paixao-ingrata",
-          "trackId": 3485035421,
-          "altTrackIds": [
-            725959472,
-            732965572
-          ],
-          "title": "Paixão ingrata",
+          "songId": "gaucho-da-fronteira--pai-celestial",
+          "trackId": 1420111,
+          "altTrackIds": [],
+          "title": "Pai Celestial",
           "artist": "Gaúcho da Fronteira",
           "options": [
             "Querência Amada",
-            "Paixão ingrata",
-            "Mercedita",
+            "Pai Celestial",
+            "Recordação",
             "A gaita velha do seu Ary"
           ],
           "answerIndex": 1
@@ -3537,15 +3534,18 @@
           "answerIndex": 3
         },
         {
-          "songId": "gaucho-da-fronteira--quando-danco-um-vanerao",
-          "trackId": 1420085,
-          "altTrackIds": [],
-          "title": "Quando Danço Um Vanerão",
+          "songId": "gaucho-da-fronteira--paixao-ingrata",
+          "trackId": 3485035421,
+          "altTrackIds": [
+            725959472,
+            732965572
+          ],
+          "title": "Paixão ingrata",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Baile da Serra",
-            "Churrasco na Brasa",
-            "Quando Danço Um Vanerão",
+            "Atorando um Chote",
+            "Herdeiro da pampa pobre",
+            "Paixão ingrata",
             "Tão pedindo um vanerão"
           ],
           "answerIndex": 2
@@ -3715,7 +3715,7 @@
           "options": [
             "Lambendo Espoleta",
             "Balança Brasil",
-            "Crime de amor",
+            "Ela tornou-se freira",
             "A Sanga Da Vizinha"
           ],
           "answerIndex": 3
@@ -3769,16 +3769,18 @@
           "answerIndex": 1
         },
         {
-          "songId": "gaucho-da-fronteira--pai-celestial",
-          "trackId": 1420111,
-          "altTrackIds": [],
-          "title": "Pai Celestial",
+          "songId": "gaucho-da-fronteira--nheco-vari-nheco-fun",
+          "trackId": 732965652,
+          "altTrackIds": [
+            725922102
+          ],
+          "title": "Nheco Vari Nheco Fun",
           "artist": "Gaúcho da Fronteira",
           "options": [
+            "Nheco Vari Nheco Fun",
             "Pai Celestial",
             "Forronerão",
-            "Querência Amada",
-            "Cobra sucuri"
+            "Amor de gaúcho"
           ],
           "answerIndex": 0
         },
@@ -3797,18 +3799,16 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-monarcas--sonhando-na-vaneira",
-          "trackId": 1815710817,
-          "altTrackIds": [
-            428454242
-          ],
-          "title": "Sonhando na Vaneira",
+          "songId": "os-monarcas--santuario-de-xucros",
+          "trackId": 428454412,
+          "altTrackIds": [],
+          "title": "Santuário de Xucros",
           "artist": "Os Monarcas",
           "options": [
-            "Merceditas",
-            "Vai Que Vai",
-            "Sonhando na Vaneira",
-            "Sistema Antigo"
+            "Bugio Extraviado",
+            "Sonhando Na Vanera",
+            "Santuário de Xucros",
+            "Mãos"
           ],
           "answerIndex": 2
         }
@@ -3831,16 +3831,18 @@
           "answerIndex": 3
         },
         {
-          "songId": "gaucho-da-fronteira--recado-pro-patrao",
-          "trackId": 1420179,
-          "altTrackIds": [],
-          "title": "Recado Pro Patrão",
+          "songId": "gaucho-da-fronteira--querencia-amada",
+          "trackId": 732965672,
+          "altTrackIds": [
+            725920712
+          ],
+          "title": "Querência Amada",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Campeiro do Rio Grande",
+            "Eu Não Sou Convencido",
+            "Recordação",
             "Não Aperta Aparicio",
-            "A Utilidade do Dedo",
-            "Recado Pro Patrão"
+            "Querência Amada"
           ],
           "answerIndex": 3
         },
@@ -3875,16 +3877,16 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-monarcas--vanera-largada",
-          "trackId": 478345852,
+          "songId": "os-monarcas--vaneira-grossa",
+          "trackId": 428454272,
           "altTrackIds": [],
-          "title": "Vanera Largada",
+          "title": "Vaneira Grossa",
           "artist": "Os Monarcas",
           "options": [
-            "Bailar Milonga Faz Bem",
-            "Vanera Largada",
-            "Santuário de Xucros",
-            "Show no céu"
+            "Gineteando o Temporal",
+            "Vaneira Grossa",
+            "Brasil de Bombacha",
+            "Tropeiro Velho"
           ],
           "answerIndex": 1
         }
@@ -3893,19 +3895,16 @@
     "2026-11-23": {
       "rounds": [
         {
-          "songId": "gaucho-da-fronteira--nheco-vari-nheco-fum",
-          "trackId": 3589781451,
-          "altTrackIds": [
-            9054772,
-            3539486291
-          ],
-          "title": "Nheco Vari, Nheco Fum",
+          "songId": "gaucho-da-fronteira--nao-aperta-aparicio",
+          "trackId": 1420236,
+          "altTrackIds": [],
+          "title": "Não Aperta Aparicio",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "Nheco Vari, Nheco Fum",
-            "Vanerinha do Namoro",
-            "Rindo à Toa",
-            "Autilidade Do Dedo"
+            "Não Aperta Aparicio",
+            "Vanera Xucra",
+            "Forronerão",
+            "Pai Celestial"
           ],
           "answerIndex": 0
         },
@@ -4123,7 +4122,7 @@
           "options": [
             "Autilidade Do Dedo",
             "VANEIRA GROSSA",
-            "Sonhando com ela",
+            "Desculpe",
             "Segura o tchê!"
           ],
           "answerIndex": 0
@@ -4150,15 +4149,15 @@
           "answerIndex": 1
         },
         {
-          "songId": "gaucho-da-fronteira--sonhando-com-ela",
-          "trackId": 3498383751,
+          "songId": "gaucho-da-fronteira--rindo-a-toa",
+          "trackId": 1390554262,
           "altTrackIds": [],
-          "title": "Sonhando com ela",
+          "title": "Rindo à Toa",
           "artist": "Gaúcho da Fronteira",
           "options": [
             "Desculpe",
             "Tradição Gaúcha",
-            "Sonhando com ela",
+            "Rindo à Toa",
             "BUGIO DA FRONTEIRA"
           ],
           "answerIndex": 2
@@ -4259,16 +4258,18 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-monarcas--sonhando-na-vanera",
-          "trackId": 425695102,
-          "altTrackIds": [],
-          "title": "Sonhando Na Vanera",
+          "songId": "os-monarcas--sonhando-na-vaneira",
+          "trackId": 1815710817,
+          "altTrackIds": [
+            428454242
+          ],
+          "title": "Sonhando na Vaneira",
           "artist": "Os Monarcas",
           "options": [
-            "Prece Telúrica",
-            "BOMBACHUDO",
-            "Milonga de Clarear o Dia",
-            "Sonhando Na Vanera"
+            "Vai Que Vai",
+            "ME COMPARANDO AO RIO GRANDE",
+            "Sistema Antigo",
+            "Sonhando na Vaneira"
           ],
           "answerIndex": 3
         },
@@ -4353,18 +4354,16 @@
           "answerIndex": 2
         },
         {
-          "songId": "gaucho-da-fronteira--querencia-amada",
-          "trackId": 732965672,
-          "altTrackIds": [
-            725920712
-          ],
-          "title": "Querência Amada",
+          "songId": "gaucho-da-fronteira--recado-pro-patrao",
+          "trackId": 1420179,
+          "altTrackIds": [],
+          "title": "Recado Pro Patrão",
           "artist": "Gaúcho da Fronteira",
           "options": [
-            "No Império das Estâncias",
-            "Querência Amada",
-            "Paixão ingrata",
-            "Herdeiro da pampa pobre"
+            "Os de Bota e Bombacha",
+            "Recado Pro Patrão",
+            "Mercedita",
+            "A Conquista Do Oeste"
           ],
           "answerIndex": 1
         }
@@ -4485,34 +4484,32 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-monarcas--aquerenciado",
-          "trackId": 428454422,
-          "altTrackIds": [
-            425695132
-          ],
-          "title": "Aquerenciado",
+          "songId": "os-monarcas--rancheira-puladinha",
+          "trackId": 428454322,
+          "altTrackIds": [],
+          "title": "Rancheira Puladinha",
           "artist": "Os Monarcas",
           "options": [
-            "Sonhando Na Vanera",
+            "Aquerenciado",
             "Espero ser feliz",
-            "Campeiro do Rio Grande",
-            "Aquerenciado"
+            "Prece Telúrica",
+            "Rancheira Puladinha"
           ],
           "answerIndex": 3
         },
         {
-          "songId": "os-mirins--no-ronco-do-bugio",
-          "trackId": 3217998081,
+          "songId": "os-mirins--vanerinha-do-namoro",
+          "trackId": 1780643827,
           "altTrackIds": [
-            479095982
+            3550753591
           ],
-          "title": "No Ronco do Bugio",
+          "title": "Vanerinha do Namoro",
           "artist": "Os Mirins",
           "options": [
-            "BOMBACHUDO",
-            "Peão Domador",
-            "No Ronco do Bugio",
-            "Meu velho pai"
+            "TICO TICO NO FUBÁ",
+            "Peão Campeiro",
+            "Vanerinha do Namoro",
+            "Ela tornou-se freira"
           ],
           "answerIndex": 2
         },
@@ -4538,16 +4535,16 @@
     "2026-12-01": {
       "rounds": [
         {
-          "songId": "os-mirins--promessas-do-meu-pai",
-          "trackId": 482886582,
+          "songId": "os-mirins--peao-campeiro",
+          "trackId": 519193222,
           "altTrackIds": [],
-          "title": "Promessas do Meu Pai",
+          "title": "Peão Campeiro",
           "artist": "Os Mirins",
           "options": [
-            "Mates de Saudade",
-            "Os de Bota e Bombacha",
-            "Baile de Candieiro",
-            "Promessas do Meu Pai"
+            "1barbaridade",
+            "Milonga Velha Milonga",
+            "DOCE SAUDADE",
+            "Peão Campeiro"
           ],
           "answerIndex": 3
         },
@@ -4668,16 +4665,18 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-monarcas--bailar-milonga-faz-bem",
-          "trackId": 414494652,
-          "altTrackIds": [],
-          "title": "Bailar Milonga Faz Bem",
+          "songId": "os-monarcas--aquerenciado",
+          "trackId": 428454422,
+          "altTrackIds": [
+            425695132
+          ],
+          "title": "Aquerenciado",
           "artist": "Os Monarcas",
           "options": [
-            "Bailar Milonga Faz Bem",
-            "Vanera Largada",
-            "Meu Verso",
-            "Quem Vem Lá da Minha Terra"
+            "Aquerenciado",
+            "Os de Bota e Bombacha",
+            "Campeiro do Rio Grande",
+            "Vanera Véia Baguala"
           ],
           "answerIndex": 0
         },
@@ -4777,16 +4776,16 @@
     "2026-12-04": {
       "rounds": [
         {
-          "songId": "os-monarcas--santuario-de-xucros",
-          "trackId": 428454412,
+          "songId": "os-monarcas--sonhando-na-vanera",
+          "trackId": 425695102,
           "altTrackIds": [],
-          "title": "Santuário de Xucros",
+          "title": "Sonhando Na Vanera",
           "artist": "Os Monarcas",
           "options": [
+            "Vanera Largada",
+            "Sonhando Na Vanera",
             "Prece Telúrica",
-            "Santuário de Xucros",
-            "Milonga de Verão",
-            "Rindo à Toa"
+            "Recado Pro Patrão"
           ],
           "answerIndex": 1
         },
@@ -4827,18 +4826,18 @@
           "answerIndex": 3
         },
         {
-          "songId": "os-mirins--vanera-xucra",
-          "trackId": 1780643837,
+          "songId": "os-mirins--vaneirinha-da-saudade",
+          "trackId": 430320432,
           "altTrackIds": [
-            3550753691
+            482886542
           ],
-          "title": "Vanera Xucra",
+          "title": "Vaneirinha da Saudade",
           "artist": "Os Mirins",
           "options": [
-            "DOCE SAUDADE",
-            "Peão Campeiro",
-            "Vanera Xucra",
-            "Sonhando Na Vanera"
+            "Ha Ha Haia Lagartixa Baia",
+            "ME COMPARANDO AO RIO GRANDE",
+            "Vaneirinha da Saudade",
+            "Cheiro de Galpão"
           ],
           "answerIndex": 2
         },
@@ -4884,18 +4883,18 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-mirins--vanerinha-do-namoro",
-          "trackId": 1780643827,
+          "songId": "os-mirins--vanera-xucra",
+          "trackId": 1780643837,
           "altTrackIds": [
-            3550753591
+            3550753691
           ],
-          "title": "Vanerinha do Namoro",
+          "title": "Vanera Xucra",
           "artist": "Os Mirins",
           "options": [
-            "Rancho E Cerca De Pedra",
+            "Sambanerao",
             "Meu Nome É Tchê!",
-            "Vanerinha do Namoro",
-            "TICO TICO NO FUBÁ"
+            "Vanera Xucra",
+            "Peão Domador"
           ],
           "answerIndex": 2
         },
@@ -4928,19 +4927,16 @@
           "answerIndex": 0
         },
         {
-          "songId": "teixeirinha--o-colono",
-          "trackId": 3256137,
-          "altTrackIds": [
-            391365402,
-            1059292722
-          ],
-          "title": "O Colono",
+          "songId": "teixeirinha--o-xoti-e-lindo",
+          "trackId": 4103473,
+          "altTrackIds": [],
+          "title": "O xoti é lindo",
           "artist": "Teixeirinha",
           "options": [
-            "Pedaços de mim",
-            "O Colono",
-            "BUGIO NOVO",
-            "Cobra sucuri"
+            "Briga no batizado",
+            "O xoti é lindo",
+            "Ginete de Fronteira",
+            "A Volta Do Tordilho Negro"
           ],
           "answerIndex": 1
         }

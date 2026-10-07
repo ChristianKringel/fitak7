@@ -819,7 +819,7 @@
           "options": [
             "Vai T. Q. Dá",
             "Cleptomaníaca de Corações",
-            "Patê",
+            "Mixto Quente",
             "Lili"
           ],
           "answerIndex": 1
@@ -974,7 +974,7 @@
           "title": "O Bagulho É um Veneno",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
-            "Pra Gente Passear",
+            "Rock and Roll Lullaby",
             "Cnj",
             "O Bagulho É um Veneno",
             "Quero Te Levar"
@@ -1063,7 +1063,7 @@
           "title": "Eu Digo 7",
           "artist": "Graforréia Xilarmônica",
           "options": [
-            "Mixto Quente",
+            "Eu Gostaria de Matar os Dois",
             "Eu Pensei",
             "Eu Digo 7",
             "Empregada"
@@ -1160,7 +1160,7 @@
             "Beethoven",
             "Benga Minueto",
             "Minha Picardia",
-            "Fazê a Cabeça"
+            "Cowboy (Pesadão)"
           ],
           "answerIndex": 0
         },
@@ -1369,16 +1369,16 @@
     "2026-10-22": {
       "rounds": [
         {
-          "songId": "graforreia-xilarmonica--empregada",
-          "trackId": 982399982,
+          "songId": "graforreia-xilarmonica--colegio-interno",
+          "trackId": 1076682502,
           "altTrackIds": [],
-          "title": "Empregada",
+          "title": "Colégio Interno",
           "artist": "Graforréia Xilarmônica",
           "options": [
-            "Baby",
             "Tive Teu Nome",
-            "Interligado",
-            "Empregada"
+            "Twist",
+            "Hey, Amigo!",
+            "Colégio Interno"
           ],
           "answerIndex": 3
         },
@@ -1933,7 +1933,7 @@
           "artist": "Cachorro Grande",
           "options": [
             "Longa-Metragem",
-            "Pet Sematary",
+            "Oba Oba",
             "Situação Dramática",
             "Eu Pensei"
           ],
@@ -1964,25 +1964,23 @@
     "2026-10-29": {
       "rounds": [
         {
-          "songId": "nenhum-de-nos--voce-vai-lembrar-de-mim",
-          "trackId": 1379588922,
+          "songId": "nenhum-de-nos--vou-deixar-que-voce-se-va",
+          "trackId": 1672800,
           "altTrackIds": [
-            678053982,
-            1032625462,
-            1132216752,
-            1509945762,
-            1509997752,
-            2572100982,
-            2572101032,
-            4139165471
+            106042421,
+            678054012,
+            1032625572,
+            1509945792,
+            1509997882,
+            1510007962
           ],
-          "title": "Você Vai Lembrar De Mim",
+          "title": "Vou Deixar Que Você Se Vá",
           "artist": "Nenhum de Nós",
           "options": [
-            "Você Vai Lembrar De Mim",
+            "Vou Deixar Que Você Se Vá",
             "Julho de 83",
-            "O Astronauta de Mármore (Starman)",
-            "Eu Sei"
+            "Fuga",
+            "Ela Vai Passar"
           ],
           "answerIndex": 0
         },
@@ -1995,7 +1993,7 @@
           "options": [
             "Pensando Nela",
             "Iluminados Monstros do Amor",
-            "Mixto Quente",
+            "Meus Dois Amigos",
             "Calor Da Hora"
           ],
           "answerIndex": 1
@@ -2040,7 +2038,7 @@
             "Hard-Core",
             "África do Sul",
             "Tom & Jerry",
-            "O Amor Se Escondeu"
+            "Pet Sematary"
           ],
           "answerIndex": 0
         }
@@ -2443,7 +2441,7 @@
           "artist": "Graforréia Xilarmônica",
           "options": [
             "Minha Picardia",
-            "Perfeita Simetria",
+            "Pose",
             "Patê",
             "Eu Digo 7"
           ],
@@ -2734,9 +2732,9 @@
           "artist": "Papas da Língua",
           "options": [
             "Falar De Amor",
-            "Daqui Pra Frente",
-            "Eu Quero É Botar Meu Bloco na Rua",
-            "Pra Gente Passear"
+            "Desse Jeito",
+            "Pra Gente Passear",
+            "Garotas do Brasil"
           ],
           "answerIndex": 0
         }
@@ -2751,7 +2749,7 @@
           "title": "Benga Velha Companheira",
           "artist": "Graforréia Xilarmônica",
           "options": [
-            "Se Você Não Quis",
+            "Fulvio Sillas",
             "Benga Velha Companheira",
             "Tudo É Preza!",
             "Se Arrependimento Matasse"
@@ -2816,9 +2814,9 @@
           "artist": "Papas da Língua",
           "options": [
             "Falar De Amor",
-            "Pó De Pimenta",
+            "Demais Amor!",
             "Pet Sematary",
-            "Desse Jeito"
+            "Bicho Esquisito"
           ],
           "answerIndex": 2
         }
@@ -3140,18 +3138,25 @@
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--um-girassol-da-cor-do-seu-cabelo",
-          "trackId": 1492991852,
+          "songId": "nenhum-de-nos--voce-vai-lembrar-de-mim",
+          "trackId": 1379588922,
           "altTrackIds": [
-            1032625492
+            678053982,
+            1032625462,
+            1132216752,
+            1509945762,
+            1509997752,
+            2572100982,
+            2572101032,
+            4139165471
           ],
-          "title": "Um Girassol Da Cor Do Seu Cabelo",
+          "title": "Você Vai Lembrar De Mim",
           "artist": "Nenhum de Nós",
           "options": [
             "Amanhã ou Depois",
-            "Só Mais Uma Chance (Pin-Up)",
-            "Um Girassol Da Cor Do Seu Cabelo",
-            "O Astronauta de Mármore"
+            "A Verdadeira Corrida Espacial",
+            "Você Vai Lembrar De Mim",
+            "Camila, Camila"
           ],
           "answerIndex": 2
         },
@@ -3214,9 +3219,9 @@
           "artist": "Papas da Língua",
           "options": [
             "Soninho",
-            "Garotas do Brasil",
+            "Pra Gente Passear",
             "O Amor Se Escondeu",
-            "Pra Gente Passear"
+            "Falar De Amor"
           ],
           "answerIndex": 2
         },
@@ -3285,15 +3290,15 @@
           "answerIndex": 3
         },
         {
-          "songId": "tnt--me-da-o-cigarro",
-          "trackId": 685317542,
+          "songId": "tnt--nao-quero-mais-te-ver",
+          "trackId": 685317552,
           "altTrackIds": [],
-          "title": "Me Dá O Cigarro",
+          "title": "Não Quero Mais Te Ver",
           "artist": "TNT",
           "options": [
-            "Paz no Seu Coração",
+            "Desse Jeito",
             "Benga Velha Companheira",
-            "Me Dá O Cigarro",
+            "Não Quero Mais Te Ver",
             "Não Tenho Medo da Vida"
           ],
           "answerIndex": 2
@@ -3434,7 +3439,7 @@
           "artist": "Bidê ou Balde",
           "options": [
             "A-Há",
-            "Pó De Pimenta",
+            "Pra Gente Passear",
             "O Antipático",
             "Vamos para uma Excursão"
           ],
@@ -3501,7 +3506,7 @@
             "O Que Você Tem",
             "Lili",
             "Vai T. Q. Dá",
-            "Pet Sematary"
+            "Pra Gente Passear"
           ],
           "answerIndex": 2
         }
@@ -3526,27 +3531,18 @@
           "answerIndex": 3
         },
         {
-          "songId": "nenhum-de-nos--camila-camila",
-          "trackId": 14272468,
+          "songId": "nenhum-de-nos--danca-do-tempo",
+          "trackId": 703676062,
           "altTrackIds": [
-            141340521,
-            142336499,
-            142336517,
-            142336519,
-            142336521,
-            142336523,
-            678053992,
-            1509945772,
-            1509997742,
-            2572100972
+            1509997732
           ],
-          "title": "Camila, Camila",
+          "title": "Dança do Tempo",
           "artist": "Nenhum de Nós",
           "options": [
-            "Sobre o Tempo",
-            "O Astronauta de Mármore (Starman)",
-            "Bromélias",
-            "Camila, Camila"
+            "Duas Metades",
+            "Eu N¦o Entendo",
+            "Dulci",
+            "Dança do Tempo"
           ],
           "answerIndex": 3
         },
@@ -3628,23 +3624,18 @@
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--vou-deixar-que-voce-se-va",
-          "trackId": 1672800,
+          "songId": "nenhum-de-nos--um-girassol-da-cor-do-seu-cabelo",
+          "trackId": 1492991852,
           "altTrackIds": [
-            106042421,
-            678054012,
-            1032625572,
-            1509945792,
-            1509997882,
-            1510007962
+            1032625492
           ],
-          "title": "Vou Deixar Que Você Se Vá",
+          "title": "Um Girassol Da Cor Do Seu Cabelo",
           "artist": "Nenhum de Nós",
           "options": [
-            "Pensando Nela",
-            "Vou Deixar Que Você Se Vá",
-            "Eu não entendo",
-            "Fuga"
+            "Rancho",
+            "Um Girassol Da Cor Do Seu Cabelo",
+            "Julho de 83",
+            "Eu não entendo"
           ],
           "answerIndex": 1
         },
@@ -3665,14 +3656,14 @@
           "answerIndex": 3
         },
         {
-          "songId": "papas-da-lingua--no-calor-da-hora",
-          "trackId": 4106349101,
+          "songId": "papas-da-lingua--musica-para-dancar",
+          "trackId": 723079812,
           "altTrackIds": [],
-          "title": "No Calor Da Hora",
+          "title": "Música para Dançar",
           "artist": "Papas da Língua",
           "options": [
-            "No Calor Da Hora",
-            "Espelho Meu",
+            "Música para Dançar",
+            "Demais Amor!",
             "Pet Sematary",
             "Paz no Seu Coração"
           ],
@@ -3704,9 +3695,9 @@
           "artist": "Graforréia Xilarmônica",
           "options": [
             "Mixto Quente",
-            "Chernobil",
-            "Se Arrependimento Matasse",
-            "Baby"
+            "Amor Eu Preciso",
+            "Beethoven",
+            "Minha Picardia"
           ],
           "answerIndex": 0
         },
@@ -3773,10 +3764,10 @@
           "title": "Espelho Meu",
           "artist": "Papas da Língua",
           "options": [
-            "Mary Jane (Essa Mulher É o Diabo)",
+            "Pó De Pimenta",
             "Espelho Meu",
-            "Rock and Roll Lullaby",
-            "Jornais"
+            "Mary Jane (Essa Mulher É o Diabo)",
+            "Noticia Boa"
           ],
           "answerIndex": 1
         }
@@ -4091,16 +4082,19 @@
           "answerIndex": 0
         },
         {
-          "songId": "bide-ou-balde--tudo-e-preza",
-          "trackId": 111728714,
-          "altTrackIds": [],
-          "title": "Tudo É Preza!",
-          "artist": "Bidê ou Balde",
+          "songId": "cachorro-grande--dance-agora",
+          "trackId": 96004574,
+          "altTrackIds": [
+            96189298,
+            99053754
+          ],
+          "title": "Dance Agora",
+          "artist": "Cachorro Grande",
           "options": [
-            "Tudo Funcionando Direito",
             "Novo Super-Herói",
-            "Tudo É Preza!",
-            "Madonna"
+            "Benga Velha Companheira",
+            "Dance Agora",
+            "Eu Pensei"
           ],
           "answerIndex": 2
         },
@@ -4125,16 +4119,16 @@
           "answerIndex": 3
         },
         {
-          "songId": "graforreia-xilarmonica--amigo-punk",
-          "trackId": 982400022,
+          "songId": "graforreia-xilarmonica--benga-minueto",
+          "trackId": 1076682512,
           "altTrackIds": [],
-          "title": "Amigo Punk",
+          "title": "Benga Minueto",
           "artist": "Graforréia Xilarmônica",
           "options": [
-            "Amigo Punk",
-            "Eu",
-            "Sandina",
-            "Nunca Diga"
+            "Benga Minueto",
+            "Minha Picardia",
+            "Papel de mau",
+            "Benga na América Central"
           ],
           "answerIndex": 0
         }
@@ -4143,16 +4137,16 @@
     "2026-11-23": {
       "rounds": [
         {
-          "songId": "tnt--nao-quero-mais-te-ver",
-          "trackId": 685317552,
+          "songId": "tnt--me-da-o-cigarro",
+          "trackId": 685317542,
           "altTrackIds": [],
-          "title": "Não Quero Mais Te Ver",
+          "title": "Me Dá O Cigarro",
           "artist": "TNT",
           "options": [
-            "Interligado",
-            "Estou Louco por Você",
+            "Fantasmas",
             "Não Quero Mais Te Ver",
-            "Liga Essa Bomba"
+            "Me Dá O Cigarro",
+            "Estou Louco por Você"
           ],
           "answerIndex": 2
         },
@@ -4170,22 +4164,24 @@
           "artist": "Papas da Língua",
           "options": [
             "Surfando Karmas & DNA",
-            "Garotas do Brasil",
+            "Espelho Meu",
             "Pingos de Amor",
             "Pó De Pimenta"
           ],
           "answerIndex": 3
         },
         {
-          "songId": "engenheiros-do-hawaii--armas-quimicas-e-poemas",
-          "trackId": 685828392,
-          "altTrackIds": [],
-          "title": "Armas Químicas E Poemas",
+          "songId": "engenheiros-do-hawaii--dom-quixote",
+          "trackId": 4682240,
+          "altTrackIds": [
+            685828432
+          ],
+          "title": "Dom Quixote",
           "artist": "Engenheiros do Hawaii",
           "options": [
             "Vida Real",
-            "Toda Forma De Poder",
-            "Armas Químicas E Poemas",
+            "Até O Fim",
+            "Dom Quixote",
             "Back To Quinze"
           ],
           "answerIndex": 2
@@ -4205,16 +4201,16 @@
           "answerIndex": 3
         },
         {
-          "songId": "graforreia-xilarmonica--colegio-interno",
-          "trackId": 1076682502,
+          "songId": "graforreia-xilarmonica--empregada",
+          "trackId": 982399982,
           "altTrackIds": [],
-          "title": "Colégio Interno",
+          "title": "Empregada",
           "artist": "Graforréia Xilarmônica",
           "options": [
-            "Colégio Interno",
-            "Twist",
-            "Me Envergonha",
-            "Baby"
+            "Empregada",
+            "Patê",
+            "Spaceball",
+            "Iluminados Monstros do Amor"
           ],
           "answerIndex": 0
         }
@@ -4237,19 +4233,16 @@
           "answerIndex": 1
         },
         {
-          "songId": "cachorro-grande--dance-agora",
-          "trackId": 96004574,
-          "altTrackIds": [
-            96189298,
-            99053754
-          ],
-          "title": "Dance Agora",
-          "artist": "Cachorro Grande",
+          "songId": "bide-ou-balde--tudo-e-preza",
+          "trackId": 111728714,
+          "altTrackIds": [],
+          "title": "Tudo É Preza!",
+          "artist": "Bidê ou Balde",
           "options": [
-            "Dance Agora",
-            "Ningém Mais Lembra de Você",
-            "Roda-Gigante",
-            "Tecla Sap 23"
+            "Tudo É Preza!",
+            "Vamos Passar a Noite de Galera '16",
+            "Hollywood #52",
+            "Paraíso"
           ],
           "answerIndex": 0
         },
@@ -4280,27 +4273,30 @@
           "artist": "Os Replicantes",
           "options": [
             "O Banco",
-            "No Calor Da Hora",
+            "Pensando Nela",
             "Amor Eu Preciso",
             "Rock Star"
           ],
           "answerIndex": 0
         },
         {
-          "songId": "engenheiros-do-hawaii--eu-que-nao-amo-voce",
-          "trackId": 305049561,
+          "songId": "engenheiros-do-hawaii--o-exercito-de-um-homem-so-i",
+          "trackId": 13252211,
           "altTrackIds": [
-            137542413,
-            411541372,
-            685828662
+            13310071,
+            70086916,
+            122316404,
+            122316496,
+            1564486112,
+            1564488372
           ],
-          "title": "Eu Que Não Amo Você",
+          "title": "O Exército De Um Homem Só, I",
           "artist": "Engenheiros do Hawaii",
           "options": [
-            "Amazônia X Colômbia",
-            "Depois De Nós",
-            "Eu Que Não Amo Você",
-            "Perfeita Simetria"
+            "Chuva nas Calcinha",
+            "De Fé",
+            "O Exército De Um Homem Só, I",
+            "A Revolta Dos Dândis Pt. 1"
           ],
           "answerIndex": 2
         }
@@ -4395,23 +4391,20 @@
     "2026-11-26": {
       "rounds": [
         {
-          "songId": "engenheiros-do-hawaii--o-exercito-de-um-homem-so-i",
-          "trackId": 13252211,
+          "songId": "engenheiros-do-hawaii--eu-que-nao-amo-voce",
+          "trackId": 305049561,
           "altTrackIds": [
-            13310071,
-            70086916,
-            122316404,
-            122316496,
-            1564486112,
-            1564488372
+            137542413,
+            411541372,
+            685828662
           ],
-          "title": "O Exército De Um Homem Só, I",
+          "title": "Eu Que Não Amo Você",
           "artist": "Engenheiros do Hawaii",
           "options": [
-            "O Exército De Um Homem Só, I",
-            "Anoiteceu Em Porto Alegre",
-            "A Revolta Dos Dandis Part I",
-            "Jornais"
+            "Eu Que Não Amo Você",
+            "Pose",
+            "A Revolta Dos Dândis Pt. 1",
+            "Fuga"
           ],
           "answerIndex": 0
         },
@@ -4435,21 +4428,27 @@
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--fuga",
-          "trackId": 16988525,
+          "songId": "nenhum-de-nos--camila-camila",
+          "trackId": 14272468,
           "altTrackIds": [
-            142337039,
-            433201462,
-            1032625582,
-            4139165491
+            141340521,
+            142336499,
+            142336517,
+            142336519,
+            142336521,
+            142336523,
+            678053992,
+            1509945772,
+            1509997742,
+            2572100972
           ],
-          "title": "Fuga",
+          "title": "Camila, Camila",
           "artist": "Nenhum de Nós",
           "options": [
-            "Dance Agora",
-            "Eu N¦o Entendo",
-            "Canção Da Meia Noite",
-            "Fuga"
+            "Sinceramente",
+            "O Astronauta de Mármore (Starman)",
+            "Amanhã ou Depois",
+            "Camila, Camila"
           ],
           "answerIndex": 3
         },
@@ -4468,21 +4467,16 @@
           "answerIndex": 3
         },
         {
-          "songId": "comunidade-nin-jitsu--rap-do-trago",
-          "trackId": 1094177362,
-          "altTrackIds": [
-            1103240912,
-            1120517412,
-            1120517462,
-            2635444752
-          ],
-          "title": "Rap do Trago",
-          "artist": "Comunidade Nin-Jitsu",
+          "songId": "graforreia-xilarmonica--amigo-punk",
+          "trackId": 982400022,
+          "altTrackIds": [],
+          "title": "Amigo Punk",
+          "artist": "Graforréia Xilarmônica",
           "options": [
-            "Borracho Y Loco",
-            "Você Não Sabe o Que Perdeu",
-            "Toda Molhada (Casa do Sol)",
-            "Rap do Trago"
+            "Bagaceiro Chinelão",
+            "Astronauta",
+            "Eu",
+            "Amigo Punk"
           ],
           "answerIndex": 3
         }
@@ -4491,18 +4485,21 @@
     "2026-11-27": {
       "rounds": [
         {
-          "songId": "nenhum-de-nos--danca-do-tempo",
-          "trackId": 703676062,
+          "songId": "nenhum-de-nos--fuga",
+          "trackId": 16988525,
           "altTrackIds": [
-            1509997732
+            142337039,
+            433201462,
+            1032625582,
+            4139165491
           ],
-          "title": "Dança do Tempo",
+          "title": "Fuga",
           "artist": "Nenhum de Nós",
           "options": [
-            "Eu N¦o Entendo",
-            "Amigo Punk",
-            "Dança do Tempo",
-            "Das Coisas Que Eu Entendo"
+            "Das Coisas Que Eu Entendo",
+            "Amazônia X Colômbia",
+            "Fuga",
+            "Dança do Tempo"
           ],
           "answerIndex": 2
         },
@@ -4542,18 +4539,16 @@
           "answerIndex": 2
         },
         {
-          "songId": "engenheiros-do-hawaii--dom-quixote",
-          "trackId": 4682240,
-          "altTrackIds": [
-            685828432
-          ],
-          "title": "Dom Quixote",
+          "songId": "engenheiros-do-hawaii--armas-quimicas-e-poemas",
+          "trackId": 685828392,
+          "altTrackIds": [],
+          "title": "Armas Químicas E Poemas",
           "artist": "Engenheiros do Hawaii",
           "options": [
-            "Piano Bar",
-            "Identidade Zero",
-            "Pra Ser Sincero",
-            "Dom Quixote"
+            "Pose",
+            "Não Quero Mais Te Ver",
+            "O Papa é Pop",
+            "Armas Químicas E Poemas"
           ],
           "answerIndex": 3
         },
@@ -4590,36 +4585,6 @@
           "answerIndex": 0
         },
         {
-          "songId": "graforreia-xilarmonica--benga-minueto",
-          "trackId": 1076682512,
-          "altTrackIds": [],
-          "title": "Benga Minueto",
-          "artist": "Graforréia Xilarmônica",
-          "options": [
-            "Os Cegos Também Vão ao Cinema",
-            "Benga na América Central",
-            "Beethoven",
-            "Benga Minueto"
-          ],
-          "answerIndex": 3
-        },
-        {
-          "songId": "papas-da-lingua--eu-quero-e-botar-meu-bloco-na-rua",
-          "trackId": 66342249,
-          "altTrackIds": [
-            4034238801
-          ],
-          "title": "Eu Quero É Botar Meu Bloco na Rua",
-          "artist": "Papas da Língua",
-          "options": [
-            "Eu Quero É Botar Meu Bloco na Rua",
-            "Sexo E Violência",
-            "Pó De Pimenta",
-            "Pra Gente Passear"
-          ],
-          "answerIndex": 0
-        },
-        {
           "songId": "engenheiros-do-hawaii--alivio-imediato",
           "trackId": 72290893,
           "altTrackIds": [
@@ -4637,10 +4602,45 @@
           "title": "Alívio Imediato",
           "artist": "Engenheiros do Hawaii",
           "options": [
-            "Censor",
-            "A Revolta Dos Dândis Pt. 1",
+            "A Cigana",
             "Outras Freqüências",
+            "Negro Amor",
             "Alívio Imediato"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "papas-da-lingua--eu-quero-e-botar-meu-bloco-na-rua",
+          "trackId": 66342249,
+          "altTrackIds": [
+            4034238801
+          ],
+          "title": "Eu Quero É Botar Meu Bloco na Rua",
+          "artist": "Papas da Língua",
+          "options": [
+            "Eu Quero É Botar Meu Bloco na Rua",
+            "Sexo E Violência",
+            "Pó De Pimenta",
+            "Balada Do Amor Perdido"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--rap-do-trago",
+          "trackId": 1094177362,
+          "altTrackIds": [
+            1103240912,
+            1120517412,
+            1120517462,
+            2635444752
+          ],
+          "title": "Rap do Trago",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Festa Punk",
+            "Toda Molhada",
+            "Detetive",
+            "Rap do Trago"
           ],
           "answerIndex": 3
         },
@@ -4675,7 +4675,7 @@
           "title": "Mary Jane",
           "artist": "Papas da Língua",
           "options": [
-            "Pet Sematary",
+            "Calor Da Hora",
             "Iluminados Monstros do Amor",
             "Mary Jane",
             "Vou Ligar"
@@ -4737,9 +4737,9 @@
           "artist": "Graforréia Xilarmônica",
           "options": [
             "Se Você Não Quis",
-            "Benga Velha Companheira",
+            "Benga na América Central",
             "Tão Diferente",
-            "Benga na América Central"
+            "Mixto Quente"
           ],
           "answerIndex": 0
         }
@@ -4806,7 +4806,7 @@
           "options": [
             "Paz no Seu Coração",
             "Por Enquanto",
-            "Minha Picardia",
+            "Mixto Quente",
             "A Cigana"
           ],
           "answerIndex": 0
@@ -4980,8 +4980,8 @@
           "options": [
             "O Amor Se Escondeu",
             "Pra Gente Passear",
-            "No Calor Da Hora",
-            "Amor Eu Preciso"
+            "Falar De Amor",
+            "Censor"
           ],
           "answerIndex": 1
         },
@@ -5221,7 +5221,7 @@
           "title": "Hare",
           "artist": "Graforréia Xilarmônica",
           "options": [
-            "Rock Star",
+            "One Player",
             "Benga na América Central",
             "Empregada",
             "Hare"

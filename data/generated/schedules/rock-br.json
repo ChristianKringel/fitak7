@@ -856,7 +856,7 @@
           "options": [
             "Mulher de Fases",
             "Canção Da Meia Noite",
-            "Eletricidade",
+            "Depois da Meia Noite",
             "Quatro Vezes Você"
           ],
           "answerIndex": 0
@@ -1782,7 +1782,7 @@
           "artist": "Capital Inicial",
           "options": [
             "O Passageiro",
-            "Olhos Vermelhos",
+            "Vai e Vem",
             "Você Me Ama de Verdade?",
             "Aa uu"
           ],
@@ -2290,7 +2290,7 @@
           "options": [
             "Sinais de Fumaça",
             "Da Janela",
-            "Que País é Esse?",
+            "Vai e Vem",
             "Canção Da Meia Noite"
           ],
           "answerIndex": 0
@@ -3126,16 +3126,19 @@
           "answerIndex": 2
         },
         {
-          "songId": "capital-inicial--eletricidade",
-          "trackId": 13307897,
-          "altTrackIds": [],
-          "title": "Eletricidade",
+          "songId": "capital-inicial--aqui",
+          "trackId": 13335261,
+          "altTrackIds": [
+            2853428132,
+            2862511432
+          ],
+          "title": "Aqui",
           "artist": "Capital Inicial",
           "options": [
             "Eu Nunca Disse Adeus",
             "Vai e Vem",
             "Cuidado",
-            "Eletricidade"
+            "Aqui"
           ],
           "answerIndex": 3
         },
@@ -3654,18 +3657,23 @@
           "answerIndex": 1
         },
         {
-          "songId": "capital-inicial--aqui",
-          "trackId": 13335261,
+          "songId": "capital-inicial--eu-nunca-disse-adeus",
+          "trackId": 13335260,
           "altTrackIds": [
-            2853428132,
-            2862511432
+            15440463,
+            70294507,
+            71630131,
+            2411022285,
+            2421159515,
+            2853428062,
+            2862511422
           ],
-          "title": "Aqui",
+          "title": "Eu Nunca Disse Adeus",
           "artist": "Capital Inicial",
           "options": [
             "O Passageiro",
             "Não Me Olhe Assim",
-            "Aqui",
+            "Eu Nunca Disse Adeus",
             "Rádio Pirata"
           ],
           "answerIndex": 2
@@ -3848,8 +3856,8 @@
           "title": "Olhos Vermelhos",
           "artist": "Capital Inicial",
           "options": [
-            "Depois da Meia Noite",
             "Veraneio Vascaina",
+            "Eu Nunca Disse Adeus",
             "O Mundo é Bão, Sebastião",
             "Olhos Vermelhos"
           ],
@@ -3880,7 +3888,7 @@
           "title": "Noticia Boa",
           "artist": "Nenhum de Nós",
           "options": [
-            "Eletricidade",
+            "Eu Nunca Disse Adeus",
             "Noticia Boa",
             "Canção Da Meia Noite",
             "Eu N¦o Entendo"
@@ -4646,7 +4654,7 @@
           "artist": "Barão Vermelho",
           "options": [
             "A chave da porta da frente",
-            "Eu Nunca Disse Adeus",
+            "Mulher de Fases",
             "Cuidado",
             "Daqui por diante"
           ],
