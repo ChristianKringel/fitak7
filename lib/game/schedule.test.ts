@@ -61,7 +61,7 @@ describe("buildSchedule", () => {
       expect(day.rounds).toHaveLength(ROUNDS_PER_DAY);
       for (const round of day.rounds) {
         expect(round.options).toHaveLength(4);
-        expect(round.options[round.answerIndex]).toBe(round.title);
+        expect(round.options[round.answerIndex]).toEqual({ title: round.title, artist: round.artist });
       }
     }
   });

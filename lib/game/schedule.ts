@@ -2,7 +2,7 @@
 // of every round already shuffled so everyone plays the same challenge.
 
 import { addDays, daysBetween } from "./date";
-import { buildOptions } from "./options";
+import { buildOptions, toRoundOption, type RoundOption } from "./options";
 import type { PoolSong } from "./pool";
 import { answerCandidates, popularityWeight } from "./popularity";
 import { pick, seededRng, weightedPick, type Rng } from "./rng";
@@ -18,8 +18,8 @@ export interface ScheduledRound {
   altTrackIds: number[];
   title: string;
   artist: string;
-  /** Option titles, already shuffled. */
-  options: string[];
+  /** Already shuffled. */
+  options: RoundOption[];
   answerIndex: number;
 }
 
@@ -151,7 +151,7 @@ export function buildSchedule(input: BuildScheduleInput): {
         altTrackIds: song.altTrackIds,
         title: song.title,
         artist: song.artist,
-        options: songs.map((s) => s.title),
+        options: songs.map(toRoundOption),
         answerIndex,
       };
     });

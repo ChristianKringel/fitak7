@@ -27,7 +27,7 @@ pnpm schedule:build   # gera a agenda dos desafios diários
 
 **Rodada:** toca um trecho do preview de 30s do Deezer. O jogador escolhe 1 entre 4 opções. Erro ou acerto, a rodada termina e a resposta é revelada (título, artista, álbum, capa, link do Deezer).
 
-**Opções:** durante o palpite, mostrar **apenas o título** da música, nunca o artista (senão as opções de outros artistas ficam fáceis de eliminar). Composição das 3 opções erradas: 2 do mesmo artista da resposta + 1 de outro artista da mesma categoria. Se o artista não tiver músicas suficientes, completar com outros artistas da categoria. Nenhuma opção pode ser outra versão da resposta (ao vivo, remaster etc.) nem ter título igual ao de outra opção.
+**Opções:** durante o palpite, cada opção mostra o título da música com o artista embaixo. Composição das 3 opções erradas: 2 do mesmo artista da resposta + 1 de outro artista da mesma categoria. Se o artista não tiver músicas suficientes, completar com outros artistas da categoria. Nenhuma opção pode ser outra versão da resposta (ao vivo, remaster etc.) nem ter título igual ao de outra opção.
 
 **Modos:**
 - **Desafio diário:** 5 músicas por categoria por dia, iguais para todos. Vira à meia-noite de `America/Sao_Paulo`. Cada categoria tem o seu. Não pode rejogar o dia. Resultado final X/5 com texto compartilhável (ex.: `🟩🟥🟩🟩🟩`).

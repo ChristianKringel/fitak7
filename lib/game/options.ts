@@ -16,6 +16,16 @@ export const SIMILAR_POPULARITY_WINDOW = 5;
 
 export type OptionSong = Pick<PoolSong, "id" | "title" | "artist" | "topPosition">;
 
+/** What the player sees of each option. */
+export interface RoundOption {
+  title: string;
+  artist: string;
+}
+
+export function toRoundOption({ title, artist }: OptionSong): RoundOption {
+  return { title, artist };
+}
+
 export interface RoundOptions<T extends OptionSong = OptionSong> {
   /** Shuffled; the answer is at `answerIndex`. */
   songs: T[];

@@ -1,6 +1,11 @@
 import type { InfiniteRoundResponse } from "@/lib/api/types";
 import { pickInfiniteSong } from "@/lib/game/infinite";
-import { buildOptions, NotEnoughOptionsError, OPTIONS_PER_ROUND } from "@/lib/game/options";
+import {
+  buildOptions,
+  NotEnoughOptionsError,
+  OPTIONS_PER_ROUND,
+  toRoundOption,
+} from "@/lib/game/options";
 import { getRoundKey, openRound, sealRound } from "@/lib/rounds/token";
 import { getCategory, getPool } from "@/lib/server/data";
 import { json, jsonError, readJsonObject } from "@/lib/server/http";
@@ -53,5 +58,5 @@ export async function POST(request: Request, ctx: RouteContext<"/api/infinite/[c
     },
     key,
   );
-  return json<InfiniteRoundResponse>({ token, options: options.songs.map((s) => s.title) });
+  return json<InfiniteRoundResponse>({ token, options: options.songs.map(toRoundOption) });
 }

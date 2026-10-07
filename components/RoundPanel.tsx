@@ -2,7 +2,7 @@
 
 import { useEffect, useState, type ReactNode } from "react";
 
-import type { RevealedAnswer } from "@/lib/api/types";
+import type { RevealedAnswer, RoundOption } from "@/lib/api/types";
 import { useClipPlayer } from "@/lib/audio/use-clip-player";
 
 import { AnswerCard } from "./AnswerCard";
@@ -23,7 +23,7 @@ interface RoundPanelProps {
   heading: ReactNode;
   /** Cassette body color of the category. */
   color: string;
-  options: string[];
+  options: RoundOption[];
   audioSrc: string;
   clipSeconds: number;
   result: RoundResult | null;

@@ -1,9 +1,11 @@
 "use client";
 
+import type { RoundOption } from "@/lib/api/types";
+
 const LETTERS = ["A", "B", "C", "D", "E", "F"];
 
 interface OptionListProps {
-  options: string[];
+  options: RoundOption[];
   /** Set after the guess: highlights the right and the chosen option. */
   reveal: { choice: number; answerIndex: number } | null;
   disabled: boolean;
@@ -14,7 +16,7 @@ interface OptionListProps {
 export function OptionList({ options, reveal, disabled, pendingChoice, onChoose }: OptionListProps) {
   return (
     <ul className="flex flex-col gap-3">
-      {options.map((title, index) => {
+      {options.map((option, index) => {
         let tone = "bg-paper text-ink shadow-[0_4px_0_var(--key-shadow)] hover:bg-white";
         let tag = "bg-ink text-paper";
         let mark = "";
@@ -46,7 +48,10 @@ export function OptionList({ options, reveal, disabled, pendingChoice, onChoose 
               >
                 {LETTERS[index]}
               </span>
-              <span className="flex-1">{title}</span>
+              <span className="flex min-w-0 flex-1 flex-col">
+                <span>{option.title}</span>
+                <span className="text-xs font-medium opacity-70">{option.artist}</span>
+              </span>
               {mark && (
                 <span aria-hidden className="text-xl font-black">
                   {mark}

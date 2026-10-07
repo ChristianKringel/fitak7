@@ -1,10 +1,14 @@
 // Request/response shapes shared by the route handlers and the client.
 // Nothing here may reveal the answer before a guess.
 
+import type { RoundOption } from "@/lib/game/options";
+
+export type { RoundOption };
+
 export interface DailyChallengeResponse {
   category: string;
   date: string;
-  rounds: { options: string[] }[];
+  rounds: { options: RoundOption[] }[];
 }
 
 export interface InfiniteRoundRequest {
@@ -14,7 +18,7 @@ export interface InfiniteRoundRequest {
 
 export interface InfiniteRoundResponse {
   token: string;
-  options: string[];
+  options: RoundOption[];
 }
 
 export interface DailyGuessRequest {
