@@ -140,7 +140,7 @@ async function main() {
       }
     }
     const grouped = groups.filter((g) => g.versions.length > 1).length;
-    const answerable = answerCandidates(pool.songs).length;
+    const answerable = answerCandidates(pool.songs).songs.length;
     const discardText = Object.entries(discarded)
       .filter(([, n]) => n > 0)
       .map(([reason, n]) => `${reason} ${n}`)

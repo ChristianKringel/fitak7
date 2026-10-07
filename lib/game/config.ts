@@ -9,7 +9,9 @@ export function clipSeconds(hardMode: boolean): number {
 }
 
 /**
- * Only each artist's N most popular songs (by Deezer rank) can be the answer
- * of a round. Less popular songs still show up as wrong options.
+ * Only this share of each artist's most popular songs (by Deezer rank) can be
+ * the answer of a round, but never fewer than MIN_TOP_SONGS_PER_ARTIST. Less
+ * popular songs still show up as wrong options.
  */
-export const TOP_SONGS_PER_ARTIST = 30;
+export const TOP_SHARE_PER_ARTIST = 0.1;
+export const MIN_TOP_SONGS_PER_ARTIST = 3;

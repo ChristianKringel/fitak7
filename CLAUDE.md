@@ -29,6 +29,8 @@ pnpm schedule:build   # gera a agenda dos desafios diários
 
 **Opções:** durante o palpite, cada opção mostra o título da música com o artista embaixo. Composição das 3 opções erradas: 2 do mesmo artista da resposta + 1 de outro artista da mesma categoria. Se o artista não tiver músicas suficientes, completar com outros artistas da categoria. Nenhuma opção pode ser outra versão da resposta (ao vivo, remaster etc.) nem ter título igual ao de outra opção.
 
+**Respostas:** só os 10% mais populares de cada artista (pelo rank do Deezer, mínimo de 3 músicas) podem ser a resposta, com mais peso para as mais tocadas. As outras músicas só aparecem como opções erradas. Ajustável em `lib/game/config.ts` (`TOP_SHARE_PER_ARTIST`, `MIN_TOP_SONGS_PER_ARTIST`).
+
 **Modos:**
 - **Desafio diário:** 5 músicas por categoria por dia, iguais para todos. Vira à meia-noite de `America/Sao_Paulo`. Cada categoria tem o seu. Não pode rejogar o dia. Resultado final X/5 com texto compartilhável (ex.: `🟩🟥🟩🟩🟩`).
 - **Infinito/treino:** músicas aleatórias da categoria, sem fim, com contagem de sequência de acertos. Não repetir músicas dentro da sessão.

@@ -73,7 +73,7 @@ describe("buildSchedule", () => {
       existing: null,
       today: TODAY,
       days: 120,
-      topPerArtist: Infinity,
+      topShare: 1,
     });
     expect(stats.recentRepeats).toBe(0);
     const lastSeen = new Map<string, string>();
@@ -92,7 +92,7 @@ describe("buildSchedule", () => {
       pool: makePool(6, 100),
       existing: null,
       today: TODAY,
-      topPerArtist: Infinity,
+      topShare: 1,
     });
     expect(stats.daysWithRepeatedArtist).toBe(0);
     for (const day of Object.values(schedule.days)) {
@@ -138,9 +138,16 @@ describe("buildSchedule", () => {
 
   it("takes kept days into account for the no-repeat window", () => {
     const pool = makePool(10, 50);
-    const first = buildSchedule({ category: "rock", pool, existing: null, today: TODAY, days: 1 });
+    const first = buildSchedule({ category: "rock", pool, existing: null, today: TODAY, days: 1, topShare: 1 });
     const todaySongs = new Set(first.schedule.days[TODAY].rounds.map((r) => r.songId));
-    const next = buildSchedule({ category: "rock", pool, existing: first.schedule, today: TODAY, days: 60 });
+    const next = buildSchedule({
+      category: "rock",
+      pool,
+      existing: first.schedule,
+      today: TODAY,
+      days: 60,
+      topShare: 1,
+    });
     for (const [date, day] of Object.entries(next.schedule.days)) {
       if (date === TODAY) continue;
       for (const round of day.rounds) expect(todaySongs.has(round.songId)).toBe(false);
@@ -169,7 +176,7 @@ describe("buildSchedule", () => {
       existing: null,
       today: TODAY,
       days: 30,
-      topPerArtist: 10,
+      topShare: 0.2,
     });
     for (const day of Object.values(schedule.days)) {
       for (const round of day.rounds) {

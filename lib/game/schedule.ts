@@ -4,7 +4,7 @@
 import { addDays, daysBetween } from "./date";
 import { buildOptions, toRoundOption, type RoundOption } from "./options";
 import type { PoolSong } from "./pool";
-import { answerCandidates, popularityWeight } from "./popularity";
+import { answerCandidates } from "./popularity";
 import { pick, seededRng, weightedPick, type Rng } from "./rng";
 
 export const ROUNDS_PER_DAY = 5;
@@ -49,8 +49,8 @@ export interface BuildScheduleInput {
   /** Today's game date. Past days and today are never regenerated. */
   today: string;
   days?: number;
-  /** Only each artist's `topPerArtist` most popular songs can be answers. */
-  topPerArtist?: number;
+  /** Share of each artist's most popular songs that can be answers. */
+  topShare?: number;
 }
 
 function pickSong(
@@ -97,13 +97,12 @@ export function buildSchedule(input: BuildScheduleInput): {
   schedule: CategorySchedule;
   stats: ScheduleStats;
 } {
-  const { category, pool, existing, today, topPerArtist } = input;
+  const { category, pool, existing, today, topShare } = input;
   const totalDays = input.days ?? DEFAULT_SCHEDULE_DAYS;
-  const answers = answerCandidates(pool, topPerArtist);
+  const { songs: answers, weight } = answerCandidates(pool, topShare);
   if (answers.length < ROUNDS_PER_DAY) {
     throw new Error(`Pool of ${category} has fewer than ${ROUNDS_PER_DAY} songs`);
   }
-  const weight = (song: PoolSong) => popularityWeight(song, topPerArtist);
 
   const days: Record<string, ScheduleDay> = {};
   const lastUsed = new Map<string, string>();
