@@ -1,9 +1,10 @@
 import { describe, expect, it } from "vitest";
 
+import { TOP_SONGS_PER_ARTIST } from "./config";
 import { pickInfiniteSong } from "./infinite";
 import { seededRng } from "./rng";
 
-const POOL = ["a", "b", "c", "d"].map((id) => ({ id }));
+const POOL = ["a", "b", "c", "d"].map((id) => ({ id, topPosition: 1 }));
 
 describe("pickInfiniteSong", () => {
   it("never repeats a played song while others remain", () => {
@@ -21,6 +22,19 @@ describe("pickInfiniteSong", () => {
   });
 
   it("works with a single-song pool", () => {
-    expect(pickInfiniteSong([{ id: "a" }], ["a"], seededRng("x")).id).toBe("a");
+    expect(pickInfiniteSong([{ id: "a", topPosition: 1 }], ["a"], seededRng("x")).id).toBe("a");
+  });
+
+  it("only picks songs within each artist's top, favoring the most popular", () => {
+    const pool = Array.from({ length: 60 }, (_, i) => ({ id: `s${i}`, topPosition: i + 1 }));
+    const counts = new Map<number, number>();
+    for (let i = 0; i < 3000; i++) {
+      const { topPosition } = pickInfiniteSong(pool, [], seededRng(`p${i}`));
+      expect(topPosition).toBeLessThanOrEqual(TOP_SONGS_PER_ARTIST);
+      counts.set(topPosition, (counts.get(topPosition) ?? 0) + 1);
+    }
+    const top5 = [1, 2, 3, 4, 5].reduce((n, p) => n + (counts.get(p) ?? 0), 0);
+    const last5 = [26, 27, 28, 29, 30].reduce((n, p) => n + (counts.get(p) ?? 0), 0);
+    expect(top5).toBeGreaterThan(last5 * 1.4);
   });
 });

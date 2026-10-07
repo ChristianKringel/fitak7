@@ -41,3 +41,20 @@ export function shuffle<T>(rng: Rng, items: readonly T[]): T[] {
   }
   return result;
 }
+
+/** Picks an item with probability proportional to its weight (must be > 0). */
+export function weightedPick<T>(
+  rng: Rng,
+  items: readonly T[],
+  weight: (item: T) => number,
+): T {
+  if (items.length === 0) throw new Error("Cannot pick from an empty list");
+  const weights = items.map(weight);
+  const total = weights.reduce((sum, w) => sum + w, 0);
+  let target = rng() * total;
+  for (let i = 0; i < items.length; i++) {
+    target -= weights[i];
+    if (target < 0) return items[i];
+  }
+  return items[items.length - 1];
+}

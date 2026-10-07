@@ -16,6 +16,7 @@ function track(
     duration: 200,
     hasPreview: true,
     readable: true,
+    rank: 1000,
     trackArtistId: 1,
     album: {
       id: 1,
@@ -96,5 +97,18 @@ describe("songId", () => {
   it("is the same for every version of a song", () => {
     expect(songId("Titãs", "Epitáfio (Acústico)")).toBe(songId("Titãs", "Epitáfio"));
     expect(songId("Titãs", "Epitáfio")).toBe("titas--epitafio");
+  });
+
+  it("ranks songs by popularity, using the most played version", () => {
+    const { groups } = buildArtistSongs(ARTIST, [
+      track("Infinita Highway", {}, { rank: 300 }),
+      track("Infinita Highway (Ao Vivo)", { title: "Alívio Imediato" }, { rank: 900 }),
+      track("Toda Forma de Poder", {}, { rank: 500 }),
+      track("Terra de Gigantes", {}, { rank: 100 }),
+    ]);
+    const byTitle = Object.fromEntries(groups.map((g) => [g.song.title, g.song]));
+    expect(byTitle["Infinita Highway"]).toMatchObject({ rank: 900, topPosition: 1 });
+    expect(byTitle["Toda Forma de Poder"]).toMatchObject({ rank: 500, topPosition: 2 });
+    expect(byTitle["Terra de Gigantes"]).toMatchObject({ rank: 100, topPosition: 3 });
   });
 });

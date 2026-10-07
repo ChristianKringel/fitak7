@@ -19,6 +19,8 @@ export interface TrackCandidate {
   duration: number;
   hasPreview: boolean;
   readable: boolean;
+  /** Deezer popularity score. */
+  rank: number;
   trackArtistId: number;
   album: PoolAlbum;
 }
@@ -43,6 +45,10 @@ export interface PoolSong {
   altTrackIds: number[];
   album: PoolAlbum;
   duration: number;
+  /** Highest Deezer rank among all versions (the famous one may be live). */
+  rank: number;
+  /** Position in the artist's popularity ranking, 1 = most popular. */
+  topPosition: number;
 }
 
 export interface CategoryPool {
@@ -163,9 +169,17 @@ export function buildArtistSongs(
         altTrackIds: alts.map((t) => t.trackId).sort((a, b) => a - b),
         album: canonical.album,
         duration: canonical.duration,
+        rank: Math.max(...versions.map((v) => v.rank)),
+        topPosition: 0, // set below, once all songs are known
       },
     });
   }
+
+  [...groups]
+    .sort((a, b) => b.song.rank - a.song.rank || a.song.id.localeCompare(b.song.id))
+    .forEach((g, i) => {
+      g.song.topPosition = i + 1;
+    });
 
   groups.sort((a, b) => a.song.id.localeCompare(b.song.id));
   return { groups, discarded };

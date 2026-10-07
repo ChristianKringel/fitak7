@@ -54,6 +54,8 @@ export interface DeezerAlbumTrack {
   title_version?: string;
   link: string;
   duration: number; // seconds
+  /** Deezer popularity score, based on recent plays. */
+  rank: number;
   preview: string; // empty string when unavailable
   artist: DeezerTrackArtist;
 }

@@ -22,6 +22,8 @@ function makePool(artists: number, songsPerArtist: number): PoolSong[] {
         altTrackIds: [],
         album: { id: a, title: "Album", releaseDate: "2000-01-01", recordType: "album" },
         duration: 200,
+        rank: 1000 - s,
+        topPosition: s + 1,
       });
     }
   }
@@ -60,6 +62,7 @@ describe("buildSchedule", () => {
       existing: null,
       today: TODAY,
       days: 120,
+      topPerArtist: Infinity,
     });
     expect(stats.recentRepeats).toBe(0);
     const lastSeen = new Map<string, string>();
@@ -78,6 +81,7 @@ describe("buildSchedule", () => {
       pool: makePool(6, 100),
       existing: null,
       today: TODAY,
+      topPerArtist: Infinity,
     });
     expect(stats.daysWithRepeatedArtist).toBe(0);
     for (const day of Object.values(schedule.days)) {
@@ -144,6 +148,23 @@ describe("buildSchedule", () => {
     for (let i = 0; i < 10; i++) {
       const date = addDays(TODAY, i);
       expect(c.schedule.days[date]).toEqual(a.schedule.days[date]);
+    }
+  });
+
+  it("only picks answers among each artist's most popular songs", () => {
+    const { schedule } = buildSchedule({
+      category: "rock",
+      pool: makePool(10, 50),
+      existing: null,
+      today: TODAY,
+      days: 30,
+      topPerArtist: 10,
+    });
+    for (const day of Object.values(schedule.days)) {
+      for (const round of day.rounds) {
+        const position = Number(round.songId.split("--song-")[1]) + 1;
+        expect(position).toBeLessThanOrEqual(10);
+      }
     }
   });
 });

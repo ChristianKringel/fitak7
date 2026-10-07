@@ -4,7 +4,8 @@
 import { addDays, daysBetween } from "./date";
 import { buildOptions } from "./options";
 import type { PoolSong } from "./pool";
-import { pick, seededRng, type Rng } from "./rng";
+import { answerCandidates, popularityWeight } from "./popularity";
+import { pick, seededRng, weightedPick, type Rng } from "./rng";
 
 export const ROUNDS_PER_DAY = 5;
 /** A song used on day D is avoided until D + NO_REPEAT_DAYS. */
@@ -48,11 +49,14 @@ export interface BuildScheduleInput {
   /** Today's game date. Past days and today are never regenerated. */
   today: string;
   days?: number;
+  /** Only each artist's `topPerArtist` most popular songs can be answers. */
+  topPerArtist?: number;
 }
 
 function pickSong(
   rng: Rng,
   pool: readonly PoolSong[],
+  weight: (song: PoolSong) => number,
   date: string,
   lastUsed: ReadonlyMap<string, string>,
   chosenToday: readonly PoolSong[],
@@ -70,7 +74,7 @@ function pickSong(
     return used === undefined || daysBetween(used, date) >= NO_REPEAT_DAYS;
   });
   if (rested.length > 0) {
-    return { song: pick(rng, preferNewArtist(rested)), recentRepeat: false };
+    return { song: weightedPick(rng, preferNewArtist(rested), weight), recentRepeat: false };
   }
 
   // Pool too small for the window: reuse the least recently played songs.
@@ -93,11 +97,13 @@ export function buildSchedule(input: BuildScheduleInput): {
   schedule: CategorySchedule;
   stats: ScheduleStats;
 } {
-  const { category, pool, existing, today } = input;
+  const { category, pool, existing, today, topPerArtist } = input;
   const totalDays = input.days ?? DEFAULT_SCHEDULE_DAYS;
-  if (pool.length < ROUNDS_PER_DAY) {
+  const answers = answerCandidates(pool, topPerArtist);
+  if (answers.length < ROUNDS_PER_DAY) {
     throw new Error(`Pool of ${category} has fewer than ${ROUNDS_PER_DAY} songs`);
   }
+  const weight = (song: PoolSong) => popularityWeight(song, topPerArtist);
 
   const days: Record<string, ScheduleDay> = {};
   const lastUsed = new Map<string, string>();
@@ -129,7 +135,7 @@ export function buildSchedule(input: BuildScheduleInput): {
     const rng = seededRng(`${category}:${date}`);
     const chosen: PoolSong[] = [];
     for (let i = 0; i < ROUNDS_PER_DAY; i++) {
-      const { song, recentRepeat } = pickSong(rng, pool, date, lastUsed, chosen);
+      const { song, recentRepeat } = pickSong(rng, answers, weight, date, lastUsed, chosen);
       chosen.push(song);
       if (recentRepeat) stats.recentRepeats++;
     }

@@ -1,13 +1,19 @@
 import { describe, expect, it } from "vitest";
 
 import { normalizeTitle } from "./normalize";
-import { buildOptions, NotEnoughOptionsError, type OptionSong } from "./options";
+import {
+  buildOptions,
+  NotEnoughOptionsError,
+  SIMILAR_POPULARITY_WINDOW,
+  type OptionSong,
+} from "./options";
 import { seededRng } from "./rng";
 
-const song = (artist: string, title: string): OptionSong => ({
+const song = (artist: string, title: string, topPosition = 1): OptionSong => ({
   id: `${artist}--${title}`,
   artist,
   title,
+  topPosition,
 });
 
 const POOL: OptionSong[] = [
@@ -108,5 +114,32 @@ describe("buildOptions", () => {
     expect(() => buildOptions(pool[0], pool, seededRng("w"))).toThrow(
       NotEnoughOptionsError,
     );
+  });
+
+  it("prefers distractors about as popular as the answer", () => {
+    const pool = [
+      ...Array.from({ length: 40 }, (_, i) => song("Engenheiros", `E${i + 1}`, i + 1)),
+      ...Array.from({ length: 40 }, (_, i) => song("Nenhum de Nós", `N${i + 1}`, i + 1)),
+    ];
+    const answer = pool[19]; // Engenheiros #20
+    for (const rng of seeds(50)) {
+      const { songs } = buildOptions(answer, pool, rng);
+      for (const s of songs) {
+        expect(Math.abs(s.topPosition - answer.topPosition)).toBeLessThanOrEqual(
+          SIMILAR_POPULARITY_WINDOW,
+        );
+      }
+    }
+  });
+
+  it("falls back to less similar songs when needed", () => {
+    const pool = [
+      song("A", "Hit", 1),
+      song("A", "Lado Escuro", 50),
+      song("A", "Raridade", 60),
+      song("B", "Lado B", 80),
+    ];
+    const { songs } = buildOptions(pool[0], pool, seededRng("f"));
+    expect(songs).toHaveLength(4);
   });
 });

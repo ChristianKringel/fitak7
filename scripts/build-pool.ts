@@ -16,6 +16,7 @@ import {
   type SongGroup,
   type TrackCandidate,
 } from "@/lib/game/pool";
+import { answerCandidates } from "@/lib/game/popularity";
 
 import { POOLS_DIR, readCatalog } from "./lib/catalog-file";
 
@@ -43,6 +44,7 @@ async function fetchArtistTracks(
           duration: t.duration,
           hasPreview: Boolean(t.preview),
           readable: t.readable,
+          rank: t.rank,
           trackArtistId: t.artist.id,
           album: {
             id: album.id,
@@ -73,7 +75,7 @@ function printSample(category: string, groups: SongGroup[]) {
   ];
   console.log(`\nSample from ${category} (${sample.length} songs):`);
   for (const { song, versions } of sample) {
-    console.log(`\n• ${song.title} — ${song.artist}  [${song.id}]`);
+    console.log(`\n• ${song.title} — ${song.artist}  [${song.id}]  #${song.topPosition} (rank ${song.rank})`);
     for (const v of versions) {
       const mark = v.trackId === song.trackId ? "★" : " ";
       console.log(
@@ -138,15 +140,16 @@ async function main() {
       }
     }
     const grouped = groups.filter((g) => g.versions.length > 1).length;
+    const answerable = answerCandidates(pool.songs).length;
     const discardText = Object.entries(discarded)
       .filter(([, n]) => n > 0)
       .map(([reason, n]) => `${reason} ${n}`)
       .join(", ");
     console.log(
-      `  ${category.slug}: ${artists.length} artists, ${pool.songs.length} songs (${grouped} with grouped versions)` +
+      `  ${category.slug}: ${artists.length} artists, ${pool.songs.length} songs (${answerable} can be answers, ${grouped} with grouped versions)` +
         (discardText ? `; discarded: ${discardText}` : ""),
     );
-    if (pool.songs.length < RECOMMENDED_POOL_SIZE) {
+    if (answerable < RECOMMENDED_POOL_SIZE) {
       console.warn(
         `    ⚠ Few songs for the daily challenge: ${RECOMMENDED_POOL_SIZE} needed to avoid repeats within 90 days.`,
       );
