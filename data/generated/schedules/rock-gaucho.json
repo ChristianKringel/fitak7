@@ -1,0 +1,4892 @@
+{
+  "category": "rock-gaucho",
+  "days": {
+    "2026-10-06": {
+      "rounds": [
+        {
+          "songId": "comunidade-nin-jitsu--funk-da-paz-rebola-o-resbolah",
+          "trackId": 1103241012,
+          "altTrackIds": [],
+          "title": "Funk da Paz (Rebola o Resbolah)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Ela Vai Passar",
+            "Tema de Inverno 2026",
+            "Funk da Paz (Rebola o Resbolah)",
+            "Afastado"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--no-inverno-fica-tarde-cedo",
+          "trackId": 13309773,
+          "altTrackIds": [
+            122316466
+          ],
+          "title": "No Inverno Fica Tarde + Cedo",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Por Acaso",
+            "No Inverno Fica Tarde + Cedo",
+            "A Conquista Do Espaço",
+            "O Tempo Está do Meu Lado"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--nao-consigo-ficar",
+          "trackId": 1489031392,
+          "altTrackIds": [],
+          "title": "Não Consigo Ficar",
+          "artist": "Os Replicantes",
+          "options": [
+            "Não Consigo Ficar",
+            "Papel de mau",
+            "Boy Do Subterrâneo",
+            "Nau A Deriva"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--sandro",
+          "trackId": 96004152,
+          "altTrackIds": [],
+          "title": "Sandro",
+          "artist": "Cachorro Grande",
+          "options": [
+            "As Próximas Horas Serão Muito Boas",
+            "O Certo e o Errado",
+            "Matelassê",
+            "Sandro"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "papas-da-lingua--nas-tuas-maos",
+          "trackId": 657783102,
+          "altTrackIds": [],
+          "title": "Nas Tuas Mãos",
+          "artist": "Papas da Língua",
+          "options": [
+            "Nas Tuas Mãos",
+            "Eu Sei",
+            "Água e Fogo",
+            "Música Pra Dançar"
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-10-07": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--nunca-mais-poder",
+          "trackId": 13252214,
+          "altTrackIds": [
+            122316410
+          ],
+          "title": "Nunca Mais Poder",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "O Mundo É Maior Que Teu Quarto",
+            "Nunca Mais Poder",
+            "Arame Farpado",
+            "O Sonho E Popular"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--toda-molhada-casa-do-sol",
+          "trackId": 1167106982,
+          "altTrackIds": [
+            1170774362,
+            1732090947,
+            1803353937
+          ],
+          "title": "Toda Molhada (Casa do Sol)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Pastilha de Prosa",
+            "Guri De Dois",
+            "Eu Não Vou Mudar",
+            "Toda Molhada (Casa do Sol)"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--liberta",
+          "trackId": 471254062,
+          "altTrackIds": [
+            111153244,
+            440992492,
+            769703312,
+            3725240402
+          ],
+          "title": "Libertà",
+          "artist": "Os Replicantes",
+          "options": [
+            "Chore Meu Bem",
+            "Libertà",
+            "Nada É por Acaso",
+            "Divididos"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--ate-ficar-a-perigo",
+          "trackId": 15023940,
+          "altTrackIds": [],
+          "title": "Até Ficar A Perigo",
+          "artist": "Papas da Língua",
+          "options": [
+            "Até Ficar A Perigo",
+            "Como?",
+            "Garotas do Brasil",
+            "Fulvio Sillas"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "tnt--contigo",
+          "trackId": 115978246,
+          "altTrackIds": [],
+          "title": "Contigo",
+          "artist": "TNT",
+          "options": [
+            "Juro Que Não",
+            "Por Enquanto",
+            "Contigo",
+            "Diga o Que Você Quer Escutar"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-10-08": {
+      "rounds": [
+        {
+          "songId": "os-replicantes--levantem-as-maos",
+          "trackId": 100947458,
+          "altTrackIds": [],
+          "title": "Levantem As Mãos",
+          "artist": "Os Replicantes",
+          "options": [
+            "Levantem As Mãos",
+            "Wander´s Dream",
+            "Sandina",
+            "Quando Amanhecer"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--fantasmas",
+          "trackId": 96219808,
+          "altTrackIds": [
+            2571042462,
+            2571042622
+          ],
+          "title": "Fantasmas",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Estou Louco por Você",
+            "Luz",
+            "Fantasmas",
+            "Hoje Meus Domingos Não São Mais Depressivos"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--brigas",
+          "trackId": 13262192,
+          "altTrackIds": [],
+          "title": "Brigas",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Um Girassol Da Cor Do Seu Cabelo",
+            "Deixa o Sol Entrar",
+            "Blusinha Branca",
+            "Brigas"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--era-um-garoto-como-eu-amava-os-beatles-e-os-rolling-stones",
+          "trackId": 3574074,
+          "altTrackIds": [
+            137542395,
+            411541572
+          ],
+          "title": "Era Um Garoto Como Eu Amava Os Beatles E Os Rolling Stones",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Por Acaso",
+            "Na Veia",
+            "Ele Quer Ser Punk",
+            "Era Um Garoto Como Eu Amava Os Beatles E Os Rolling Stones"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "bide-ou-balde--me-deixa-desafinar",
+          "trackId": 111728706,
+          "altTrackIds": [],
+          "title": "Me Deixa Desafinar",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Não Consigo Odiar Ninguém",
+            "V. V. A. Decomposto (Ou, Tudo Funcionando Meio Jackson Five)",
+            "Aeroporto",
+            "Me Deixa Desafinar"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-09": {
+      "rounds": [
+        {
+          "songId": "bide-ou-balde--cores-bonitas",
+          "trackId": 458874292,
+          "altTrackIds": [
+            458874412
+          ],
+          "title": "Cores Bonitas",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Bromélias",
+            "Cores Bonitas",
+            "Duas Luas",
+            "Back To Quinze"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--um-pouquinho",
+          "trackId": 1379588892,
+          "altTrackIds": [
+            106042371,
+            1510007912
+          ],
+          "title": "Um Pouquinho",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Camila, Camila",
+            "Um Pouquinho",
+            "Dia de Inverno",
+            "Ela Vai Passar"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "tnt--identidade-zero",
+          "trackId": 685317472,
+          "altTrackIds": [
+            2888511482
+          ],
+          "title": "Identidade Zero",
+          "artist": "TNT",
+          "options": [
+            "Desse Jeito",
+            "Polaroid de Loucura Ordinária",
+            "Identidade Zero",
+            "Não Tenho Medo da Vida"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "papas-da-lingua--pingos-de-amor",
+          "trackId": 66342247,
+          "altTrackIds": [
+            3947977561,
+            4034238781
+          ],
+          "title": "Pingos de Amor",
+          "artist": "Papas da Língua",
+          "options": [
+            "Churrasco",
+            "Diga Sim",
+            "To Fora",
+            "Pingos de Amor"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "comunidade-nin-jitsu--primo-morango-26",
+          "trackId": 4005688811,
+          "altTrackIds": [],
+          "title": "Primo Morango 26",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "AI GAROTA",
+            "Guri De Dois",
+            "Meus Dois Amigos",
+            "Primo Morango 26"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-10": {
+      "rounds": [
+        {
+          "songId": "papas-da-lingua--nao-vou-esperar",
+          "trackId": 4156031532,
+          "altTrackIds": [
+            445908542
+          ],
+          "title": "Não Vou Esperar",
+          "artist": "Papas da Língua",
+          "options": [
+            "Demais Amor!",
+            "Seu Au Au",
+            "Descondo A Serra",
+            "Não Vou Esperar"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--longe-demais-das-capitais",
+          "trackId": 13310121,
+          "altTrackIds": [
+            13310136,
+            70086907,
+            72290886,
+            122316326,
+            122316400,
+            1564486032,
+            1564486912,
+            1564488382
+          ],
+          "title": "Longe Demais Das Capitais",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Deus Quis",
+            "Armas Químicas E Poemas",
+            "Longe Demais Das Capitais",
+            "Vida Real"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "os-replicantes--quando-eu-te-pegar",
+          "trackId": 1489031382,
+          "altTrackIds": [],
+          "title": "Quando Eu Te Pegar",
+          "artist": "Os Replicantes",
+          "options": [
+            "Meio Madeira Meio Alvenaria",
+            "Quando Eu Te Pegar",
+            "Perfeita Simetria",
+            "Síndrome de Pânico"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--sacanagem",
+          "trackId": 4170305432,
+          "altTrackIds": [
+            2318837425
+          ],
+          "title": "Sacanagem",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Quero Te Levar",
+            "Sacanagem",
+            "Eu",
+            "Amigo Punk"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "tnt--liga-essa-bomba",
+          "trackId": 685317492,
+          "altTrackIds": [],
+          "title": "Liga Essa Bomba",
+          "artist": "TNT",
+          "options": [
+            "Por Enquanto",
+            "Noite Vem,Noite Vai",
+            "Liga Essa Bomba",
+            "Bromélias"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-10-11": {
+      "rounds": [
+        {
+          "songId": "papas-da-lingua--diga-que-vai",
+          "trackId": 4106349031,
+          "altTrackIds": [
+            723079832,
+            3947977481
+          ],
+          "title": "Diga Que Vai",
+          "artist": "Papas da Língua",
+          "options": [
+            "Diga Que Vai",
+            "Dance Agora",
+            "Vou Ligar",
+            "Te Peguei"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "tnt--se-quer-saber",
+          "trackId": 115978264,
+          "altTrackIds": [],
+          "title": "Se Quer Saber",
+          "artist": "TNT",
+          "options": [
+            "Quem Procura Acha",
+            "Daqui Pra Frente",
+            "Se Quer Saber",
+            "Sonho Technicolor"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--da-janela",
+          "trackId": 1379588932,
+          "altTrackIds": [
+            678053972,
+            1032625562,
+            1509945752,
+            1509997842
+          ],
+          "title": "Da Janela",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Cinza",
+            "3000 Léguas",
+            "Da Janela",
+            "Incrível"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--barraco-armado",
+          "trackId": 2285221897,
+          "altTrackIds": [
+            1161445672
+          ],
+          "title": "Barraco Armado",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Me Odeie",
+            "Barraco Armado",
+            "Loop Sessions: Toda Molhada",
+            "Faz Parte"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "cachorro-grande--o-fantasma-do-natal-passado",
+          "trackId": 135925994,
+          "altTrackIds": [],
+          "title": "O Fantasma do Natal Passado",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Crispian Milss",
+            "O Fantasma do Natal Passado",
+            "De Longe Todo Mundo É Normal",
+            "Nunca Se Sabe"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-10-12": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--eu-vejo-estrelas",
+          "trackId": 720448572,
+          "altTrackIds": [],
+          "title": "Eu Vejo Estrelas",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Spaghetti A Putanesca",
+            "Todas As Coisas",
+            "Eu Vejo Estrelas",
+            "Crispian Milss"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--quem-diria",
+          "trackId": 13310161,
+          "altTrackIds": [
+            122316376
+          ],
+          "title": "Quem Diria?",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Dance Balance",
+            "Quem Diria?",
+            "Duas Noites No Deserto",
+            "Vertical"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "bide-ou-balde--dulci",
+          "trackId": 458874352,
+          "altTrackIds": [],
+          "title": "Dulci",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Hollywood #52",
+            "Cores Bonitas",
+            "Dulci",
+            "Seguir Viagem"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "tnt--to-na-lona",
+          "trackId": 115978244,
+          "altTrackIds": [],
+          "title": "To Na Lona",
+          "artist": "TNT",
+          "options": [
+            "To Na Lona",
+            "Juro Que Não",
+            "Irmã Dr. Robert",
+            "As Vezes Nunca"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--sexperienced-de-verao",
+          "trackId": 2571042672,
+          "altTrackIds": [],
+          "title": "Sexperienced (De Verão)",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Nem Tudo É Mais Como Era Antes",
+            "(Os Doces Exóticos De) Charlotte Grapewine",
+            "Literatura Brasileira",
+            "Sexperienced (De Verão)"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-13": {
+      "rounds": [
+        {
+          "songId": "os-replicantes--one-player",
+          "trackId": 651564832,
+          "altTrackIds": [
+            769703322
+          ],
+          "title": "One Player",
+          "artist": "Os Replicantes",
+          "options": [
+            "One Player",
+            "Sexo E Violência",
+            "Choque",
+            "Problemas...Sempre Existiram"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--gata-sincera",
+          "trackId": 99187418,
+          "altTrackIds": [],
+          "title": "Gata Sincera",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Sem Vacilar",
+            "Quem Se Importa",
+            "Aperitivado Phonk",
+            "Gata Sincera"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "bide-ou-balde--back-to-quinze",
+          "trackId": 1514427362,
+          "altTrackIds": [],
+          "title": "Back To Quinze",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Benga Minueto",
+            "Me Deixa Desafinar",
+            "À la Minuta",
+            "Back To Quinze"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "cachorro-grande--o-que-vai-ser",
+          "trackId": 548400302,
+          "altTrackIds": [],
+          "title": "O Que Vai Ser",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Novo Super-Herói",
+            "Túnel Do Tempo",
+            "O Que Vai Ser",
+            "Sexperienced"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--camila-camila",
+          "trackId": 14272468,
+          "altTrackIds": [
+            141340521,
+            142336499,
+            142336517,
+            142336519,
+            142336521,
+            142336523,
+            678053992,
+            1509945772,
+            1509997742,
+            2572100972
+          ],
+          "title": "Camila, Camila",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Primavera No Coração",
+            "Amigo Meu",
+            "Corrente",
+            "Camila, Camila"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-14": {
+      "rounds": [
+        {
+          "songId": "comunidade-nin-jitsu--aperitivado-phonk",
+          "trackId": 4170305492,
+          "altTrackIds": [
+            3055549151
+          ],
+          "title": "Aperitivado Phonk",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Aperitivado",
+            "Aperitivado Phonk",
+            "Pedro Balão",
+            "Loop Sessions: Toda Molhada"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "engenheiros-do-hawaii--o-papa-e-pop",
+          "trackId": 13252217,
+          "altTrackIds": [
+            70086904,
+            72290896,
+            122316416,
+            685828332,
+            1564486132,
+            1564486882,
+            1564488342
+          ],
+          "title": "O Papa é Pop",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Rota De Colisão",
+            "Deserto Freezer",
+            "Demais Amor!",
+            "O Papa é Pop"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--people-are",
+          "trackId": 142336501,
+          "altTrackIds": [],
+          "title": "People Are",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Culpa",
+            "People Are",
+            "Polaroid",
+            "Vamo pro Crime"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--maria-lacerda",
+          "trackId": 116647966,
+          "altTrackIds": [
+            769703342,
+            1163246962,
+            1731177617,
+            3725240412
+          ],
+          "title": "Maria Lacerda",
+          "artist": "Os Replicantes",
+          "options": [
+            "Sexo E Violência",
+            "Maria Lacerda",
+            "Meu Mundo E Nada Mais",
+            "Meninas Gostosas"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "bide-ou-balde--o-antipatico",
+          "trackId": 458874362,
+          "altTrackIds": [],
+          "title": "O Antipático",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Dulci",
+            "Cnj",
+            "Me Envergonha",
+            "O Antipático"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-15": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--terra-de-gigantes",
+          "trackId": 13310164,
+          "altTrackIds": [
+            13310133,
+            70086906,
+            72290894,
+            122316338,
+            122316394,
+            1564486052,
+            1564486922,
+            1564488362
+          ],
+          "title": "Terra de Gigantes",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Piquete Do Caveira",
+            "Nove Zero Cinco Um",
+            "Até Mais",
+            "Terra de Gigantes"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--beleza-sob-um-veu",
+          "trackId": 1489031412,
+          "altTrackIds": [],
+          "title": "Beleza Sob um Véu",
+          "artist": "Os Replicantes",
+          "options": [
+            "Benga Minueto",
+            "Maria Lacerda",
+            "Beleza Sob um Véu",
+            "Nada É por Acaso"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--pandora",
+          "trackId": 128137997,
+          "altTrackIds": [],
+          "title": "Pandora",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Sintonizado",
+            "As Próximas Horas Serão Muito Boas",
+            "Pandora",
+            "Olhos Verdes"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "bide-ou-balde--a-ha",
+          "trackId": 458874332,
+          "altTrackIds": [],
+          "title": "A-Há",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Tudo Bem",
+            "Deixa Fudê",
+            "A-Há",
+            "Gerson"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "papas-da-lingua--hey-brown",
+          "trackId": 4156031552,
+          "altTrackIds": [
+            445908562
+          ],
+          "title": "Hey Brown",
+          "artist": "Papas da Língua",
+          "options": [
+            "Mulher da Vida",
+            "Juliana",
+            "Cachorro Louco",
+            "Hey Brown"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-16": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--eu-caminhava-cathedral-mix",
+          "trackId": 142337053,
+          "altTrackIds": [],
+          "title": "Eu Caminhava Cathedral Mix",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Compaixão",
+            "De Sul a Norte",
+            "90 Minutos",
+            "Eu Caminhava Cathedral Mix"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "bide-ou-balde--sr-promotor",
+          "trackId": 1514427282,
+          "altTrackIds": [],
+          "title": "Sr. Promotor",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Fulvio Sillas",
+            "Tudo Bem",
+            "Sr. Promotor",
+            "Buddy Holly"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--arpoador",
+          "trackId": 128137991,
+          "altTrackIds": [],
+          "title": "Arpoador",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Arpoador",
+            "ANALFABETO",
+            "Subir É Fácil, Díficil É Descer",
+            "Cleptomaníaca de Corações"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--cowboy",
+          "trackId": 1167106852,
+          "altTrackIds": [
+            101490084,
+            548336132,
+            1103240992
+          ],
+          "title": "Cowboy",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Barraco Armado",
+            "Meus Dois Amigos",
+            "Cowboy",
+            "Cowboy 26"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "graforreia-xilarmonica--rancho",
+          "trackId": 982400102,
+          "altTrackIds": [],
+          "title": "Rancho",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Se Arrependimento Matasse",
+            "Rancho",
+            "Sr. Promotor",
+            "Twist"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-10-17": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--strip-tease-baby",
+          "trackId": 16988522,
+          "altTrackIds": [
+            142337033
+          ],
+          "title": "Strip-Tease Baby",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Strip-Tease Baby",
+            "Second Life",
+            "Fuga (Una Chica Fuga)",
+            "Clubber"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--o-bagulho-e-um-veneno-unfunky-808",
+          "trackId": 2375985745,
+          "altTrackIds": [],
+          "title": "O Bagulho É um Veneno (Unfunky 808)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Tipo Loco",
+            "Julia",
+            "O Bagulho É um Veneno (Unfunky 808)",
+            "Arrastão do Amor"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--3ª-do-plural",
+          "trackId": 98000594,
+          "altTrackIds": [
+            411541342,
+            685828542
+          ],
+          "title": "3ª Do Plural",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "10.000 Destinos",
+            "3ª Do Plural",
+            "O Que Você Tem",
+            "Vicios De Linguagem"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--vou-mudar",
+          "trackId": 657783092,
+          "altTrackIds": [],
+          "title": "Vou Mudar",
+          "artist": "Papas da Língua",
+          "options": [
+            "Exatamente Igual",
+            "Vou Mudar",
+            "Canção Pra Ela",
+            "Vem Pra Cá"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--chore-meu-bem",
+          "trackId": 116647978,
+          "altTrackIds": [
+            1731177687
+          ],
+          "title": "Chore Meu Bem",
+          "artist": "Os Replicantes",
+          "options": [
+            "Chore Meu Bem",
+            "O Antipático",
+            "Anti-Herói",
+            "Chegou a Hora de Ver Quem É Quem"
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-10-18": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--fuga",
+          "trackId": 16988525,
+          "altTrackIds": [
+            142337039,
+            433201462,
+            1032625582,
+            4139165491
+          ],
+          "title": "Fuga",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Algo Que Não Se Pode Tocar",
+            "Baby",
+            "Amanhã ou Depois",
+            "Fuga"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--ouca-o-que-eu-digo-nao-ouca-ninguem",
+          "trackId": 13310152,
+          "altTrackIds": [
+            3574075,
+            13310135,
+            72290891,
+            122316358,
+            122316398,
+            137542397,
+            411541442,
+            1564486082,
+            1564487062,
+            1564489102
+          ],
+          "title": "Ouça o que Eu Digo, Não Ouça Ninguém",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Rádio Pirata",
+            "A Revolta Dos Dândis Pt. 1",
+            "Ela Disse",
+            "Ouça o que Eu Digo, Não Ouça Ninguém"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "comunidade-nin-jitsu--tadala-neles-funk",
+          "trackId": 3309749431,
+          "altTrackIds": [],
+          "title": "TADALA NELES (FUNK)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Chutá O Balde",
+            "Me Envergonha",
+            "Loop Sessions: Toda Molhada",
+            "TADALA NELES (FUNK)"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "graforreia-xilarmonica--minha-picardia",
+          "trackId": 982399992,
+          "altTrackIds": [],
+          "title": "Minha Picardia",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Beethoven",
+            "Amigo Punk",
+            "Minha Picardia",
+            "Lance De Dados"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "bide-ou-balde--hollywood-52",
+          "trackId": 458874282,
+          "altTrackIds": [],
+          "title": "Hollywood #52",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Hollywood #52",
+            "Todo Mundo É Uma Ilha",
+            "Madonna",
+            "(Não Existe Lugar) Mais Longe Que o Japão"
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-10-19": {
+      "rounds": [
+        {
+          "songId": "comunidade-nin-jitsu--dj-bebum",
+          "trackId": 2716075932,
+          "altTrackIds": [],
+          "title": "DJ Bebum",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Universo Colorido",
+            "Só Notícia Boa",
+            "Bonde do Cachorro Quente",
+            "DJ Bebum"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--descondo-a-serra",
+          "trackId": 13310149,
+          "altTrackIds": [
+            122316448
+          ],
+          "title": "Descondo A Serra",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Descondo A Serra",
+            "Variações Sobre um Mesmo Tema",
+            "Desde Quando?",
+            "Bromélias"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "nenhum-de-nos--afastado",
+          "trackId": 142337031,
+          "altTrackIds": [],
+          "title": "Afastado",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Eu Caminhava Hard Mix",
+            "Blusinha Branca",
+            "Afastado",
+            "Eu não entendo"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--eu-quis-jogar",
+          "trackId": 548400292,
+          "altTrackIds": [],
+          "title": "Eu Quis Jogar",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Nuvens de Fumaça",
+            "Carros",
+            "Eu Pensei",
+            "Eu Quis Jogar"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--quando-uma-musica-no-radio-tocar",
+          "trackId": 100947456,
+          "altTrackIds": [],
+          "title": "Quando uma Música No Rádio Tocar",
+          "artist": "Os Replicantes",
+          "options": [
+            "Hard-Core",
+            "Pereba",
+            "Quando uma Música No Rádio Tocar",
+            "To Fora"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-10-20": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--dancando-no-campo-minado",
+          "trackId": 4682238,
+          "altTrackIds": [
+            411541492
+          ],
+          "title": "Dançando No Campo Minado",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Identidade Zero",
+            "Descondo A Serra",
+            "Dançando No Campo Minado",
+            "Hora Do Mergulho"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "graforreia-xilarmonica--eu-gostaria-de-matar-os-dois",
+          "trackId": 1076682412,
+          "altTrackIds": [],
+          "title": "Eu Gostaria de Matar os Dois",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Meus Dois Amigos",
+            "Eu Gostaria de Matar os Dois",
+            "Debaixo do Chapéu",
+            "Bagaceiro Chinelão"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--chuta-o-balde-26",
+          "trackId": 4005688821,
+          "altTrackIds": [
+            3949426511
+          ],
+          "title": "Chutá o Balde 26",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Chutá o Balde 26",
+            "Chuva nas Calcinha (Mega Funk)",
+            "PRECISO DELA",
+            "Nunca Diga"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "tnt--saiba-escolher-seus-amigos",
+          "trackId": 2888511562,
+          "altTrackIds": [],
+          "title": "Saiba Escolher Seus Amigos",
+          "artist": "TNT",
+          "options": [
+            "Ao Redor",
+            "O Traste",
+            "Saiba Escolher Seus Amigos",
+            "Ana Banana"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--nao-entendo-nao-aguento",
+          "trackId": 135925980,
+          "altTrackIds": [],
+          "title": "Não Entendo, Não Aguento",
+          "artist": "Cachorro Grande",
+          "options": [
+            "A Conquista Do Espaço",
+            "Lunático",
+            "Não Entendo, Não Aguento",
+            "Sandro"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-10-21": {
+      "rounds": [
+        {
+          "songId": "os-replicantes--boy-do-subterraneo",
+          "trackId": 13310369,
+          "altTrackIds": [
+            651564802,
+            3725240332
+          ],
+          "title": "Boy Do Subterrâneo",
+          "artist": "Os Replicantes",
+          "options": [
+            "Terrorismo Sem Bomba",
+            "Não Consigo Ficar",
+            "Beethoven",
+            "Boy Do Subterrâneo"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--vertical",
+          "trackId": 137727529,
+          "altTrackIds": [],
+          "title": "Vertical",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Vertical",
+            "Coração Blindado",
+            "Wander´s Dream",
+            "Pra Ser Sincero"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--montagem-do-mano-changes",
+          "trackId": 1094177442,
+          "altTrackIds": [],
+          "title": "Montagem do Mano Changes",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Maremoto",
+            "Demais Amor!",
+            "Minha Princesa",
+            "Montagem do Mano Changes"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "cachorro-grande--vai-t-q-da",
+          "trackId": 96219816,
+          "altTrackIds": [
+            2571042502
+          ],
+          "title": "Vai T. Q. Dá",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Aperitivado",
+            "O Certo e o Errado",
+            "Sem Problemas",
+            "Vai T. Q. Dá"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--se-voce-ficar-um-pouco-mais",
+          "trackId": 663278152,
+          "altTrackIds": [],
+          "title": "Se Você Ficar um Pouco Mais",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Culpa",
+            "Se Você Ficar um Pouco Mais",
+            "Camila, Camila",
+            "Quando Amanhecer"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-10-22": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--sala-vip",
+          "trackId": 13310140,
+          "altTrackIds": [
+            122316430
+          ],
+          "title": "Sala Vip",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Toda Forma De Poder",
+            "Literatura Brasileira",
+            "Crônica",
+            "Sala Vip"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "tnt--ondas-coloridas",
+          "trackId": 115978248,
+          "altTrackIds": [],
+          "title": "Ondas Coloridas",
+          "artist": "TNT",
+          "options": [
+            "Não Quero Mais Te Ver",
+            "Amigo Punk",
+            "Ondas Coloridas",
+            "Amigo Meu"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--analfabeto",
+          "trackId": 1803353877,
+          "altTrackIds": [
+            1658160242
+          ],
+          "title": "ANALFABETO",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Gata Sincera",
+            "Melô do Analfabeto",
+            "ANALFABETO",
+            "Porto Alegre"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--enquanto-o-trem-que-espero-nao-vem",
+          "trackId": 612221992,
+          "altTrackIds": [],
+          "title": "Enquanto o Trem Que Espero Não Vem",
+          "artist": "Cachorro Grande",
+          "options": [
+            "O Que Vai Ser",
+            "Enquanto o Trem Que Espero Não Vem",
+            "O Bagulho É um Veneno (Unfunky 808)",
+            "Cinema"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--musica-para-dancar",
+          "trackId": 723079812,
+          "altTrackIds": [],
+          "title": "Música para Dançar",
+          "artist": "Papas da Língua",
+          "options": [
+            "Eu Quero É Botar Meu Bloco na Rua",
+            "Vida Perdida",
+            "Música para Dançar",
+            "Cobertor"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-10-23": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--fusao-a-frio",
+          "trackId": 4682243,
+          "altTrackIds": [],
+          "title": "Fusão À Frio",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Hard-Core",
+            "Fusão À Frio",
+            "Outras Freqüências",
+            "Nada A Ver"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--muriel",
+          "trackId": 66342243,
+          "altTrackIds": [
+            4034238741
+          ],
+          "title": "Muriel",
+          "artist": "Papas da Língua",
+          "options": [
+            "Não Adianta Chorar",
+            "Muriel",
+            "Quase Bom",
+            "Demais Amor!"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "graforreia-xilarmonica--literatura-brasileira",
+          "trackId": 982399932,
+          "altTrackIds": [],
+          "title": "Literatura Brasileira",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Empregada",
+            "Iluminados Monstros do Amor",
+            "Literatura Brasileira",
+            "Solidão"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--carros",
+          "trackId": 142336535,
+          "altTrackIds": [
+            16991456
+          ],
+          "title": "Carros",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Carros",
+            "Santa Felicidade",
+            "Aquela Estação",
+            "Casa do Sol (Summer Hit 2000)"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--debaixo-do-chapeu",
+          "trackId": 96219802,
+          "altTrackIds": [
+            96004580,
+            99053742,
+            2571042432,
+            2571042562,
+            2571042682
+          ],
+          "title": "Debaixo do Chapéu",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Limpol no Astral",
+            "Estou Na Mão",
+            "O Que Vai Ser",
+            "Debaixo do Chapéu"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-24": {
+      "rounds": [
+        {
+          "songId": "comunidade-nin-jitsu--me-odeie",
+          "trackId": 4170305452,
+          "altTrackIds": [
+            2386188465
+          ],
+          "title": "Me Odeie",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Nunca Mais Poder",
+            "Tudo Que Ela Gosta de Escutar",
+            "Me Odeie",
+            "Moneypulador"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--nove-zero-cinco-um",
+          "trackId": 13310282,
+          "altTrackIds": [
+            122316536
+          ],
+          "title": "Nove Zero Cinco Um",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Segunda-Feira Blues II",
+            "Dançando No Campo Minado",
+            "Nove Zero Cinco Um",
+            "Back To Quinze"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--o-marinheiro-que-perdeu-as-gracas-do-mar",
+          "trackId": 14272471,
+          "altTrackIds": [
+            142336507
+          ],
+          "title": "O Marinheiro Que Perdeu As Graças Do Mar",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Um Pequeno Imprevisto",
+            "Não Consigo Mais Sonhar",
+            "Abraços E Brigas",
+            "O Marinheiro Que Perdeu As Graças Do Mar"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--outro-lugar",
+          "trackId": 651566562,
+          "altTrackIds": [],
+          "title": "Outro Lugar",
+          "artist": "Os Replicantes",
+          "options": [
+            "Outro Lugar",
+            "Hey Babe",
+            "Meio Madeira Meio Alvenaria",
+            "Se Quer Saber"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "papas-da-lingua--a-prosa",
+          "trackId": 15023943,
+          "altTrackIds": [],
+          "title": "A Prosa",
+          "artist": "Papas da Língua",
+          "options": [
+            "Vem Pra Cá",
+            "Mary Jane (Essa Mulher É o Diabo)",
+            "Pricipício",
+            "A Prosa"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-25": {
+      "rounds": [
+        {
+          "songId": "tnt--mais-menos",
+          "trackId": 115978262,
+          "altTrackIds": [],
+          "title": "Mais Menos",
+          "artist": "TNT",
+          "options": [
+            "Just",
+            "Não Sei",
+            "Noite Vem,Noite Vai",
+            "Mais Menos"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--nightmares",
+          "trackId": 471254052,
+          "altTrackIds": [],
+          "title": "Nightmares",
+          "artist": "Os Replicantes",
+          "options": [
+            "Mixto Quente",
+            "Nightmares",
+            "Corrida Espacial",
+            "Longe Pacas"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "engenheiros-do-hawaii--eu-ligo-pra-voce",
+          "trackId": 13310116,
+          "altTrackIds": [
+            122316316
+          ],
+          "title": "Eu Ligo Pra Você",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Seguir Viagem",
+            "Se Quer Saber",
+            "Nossas Vidas",
+            "Eu Ligo Pra Você"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--experiencia",
+          "trackId": 1672804,
+          "altTrackIds": [
+            720448582
+          ],
+          "title": "Experiência",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Experiência",
+            "Bagaceiro Chinelão",
+            "Nossa Dança",
+            "Melhor Lugar"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "papas-da-lingua--vou-ligar",
+          "trackId": 4154048012,
+          "altTrackIds": [
+            3314327,
+            445912392,
+            4147006912
+          ],
+          "title": "Vou Ligar",
+          "artist": "Papas da Língua",
+          "options": [
+            "Eu Sei",
+            "Vou Ligar",
+            "Cores Bonitas",
+            "To Fora"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-10-26": {
+      "rounds": [
+        {
+          "songId": "os-replicantes--sangue-sujo",
+          "trackId": 116647982,
+          "altTrackIds": [
+            1731177627
+          ],
+          "title": "Sangue Sujo",
+          "artist": "Os Replicantes",
+          "options": [
+            "Feminicídio",
+            "Sangue Sujo",
+            "Da lata",
+            "A Promessa"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--rock-and-roll-lullaby",
+          "trackId": 4156031542,
+          "altTrackIds": [
+            66342242,
+            445908552,
+            4034238721
+          ],
+          "title": "Rock and Roll Lullaby",
+          "artist": "Papas da Língua",
+          "options": [
+            "No Calor Da Hora",
+            "Rock and Roll Lullaby",
+            "Balada Do Amor Perdido",
+            "Olhos Iguais Aos Seus"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--perfeita-companhia",
+          "trackId": 663278142,
+          "altTrackIds": [],
+          "title": "Perfeita Companhia",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Primavera No Coração",
+            "Perfeita Companhia",
+            "Amanhã ou Depois",
+            "Estou Na Mão"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "cachorro-grande--dificil-de-segurar",
+          "trackId": 135925982,
+          "altTrackIds": [
+            548278062
+          ],
+          "title": "Difícil de Segurar",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Crispian Milss",
+            "Baixo Augusta",
+            "Difícil de Segurar",
+            "Patê"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--borracho-y-loco",
+          "trackId": 4170305312,
+          "altTrackIds": [
+            2164107507
+          ],
+          "title": "Borracho Y Loco",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Borracho Y Loco",
+            "Família H",
+            "Benga Velha Companheira",
+            "Sou Blase"
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-10-27": {
+      "rounds": [
+        {
+          "songId": "os-replicantes--sonho-technicolor",
+          "trackId": 843083062,
+          "altTrackIds": [],
+          "title": "Sonho Technicolor",
+          "artist": "Os Replicantes",
+          "options": [
+            "Paz no Seu Coração",
+            "Astronauta",
+            "Sonho Technicolor",
+            "Meninas Gostosas"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "papas-da-lingua--o-amor-se-escondeu",
+          "trackId": 657783072,
+          "altTrackIds": [],
+          "title": "O Amor Se Escondeu",
+          "artist": "Papas da Língua",
+          "options": [
+            "Demais Amor!",
+            "Mistérios da Sexualidade Humana",
+            "Vou Mudar",
+            "O Amor Se Escondeu"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--sobre-as-maos",
+          "trackId": 16988526,
+          "altTrackIds": [
+            142337043
+          ],
+          "title": "Sobre As Mãos",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Roda-Gigante",
+            "Tudo Novo de Novo",
+            "Noticia Boa",
+            "Sobre As Mãos"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "comunidade-nin-jitsu--tabua",
+          "trackId": 1961293727,
+          "altTrackIds": [],
+          "title": "Tábua",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Tábua",
+            "Diamantes Verdadeiros",
+            "Cowboy (Pesadão)",
+            "Subir É Fácil, Díficil É Descer"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "graforreia-xilarmonica--fulvio-sillas",
+          "trackId": 1076682522,
+          "altTrackIds": [],
+          "title": "Fulvio Sillas",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Twist",
+            "Eu Gostaria de Matar os Dois",
+            "Solução de Contorno",
+            "Fulvio Sillas"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-28": {
+      "rounds": [
+        {
+          "songId": "os-replicantes--old-school-veterans-braziliasta",
+          "trackId": 100947468,
+          "altTrackIds": [],
+          "title": "Old School Veterans Braziliasta",
+          "artist": "Os Replicantes",
+          "options": [
+            "Corro Demais",
+            "Libertà",
+            "Só Mais Uma Chance (Pin-Up)",
+            "Old School Veterans Braziliasta"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "cachorro-grande--hey-amigo",
+          "trackId": 612221912,
+          "altTrackIds": [
+            99053758,
+            548278122,
+            548399712,
+            561345302
+          ],
+          "title": "Hey, Amigo!",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Quando Amanhecer",
+            "Hey, Amigo!",
+            "K-7",
+            "Tudo Vai Mudar"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "tnt--vacilou",
+          "trackId": 683283382,
+          "altTrackIds": [],
+          "title": "Vacilou",
+          "artist": "TNT",
+          "options": [
+            "Melissa",
+            "Deus Quis",
+            "Vacilou",
+            "Ao Redor"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--ah-eu-to-sem-erva",
+          "trackId": 651881102,
+          "altTrackIds": [
+            101490086,
+            548336112,
+            684580112,
+            1103241032,
+            1803353957
+          ],
+          "title": "Ah! Eu Tô Sem Erva",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Usa Abusa",
+            "Não Consigo Mais Sonhar",
+            "Ah! Eu Tô Sem Erva",
+            "Funk da Paz (Rebola o Resbolah)"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--o-inferno-e-o-ceu",
+          "trackId": 142336483,
+          "altTrackIds": [],
+          "title": "O Inferno e o Céu",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Acorda",
+            "Uma História Real",
+            "O Futuro",
+            "O Inferno e o Céu"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-29": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--nossa-danca",
+          "trackId": 720448632,
+          "altTrackIds": [],
+          "title": "Nossa Dança",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Nossa Dança",
+            "Pensando Nela",
+            "Marcas do Que Se Foi",
+            "Una Vida Ordinaria"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "engenheiros-do-hawaii--pra-entender",
+          "trackId": 13310160,
+          "altTrackIds": [
+            13310064,
+            122316374,
+            122316482
+          ],
+          "title": "Pra Entender",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Pra Entender",
+            "Melissa",
+            "Segunda-Feira Blues II",
+            "Era Um Garoto Como Eu Amava Os Beatles E Os Rolling Stones"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--mais-pressao",
+          "trackId": 2285221817,
+          "altTrackIds": [],
+          "title": "Mais Pressão",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Nao Aguento Mais 26",
+            "Mais Pressão",
+            "O Tempo Está do Meu Lado",
+            "Gozafone"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "tnt--ao-redor",
+          "trackId": 115978252,
+          "altTrackIds": [],
+          "title": "Ao Redor",
+          "artist": "TNT",
+          "options": [
+            "Vacilou",
+            "Amigo Meu",
+            "Ao Redor",
+            "Me Deixa Desafinar"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "os-replicantes--os-cegos-tambem-vao-ao-cinema",
+          "trackId": 843083072,
+          "altTrackIds": [],
+          "title": "Os Cegos Também Vão ao Cinema",
+          "artist": "Os Replicantes",
+          "options": [
+            "Só Mais Uma Chance (Pin-Up)",
+            "Vida Perdida",
+            "Tom & Jerry",
+            "Os Cegos Também Vão ao Cinema"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-30": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--algo-por-voce",
+          "trackId": 13310197,
+          "altTrackIds": [
+            122316520
+          ],
+          "title": "Algo Por Você",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Algo Por Você",
+            "Difícil de Segurar",
+            "Nossas Vidas",
+            "Simples De Coração"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "papas-da-lingua--balada-do-amor-perdido",
+          "trackId": 657783142,
+          "altTrackIds": [],
+          "title": "Balada Do Amor Perdido",
+          "artist": "Papas da Língua",
+          "options": [
+            "Balada Do Amor Perdido",
+            "Problemas",
+            "Vou Empurrá",
+            "Eu Sei"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--a-hora-do-brasil",
+          "trackId": 96189306,
+          "altTrackIds": [
+            548278082,
+            548400312,
+            561345322
+          ],
+          "title": "A Hora do Brasil",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Amanhã",
+            "Deixa Fudê",
+            "A Hora do Brasil",
+            "Mundo Diferente"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--confianca",
+          "trackId": 703676052,
+          "altTrackIds": [],
+          "title": "Confiança",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Arrastão do Amor",
+            "Estrela do Oriente",
+            "Confiança",
+            "Tudo Que Aconteceu"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "graforreia-xilarmonica--eu",
+          "trackId": 1076682452,
+          "altTrackIds": [],
+          "title": "Eu",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Eu Gostaria de Matar os Dois",
+            "Tive Teu Nome",
+            "Quem Tem Pressa Não Se Interessa",
+            "Eu"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-31": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--enquanto-conversamos",
+          "trackId": 14272470,
+          "altTrackIds": [
+            142336497
+          ],
+          "title": "Enquanto Conversamos",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Pequena",
+            "Enquanto Conversamos",
+            "Todo Mundo É Uma Ilha",
+            "Quase Sem Querer"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--lembrar-de-ser-feliz-agora",
+          "trackId": 100947460,
+          "altTrackIds": [],
+          "title": "Lembrar de Ser Feliz Agora",
+          "artist": "Os Replicantes",
+          "options": [
+            "Não Consigo Ficar",
+            "Chernobil",
+            "Lembrar de Ser Feliz Agora",
+            "Família H"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--piano-bar",
+          "trackId": 13310141,
+          "altTrackIds": [
+            3574071,
+            72290898,
+            122316432,
+            137542389,
+            137727557,
+            411541502
+          ],
+          "title": "Piano Bar",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Pose",
+            "Piano Bar",
+            "Carros",
+            "Seguir Viagem"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--maxima-culpa",
+          "trackId": 445912482,
+          "altTrackIds": [
+            4147007002
+          ],
+          "title": "Máxima Culpa",
+          "artist": "Papas da Língua",
+          "options": [
+            "Pensando Nela",
+            "Máxima Culpa",
+            "Borracho Y Loco",
+            "Te Peguei"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "tnt--estou-na-mao",
+          "trackId": 685317532,
+          "altTrackIds": [
+            2888511462
+          ],
+          "title": "Estou Na Mão",
+          "artist": "TNT",
+          "options": [
+            "Saiba Escolher Seus Amigos",
+            "Estou Na Mão",
+            "Desse Jeito",
+            "Ejaculação Precoce"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-11-01": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--lance-de-dados",
+          "trackId": 13310191,
+          "altTrackIds": [
+            122316508
+          ],
+          "title": "Lance De Dados",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Concreto E Asfalto",
+            "Tribos E Tribunais",
+            "O Banco",
+            "Lance De Dados"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--uma-historia-real",
+          "trackId": 13262199,
+          "altTrackIds": [],
+          "title": "Uma História Real",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Uma História Real",
+            "Igual a Você",
+            "O Astronauta de Mármore",
+            "Só Mais Uma Chance (Pin-Up)"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--tecla-sap",
+          "trackId": 2285221887,
+          "altTrackIds": [],
+          "title": "Tecla Sap",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Funkstein",
+            "Primo Morango 26",
+            "Noite Vem,Noite Vai",
+            "Tecla Sap"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "papas-da-lingua--seu-au-au",
+          "trackId": 4106349051,
+          "altTrackIds": [],
+          "title": "Seu Au Au",
+          "artist": "Papas da Língua",
+          "options": [
+            "Blusinha Branca",
+            "Seu Au Au",
+            "Encontros Amargos",
+            "À la Minuta"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "cachorro-grande--lili",
+          "trackId": 96219804,
+          "altTrackIds": [
+            2571042442,
+            2571042602,
+            2571042692
+          ],
+          "title": "Lili",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Mixto Quente",
+            "Como Era Bom",
+            "Lili",
+            "O Que Você Tem"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-02": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--beijos-pra-torcida",
+          "trackId": 13310119,
+          "altTrackIds": [
+            122316322
+          ],
+          "title": "Beijos Pra Torcida",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Baby Eu Vou Morar N'outro Planeta",
+            "Beijos Pra Torcida",
+            "Realidade Virtual",
+            "Crônica"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--toda-forma-de-amor",
+          "trackId": 1492991872,
+          "altTrackIds": [],
+          "title": "Toda Forma De Amor",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Tente Outra Vez",
+            "Toda Forma De Amor",
+            "Tábua",
+            "People Are"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "bide-ou-balde--matelasse",
+          "trackId": 458874342,
+          "altTrackIds": [],
+          "title": "Matelassê",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "O Antipático",
+            "Matelassê",
+            "Back To Quinze",
+            "Subir É Fácil, Díficil É Descer"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--o-futuro-e-vortex",
+          "trackId": 651564852,
+          "altTrackIds": [
+            554981372,
+            3725240322
+          ],
+          "title": "O Futuro é Vortex",
+          "artist": "Os Replicantes",
+          "options": [
+            "Sangue Sujo",
+            "Second Life",
+            "O Futuro é Vortex",
+            "Fazê a Cabeça 26"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--atividade-na-laje",
+          "trackId": 2285221917,
+          "altTrackIds": [],
+          "title": "Atividade na Laje",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Atividade na Laje",
+            "Ah! Eu Tô Sem Erva (Pesadona)",
+            "Mais Pressão",
+            "O Antipático"
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-11-03": {
+      "rounds": [
+        {
+          "songId": "papas-da-lingua--espelho-meu",
+          "trackId": 4154048032,
+          "altTrackIds": [],
+          "title": "Espelho Meu",
+          "artist": "Papas da Língua",
+          "options": [
+            "Em Setembro",
+            "Cardume",
+            "Demais Amor!",
+            "Espelho Meu"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "cachorro-grande--lunatico",
+          "trackId": 96219798,
+          "altTrackIds": [
+            96004596,
+            99053756,
+            548278142,
+            548399692,
+            548400322,
+            561345362,
+            2571042412,
+            2571042592
+          ],
+          "title": "Lunático",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Diga o Que Você Quer Escutar",
+            "Sinceramente",
+            "Lunático",
+            "Somos Quem Podemos Ser"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--amanha-ou-depois",
+          "trackId": 13262190,
+          "altTrackIds": [
+            1032625502,
+            1509997772,
+            2572100992,
+            4139165481
+          ],
+          "title": "Amanhã ou Depois",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Um Pequeno Imprevisto",
+            "O Antipático",
+            "Amanhã ou Depois",
+            "A Minha Casa"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--ate-mais",
+          "trackId": 305049591,
+          "altTrackIds": [],
+          "title": "Até Mais",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Patife",
+            "Lance De Dados",
+            "Até Mais",
+            "Realidade Virtual"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--se-acha",
+          "trackId": 854472602,
+          "altTrackIds": [],
+          "title": "Se Acha",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Funk Até o Caroço",
+            "Se Acha",
+            "Soninho",
+            "Md Syndrome 26"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-11-04": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--no-meio-de-tudo-voce",
+          "trackId": 137727537,
+          "altTrackIds": [
+            411541392
+          ],
+          "title": "No Meio De Tudo, Você",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "No Meio De Tudo, Você",
+            "Pampa No Walkman",
+            "Toda Forma De Poder",
+            "Adeus"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--eu-nao-vou-mudar",
+          "trackId": 548400252,
+          "altTrackIds": [],
+          "title": "Eu Não Vou Mudar",
+          "artist": "Cachorro Grande",
+          "options": [
+            "As Próximas Horas Serão Muito Boas",
+            "O Tempo Está do Meu Lado",
+            "Eu Não Vou Mudar",
+            "Vem Pra Cá"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "os-replicantes--buraco-transdimensional",
+          "trackId": 843083122,
+          "altTrackIds": [],
+          "title": "Buraco Transdimensional",
+          "artist": "Os Replicantes",
+          "options": [
+            "Buraco Transdimensional",
+            "Chuva De Containers",
+            "Hey Babe",
+            "Choque"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--funk-da-paz-rebola-o-resbola",
+          "trackId": 2285221827,
+          "altTrackIds": [],
+          "title": "Funk da Paz (Rebola o Resbola)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Identidade Zero",
+            "Funk da Paz (Rebola o Resbola)",
+            "Silicone",
+            "Merda de Bar"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "graforreia-xilarmonica--hare",
+          "trackId": 982400042,
+          "altTrackIds": [],
+          "title": "Hare",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Pensando Nela",
+            "Fulvio Sillas",
+            "Hare",
+            "Estou Na Mão"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-05": {
+      "rounds": [
+        {
+          "songId": "os-replicantes--misterios-da-sexualidade-humana",
+          "trackId": 651566222,
+          "altTrackIds": [],
+          "title": "Mistérios da Sexualidade Humana",
+          "artist": "Os Replicantes",
+          "options": [
+            "Sangue Sujo",
+            "Mistérios da Sexualidade Humana",
+            "E Daí?",
+            "O Antipático"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--piquete-do-caveira",
+          "trackId": 1492991822,
+          "altTrackIds": [],
+          "title": "Piquete Do Caveira",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Rancho",
+            "Piquete Do Caveira",
+            "Tudo Novo de Novo",
+            "Abraços de Brigas"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--nao-consigo-mais-sonhar",
+          "trackId": 657783082,
+          "altTrackIds": [],
+          "title": "Não Consigo Mais Sonhar",
+          "artist": "Papas da Língua",
+          "options": [
+            "Não Consigo Mais Sonhar",
+            "Essa Não É A Sua Vida",
+            "No Calor Da Hora",
+            "Maremoto"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "engenheiros-do-hawaii--o-sonho-e-popular",
+          "trackId": 13310138,
+          "altTrackIds": [
+            122316426
+          ],
+          "title": "O Sonho E Popular",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Desde Aquele Dia",
+            "A Revolta Dos Dândis Pt. 1",
+            "Sintonizado",
+            "O Sonho E Popular"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "cachorro-grande--ben-hur",
+          "trackId": 128137999,
+          "altTrackIds": [],
+          "title": "Ben-Hur",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Aquela Estação",
+            "O Fantasma do Natal Passado",
+            "Ben-Hur",
+            "Pandora"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-06": {
+      "rounds": [
+        {
+          "songId": "comunidade-nin-jitsu--popozuda-rock-n-roll",
+          "trackId": 1103241082,
+          "altTrackIds": [],
+          "title": "Popozuda Rock´n´roll",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Te Peguei",
+            "Popozuda Rock´n´roll",
+            "Amigo da Onça",
+            "Família H"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--o-sorriso-de-jennifer",
+          "trackId": 13262191,
+          "altTrackIds": [],
+          "title": "O Sorriso De Jennifer",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "O Sorriso De Jennifer",
+            "Algum Mistério",
+            "(Não Existe Lugar) Mais Longe Que o Japão",
+            "Um Girassol Da Cor Do Seu Cabelo"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "bide-ou-balde--a-la-minuta",
+          "trackId": 76008452,
+          "altTrackIds": [],
+          "title": "À la Minuta",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Tudo Que Ela Gosta de Escutar",
+            "Melissa",
+            "Não Adianta Chorar",
+            "À la Minuta"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "cachorro-grande--crispian-milss",
+          "trackId": 548400262,
+          "altTrackIds": [],
+          "title": "Crispian Milss",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Crispian Milss",
+            "Na Sua Solidão",
+            "De Longe Todo Mundo É Normal",
+            "Old School Veterans Braziliasta"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "os-replicantes--sexo-e-violencia",
+          "trackId": 13310380,
+          "altTrackIds": [
+            651566242
+          ],
+          "title": "Sexo E Violência",
+          "artist": "Os Replicantes",
+          "options": [
+            "Churrasco",
+            "Denis",
+            "Sexo E Violência",
+            "África do Sul"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-07": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--vicios-de-linguagem",
+          "trackId": 13310196,
+          "altTrackIds": [
+            122316518
+          ],
+          "title": "Vicios De Linguagem",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Vamos para uma Excursão",
+            "Vicios De Linguagem",
+            "A Revolta Dos Dandis Part I",
+            "Guardas Da Fronteira"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "cachorro-grande--o-dia-de-amanha",
+          "trackId": 96219820,
+          "altTrackIds": [
+            2571042522,
+            2571042572,
+            2571042712
+          ],
+          "title": "O Dia de Amanhã",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Pessoas Vazias",
+            "O Dia de Amanhã",
+            "Agoniada",
+            "Hippie-Punk-Rajneesh"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--ah-eu-to-sem-erva-pesadona",
+          "trackId": 4170305412,
+          "altTrackIds": [
+            1361408392
+          ],
+          "title": "Ah! Eu Tô Sem Erva (Pesadona)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Armas Químicas E Poemas",
+            "Maremoto",
+            "Ah! Eu Tô Sem Erva (Pesadona)",
+            "Cnj"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--sangue-latino",
+          "trackId": 142336547,
+          "altTrackIds": [
+            16988538,
+            16991469,
+            16991479,
+            142336553
+          ],
+          "title": "Sangue Latino",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Quando Amanhecer",
+            "Sangue Latino",
+            "Último Beijo",
+            "Monstrinhos"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--po-de-pimenta",
+          "trackId": 4154048092,
+          "altTrackIds": [
+            3314334,
+            445912432,
+            723079712,
+            3947977361,
+            4147006952
+          ],
+          "title": "Pó De Pimenta",
+          "artist": "Papas da Língua",
+          "options": [
+            "Pingos de Amor",
+            "Pó De Pimenta",
+            "Matelassê",
+            "Garotas do Brasil"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-11-08": {
+      "rounds": [
+        {
+          "songId": "os-replicantes--clones-de-stallone",
+          "trackId": 843083162,
+          "altTrackIds": [],
+          "title": "Clones de Stallone",
+          "artist": "Os Replicantes",
+          "options": [
+            "Deixa Tudo Como Está",
+            "Patê",
+            "Clones de Stallone",
+            "Problemas"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--novos-horizontes",
+          "trackId": 3574079,
+          "altTrackIds": [
+            137542405,
+            137542419,
+            137727551
+          ],
+          "title": "Novos Horizontes",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Seguranca",
+            "Pra Entender",
+            "Novos Horizontes",
+            "Cardume"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--bonde-do-cachorro-quente-02",
+          "trackId": 2877040882,
+          "altTrackIds": [],
+          "title": "Bonde Do Cachorro Quente 02",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Essa Não É A Sua Vida",
+            "Amigo da Onça",
+            "Bonde Do Cachorro Quente 02",
+            "Funk da Paz (Rebola o Resbola)"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--tudo-o-que-passou",
+          "trackId": 1509945732,
+          "altTrackIds": [],
+          "title": "Tudo o Que Passou",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Eu Vejo Estrelas",
+            "Tudo o Que Passou",
+            "Máxima Culpa",
+            "O Aprendiz"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "cachorro-grande--mundo-diferente",
+          "trackId": 135926000,
+          "altTrackIds": [],
+          "title": "Mundo Diferente",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Amanhã",
+            "Cleptomaníaca de Corações",
+            "Sou Blase",
+            "Mundo Diferente"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-11-09": {
+      "rounds": [
+        {
+          "songId": "cachorro-grande--sexperienced",
+          "trackId": 96219800,
+          "altTrackIds": [
+            96004572,
+            99053734,
+            2571042422,
+            2571042552,
+            2571042722
+          ],
+          "title": "Sexperienced",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Sexperienced",
+            "Balada Do Amor Perdido",
+            "Cinema",
+            "Diga o Que Você Quer Escutar"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "graforreia-xilarmonica--benga-na-america-central",
+          "trackId": 1076682482,
+          "altTrackIds": [],
+          "title": "Benga na América Central",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Rezo Por Nós",
+            "Bagaceiro Chinelão",
+            "Minha Picardia",
+            "Benga na América Central"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "bide-ou-balde--k-7",
+          "trackId": 1514427352,
+          "altTrackIds": [],
+          "title": "K-7",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "K-7",
+            "(Não Existe Lugar) Mais Longe Que o Japão",
+            "Me Envergonha",
+            "Guantánamo"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "os-replicantes--bergamotas",
+          "trackId": 471254032,
+          "altTrackIds": [
+            769703382
+          ],
+          "title": "Bergamotas",
+          "artist": "Os Replicantes",
+          "options": [
+            "Sandina",
+            "A Verdadeira Corrida Espacial",
+            "Bergamotas",
+            "Infinita Highway"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "papas-da-lingua--falar-de-amor",
+          "trackId": 657783122,
+          "altTrackIds": [],
+          "title": "Falar De Amor",
+          "artist": "Papas da Língua",
+          "options": [
+            "Tudo Funcionando Direito",
+            "Falar De Amor",
+            "Música para Dançar",
+            "Balada Do Amor Perdido"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-11-10": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--esperancas-perdidas",
+          "trackId": 703676122,
+          "altTrackIds": [],
+          "title": "Esperanças Perdidas",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Esperanças Perdidas",
+            "Confiança",
+            "Tu Vício",
+            "(Eu Te Amo) Lucinda"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "engenheiros-do-hawaii--3-minutos",
+          "trackId": 13310280,
+          "altTrackIds": [
+            122316532
+          ],
+          "title": "3 Minutos",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Ilex Paraguariensis",
+            "Irmã Dr. Robert",
+            "Novos Horizontes",
+            "3 Minutos"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "graforreia-xilarmonica--baby",
+          "trackId": 1076682492,
+          "altTrackIds": [],
+          "title": "Baby",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Tive Teu Nome",
+            "Baby",
+            "Até Mais",
+            "Nunca Diga"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "tnt--quando-a-noite-vem",
+          "trackId": 115978256,
+          "altTrackIds": [],
+          "title": "Quando a Noite Vem",
+          "artist": "TNT",
+          "options": [
+            "A Cigana",
+            "Benga Velha Companheira",
+            "Juro Que Não",
+            "Quando a Noite Vem"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--solo-e-pra-minhoca",
+          "trackId": 116647974,
+          "altTrackIds": [
+            1731177697
+          ],
+          "title": "Solo É pra Minhoca",
+          "artist": "Os Replicantes",
+          "options": [
+            "Alguém Explica",
+            "Ele Quer Ser Punk",
+            "Solo É pra Minhoca",
+            "Velocidade"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-11": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rollings-stones-c-era-un-ragazzo-che-come-me-amava-i-beatles-e-i-rolling-stones",
+          "trackId": 685828652,
+          "altTrackIds": [],
+          "title": "Era Um Garoto Que Como Eu Amava Os Beatles E Os Rollings Stones (C'Era Un Ragazzo Che Come Me Amava I Beatles E I Rolling Stones)",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Negro Amor",
+            "Usa Abusa",
+            "Era Um Garoto Que Como Eu Amava Os Beatles E Os Rollings Stones (C'Era Un Ragazzo Che Come Me Amava I Beatles E I Rolling Stones)",
+            "Sopa De Letrinhas"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--o-tempo-esta-do-meu-lado",
+          "trackId": 96219818,
+          "altTrackIds": [
+            2571042512,
+            2571042632
+          ],
+          "title": "O Tempo Está do Meu Lado",
+          "artist": "Cachorro Grande",
+          "options": [
+            "O Tempo Está do Meu Lado",
+            "Juro Que Não",
+            "Diga o Que Você Quer Escutar",
+            "Cinema"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "os-replicantes--de-sul-a-norte",
+          "trackId": 116647968,
+          "altTrackIds": [],
+          "title": "De Sul a Norte",
+          "artist": "Os Replicantes",
+          "options": [
+            "Pereba",
+            "Não Entendo, Não Aguento",
+            "De Sul a Norte",
+            "Solução de Contorno"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--pequena",
+          "trackId": 1379588842,
+          "altTrackIds": [
+            106042401,
+            1510007942
+          ],
+          "title": "Pequena",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "TADALA NELES (FUNK)",
+            "Pequena",
+            "Início Fim",
+            "Carros"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--segredo",
+          "trackId": 1032116922,
+          "altTrackIds": [
+            1961293667
+          ],
+          "title": "Segredo",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Dias Que Virão",
+            "Casa do Sol (Summer Hit 2000)",
+            "Raimunda",
+            "Segredo"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-11-12": {
+      "rounds": [
+        {
+          "songId": "os-replicantes--corrida-espacial",
+          "trackId": 116647992,
+          "altTrackIds": [
+            111153246
+          ],
+          "title": "Corrida Espacial",
+          "artist": "Os Replicantes",
+          "options": [
+            "Colégio Interno",
+            "Corrida Espacial",
+            "Anti-Herói",
+            "Punk de Boutique"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--diga-a-ela",
+          "trackId": 720448532,
+          "altTrackIds": [
+            141340491,
+            1509997812
+          ],
+          "title": "Diga a Ela",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Ninguém pra Dizer Adeus",
+            "Diga a Ela",
+            "Mulher da Vida",
+            "Dia de Inverno"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--demais-amor",
+          "trackId": 445912452,
+          "altTrackIds": [
+            4147006972
+          ],
+          "title": "Demais Amor!",
+          "artist": "Papas da Língua",
+          "options": [
+            "Dance Balance",
+            "Demais Amor!",
+            "Me Envergonha",
+            "Universo Colorido"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--sem-vacilar",
+          "trackId": 2285221867,
+          "altTrackIds": [
+            2285221927
+          ],
+          "title": "Sem Vacilar",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Sem Vacilar",
+            "Detetive",
+            "Eu Não Vou Mudar",
+            "A NOITE"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--voce-pode-ate-pegar",
+          "trackId": 612221922,
+          "altTrackIds": [],
+          "title": "Você Pode Até Pegar",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Despliega",
+            "Electromod",
+            "Você Pode Até Pegar",
+            "De Longe Todo Mundo É Normal"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-13": {
+      "rounds": [
+        {
+          "songId": "comunidade-nin-jitsu--familia-h",
+          "trackId": 1228996732,
+          "altTrackIds": [],
+          "title": "Família H",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Família H",
+            "Encontros Amargos",
+            "NÓS TAMO JUNTINHO",
+            "Tema de Inverno 2026"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--sem-problemas",
+          "trackId": 612222002,
+          "altTrackIds": [],
+          "title": "Sem Problemas",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Sem Problemas",
+            "Conflitos Existenciais",
+            "Eu Pensei",
+            "Outono Em Porto Alegre"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "papas-da-lingua--sorte",
+          "trackId": 4106349061,
+          "altTrackIds": [
+            723079782,
+            3947977431,
+            3947977581
+          ],
+          "title": "Sorte",
+          "artist": "Papas da Língua",
+          "options": [
+            "Perto De Mim",
+            "Sorte",
+            "Patê",
+            "Garotas do Brasil"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--santa-felicidade",
+          "trackId": 1509997762,
+          "altTrackIds": [
+            433201422,
+            1509997912
+          ],
+          "title": "Santa Felicidade",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Santa Felicidade",
+            "Strip-Tease Baby",
+            "Eu Sei",
+            "Amigo Punk"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "os-replicantes--longe-pacas",
+          "trackId": 100947450,
+          "altTrackIds": [],
+          "title": "Longe Pacas",
+          "artist": "Os Replicantes",
+          "options": [
+            "Longe Pacas",
+            "Negócios à parte",
+            "Só Mais Uma Chance (Pin-Up)",
+            "Nem Tudo É Mais Como Era Antes"
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-11-14": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--cancao-da-meia-noite",
+          "trackId": 1492991782,
+          "altTrackIds": [
+            141340477
+          ],
+          "title": "Canção Da Meia Noite",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Libertà",
+            "Canção Da Meia Noite",
+            "Início Fim",
+            "Afastado"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "engenheiros-do-hawaii--melhor-assim",
+          "trackId": 305049661,
+          "altTrackIds": [],
+          "title": "Melhor Assim",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Diga Que Vai",
+            "Filmes De Guerra, Canções De Amor",
+            "Faz De Conta",
+            "Melhor Assim"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "cachorro-grande--diga-o-que-voce-quer-escutar",
+          "trackId": 96189308,
+          "altTrackIds": [],
+          "title": "Diga o Que Você Quer Escutar",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Ninguém Mais Lembra de Você",
+            "Diga o Que Você Quer Escutar",
+            "Debaixo do Chapéu",
+            "Cobertor"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--eu-quero-e-mucra",
+          "trackId": 1489031322,
+          "altTrackIds": [],
+          "title": "Eu Quero É Mucra!",
+          "artist": "Os Replicantes",
+          "options": [
+            "Punk de Boutique",
+            "Churrasco",
+            "Você Me Faz Continuar",
+            "Eu Quero É Mucra!"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "papas-da-lingua--disco-rock",
+          "trackId": 66342234,
+          "altTrackIds": [
+            657783022,
+            723079862,
+            3947977511,
+            4034238631
+          ],
+          "title": "Disco Rock",
+          "artist": "Papas da Língua",
+          "options": [
+            "Meus Dois Amigos",
+            "Baby",
+            "Disco Rock",
+            "Diga Sim"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-15": {
+      "rounds": [
+        {
+          "songId": "cachorro-grande--me-perdi",
+          "trackId": 612221962,
+          "altTrackIds": [],
+          "title": "Me Perdi",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Sandro",
+            "Me Perdi",
+            "Desentoa",
+            "Nunca Mais Voltar"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "graforreia-xilarmonica--nunca-diga",
+          "trackId": 982400032,
+          "altTrackIds": [],
+          "title": "Nunca Diga",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Eu",
+            "Literatura Brasileira",
+            "Nunca Diga",
+            "Tocaia"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--martiny-o-pancadao",
+          "trackId": 1167106962,
+          "altTrackIds": [],
+          "title": "Martiny (O Pancadão)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Benga Minueto",
+            "Martiny (O Pancadão)",
+            "Fidelidade",
+            "Toda Molhada"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "engenheiros-do-hawaii--eu-que-nao-amo-voce",
+          "trackId": 305049561,
+          "altTrackIds": [
+            137542413,
+            411541372,
+            685828662
+          ],
+          "title": "Eu Que Não Amo Você",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Nosso Som",
+            "Muros E Grades",
+            "Eu Que Não Amo Você",
+            "A Verdade A Ver Navios"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--descompasso",
+          "trackId": 663278112,
+          "altTrackIds": [],
+          "title": "Descompasso",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Martiny",
+            "Incrível",
+            "Descompasso",
+            "Camila, Camila"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-16": {
+      "rounds": [
+        {
+          "songId": "papas-da-lingua--diga-sim",
+          "trackId": 657783132,
+          "altTrackIds": [],
+          "title": "Diga Sim",
+          "artist": "Papas da Língua",
+          "options": [
+            "Xa la la la Lá",
+            "Tudo o Que Passou",
+            "Pequeno Grande Amor",
+            "Diga Sim"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--extrano",
+          "trackId": 16988527,
+          "altTrackIds": [
+            141340497,
+            142336473,
+            1509997852
+          ],
+          "title": "Extraño",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Gerson",
+            "Extraño",
+            "Dois Pedaços",
+            "Polaroid"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--banheiro",
+          "trackId": 1032116912,
+          "altTrackIds": [
+            1961293697
+          ],
+          "title": "Banheiro",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Funk Até o Caroço",
+            "Vem Pra Cá",
+            "Banheiro",
+            "Just the Next Isqueiro"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--nau-a-deriva",
+          "trackId": 122316380,
+          "altTrackIds": [
+            13310126,
+            1564487112
+          ],
+          "title": "Nau A Deriva",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Luz",
+            "Ratiação",
+            "Nau A Deriva",
+            "Quem Diria?"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "os-replicantes--papel-de-mau",
+          "trackId": 651566522,
+          "altTrackIds": [
+            1489031432
+          ],
+          "title": "Papel de mau",
+          "artist": "Os Replicantes",
+          "options": [
+            "Lembrar de Ser Feliz Agora",
+            "Saiba Escolher Seus Amigos",
+            "Não Vá Embora",
+            "Papel de mau"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-11-17": {
+      "rounds": [
+        {
+          "songId": "papas-da-lingua--i-fall-in-love",
+          "trackId": 66342233,
+          "altTrackIds": [
+            4034238621
+          ],
+          "title": "I Fall in Love",
+          "artist": "Papas da Língua",
+          "options": [
+            "Te Peguei",
+            "Noite de Reggae",
+            "I Fall in Love",
+            "(Não Existe Lugar) Mais Longe Que o Japão"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--rezo-por-nos",
+          "trackId": 1379588972,
+          "altTrackIds": [
+            1492991832
+          ],
+          "title": "Rezo Por Nós",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Sem Você (!É Foda!)",
+            "Rezo Por Nós",
+            "Ao Meu Redor",
+            "Raquel"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--agora-e-tarde",
+          "trackId": 100947452,
+          "altTrackIds": [],
+          "title": "Agora É Tarde",
+          "artist": "Os Replicantes",
+          "options": [
+            "Amor Eu Preciso",
+            "ANALFABETO",
+            "Vamo pro Crime",
+            "Agora É Tarde"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "tnt--daqui-pra-frente",
+          "trackId": 683283402,
+          "altTrackIds": [],
+          "title": "Daqui Pra Frente",
+          "artist": "TNT",
+          "options": [
+            "Santa Felicidade",
+            "Quem Procura Acha",
+            "Me Dá O Cigarro",
+            "Daqui Pra Frente"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "cachorro-grande--nunca-vai-mudar",
+          "trackId": 96004160,
+          "altTrackIds": [],
+          "title": "Nunca Vai Mudar",
+          "artist": "Cachorro Grande",
+          "options": [
+            "O Aprendiz",
+            "Surreal",
+            "O Truque do Ovo",
+            "Nunca Vai Mudar"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-11-18": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--agora-e-tarde-demais",
+          "trackId": 720448612,
+          "altTrackIds": [],
+          "title": "Agora É Tarde Demais",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Bagaceiro Chinelão",
+            "Agora É Tarde Demais",
+            "Tão Diferente",
+            "Confiança"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "engenheiros-do-hawaii--desde-aquele-dia",
+          "trackId": 13310172,
+          "altTrackIds": [
+            122316354
+          ],
+          "title": "Desde Aquele Dia",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Contigo",
+            "Sem Problema",
+            "Desde Aquele Dia",
+            "Fé Nenhuma"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--sintonizado",
+          "trackId": 96219812,
+          "altTrackIds": [
+            2571042482,
+            2571042642,
+            2571042702
+          ],
+          "title": "Sintonizado",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Sintonizado",
+            "O Que Você Tem",
+            "Surreal",
+            "(Eu Te Amo) Lucinda"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "tnt--desse-jeito",
+          "trackId": 685317512,
+          "altTrackIds": [
+            2888511532
+          ],
+          "title": "Desse Jeito",
+          "artist": "TNT",
+          "options": [
+            "Ao Redor",
+            "O Mundo É Maior Que Teu Quarto",
+            "Sempre Sim",
+            "Desse Jeito"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "papas-da-lingua--eu-quero-e-botar-meu-bloco-na-rua",
+          "trackId": 66342249,
+          "altTrackIds": [
+            4034238801
+          ],
+          "title": "Eu Quero É Botar Meu Bloco na Rua",
+          "artist": "Papas da Língua",
+          "options": [
+            "Pura Ingratidão",
+            "Eu Quero É Botar Meu Bloco na Rua",
+            "Viajar",
+            "O Astronauta de Mármore"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-11-19": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--sem-problema",
+          "trackId": 13310279,
+          "altTrackIds": [
+            122316530
+          ],
+          "title": "Sem Problema",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Hora Do Mergulho",
+            "Negro Amor",
+            "Vacilou",
+            "Sem Problema"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--filosofia-barata",
+          "trackId": 843083152,
+          "altTrackIds": [],
+          "title": "Filosofia Barata",
+          "artist": "Os Replicantes",
+          "options": [
+            "Filosofia Barata",
+            "(Eu Te Amo) Lucinda",
+            "Só Mais Uma Chance (Pin-Up)",
+            "O Futuro é Vortex"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "nenhum-de-nos--primavera-no-coracao",
+          "trackId": 1379588822,
+          "altTrackIds": [
+            106042381,
+            1510007922,
+            2572101012
+          ],
+          "title": "Primavera No Coração",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Primavera No Coração",
+            "Amigo Meu",
+            "Mentira",
+            "Vou Deixar Que Você Se Vá"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--ai-garota",
+          "trackId": 3552724721,
+          "altTrackIds": [],
+          "title": "AI GAROTA",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Martiny (O Pancadão)",
+            "AI GAROTA",
+            "Quebra Cabeça",
+            "Cowboy (Pesadão)"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "bide-ou-balde--tudo-e-preza",
+          "trackId": 111728714,
+          "altTrackIds": [],
+          "title": "Tudo É Preza!",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Tudo É Preza!",
+            "Se Arrependimento Matasse",
+            "Madonna",
+            "O Antipático"
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-11-20": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--radio-pirata",
+          "trackId": 3574078,
+          "altTrackIds": [
+            137542403
+          ],
+          "title": "Rádio Pirata",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "O Sonho E Popular",
+            "Rádio Pirata",
+            "Buddy Holly",
+            "Pra Ser Sincero"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--porto-alegre",
+          "trackId": 433201492,
+          "altTrackIds": [],
+          "title": "Porto Alegre",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Eu N¦o Entendo",
+            "Ninguém Mais Lembra de Você",
+            "Tente Outra Vez",
+            "Porto Alegre"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "papas-da-lingua--pensando-nela",
+          "trackId": 3947977441,
+          "altTrackIds": [
+            723079792
+          ],
+          "title": "Pensando Nela",
+          "artist": "Papas da Língua",
+          "options": [
+            "Iluminada",
+            "Não Tenho Medo da Vida",
+            "Não Consigo Mais Sonhar",
+            "Pensando Nela"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "bide-ou-balde--mesmo-que-mude",
+          "trackId": 898907062,
+          "altTrackIds": [],
+          "title": "Mesmo Que Mude",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Aeroporto",
+            "Mesmo Que Mude",
+            "Vamos Passar a Noite de Galera '16",
+            "Deus Quis"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "cachorro-grande--voce-nao-sabe-o-que-perdeu",
+          "trackId": 96004584,
+          "altTrackIds": [
+            96008340,
+            99053736,
+            548278132,
+            548399722,
+            548400332,
+            561345292
+          ],
+          "title": "Você Não Sabe o Que Perdeu",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Nada Pra Fazer",
+            "Dois Pedaços",
+            "A Alegria Voltou",
+            "Você Não Sabe o Que Perdeu"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-11-21": {
+      "rounds": [
+        {
+          "songId": "papas-da-lingua--perto-de-mim",
+          "trackId": 4106349091,
+          "altTrackIds": [
+            723079852,
+            3947977501
+          ],
+          "title": "Perto De Mim",
+          "artist": "Papas da Língua",
+          "options": [
+            "Máxima Culpa",
+            "Só Se For Agora",
+            "Perto De Mim",
+            "Sem Você (!É Foda!)"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--quanto-vale-a-vida",
+          "trackId": 13310065,
+          "altTrackIds": [
+            122316484,
+            1564487172
+          ],
+          "title": "Quanto Vale A Vida",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Desde Aquele Dia",
+            "Quanto Vale A Vida",
+            "Amigo Meu",
+            "Canibal Vegetarino Devora Planta Carnivora"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--just",
+          "trackId": 1094177392,
+          "altTrackIds": [],
+          "title": "Just",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Just",
+            "Chuva nas Calcinha (Mega Funk)",
+            "Chuva nas Calcinha (Miami Radioativo)",
+            "Benga Velha Companheira"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--eu-pensei",
+          "trackId": 96008352,
+          "altTrackIds": [],
+          "title": "Eu Pensei",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Nunca Vai Mudar",
+            "Eu Pensei",
+            "O Que Vai Ser",
+            "Juliana"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--o-banco",
+          "trackId": 651564912,
+          "altTrackIds": [],
+          "title": "O Banco",
+          "artist": "Os Replicantes",
+          "options": [
+            "Boy Do Subterrâneo",
+            "O Banco",
+            "Os Cegos Também Vão ao Cinema",
+            "Daqui Pra Frente"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-11-22": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--uma-pequena-historia",
+          "trackId": 142336503,
+          "altTrackIds": [],
+          "title": "Uma Pequena História",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Uma Pequena História",
+            "Rancho",
+            "Eu Caminhava",
+            "Piquete Do Caveira"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--dusmeu",
+          "trackId": 1167106932,
+          "altTrackIds": [
+            1032116902
+          ],
+          "title": "Dusmeu",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Dusmeu",
+            "Cowboy",
+            "Dona da Boca",
+            "Juro Que Não"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--conflitos-existenciais",
+          "trackId": 96004148,
+          "altTrackIds": [
+            96004578,
+            548399702
+          ],
+          "title": "Conflitos Existenciais",
+          "artist": "Cachorro Grande",
+          "options": [
+            "As Próximas Horas Serão Muito Boas",
+            "Meus Dois Amigos",
+            "Me Perdi",
+            "Conflitos Existenciais"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "papas-da-lingua--oba-oba",
+          "trackId": 66342240,
+          "altTrackIds": [
+            657783042,
+            723079872,
+            3947977521,
+            3947977591,
+            4034238701
+          ],
+          "title": "Oba Oba",
+          "artist": "Papas da Língua",
+          "options": [
+            "Blusinha Branca",
+            "Oba Oba",
+            "Vem Pra Cá",
+            "Buddy Holly"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "engenheiros-do-hawaii--parabolica",
+          "trackId": 13309775,
+          "altTrackIds": [
+            3574066,
+            70086915,
+            72290899,
+            122316470,
+            137542379,
+            137727547,
+            1564486152,
+            1564488392
+          ],
+          "title": "Parabólica",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "V. V. A. Decomposto (Ou, Tudo Funcionando Meio Jackson Five)",
+            "Era Um Garoto Que Como Eu Amava Os Beatles E Os Rollings Stones (C'Era Un Ragazzo Che Come Me Amava I Beatles E I Rolling Stones)",
+            "Parabólica",
+            "Cruzada"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-23": {
+      "rounds": [
+        {
+          "songId": "papas-da-lingua--noite-de-reggae",
+          "trackId": 4156031622,
+          "altTrackIds": [
+            445908632
+          ],
+          "title": "Noite de Reggae",
+          "artist": "Papas da Língua",
+          "options": [
+            "Tocaia",
+            "Colégio Interno",
+            "Noite de Reggae",
+            "Corro Demais"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "tnt--historias-felizes",
+          "trackId": 115978260,
+          "altTrackIds": [],
+          "title": "Histórias Felizes",
+          "artist": "TNT",
+          "options": [
+            "Você Pode Até Pegar",
+            "Me Dá O Cigarro",
+            "Histórias Felizes",
+            "Daqui Pra Frente"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--muros-e-grades",
+          "trackId": 13310146,
+          "altTrackIds": [
+            13310068,
+            70086918,
+            122316442,
+            122316490,
+            1564486142
+          ],
+          "title": "Muros E Grades",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Madonna",
+            "Muros E Grades",
+            "Desde Aquele Dia",
+            "Curta Metragem"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "cachorro-grande--por-onde-vou",
+          "trackId": 96004588,
+          "altTrackIds": [
+            96189302,
+            99053750
+          ],
+          "title": "Por Onde Vou",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Nem Tudo É Mais Como Era Antes",
+            "Por Onde Vou",
+            "O Que Você Tem",
+            "Tábua"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--colhendo-tempestades",
+          "trackId": 663278172,
+          "altTrackIds": [],
+          "title": "Colhendo Tempestades",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Obsessão",
+            "As Mulheres Que Eu Rasguei",
+            "Amigo Punk",
+            "Colhendo Tempestades"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-11-24": {
+      "rounds": [
+        {
+          "songId": "papas-da-lingua--movimento",
+          "trackId": 15023944,
+          "altTrackIds": [],
+          "title": "Movimento",
+          "artist": "Papas da Língua",
+          "options": [
+            "Eu Sei",
+            "Música para Dançar",
+            "Movimento",
+            "O Dia de Amanhã"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--ningem-mais-lembra-de-voce",
+          "trackId": 96004592,
+          "altTrackIds": [],
+          "title": "Ningém Mais Lembra de Você",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Ningém Mais Lembra de Você",
+            "Mundo Diferente",
+            "Sandro",
+            "Por Enquanto"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "nenhum-de-nos--um-pequeno-imprevisto",
+          "trackId": 678054052,
+          "altTrackIds": [
+            1509945832
+          ],
+          "title": "Um Pequeno Imprevisto",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Vicios De Linguagem",
+            "Um Pequeno Imprevisto",
+            "Crimen",
+            "Esperanças Perdidas"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--paredes",
+          "trackId": 651566532,
+          "altTrackIds": [],
+          "title": "Paredes",
+          "artist": "Os Replicantes",
+          "options": [
+            "Paredes",
+            "Bonde Do Cachorro Quente 02",
+            "Meninas Gostosas",
+            "Feminicídio"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "engenheiros-do-hawaii--e-storia",
+          "trackId": 98000608,
+          "altTrackIds": [],
+          "title": "E-Stória",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Solução de Contorno",
+            "Por Acaso",
+            "Hora Do Mergulho",
+            "E-Stória"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-11-25": {
+      "rounds": [
+        {
+          "songId": "tnt--o-mundo-e-maior-que-teu-quarto",
+          "trackId": 2888511502,
+          "altTrackIds": [],
+          "title": "O Mundo É Maior Que Teu Quarto",
+          "artist": "TNT",
+          "options": [
+            "Ratiação",
+            "Nunca Diga",
+            "Estou Na Mão",
+            "O Mundo É Maior Que Teu Quarto"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--obsessao",
+          "trackId": 1672806,
+          "altTrackIds": [
+            720448542,
+            1509997792
+          ],
+          "title": "Obsessão",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Diga a Ela",
+            "Cleptomaníaca de Corações",
+            "Total Atenção",
+            "Obsessão"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--motel-da-esquina",
+          "trackId": 13310375,
+          "altTrackIds": [
+            651564882,
+            3725240382
+          ],
+          "title": "Motel Da Esquina",
+          "artist": "Os Replicantes",
+          "options": [
+            "Hard-Core",
+            "Canção Pra Lea",
+            "Mentira",
+            "Motel Da Esquina"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "comunidade-nin-jitsu--guri-de-dois",
+          "trackId": 101490106,
+          "altTrackIds": [],
+          "title": "Guri De Dois",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Primo Morango (Earache My Eye)",
+            "Quando Eu Te Pegar",
+            "Guri De Dois",
+            "Jimi"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "papas-da-lingua--vida-perdida",
+          "trackId": 15023941,
+          "altTrackIds": [],
+          "title": "Vida Perdida",
+          "artist": "Papas da Língua",
+          "options": [
+            "Pra Gente Passear",
+            "Hey Brown",
+            "Vida Perdida",
+            "Hard-Core"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-11-26": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--ritos-de-passagem",
+          "trackId": 98000604,
+          "altTrackIds": [],
+          "title": "Ritos De Passagem",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Alucinação",
+            "Ritos De Passagem",
+            "Abraços de Brigas",
+            "Fé Nenhuma"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--agonize",
+          "trackId": 1032116892,
+          "altTrackIds": [
+            1961293687
+          ],
+          "title": "Agonize",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Xa la la la Lá",
+            "TADALA NELES (FUNK)",
+            "Funk da Paz (Rebola o Resbola)",
+            "Agonize"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--ultimo-beijo",
+          "trackId": 1379588812,
+          "altTrackIds": [
+            106042301,
+            1510007842,
+            2572101052
+          ],
+          "title": "Último Beijo",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Telhados De Paris",
+            "Dias Que Virão",
+            "Usa Abusa",
+            "Último Beijo"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "bide-ou-balde--nao-existe-lugar-mais-longe-que-o-japao",
+          "trackId": 111728712,
+          "altTrackIds": [],
+          "title": "(Não Existe Lugar) Mais Longe Que o Japão",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Mesmo Que Mude",
+            "Ipanema",
+            "(Não Existe Lugar) Mais Longe Que o Japão",
+            "Dulci"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "graforreia-xilarmonica--twist",
+          "trackId": 982400012,
+          "altTrackIds": [],
+          "title": "Twist",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Twist",
+            "Eu Gostaria de Matar os Dois",
+            "Eu Caminhava Hard Mix",
+            "Fulvio Sillas"
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-11-27": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--fa-de-faith-no-more",
+          "trackId": 482813312,
+          "altTrackIds": [],
+          "title": "Fã de Faith no More",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Silicone",
+            "Cada Lugar",
+            "A Minha Casa",
+            "Fã de Faith no More"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "comunidade-nin-jitsu--gozafone",
+          "trackId": 1032116942,
+          "altTrackIds": [
+            1961293657
+          ],
+          "title": "Gozafone",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Gozafone",
+            "Cnj (Cumbia Clash)",
+            "Melhor e Diferente",
+            "Me Faz Bem"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "engenheiros-do-hawaii--segunda-feira-blues-ii",
+          "trackId": 4682244,
+          "altTrackIds": [],
+          "title": "Segunda-Feira Blues II",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Vertical",
+            "Segunda-Feira Blues II",
+            "Papel de mau",
+            "Chuva De Containers"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "graforreia-xilarmonica--mixto-quente",
+          "trackId": 1076682462,
+          "altTrackIds": [],
+          "title": "Mixto Quente",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            "Meus Dois Amigos",
+            "Mixto Quente",
+            "Beethoven",
+            "Pricipício"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--pequeno-grande-amor",
+          "trackId": 4106348981,
+          "altTrackIds": [
+            3314336,
+            4154048122
+          ],
+          "title": "Pequeno Grande Amor",
+          "artist": "Papas da Língua",
+          "options": [
+            "Canção Da Meia Noite",
+            "Democracy",
+            "Não Consigo Mais Sonhar",
+            "Pequeno Grande Amor"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-11-28": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--o-espelho-do-cego",
+          "trackId": 142336475,
+          "altTrackIds": [],
+          "title": "O Espelho do Cego",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Culpa",
+            "O Espelho do Cego",
+            "Quanto Vale A Vida",
+            "90 Minutos"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "engenheiros-do-hawaii--filmes-de-guerra-cancoes-de-amor",
+          "trackId": 13310167,
+          "altTrackIds": [
+            70086908,
+            72290888,
+            122316344,
+            1564486072
+          ],
+          "title": "Filmes De Guerra, Canções De Amor",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Filmes De Guerra, Canções De Amor",
+            "Segunda-Feira Blues II",
+            "Nau A Deriva",
+            "Baby Eu Vou Morar N'outro Planeta"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "os-replicantes--replicante-em-teste",
+          "trackId": 100947466,
+          "altTrackIds": [],
+          "title": "Replicante Em Teste",
+          "artist": "Os Replicantes",
+          "options": [
+            "Da lata",
+            "Replicante Em Teste",
+            "Hard-Core",
+            "Me Deixa Desafinar"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "comunidade-nin-jitsu--minha-princesa",
+          "trackId": 684580122,
+          "altTrackIds": [],
+          "title": "Minha Princesa",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Minha Princesa",
+            "Merda de Bar",
+            "Eu Quero É Mucra!",
+            "O Bagulho É um Veneno"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "bide-ou-balde--tudo-bem",
+          "trackId": 1514427272,
+          "altTrackIds": [],
+          "title": "Tudo Bem",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Vamos Passar a Noite de Galera '16",
+            "Mesmo Que Mude",
+            "Eu",
+            "Tudo Bem"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-11-29": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--tudo-que-aconteceu",
+          "trackId": 142336533,
+          "altTrackIds": [
+            16988536,
+            16991455
+          ],
+          "title": "Tudo Que Aconteceu",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Frio",
+            "Hollywood #52",
+            "Telhados De Paris",
+            "Tudo Que Aconteceu"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "cachorro-grande--as-proximas-horas-serao-muito-boas",
+          "trackId": 612221972,
+          "altTrackIds": [
+            561345372
+          ],
+          "title": "As Próximas Horas Serão Muito Boas",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Roda-Gigante",
+            "Não Entendo, Não Aguento",
+            "Mesmo Que Mude",
+            "As Próximas Horas Serão Muito Boas"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--surfista-calhorda",
+          "trackId": 13310370,
+          "altTrackIds": [
+            554981382,
+            651564812,
+            769703352
+          ],
+          "title": "Surfista Calhorda",
+          "artist": "Os Replicantes",
+          "options": [
+            "Sempre Sim",
+            "Sangue Sujo",
+            "Surfista Calhorda",
+            "Pereba"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--funk-filosofal",
+          "trackId": 2285221857,
+          "altTrackIds": [],
+          "title": "Funk Filosofal",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Amigo Punk",
+            "Do Teu Sorriso Vou Lembrar",
+            "Fazê a Cabeça",
+            "Funk Filosofal"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--segunda-feira-blues-i",
+          "trackId": 4682239,
+          "altTrackIds": [],
+          "title": "Segunda-Feira Blues I",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Você Foi Embora",
+            "Segunda-Feira Blues I",
+            "O Papa é Pop",
+            "Não Consigo Odiar Ninguém"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-11-30": {
+      "rounds": [
+        {
+          "songId": "cachorro-grande--tudo-por-voce",
+          "trackId": 612221932,
+          "altTrackIds": [],
+          "title": "Tudo por Você",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Me Faz Bem",
+            "Diga o Que Você Quer Escutar",
+            "Amanhã",
+            "Tudo por Você"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "bide-ou-balde--v-v-a-decomposto-ou-tudo-funcionando-meio-jackson-five",
+          "trackId": 111728708,
+          "altTrackIds": [],
+          "title": "V. V. A. Decomposto (Ou, Tudo Funcionando Meio Jackson Five)",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Dulci",
+            "Porque Não",
+            "Hollywood #52",
+            "V. V. A. Decomposto (Ou, Tudo Funcionando Meio Jackson Five)"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--herdeiro-da-pampa-pobre",
+          "trackId": 13310139,
+          "altTrackIds": [
+            122316428,
+            1564487082,
+            1564488402,
+            1564489212
+          ],
+          "title": "Herdeiro Da Pampa Pobre",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "No Meio De Tudo, Você",
+            "Pessoas Vazias",
+            "Rota De Colisão",
+            "Herdeiro Da Pampa Pobre"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "comunidade-nin-jitsu--primo-morango-earache-my-eye",
+          "trackId": 101490104,
+          "altTrackIds": [],
+          "title": "Primo Morango (Earache My Eye)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Gata Sincera",
+            "Primo Morango (Earache My Eye)",
+            "Não Aguento Mais",
+            "Seu Au Au"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--raquel",
+          "trackId": 1492991862,
+          "altTrackIds": [
+            703676112
+          ],
+          "title": "Raquel",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Acorda",
+            "Marcas do Que Se Foi",
+            "Raquel",
+            "Espelho Meu"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-12-01": {
+      "rounds": [
+        {
+          "songId": "comunidade-nin-jitsu--ela-vai-passar",
+          "trackId": 1103241072,
+          "altTrackIds": [],
+          "title": "Ela Vai Passar",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Ela Vai Passar",
+            "Ah! Eu To Sem Erva! 26",
+            "Melissa",
+            "Loop Sessions: Ah, Eu Tô Sem Erva"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "os-replicantes--hippie-punk-rajneesh",
+          "trackId": 13310371,
+          "altTrackIds": [
+            651564822,
+            3725240342
+          ],
+          "title": "Hippie-Punk-Rajneesh",
+          "artist": "Os Replicantes",
+          "options": [
+            "Me Envergonha",
+            "Os Cegos Também Vão ao Cinema",
+            "Censor",
+            "Hippie-Punk-Rajneesh"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--tempo-diferente",
+          "trackId": 720448512,
+          "altTrackIds": [],
+          "title": "Tempo Diferente",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Acorda",
+            "Spaceball",
+            "Corrente",
+            "Tempo Diferente"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--luz",
+          "trackId": 137727559,
+          "altTrackIds": [
+            411541562
+          ],
+          "title": "Luz",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Luz",
+            "Pampa No Walkman",
+            "Debaixo do Chapéu",
+            "Quanto Vale A Vida"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--como-era-bom",
+          "trackId": 548399672,
+          "altTrackIds": [
+            548400282,
+            561345352
+          ],
+          "title": "Como Era Bom",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Sexperienced",
+            "Baby Eu Vou Morar N'outro Planeta",
+            "O Fantasma do Natal Passado",
+            "Como Era Bom"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-12-02": {
+      "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--sweet-begonia",
+          "trackId": 13310122,
+          "altTrackIds": [
+            122316328
+          ],
+          "title": "Sweet Begonia",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Música para Dançar",
+            "Sweet Begonia",
+            "Rádio Pirata",
+            "O Exército De Um Homem Só, II"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "cachorro-grande--quando-amanhecer",
+          "trackId": 96004162,
+          "altTrackIds": [],
+          "title": "Quando Amanhecer",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Quando Amanhecer",
+            "Minha Picardia",
+            "Nunca Vai Mudar",
+            "Me Perdi"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--ejaculacao-precoce-na-maciota",
+          "trackId": 4170305472,
+          "altTrackIds": [
+            1420260802
+          ],
+          "title": "Ejaculação Precoce (Na Maciota)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Ratiação",
+            "Ejaculação Precoce (Na Maciota)",
+            "Vem por Cima",
+            "Just the Next Isqueiro"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "bide-ou-balde--soninho",
+          "trackId": 458874372,
+          "altTrackIds": [],
+          "title": "Soninho",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Soninho",
+            "Bromélias",
+            "Não Adianta Chorar",
+            "Extraño"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "os-replicantes--a-verdadeira-corrida-espacial",
+          "trackId": 13310372,
+          "altTrackIds": [
+            651564842
+          ],
+          "title": "A Verdadeira Corrida Espacial",
+          "artist": "Os Replicantes",
+          "options": [
+            "Quando uma Música No Rádio Tocar",
+            "Longe Pacas",
+            "A Verdadeira Corrida Espacial",
+            "A-Há"
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-12-03": {
+      "rounds": [
+        {
+          "songId": "tnt--oh-deby",
+          "trackId": 685317482,
+          "altTrackIds": [
+            2888511472
+          ],
+          "title": "Oh! Deby",
+          "artist": "TNT",
+          "options": [
+            "Toda Molhada",
+            "Histórias Felizes",
+            "Estou Na Mão",
+            "Oh! Deby"
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "comunidade-nin-jitsu--chuva-nas-calcinha-mega-funk",
+          "trackId": 2461639365,
+          "altTrackIds": [],
+          "title": "Chuva nas Calcinha (Mega Funk)",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Dá Certo",
+            "O Bagulho É um Veneno",
+            "Chuva nas Calcinha (Mega Funk)",
+            "Madonna"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--pedro-balao",
+          "trackId": 96219806,
+          "altTrackIds": [
+            2571042452,
+            2571042612,
+            2571042732
+          ],
+          "title": "Pedro Balão",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Outras Freqüências",
+            "(Os Doces Exóticos De) Charlotte Grapewine",
+            "Pedro Balão",
+            "Lili"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--ninguem-pra-dizer-adeus",
+          "trackId": 142336491,
+          "altTrackIds": [],
+          "title": "Ninguém pra Dizer Adeus",
+          "artist": "Nenhum de Nós",
+          "options": [
+            "Animais",
+            "Dia de Inverno",
+            "Ninguém pra Dizer Adeus",
+            "Amigo da Onça"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--faz-de-conta",
+          "trackId": 137727549,
+          "altTrackIds": [],
+          "title": "Faz De Conta",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Ninguém = Ninguém",
+            "Md Syndrome 26",
+            "Guardas Da Fronteira",
+            "Faz De Conta"
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-12-04": {
+      "rounds": [
+        {
+          "songId": "comunidade-nin-jitsu--da-certo",
+          "trackId": 3105247921,
+          "altTrackIds": [],
+          "title": "Dá Certo",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            "Dá Certo",
+            "Carburou",
+            "Ejaculação Precoce",
+            "Quartos De Hotel"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--hoje-meus-domingos-nao-sao-mais-depressivos",
+          "trackId": 96004158,
+          "altTrackIds": [],
+          "title": "Hoje Meus Domingos Não São Mais Depressivos",
+          "artist": "Cachorro Grande",
+          "options": [
+            "Hoje Meus Domingos Não São Mais Depressivos",
+            "Tive Teu Nome",
+            "Nuvens de Fumaça",
+            "Você Não Sabe Nada"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "tnt--deus-quis",
+          "trackId": 683283412,
+          "altTrackIds": [],
+          "title": "Deus Quis",
+          "artist": "TNT",
+          "options": [
+            "Histórias Felizes",
+            "Deus Quis",
+            "O Quanto Antes",
+            "Roda-Gigante"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "bide-ou-balde--bromelias",
+          "trackId": 458874312,
+          "altTrackIds": [],
+          "title": "Bromélias",
+          "artist": "Bidê ou Balde",
+          "options": [
+            "Buddy Holly",
+            "Baby Eu Vou Morar N'outro Planeta",
+            "Bromélias",
+            "Mesmo Que Mude"
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--nunca-mais",
+          "trackId": 98000600,
+          "altTrackIds": [
+            411541512
+          ],
+          "title": "Nunca Mais",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            "Arrastão do Amor",
+            "Nunca Mais",
+            "No Inverno Fica Tarde + Cedo",
+            "Cidade Em Chamas"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    }
+  }
+}
