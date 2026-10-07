@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 
 import {
+  areConfusableTitles,
   displayTitle,
   foldName,
   hasVersionMarker,
@@ -176,5 +177,35 @@ describe("slugify", () => {
     expect(slugify("Ira!")).toBe("ira");
     expect(slugify("Comunidade Nin-Jitsu")).toBe("comunidade-nin-jitsu");
     expect(slugify("Eduardo & Mônica")).toBe("eduardo-e-monica");
+  });
+});
+
+describe("areConfusableTitles", () => {
+  it.each([
+    ["Porque Eu Sei Que É Amor", "Por que eu sei que é amor"],
+    ["Bete Balanço", "Beth balan?o"],
+    ["Marvin", "Marvin (Patches)"],
+    ["Toda Molhada", "Toda Molhada (Casa do Sol 2025)"],
+    ["Eu Caminhava", "Eu Caminhava Cathedral Mix"],
+    ["Cowboy", "Cowboy 26"],
+    ["Ninguém Mais Lembra de Você", "Ningém Mais Lembra de Você"],
+    ["Um Girassol da Cor do Seu Cabelo", "Um Girassol da Cor de Seu Cabelo"],
+    ["Que País É Este", "Que Pais É Esse"],
+    ["Falar de Amor Não é Amar", "Falar De Amor N¦o É Amar"],
+    ["Amazônia X Colômbia", "AMAZONIA VS COLOMBIA"],
+    ["Infinita Highway", "Infinita Highway (Ao Vivo)"],
+  ])("%s ~ %s", (a, b) => {
+    expect(areConfusableTitles(a, b)).toBe(true);
+    expect(areConfusableTitles(b, a)).toBe(true);
+  });
+
+  it.each([
+    ["Julia", "Luzia"],
+    ["Desejo", "Deserto"],
+    ["Culpa", "Julia"],
+    ["Infinita Highway", "Pra Ser Sincero"],
+    ["Um", "Dois"],
+  ])("%s ≁ %s", (a, b) => {
+    expect(areConfusableTitles(a, b)).toBe(false);
   });
 });

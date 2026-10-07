@@ -9,13 +9,24 @@ import {
   type CategorySchedule,
 } from "./schedule";
 
+const WORDS = ["Pedra", "Vento", "Chuva", "Campo", "Ponte", "Lua", "Rio", "Fogo", "Mar", "Serra"];
+
+/** Distinct, non-confusable titles: "Pedra Vento Lua Mar" etc. */
+function songTitle(n: number): string {
+  return String(n)
+    .padStart(4, "0")
+    .split("")
+    .map((d) => WORDS[Number(d)])
+    .join(" ");
+}
+
 function makePool(artists: number, songsPerArtist: number): PoolSong[] {
   const pool: PoolSong[] = [];
   for (let a = 0; a < artists; a++) {
     for (let s = 0; s < songsPerArtist; s++) {
       pool.push({
         id: `artist-${a}--song-${s}`,
-        title: `Song ${a}-${s}`,
+        title: songTitle(a * 1000 + s),
         artist: `Artist ${a}`,
         artistDeezerId: a,
         trackId: a * 1000 + s,

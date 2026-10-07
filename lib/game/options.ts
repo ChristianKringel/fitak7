@@ -1,11 +1,11 @@
 // Builds the 4 options of a round: the answer, 2 songs by the same artist
 // and 1 by another artist of the category, falling back to whatever is
-// available. Options are compared by normalized title, so no option can be
-// another version of the answer or share a title with another option.
+// available. Options are compared with `areConfusableTitles`, so no option
+// can be another version of the answer or look like another option.
 // Distractors are preferably as popular as the answer, so a well-known title
 // can't be spotted just because the others are obscure.
 
-import { normalizeTitle } from "./normalize";
+import { areConfusableTitles } from "./normalize";
 import type { PoolSong } from "./pool";
 import { shuffle, type Rng } from "./rng";
 
@@ -71,7 +71,7 @@ export function buildOptions<T extends OptionSong>(
   pool: readonly T[],
   rng: Rng,
 ): RoundOptions<T> {
-  const usedTitles = new Set([normalizeTitle(answer.title)]);
+  const usedTitles = [answer.title];
   const distractors: T[] = [];
   const needed = OPTIONS_PER_ROUND - 1;
 
@@ -79,9 +79,8 @@ export function buildOptions<T extends OptionSong>(
     let taken = 0;
     for (const song of candidates) {
       if (taken >= count || distractors.length >= needed) return;
-      const key = normalizeTitle(song.title);
-      if (usedTitles.has(key)) continue;
-      usedTitles.add(key);
+      if (usedTitles.some((t) => areConfusableTitles(t, song.title))) continue;
+      usedTitles.push(song.title);
       distractors.push(song);
       taken++;
     }

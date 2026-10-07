@@ -142,4 +142,23 @@ describe("buildOptions", () => {
     const { songs } = buildOptions(pool[0], pool, seededRng("f"));
     expect(songs).toHaveLength(4);
   });
+
+  it("never offers two versions of the same song that normalization missed", () => {
+    const pool = [
+      song("Titãs", "Porque Eu Sei Que É Amor"),
+      song("Titãs", "Por que eu sei que é amor"),
+      song("Titãs", "Marvin"),
+      song("Titãs", "Marvin (Patches)"),
+      song("Titãs", "Epitáfio"),
+      song("Titãs", "Sonífera Ilha"),
+      song("Legião", "Tempo Perdido"),
+      song("Legião", "Índios"),
+    ];
+    for (const rng of seeds(50)) {
+      const { songs } = buildOptions(pool[0], pool, rng);
+      const titles = songs.map((s) => s.title);
+      expect(titles).not.toContain("Por que eu sei que é amor");
+      expect(titles.includes("Marvin") && titles.includes("Marvin (Patches)")).toBe(false);
+    }
+  });
 });

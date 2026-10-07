@@ -163,3 +163,48 @@ export function slugify(text: string): string {
     .replace(/[^\p{L}\p{N}]+/gu, "-")
     .replace(/^-+|-+$/g, "");
 }
+
+/** Title without any bracketed segment or dash suffix, normalized. */
+function baseTitle(title: string): string {
+  const base = title
+    .replace(/[([][^()[\]]*[)\]]/g, " ")
+    .replace(/\s[-–—].*$/u, "");
+  return normalizeTitle(base) || normalizeTitle(title);
+}
+
+function editDistance(a: string, b: string): number {
+  let previous = Array.from({ length: b.length + 1 }, (_, j) => j);
+  for (let i = 1; i <= a.length; i++) {
+    const current = [i];
+    for (let j = 1; j <= b.length; j++) {
+      current[j] = Math.min(
+        previous[j] + 1,
+        current[j - 1] + 1,
+        previous[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1),
+      );
+    }
+    previous = current;
+  }
+  return previous[b.length];
+}
+
+/**
+ * Looser than `normalizeTitle` equality: also catches versions it can't
+ * group ("Porque"/"Por que", "Song (Subtitle)", "Song Hard Mix", "Song 26",
+ * typos). Used to keep options apart, where a false positive only means two
+ * songs never appear together.
+ */
+export function areConfusableTitles(a: string, b: string): boolean {
+  const keyA = baseTitle(a);
+  const keyB = baseTitle(b);
+  if (keyA === keyB) return true;
+  // One title is the other plus extra words: "Song Hard Mix", "Song 26".
+  if (keyA.startsWith(`${keyB} `) || keyB.startsWith(`${keyA} `)) return true;
+
+  const compactA = keyA.replace(/ /g, "");
+  const compactB = keyB.replace(/ /g, "");
+  const shorter = Math.min(compactA.length, compactB.length);
+  const maxEdits = Math.floor(shorter / 5);
+  if (Math.abs(compactA.length - compactB.length) > maxEdits) return false;
+  return editDistance(compactA, compactB) <= maxEdits;
+}
