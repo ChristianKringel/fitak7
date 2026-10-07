@@ -273,6 +273,88 @@
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
+    },
+    {
+      "name": "Banda Munich",
+      "deezerId": 171653197,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda Munique."
+    },
+    {
+      "name": "Super Banda Santa Cruz",
+      "deezerId": 106979132,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Vox 3",
+      "deezerId": 13552291,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Banda Cavalinho",
+      "deezerId": 6304732,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Super Banda Hopus",
+      "deezerId": 83386862,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Monte Azul",
+      "deezerId": 13937007,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Banda Ghermania",
+      "deezerId": 14126755,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [
+        645856031
+      ],
+      "excludeTrackIds": [],
+      "notes": "Álbum 645856031 é um single de funk do Du Fraga atribuído à banda."
+    },
+    {
+      "name": "Super Banda K'necus",
+      "deezerId": 250056972,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
     }
   ]
 }
