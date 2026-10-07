@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { InfiniteGame } from "@/components/InfiniteGame";
+import { PageHeading } from "@/components/PageHeading";
+import { tapeColor } from "@/components/tape";
 import { getCategory, listCategories } from "@/lib/server/data";
 
 export const dynamicParams = false;
@@ -19,13 +21,13 @@ export default async function InfinitePage(props: PageProps<"/[category]/infinit
   const category = await getCategory((await props.params).category);
   if (!category) notFound();
 
+  const index = (await listCategories()).findIndex((c) => c.slug === category.slug);
+  const color = tapeColor(index);
+
   return (
-    <div className="flex flex-col gap-4">
-      <div>
-        <p className="text-sm font-medium text-emerald-700 dark:text-emerald-400">Modo infinito</p>
-        <h1 className="text-2xl font-bold tracking-tight">{category.name}</h1>
-      </div>
-      <InfiniteGame category={category.slug} />
+    <div className="flex flex-col gap-6">
+      <PageHeading mode="Modo infinito" title={category.name} index={index} color={color} />
+      <InfiniteGame category={category.slug} color={color} />
     </div>
   );
 }

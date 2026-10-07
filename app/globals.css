@@ -1,15 +1,108 @@
 @import "tailwindcss";
 
+/* "Fita K7" visual identity: cassette tapes in the colors of the Rio Grande
+   do Sul flag, paper labels, chunky deck keys with a solid drop shadow. */
+
 @theme inline {
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-archivo);
+  --font-mono: var(--font-jetbrains-mono);
+  --font-marker: var(--font-permanent-marker);
+  --font-display: var(--font-rubik-mono);
+
+  /* Fixed colors: cassette bodies, labels and ink look the same in both themes. */
+  --color-ink: #14120e;
+  --color-paper: #fff8e8;
+  --color-paper-line: #d9cba8;
+  --color-paper-muted: #4a4436;
+  --color-reel: #5b4a36;
+  --color-tape-green: #12a26a;
+  --color-tape-red: #e8452f;
+  --color-tape-yellow: #ffd21f;
+  --color-tape-beige: #d9cba8;
+  --color-stamp: #b42318;
+
+  /* Theme-dependent colors. */
+  --color-bg: var(--bg);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-surface: var(--surface);
+  --color-surface-line: var(--surface-line);
+  --color-accent: var(--accent);
+  --color-key-shadow: var(--key-shadow);
 }
 
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
+  --bg: #efe6d2;
+  --fg: #14120e;
+  --muted: #5c5446;
+  --line: #d9cba8;
+  --surface: #e3d6b8;
+  --surface-line: #cdbf9e;
+  --accent: #a3420f;
+  --key-shadow: #14120e;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #0d0c0a;
+    --fg: #f4ead5;
+    --muted: #b9b0a0;
+    --line: #24211b;
+    --surface: #24211b;
+    --surface-line: #3a352c;
+    --accent: #ffd21f;
+    --key-shadow: #000;
+  }
 }
 
 body {
-  @apply bg-stone-50 text-stone-900 dark:bg-stone-950 dark:text-stone-100;
+  @apply bg-bg text-fg;
   -webkit-tap-highlight-color: transparent;
+}
+
+@layer components {
+  /* Deck key: pressing it sinks it onto its shadow. */
+  .key {
+    transition:
+      transform 0.08s ease,
+      box-shadow 0.08s ease;
+  }
+  .key:active:not(:disabled) {
+    transform: translateY(4px);
+    box-shadow: 0 0 0 #000 !important;
+  }
+
+  /* Small mono caps label ("ESCOLHA SUA FITA"). */
+  .eyebrow {
+    @apply font-mono text-[11px] font-bold tracking-[0.14em] uppercase;
+  }
+
+  /* Rubber stamp ("NOVO DESAFIO"). */
+  .stamp {
+    @apply inline-block -rotate-[5deg] rounded border-2 px-[7px] py-0.5 font-mono text-[10px] font-bold tracking-[0.08em] whitespace-nowrap uppercase;
+  }
+}
+
+@keyframes reel-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.reel-spin {
+  animation: reel-spin 1.6s linear infinite;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reel-spin {
+    animation: none;
+  }
+  .key {
+    transition: none;
+  }
 }

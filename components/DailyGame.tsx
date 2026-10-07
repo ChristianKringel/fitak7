@@ -19,17 +19,20 @@ import { updateGameState, useGameState } from "@/lib/storage/game-store";
 
 import { AnswerCard } from "./AnswerCard";
 import { Countdown } from "./Countdown";
+import { Cassette } from "./Cassette";
 import { RoundPanel } from "./RoundPanel";
 import { ShareButton } from "./ShareButton";
 import { DailyStatsView } from "./StatsView";
-import { card, primaryButton, secondaryButton } from "./styles";
+import { card, paperLabel, primaryButton, secondaryButton } from "./styles";
 
 interface DailyGameProps {
   category: string;
   categoryName: string;
+  /** Cassette body color of the category. */
+  color: string;
 }
 
-export function DailyGame({ category, categoryName }: DailyGameProps) {
+export function DailyGame({ category, categoryName, color }: DailyGameProps) {
   const state = useGameState();
   const [challenge, setChallenge] = useState<DailyChallengeResponse | null>(null);
   const [loadError, setLoadError] = useState<string | null>(null);
@@ -51,7 +54,7 @@ export function DailyGame({ category, categoryName }: DailyGameProps) {
     return <p className={`${card} text-center`}>{loadError}</p>;
   }
   if (!state || !challenge) {
-    return <p className="py-16 text-center text-stone-500">Carregando o desafio de hoje…</p>;
+    return <p className="eyebrow py-16 text-center text-muted">Rebobinando a fita…</p>;
   }
 
   const { date, rounds } = challenge;
@@ -63,6 +66,7 @@ export function DailyGame({ category, categoryName }: DailyGameProps) {
     return (
       <DailyResult
         category={category}
+        color={color}
         categoryName={categoryName}
         date={date}
         progress={progress}
@@ -100,6 +104,7 @@ export function DailyGame({ category, categoryName }: DailyGameProps) {
       <RoundPanel
         key={`${date}-${index}`}
         heading={`Música ${index + 1} de ${rounds.length} · ${formatGameDate(date)}`}
+        color={color}
         options={rounds[index].options}
         audioSrc={api.dailyAudioUrl(category, index, date)}
         clipSeconds={clipSeconds(hardMode)}
@@ -117,19 +122,19 @@ export function DailyGame({ category, categoryName }: DailyGameProps) {
 
 function RoundDots({ progress, current }: { progress: DailyProgress; current: number }) {
   return (
-    <ol className="flex justify-center gap-2" aria-label="Progresso do desafio">
+    <ol className="flex gap-2" aria-label="Progresso do desafio">
       {progress.rounds.map((round, i) => (
         <li
           key={i}
           aria-label={`Música ${i + 1}: ${round ? (round.correct ? "acertou" : "errou") : "não jogada"}`}
-          className={`h-2.5 w-8 rounded-full ${
+          className={`h-3 flex-1 rounded-full border-2 ${
             round
               ? round.correct
-                ? "bg-emerald-600"
-                : "bg-red-600"
+                ? "border-ink bg-tape-green"
+                : "border-ink bg-tape-red"
               : i === current
-                ? "bg-stone-500"
-                : "bg-stone-300 dark:bg-stone-700"
+                ? "border-ink bg-tape-yellow"
+                : "border-surface-line bg-surface"
           }`}
         />
       ))}
@@ -139,13 +144,14 @@ function RoundDots({ progress, current }: { progress: DailyProgress; current: nu
 
 interface DailyResultProps {
   category: string;
+  color: string;
   categoryName: string;
   date: string;
   progress: DailyProgress;
   stats: ReturnType<typeof categoryStats>["daily"];
 }
 
-function DailyResult({ category, categoryName, date, progress, stats }: DailyResultProps) {
+function DailyResult({ category, color, categoryName, date, progress, stats }: DailyResultProps) {
   const rounds = progress.rounds.flatMap((r) => (r ? [r] : []));
   const score = dayScore(progress);
   const text = shareText({
@@ -158,27 +164,44 @@ function DailyResult({ category, categoryName, date, progress, stats }: DailyRes
 
   return (
     <div className="flex flex-col gap-5">
-      <div className="flex flex-col items-center gap-2 pt-2 text-center">
-        <p className="text-sm text-stone-600 dark:text-stone-400">Desafio de {formatGameDate(date)}</p>
-        <p className="text-5xl font-bold tabular-nums">
-          {score}/{rounds.length}
-        </p>
-        <p className="text-3xl tracking-widest" aria-hidden>
-          {rounds.map((r) => (r.correct ? "🟩" : "🟥")).join("")}
-        </p>
-      </div>
+      <Cassette color={color}>
+        <div className={`${paperLabel} flex flex-col items-center gap-2 px-3.5 pt-3 pb-4 text-center`}>
+          <p className="font-mono text-[11px] font-bold tracking-[0.12em] uppercase">
+            Desafio de {formatGameDate(date)}
+          </p>
+          <p className="font-marker text-6xl leading-none tabular-nums">
+            {score}/{rounds.length}
+          </p>
+          <div className="flex gap-1.5" aria-hidden>
+            {rounds.map((r, i) => (
+              <span
+                key={i}
+                className={`h-6 w-6 rounded-md border-2 border-ink ${r.correct ? "bg-tape-green" : "bg-tape-red"}`}
+              />
+            ))}
+          </div>
+        </div>
+      </Cassette>
 
       <ShareButton text={text} />
       <Countdown />
 
-      <ol className={`${card} flex flex-col gap-3`}>
-        {rounds.map((round, i) => (
-          <li key={i} className="flex items-center gap-3">
-            <span aria-label={round.correct ? "Acertou" : "Errou"}>{round.correct ? "🟩" : "🟥"}</span>
-            <AnswerCard answer={round.answer} compact />
-          </li>
-        ))}
-      </ol>
+      <section className="flex flex-col gap-3">
+        <h2 className="eyebrow text-accent">Lado A</h2>
+        <ol className={`${card} flex flex-col gap-3`}>
+          {rounds.map((round, i) => (
+            <li key={i} className="flex items-center gap-3">
+              <span
+                aria-label={round.correct ? "Acertou" : "Errou"}
+                className={`h-3 w-3 shrink-0 rounded-full border-2 border-ink ${
+                  round.correct ? "bg-tape-green" : "bg-tape-red"
+                }`}
+              />
+              <AnswerCard answer={round.answer} compact />
+            </li>
+          ))}
+        </ol>
+      </section>
 
       <DailyStatsView stats={stats} highlight={score} />
 

@@ -1,10 +1,19 @@
-// Shared class names for buttons and cards.
+// Shared class names for buttons and cards ("Fita K7" style).
 
-export const primaryButton =
-  "inline-flex min-h-12 items-center justify-center rounded-xl bg-emerald-700 px-5 font-semibold text-white transition-colors hover:bg-emerald-800 active:scale-[0.98] disabled:opacity-50 dark:bg-emerald-600 dark:hover:bg-emerald-500";
+const keyBase =
+  "key inline-flex min-h-[54px] items-center whitespace-nowrap justify-center gap-2 rounded-xl border-2 border-ink px-5 text-[15px] font-extrabold disabled:cursor-default disabled:opacity-60";
 
-export const secondaryButton =
-  "inline-flex min-h-12 items-center justify-center rounded-xl border-2 border-stone-300 px-5 font-semibold transition-colors hover:border-stone-500 active:scale-[0.98] dark:border-stone-700 dark:hover:border-stone-500";
+/** Yellow deck key: the main action of a screen. */
+export const primaryButton = `${keyBase} bg-tape-yellow text-ink shadow-[0_4px_0_var(--key-shadow)] hover:bg-[#ffe47a]`;
 
-export const card =
-  "rounded-2xl border border-stone-200 bg-white p-4 dark:border-stone-800 dark:bg-stone-900";
+/** Paper deck key. */
+export const secondaryButton = `${keyBase} bg-paper text-ink shadow-[0_4px_0_var(--key-shadow)] hover:bg-white`;
+
+/** Black deck key, used on top of colored cassettes. */
+export const inkButton = `${keyBase} bg-ink text-[#f4ead5] shadow-[0_4px_0_rgba(0,0,0,0.55)]`;
+
+/** Panel on the page background. */
+export const card = "rounded-2xl border-2 border-line bg-surface/40 p-4";
+
+/** Paper label, like the sticker on a cassette. */
+export const paperLabel = "rounded-[10px] border-2 border-ink bg-paper text-ink";

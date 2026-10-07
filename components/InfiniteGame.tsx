@@ -18,9 +18,11 @@ const MAX_RECENT = 300;
 
 interface InfiniteGameProps {
   category: string;
+  /** Cassette body color of the category. */
+  color: string;
 }
 
-export function InfiniteGame({ category }: InfiniteGameProps) {
+export function InfiniteGame({ category, color }: InfiniteGameProps) {
   const state = useGameState();
   const [round, setRound] = useState<InfiniteRoundResponse | null>(null);
   const [result, setResult] = useState<RoundResult | null>(null);
@@ -61,7 +63,7 @@ export function InfiniteGame({ category }: InfiniteGameProps) {
   }, [requestRound]);
 
   if (!state || (!round && !error)) {
-    return <p className="py-16 text-center text-stone-500">Preparando a primeira música…</p>;
+    return <p className="eyebrow py-16 text-center text-muted">Rebobinando a fita…</p>;
   }
   if (!round) {
     return (
@@ -99,6 +101,7 @@ export function InfiniteGame({ category }: InfiniteGameProps) {
       <RoundPanel
         key={current.token}
         heading={`Música ${session.played + (result ? 0 : 1)} desta sessão`}
+        color={color}
         options={current.options}
         audioSrc={api.infiniteAudioUrl(category, current.token)}
         clipSeconds={clipSeconds(hardMode)}
@@ -116,7 +119,7 @@ export function InfiniteGame({ category }: InfiniteGameProps) {
         }
       />
       {error && (
-        <p role="alert" className="text-center text-sm text-red-600 dark:text-red-400">
+        <p role="alert" className="text-center text-sm font-semibold text-tape-red">
           {error}
         </p>
       )}
@@ -131,13 +134,9 @@ export function InfiniteGame({ category }: InfiniteGameProps) {
 
 function Counter({ label, value, accent = false }: { label: string; value: string | number; accent?: boolean }) {
   return (
-    <div className={`${card} flex flex-col items-center gap-0.5 px-2 py-3`}>
-      <span
-        className={`text-2xl font-bold tabular-nums ${accent ? "text-emerald-700 dark:text-emerald-400" : ""}`}
-      >
-        {value}
-      </span>
-      <span className="text-xs text-stone-600 dark:text-stone-400">{label}</span>
+    <div className={`${card} flex flex-col items-center gap-1 px-2 py-3`}>
+      <span className={`font-mono text-2xl font-bold tabular-nums ${accent ? "text-accent" : ""}`}>{value}</span>
+      <span className="font-mono text-[10px] font-bold tracking-[0.1em] text-muted uppercase">{label}</span>
     </div>
   );
 }

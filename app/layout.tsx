@@ -1,19 +1,32 @@
 import type { Metadata, Viewport } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Archivo, JetBrains_Mono, Permanent_Marker, Rubik_Mono_One } from "next/font/google";
 
 import { AppHeader } from "@/components/AppHeader";
 import { APP_NAME } from "@/lib/game/config";
 
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const archivo = Archivo({
+  variable: "--font-archivo",
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const jetbrainsMono = JetBrains_Mono({
+  variable: "--font-jetbrains-mono",
   subsets: ["latin"],
+  weight: ["500", "700"],
+});
+
+const permanentMarker = Permanent_Marker({
+  variable: "--font-permanent-marker",
+  subsets: ["latin"],
+  weight: "400",
+});
+
+const rubikMono = Rubik_Mono_One({
+  variable: "--font-rubik-mono",
+  subsets: ["latin"],
+  weight: "400",
 });
 
 export const metadata: Metadata = {
@@ -24,17 +37,21 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fafaf9" },
-    { media: "(prefers-color-scheme: dark)", color: "#0c0a09" },
+    { media: "(prefers-color-scheme: light)", color: "#efe6d2" },
+    { media: "(prefers-color-scheme: dark)", color: "#0d0c0a" },
   ],
 };
 
+const fontVariables = [archivo, jetbrainsMono, permanentMarker, rubikMono]
+  .map((font) => font.variable)
+  .join(" ");
+
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="pt-BR" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
+    <html lang="pt-BR" className={`${fontVariables} h-full antialiased`}>
       <body className="flex min-h-full flex-col font-sans">
         <AppHeader />
-        <main className="mx-auto w-full max-w-md flex-1 px-4 pt-6 pb-12">{children}</main>
+        <main className="mx-auto w-full max-w-md flex-1 px-5 pt-7 pb-12">{children}</main>
       </body>
     </html>
   );

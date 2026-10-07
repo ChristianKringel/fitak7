@@ -1,7 +1,10 @@
 import Link from "next/link";
 
+import { Cassette } from "@/components/Cassette";
+import { TapeWindow } from "@/components/TapeWindow";
 import { TodayBadge } from "@/components/TodayBadge";
-import { card } from "@/components/styles";
+import { inkButton, paperLabel, secondaryButton } from "@/components/styles";
+import { tapeColor, tapeNumber } from "@/components/tape";
 import { NORMAL_CLIP_SECONDS } from "@/lib/game/config";
 import { OPTIONS_PER_ROUND } from "@/lib/game/options";
 import { ROUNDS_PER_DAY } from "@/lib/game/schedule";
@@ -11,52 +14,79 @@ export default async function Home() {
   const categories = await listCategories();
 
   return (
-    <div className="flex flex-col gap-6">
-      <div className="flex flex-col gap-1">
-        <h1 className="text-2xl font-bold tracking-tight">Qual é a música?</h1>
-        <p className="text-stone-600 dark:text-stone-400">
+    <div className="flex flex-col">
+      <section className="flex flex-col gap-2.5">
+        <h1 className="text-4xl leading-none font-black tracking-[-0.02em]">
+          Qual é a <span className="text-accent">música?</span>
+        </h1>
+        <p className="text-[15px] leading-normal text-pretty text-muted">
           Ouça {NORMAL_CLIP_SECONDS} segundos e escolha entre {OPTIONS_PER_ROUND} opções. São{" "}
           {ROUNDS_PER_DAY} músicas por dia em cada categoria, iguais para todo mundo.
         </p>
-      </div>
+      </section>
 
-      <ul className="flex flex-col gap-3">
-        {categories.map((category) => {
+      <h2 className="eyebrow pt-[22px] pb-3 text-accent">Escolha sua fita</h2>
+
+      <ul className="flex flex-col gap-[22px]">
+        {categories.map((category, index) => {
           const playable = category.songCount >= OPTIONS_PER_ROUND;
           return (
-            <li key={category.slug} className={`${card} flex flex-col gap-3`}>
-              <div className="flex items-start justify-between gap-3">
-                <div>
-                  <h2 className="text-lg font-semibold">{category.name}</h2>
-                  <p className="text-sm text-stone-600 dark:text-stone-400">{category.description}</p>
+            <li key={category.slug}>
+              <Cassette color={tapeColor(index)}>
+                <div className={`${paperLabel} flex flex-col gap-1.5 px-3.5 pt-3 pb-3.5`}>
+                  <div className="flex items-center justify-between gap-2">
+                    <span className="font-mono text-[11px] font-bold tracking-[0.12em]">
+                      K7 {tapeNumber(index)}
+                    </span>
+                    {playable && <TodayBadge category={category.slug} />}
+                  </div>
+                  <h3 className="border-b-[1.5px] border-paper-line pb-1 font-marker text-[27px] leading-[1.1]">
+                    {category.name}
+                  </h3>
+                  <p className="text-[13px] leading-[1.4] text-paper-muted">{category.description}</p>
+                  <TapeWindow className="mt-1.5">
+                    {playable ? `${category.songCount.toLocaleString("pt-BR")} músicas` : "Em breve"}
+                  </TapeWindow>
                 </div>
-                {playable && <TodayBadge category={category.slug} />}
-              </div>
-              {playable ? (
-                <div className="grid grid-cols-2 gap-2">
-                  <Link
-                    href={`/${category.slug}`}
-                    className="flex min-h-11 items-center justify-center rounded-xl bg-emerald-700 px-3 text-sm font-semibold text-white hover:bg-emerald-800 dark:bg-emerald-600 dark:hover:bg-emerald-500"
-                  >
-                    Desafio diário
-                  </Link>
-                  <Link
-                    href={`/${category.slug}/infinito`}
-                    className="flex min-h-11 items-center justify-center rounded-xl border-2 border-stone-300 px-3 text-sm font-semibold hover:border-stone-500 dark:border-stone-700 dark:hover:border-stone-500"
-                  >
-                    Infinito
-                  </Link>
-                </div>
-              ) : (
-                <p className="text-sm font-medium text-stone-500">Em breve</p>
-              )}
-              {playable && (
-                <p className="text-xs text-stone-500">{category.songCount.toLocaleString("pt-BR")} músicas</p>
-              )}
+
+                {playable && (
+                  <div className="grid grid-cols-2 gap-2.5">
+                    <Link href={`/${category.slug}`} className={`${inkButton} px-2`}>
+                      <PlayIcon />
+                      Desafio diário
+                    </Link>
+                    <Link href={`/${category.slug}/infinito`} className={`${secondaryButton} px-2`}>
+                      <InfinityIcon />
+                      Infinito
+                    </Link>
+                  </div>
+                )}
+              </Cassette>
             </li>
           );
         })}
       </ul>
     </div>
+  );
+}
+
+function PlayIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 14 14" aria-hidden>
+      <path d="M3 1.5l9.5 5.5L3 12.5z" fill="#FFD21F" />
+    </svg>
+  );
+}
+
+function InfinityIcon() {
+  return (
+    <svg width="20" height="12" viewBox="0 0 20 12" aria-hidden>
+      <path
+        d="M10 6c-2-3-3.5-4.5-5.5-4.5a4.5 4.5 0 0 0 0 9C6.5 10.5 8 9 10 6zm0 0c2 3 3.5 4.5 5.5 4.5a4.5 4.5 0 0 0 0-9C13.5 1.5 12 3 10 6z"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="2.2"
+      />
+    </svg>
   );
 }

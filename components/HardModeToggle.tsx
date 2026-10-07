@@ -16,18 +16,18 @@ export function HardModeToggle() {
       disabled={!state}
       onClick={() => updateGameState((s) => setHardMode(s, !on))}
       title={`Trechos de ${HARD_CLIP_SECONDS}s`}
-      className="flex items-center gap-2 rounded-full py-1 pl-3 pr-1 text-sm font-medium text-stone-600 transition-colors hover:text-stone-900 disabled:opacity-50 dark:text-stone-400 dark:hover:text-stone-100"
+      className="flex min-h-11 items-center gap-2.5 text-[13px] font-semibold text-fg disabled:opacity-50"
     >
       Modo difícil
       <span
         aria-hidden
-        className={`relative inline-flex h-6 w-10 items-center rounded-full transition-colors ${
-          on ? "bg-red-600" : "bg-stone-300 dark:bg-stone-700"
+        className={`flex h-7 w-12 items-center rounded-full border-2 p-[3px] transition-colors ${
+          on ? "border-ink bg-tape-red" : "border-surface-line bg-surface"
         }`}
       >
         <span
-          className={`inline-block h-5 w-5 rounded-full bg-white shadow transition-transform ${
-            on ? "translate-x-[18px]" : "translate-x-0.5"
+          className={`h-[18px] w-[18px] rounded-full bg-[#f4ead5] shadow-[0_2px_0_#000] transition-transform ${
+            on ? "translate-x-5" : "translate-x-0"
           }`}
         />
       </span>

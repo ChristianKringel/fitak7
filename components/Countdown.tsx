@@ -28,9 +28,9 @@ export function Countdown() {
   }, []);
 
   return (
-    <p className="text-center text-sm text-stone-600 dark:text-stone-400">
-      Próximo desafio em{" "}
-      <span className="font-mono font-semibold text-stone-900 tabular-nums dark:text-stone-100">
+    <p className="text-center text-sm text-muted">
+      Próxima fita em{" "}
+      <span className="font-mono font-bold text-fg tabular-nums">
         {ms === null ? "--:--:--" : format(ms)}
       </span>
     </p>

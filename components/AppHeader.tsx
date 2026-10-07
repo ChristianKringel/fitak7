@@ -2,22 +2,26 @@ import Link from "next/link";
 
 import { APP_NAME } from "@/lib/game/config";
 
+import { CassetteLogo } from "./CassetteLogo";
 import { HardModeToggle } from "./HardModeToggle";
 
 export function AppHeader() {
   return (
-    <header className="sticky top-0 z-10 border-b border-stone-200 bg-stone-50/90 backdrop-blur dark:border-stone-800 dark:bg-stone-950/90">
+    <header className="sticky top-0 z-10 bg-bg/95 backdrop-blur">
       {/* Green, red and yellow: the colors of the Rio Grande do Sul flag. */}
-      <div aria-hidden className="flex h-1">
-        <span className="flex-1 bg-emerald-700" />
-        <span className="flex-1 bg-red-600" />
-        <span className="flex-1 bg-yellow-400" />
+      <div aria-hidden className="grid h-1.5 grid-cols-3">
+        <span className="bg-tape-green" />
+        <span className="bg-tape-red" />
+        <span className="bg-tape-yellow" />
       </div>
-      <div className="mx-auto flex h-14 max-w-md items-center justify-between px-4">
-        <Link href="/" className="text-lg font-bold tracking-tight">
-          {APP_NAME}
-        </Link>
-        <HardModeToggle />
+      <div className="border-b border-line">
+        <div className="mx-auto flex max-w-md items-center justify-between px-5 py-3.5">
+          <Link href="/" className="flex items-center gap-2.5 text-fg">
+            <CassetteLogo />
+            <span className="font-display text-lg tracking-[0.02em] uppercase">{APP_NAME}</span>
+          </Link>
+          <HardModeToggle />
+        </div>
       </div>
     </header>
   );

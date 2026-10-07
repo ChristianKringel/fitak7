@@ -1,5 +1,7 @@
 "use client";
 
+const LETTERS = ["A", "B", "C", "D", "E", "F"];
+
 interface OptionListProps {
   options: string[];
   /** Set after the guess: highlights the right and the chosen option. */
@@ -11,23 +13,24 @@ interface OptionListProps {
 
 export function OptionList({ options, reveal, disabled, pendingChoice, onChoose }: OptionListProps) {
   return (
-    <ul className="flex flex-col gap-2.5">
+    <ul className="flex flex-col gap-3">
       {options.map((title, index) => {
-        let tone =
-          "border-stone-300 bg-white hover:border-emerald-600 hover:bg-emerald-50 dark:border-stone-700 dark:bg-stone-900 dark:hover:border-emerald-500 dark:hover:bg-emerald-950";
+        let tone = "bg-paper text-ink shadow-[0_4px_0_var(--key-shadow)] hover:bg-white";
+        let tag = "bg-ink text-paper";
         let mark = "";
         if (reveal) {
           if (index === reveal.answerIndex) {
-            tone = "border-emerald-600 bg-emerald-600 text-white dark:border-emerald-500 dark:bg-emerald-600";
+            tone = "bg-tape-green text-ink shadow-[0_4px_0_var(--key-shadow)]";
             mark = "✓";
           } else if (index === reveal.choice) {
-            tone = "border-red-600 bg-red-600 text-white";
+            tone = "bg-tape-red text-ink shadow-[0_4px_0_var(--key-shadow)]";
             mark = "✗";
           } else {
-            tone = "border-stone-200 bg-white text-stone-400 dark:border-stone-800 dark:bg-stone-900 dark:text-stone-500";
+            tone = "bg-paper text-ink opacity-45 shadow-none";
           }
         } else if (pendingChoice === index) {
-          tone = "border-emerald-600 bg-emerald-50 dark:border-emerald-500 dark:bg-emerald-950";
+          tone = "bg-tape-yellow text-ink translate-y-1 shadow-none";
+          tag = "bg-ink text-tape-yellow";
         }
         return (
           <li key={index}>
@@ -35,10 +38,20 @@ export function OptionList({ options, reveal, disabled, pendingChoice, onChoose 
               type="button"
               disabled={disabled || reveal !== null}
               onClick={() => onChoose(index)}
-              className={`flex min-h-14 w-full items-center justify-between gap-3 rounded-xl border-2 px-4 py-3 text-left text-base font-medium transition-colors disabled:cursor-default ${tone}`}
+              className={`key flex min-h-14 w-full items-center gap-3 rounded-xl border-2 border-ink px-3 py-2.5 text-left text-base font-bold disabled:cursor-default ${tone}`}
             >
-              <span>{title}</span>
-              {mark && <span aria-hidden className="text-lg font-bold">{mark}</span>}
+              <span
+                aria-hidden
+                className={`grid h-7 w-7 shrink-0 place-items-center rounded-md font-mono text-xs font-bold ${tag}`}
+              >
+                {LETTERS[index]}
+              </span>
+              <span className="flex-1">{title}</span>
+              {mark && (
+                <span aria-hidden className="text-xl font-black">
+                  {mark}
+                </span>
+              )}
             </button>
           </li>
         );
