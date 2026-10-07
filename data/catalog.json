@@ -17,8 +17,13 @@
     },
     {
       "slug": "bandinhas",
-      "name": "Bandinhas",
+      "name": "Bandinhas Típicas",
       "description": "Bandinhas alemãs e italianas do Sul do Brasil."
+    },
+    {
+      "slug": "bandinhas-de-baile",
+      "name": "Bandinhas de Baile",
+      "description": "Bandas de baile e bailão do Sul do Brasil."
     }
   ],
   "artists": [
@@ -351,6 +356,246 @@
       "deezerId": 250056972,
       "categories": [
         "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rainha Musical",
+      "deezerId": 5423748,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Brilha Som",
+      "deezerId": 1710432,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rota Luminosa",
+      "deezerId": 5931027,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "Existe também \"Banda Rota Luminosa\" (76128962), com repertório pomerano/alemão; não é a mesma."
+    },
+    {
+      "name": "San Marino",
+      "deezerId": 13313321,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda San Marino. O perfil \"San Marino\" (1205022) mistura vários artistas (hinos, música italiana)."
+    },
+    {
+      "name": "Rogério Magrão e Banda",
+      "deezerId": 50239182,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Terceira Dimensão",
+      "deezerId": 1414565,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Atuais",
+      "deezerId": 5337790,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Musical JM",
+      "deezerId": 1414560,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Corpo e Alma",
+      "deezerId": 5412140,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Champion",
+      "deezerId": 209837207,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "Perfil de bailão (Som Sette & Champion). Há outros \"Champion\" no Deezer; \"Banda Champion\" (9952700) tem só 3 álbuns."
+    },
+    {
+      "name": "Musical San Francisco",
+      "deezerId": 5355915,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Flor da Serra",
+      "deezerId": 13382435,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda Flor Da Serra. O perfil \"Flor da Serra\" (5297409) é outro grupo."
+    },
+    {
+      "name": "Sétimo Sentido",
+      "deezerId": 5931023,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Indústria Musical",
+      "deezerId": 5960152,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Nave Som",
+      "deezerId": 8770644,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda Nave Som."
+    },
+    {
+      "name": "Portal da Serra",
+      "deezerId": 5426350,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda Portal Da Serra."
+    },
+    {
+      "name": "G10",
+      "deezerId": 49764432,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda G10."
+    },
+    {
+      "name": "Banda Modelo",
+      "deezerId": 8602758,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda Modello."
+    },
+    {
+      "name": "Passarela",
+      "deezerId": 5931047,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda Passarela."
+    },
+    {
+      "name": "Pérola Negra",
+      "deezerId": 78337112,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda Pérola Negra. O perfil \"Pérola Negra\" (9357430) é outro grupo."
+    },
+    {
+      "name": "Porto do Som",
+      "deezerId": 8822592,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Flávio Dalcin e Banda Ouro",
+      "deezerId": 13339539,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Flávio Dalcin & Banda Ouro. Há um perfil menor com \"e\" (105828662)."
+    },
+    {
+      "name": "Destaque Nacional",
+      "deezerId": 146818182,
+      "categories": [
+        "bandinhas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda Destaque Nacional."
+    },
+    {
+      "name": "Wilceu Pause",
+      "deezerId": 6285714,
+      "categories": [
+        "bandinhas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],

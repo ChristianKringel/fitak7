@@ -40,7 +40,7 @@ Música regional e nativista do Rio Grande do Sul.
 - Renato Borghetti
 - Os Mirins
 
-## Bandinhas (`bandinhas`)
+## Bandinhas Típicas (`bandinhas`)
 
 Bandinhas alemãs e italianas do Sul do Brasil.
 
@@ -56,3 +56,32 @@ Bandinhas alemãs e italianas do Sul do Brasil.
 - Monte Azul
 - Banda Ghermania
 - Super Banda K'necus
+
+## Bandinhas de Baile (`bandinhas-de-baile`)
+
+Bandas de baile e bailão do Sul do Brasil.
+
+- Rainha Musical
+- Brilha Som
+- Rota Luminosa
+- San Marino (no Deezer: Banda San Marino)
+- Rogério Magrão e Banda
+- Terceira Dimensão
+- Os Atuais
+- Musical JM
+- Corpo e Alma
+- Champion
+- Musical San Francisco
+- Flor da Serra (no Deezer: Banda Flor Da Serra)
+- Sétimo Sentido
+- Indústria Musical
+- Nave Som (no Deezer: Banda Nave Som)
+- Portal da Serra (no Deezer: Banda Portal Da Serra)
+- G10 (no Deezer: Banda G10)
+- Banda Modelo (no Deezer: Banda Modello)
+- Passarela (no Deezer: Banda Passarela)
+- Pérola Negra (no Deezer: Banda Pérola Negra)
+- Porto do Som
+- Flávio Dalcin e Banda Ouro (no Deezer: Flávio Dalcin & Banda Ouro)
+- Destaque Nacional (no Deezer: Banda Destaque Nacional)
+- Wilceu Pause
