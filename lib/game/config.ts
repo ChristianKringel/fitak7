@@ -1,4 +1,4 @@
-export const APP_NAME = "Musicle RS";
+export const APP_NAME = "Fita K7";
 
 /** Clip length in seconds, per mode. */
 export const NORMAL_CLIP_SECONDS = 15;

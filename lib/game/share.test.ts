@@ -12,7 +12,7 @@ describe("shareText", () => {
       url: "https://example.com/rock-gaucho",
     });
     expect(text).toBe(
-      "Musicle RS · Rock Gaúcho\n06/10/2026 · 4/5\n🟩🟥🟩🟩🟩\nhttps://example.com/rock-gaucho",
+      "Fita K7 · Rock Gaúcho\n06/10/2026 · 4/5\n🟩🟥🟩🟩🟩\nhttps://example.com/rock-gaucho",
     );
   });
 
@@ -23,7 +23,7 @@ describe("shareText", () => {
       results: [false, false, false, false, false],
       hardMode: true,
     });
-    expect(text).toBe("Musicle RS · Bandinhas\n06/10/2026 · 0/5 · modo difícil 🔥\n🟥🟥🟥🟥🟥");
+    expect(text).toBe("Fita K7 · Bandinhas\n06/10/2026 · 0/5 · modo difícil 🔥\n🟥🟥🟥🟥🟥");
   });
 });
 

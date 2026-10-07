@@ -1,4 +1,4 @@
-# Musicle RS
+# Fita K7
 
 Jogo de adivinhar músicas pelo trecho, focado em categorias de nicho: rock gaúcho, música gaúcha/nativista, bandinhas e rock brasileiro. O jogador ouve um trecho do preview do Deezer e escolhe o título certo entre 4 opções.
 
