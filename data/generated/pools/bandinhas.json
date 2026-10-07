@@ -1,0 +1,6059 @@
+{
+  "category": "bandinhas",
+  "songs": [
+    {
+      "id": "la-montanara--30-anos-de-la-montanara",
+      "title": "30 Anos de La Montanara",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2897551191,
+      "altTrackIds": [],
+      "album": {
+        "id": 617717781,
+        "title": "30 Anos de La Montanara",
+        "releaseDate": "2024-08-05",
+        "recordType": "single"
+      },
+      "duration": 203
+    },
+    {
+      "id": "la-montanara--a-alegria-esta-no-ar",
+      "title": "A Alegria Está no Ar",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086992,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 188
+    },
+    {
+      "id": "la-montanara--a-felicidade",
+      "title": "A Felicidade",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448110,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 130
+    },
+    {
+      "id": "la-montanara--a-festa-nao-tem-hora-pra-acabar",
+      "title": "A Festa Não Tem Hora Pra Acabar",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086972,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 174
+    },
+    {
+      "id": "la-montanara--a-maquina-do-kerb",
+      "title": "A Máquina do Kerb",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069452,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 194
+    },
+    {
+      "id": "la-montanara--a-semana-dos-meus-sonhos",
+      "title": "A Semana dos Meus Sonhos",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086882,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 177
+    },
+    {
+      "id": "la-montanara--acabou-o-chope",
+      "title": "Acabou o Chope",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340902,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 189
+    },
+    {
+      "id": "la-montanara--adelaidh",
+      "title": "Adelaidh",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448092,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 180
+    },
+    {
+      "id": "la-montanara--alles-gut",
+      "title": "Alles Gut !",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448094,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 203
+    },
+    {
+      "id": "la-montanara--alma-mia",
+      "title": "ALMA MIA",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566911,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 268
+    },
+    {
+      "id": "la-montanara--amboss-polka",
+      "title": "AMBOSS POLKA",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566871,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 182
+    },
+    {
+      "id": "la-montanara--ao-nascer-do-sol",
+      "title": "Ao Nascer do Sol",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357525,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 195
+    },
+    {
+      "id": "la-montanara--ao-som-da-primavera",
+      "title": "Ao Som da Primavera",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086942,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 167
+    },
+    {
+      "id": "la-montanara--apanhei-da-frida",
+      "title": "Apanhei da Frida",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2320625175,
+      "altTrackIds": [],
+      "album": {
+        "id": 451120965,
+        "title": "Apanhei da Frida",
+        "releaseDate": "2023-06-16",
+        "recordType": "single"
+      },
+      "duration": 166
+    },
+    {
+      "id": "la-montanara--auf-der-welt",
+      "title": "Auf Der Welt",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357565,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 206
+    },
+    {
+      "id": "la-montanara--bandida",
+      "title": "Bandida",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069522,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 211
+    },
+    {
+      "id": "la-montanara--beim-kronenwirt",
+      "title": "Beim Kronenwirt",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340962,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 197
+    },
+    {
+      "id": "la-montanara--bella-bella-dona",
+      "title": "BELLA BELLA DONA",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566841,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 202
+    },
+    {
+      "id": "la-montanara--bicao",
+      "title": "Bicão",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800162027,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 200
+    },
+    {
+      "id": "la-montanara--bodas-de-ouro",
+      "title": "Bodas de Ouro",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 4080232601,
+      "altTrackIds": [],
+      "album": {
+        "id": 1003320491,
+        "title": "Bodas de Ouro",
+        "releaseDate": "2026-06-19",
+        "recordType": "single"
+      },
+      "duration": 196
+    },
+    {
+      "id": "la-montanara--broadway-doce-oberek",
+      "title": "BROADWAY DOCE OBEREK",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566811,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 161
+    },
+    {
+      "id": "la-montanara--cade-o-freitas",
+      "title": "Cadê o Freitas?",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086782,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 180
+    },
+    {
+      "id": "la-montanara--cancao-de-amor",
+      "title": "Canção de Amor",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1934412827,
+      "altTrackIds": [],
+      "album": {
+        "id": 360729907,
+        "title": "Canção de Amor",
+        "releaseDate": "2022-09-21",
+        "recordType": "single"
+      },
+      "duration": 216
+    },
+    {
+      "id": "la-montanara--chega-mais",
+      "title": "Chega mais",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086852,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 171
+    },
+    {
+      "id": "la-montanara--chope-na-veia",
+      "title": "Chope na Veia",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340912,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 187
+    },
+    {
+      "id": "la-montanara--chopp-de-canudinho",
+      "title": "Chopp de Canudinho",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069502,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 192
+    },
+    {
+      "id": "la-montanara--contos-dos-bosques-de-viena",
+      "title": "Contos dos Bosques de Viena",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069562,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 197
+    },
+    {
+      "id": "la-montanara--curtindo-a-vida",
+      "title": "Curtindo a Vida",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069512,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 183
+    },
+    {
+      "id": "la-montanara--danca-muito-louca",
+      "title": "Dança Muito Louca",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800162017,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 168
+    },
+    {
+      "id": "la-montanara--dancando-alegre",
+      "title": "Dançando Alegre",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448096,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 186
+    },
+    {
+      "id": "la-montanara--dancando-em-porto-lucena",
+      "title": "Dançando Em Porto Lucena",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2143982477,
+      "altTrackIds": [],
+      "album": {
+        "id": 405954407,
+        "title": "Dançando Em Porto Lucena",
+        "releaseDate": "2023-02-10",
+        "recordType": "single"
+      },
+      "duration": 171
+    },
+    {
+      "id": "la-montanara--dance-valsa-com-a-gente-pout-pourri",
+      "title": "Dance valsa com a gente (pout-pourri)",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086792,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 183
+    },
+    {
+      "id": "la-montanara--daqui-pra-frente-so-para-tras",
+      "title": "Daqui Pra Frente Só Para Trás",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2306578635,
+      "altTrackIds": [],
+      "album": {
+        "id": 447981825,
+        "title": "Daqui Pra Frente Só Para Trás",
+        "releaseDate": "2023-06-07",
+        "recordType": "single"
+      },
+      "duration": 189
+    },
+    {
+      "id": "la-montanara--der-bauer-ist-ein-kluger-mann",
+      "title": "DER BAUER IST EIN KLUGER MANN",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566791,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 198
+    },
+    {
+      "id": "la-montanara--die-hande-kum-himmel",
+      "title": "Die Hände Kum Himmel",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448100,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 178
+    },
+    {
+      "id": "la-montanara--dobrado-da-corte",
+      "title": "Dobrado da Corte",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340942,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 190
+    },
+    {
+      "id": "la-montanara--dobrado-dois-irmaos",
+      "title": "Dobrado Dois Irmãos",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357595,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 218
+    },
+    {
+      "id": "la-montanara--dobrado-meia-noite",
+      "title": "Dobrado Meia Noite",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3851426601,
+      "altTrackIds": [],
+      "album": {
+        "id": 921819471,
+        "title": "Dobrado Meia Noite",
+        "releaseDate": "2026-02-27",
+        "recordType": "single"
+      },
+      "duration": 177
+    },
+    {
+      "id": "la-montanara--dobrado-santa-terezinha",
+      "title": "Dobrado Santa Terezinha",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086862,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 173
+    },
+    {
+      "id": "la-montanara--dobrado-velho-amigo",
+      "title": "Dobrado Velho Amigo",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616087002,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 176
+    },
+    {
+      "id": "la-montanara--dolce-vita",
+      "title": "DOLCE VITA",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566921,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 183
+    },
+    {
+      "id": "la-montanara--el-bandolero",
+      "title": "El bandolero",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086822,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 193
+    },
+    {
+      "id": "la-montanara--eles-nem-tao",
+      "title": "Eles nem tão",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086802,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 219
+    },
+    {
+      "id": "la-montanara--estrela-do-amor",
+      "title": "Estrela do Amor",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340992,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 224
+    },
+    {
+      "id": "la-montanara--feijao-com-arroz",
+      "title": "Feijão Com Arroz",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800161997,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 153
+    },
+    {
+      "id": "la-montanara--fliegermarsch",
+      "title": "Fliegermarsch",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357505,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 148
+    },
+    {
+      "id": "la-montanara--flores-espanholas",
+      "title": "Flores Espanholas",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357615,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 171
+    },
+    {
+      "id": "la-montanara--gross-sauferei",
+      "title": "Gross Sauferei",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069532,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 183
+    },
+    {
+      "id": "la-montanara--herz-schmerz",
+      "title": "Herz schmerz",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086762,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 168
+    },
+    {
+      "id": "la-montanara--ich-mocht-mit-dier",
+      "title": "Ich Mocht Mit Dier",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357575,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 186
+    },
+    {
+      "id": "la-montanara--jlohzirkus",
+      "title": "Jlohzirkus",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448098,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 183
+    },
+    {
+      "id": "la-montanara--jolly-saxofon",
+      "title": "Jolly Saxofon",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448104,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 187
+    },
+    {
+      "id": "la-montanara--kerb-em-taquara",
+      "title": "Kerb Em Taquara",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800162037,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 186
+    },
+    {
+      "id": "la-montanara--kleiners-marsch",
+      "title": "Kleiners Marsch",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086902,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 178
+    },
+    {
+      "id": "la-montanara--la-montanara-zeit",
+      "title": "La Montanara zeit",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086842,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 187
+    },
+    {
+      "id": "la-montanara--lembrando-do-parana",
+      "title": "Lembrando do Paraná",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340982,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 128
+    },
+    {
+      "id": "la-montanara--lindo-olhar",
+      "title": "Lindo Olhar",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357605,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 243
+    },
+    {
+      "id": "la-montanara--louco-pra-dancar-verruckt-fur-das-tanzen",
+      "title": "Louco Pra Dançar (Verrückt Für Das Tanzen)",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069462,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 185
+    },
+    {
+      "id": "la-montanara--marina-rosita",
+      "title": "Marina - Rosita",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2572181552,
+      "altTrackIds": [],
+      "album": {
+        "id": 520243442,
+        "title": "Marina - Rosita (Ao Vivo)",
+        "releaseDate": "2023-12-15",
+        "recordType": "single"
+      },
+      "duration": 224
+    },
+    {
+      "id": "la-montanara--maxixe-atrevido",
+      "title": "Maxixe Atrevido",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069552,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "la-montanara--me-liga",
+      "title": "Me Liga",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615341002,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 164
+    },
+    {
+      "id": "la-montanara--meia-duzia",
+      "title": "Meia Dúzia",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340932,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 172
+    },
+    {
+      "id": "la-montanara--minha-cara-metade",
+      "title": "Minha Cara Metade",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800161977,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 181
+    },
+    {
+      "id": "la-montanara--na-magia-da-musica",
+      "title": "Na Magia da Música",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069492,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 206
+    },
+    {
+      "id": "la-montanara--nao-empurre-demais",
+      "title": "Não Empurre Demais",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448108,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 201
+    },
+    {
+      "id": "la-montanara--nao-sei-o-que-fazer",
+      "title": "Não Sei o Que Fazer",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069542,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 204
+    },
+    {
+      "id": "la-montanara--no-colinho-da-mamae",
+      "title": "No Colinho da Mamãe",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086982,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 157
+    },
+    {
+      "id": "la-montanara--no-colinho-do-alemao-colinho-do-pai",
+      "title": "No colinho do alemão (Colinho do pai)",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086772,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 189
+    },
+    {
+      "id": "la-montanara--noites-de-kerb",
+      "title": "Noites de kerb",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086812,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 205
+    },
+    {
+      "id": "la-montanara--nosso-caso-de-amor",
+      "title": "Nosso Caso de Amor",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448112,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 196
+    },
+    {
+      "id": "la-montanara--o-alemao-atravessado",
+      "title": "O Alemão Atravessado",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340972,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 197
+    },
+    {
+      "id": "la-montanara--o-baile-do-alemao",
+      "title": "O Baile do Alemão",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616087022,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 196
+    },
+    {
+      "id": "la-montanara--o-chopp-vai-rolar",
+      "title": "O Chopp Vai Rolar",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069472,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "la-montanara--o-verao-esta-chegando",
+      "title": "O Verão Está Chegando",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086962,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 166
+    },
+    {
+      "id": "la-montanara--oktoberfest-in-marata",
+      "title": "OKTOBERFEST IN MARATÁ",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566931,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 114
+    },
+    {
+      "id": "la-montanara--onde-tem-festa-eu-vou",
+      "title": "Onde Tem Festa Eu Vou",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340952,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 179
+    },
+    {
+      "id": "la-montanara--party-sax",
+      "title": "PARTY SAX",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566861,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 179
+    },
+    {
+      "id": "la-montanara--podem-soltar-os-foguetes",
+      "title": "Podem Soltar os Foguetes",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086912,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 206
+    },
+    {
+      "id": "la-montanara--polka-chope-e-alegria",
+      "title": "Polka, Chope e Alegria",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340882,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 190
+    },
+    {
+      "id": "la-montanara--polka-polka",
+      "title": "POLKA POLKA",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566831,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 140
+    },
+    {
+      "id": "la-montanara--pra-sempre-te-amar",
+      "title": "Pra Sempre Te Amar",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800161987,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 162
+    },
+    {
+      "id": "la-montanara--proud-mary",
+      "title": "Proud Mary",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616087032,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 157
+    },
+    {
+      "id": "la-montanara--pumpkin-dance",
+      "title": "Pumpkin Dance",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448114,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 188
+    },
+    {
+      "id": "la-montanara--quero-ter-o-seu-amor",
+      "title": "Quero Ter o Seu Amor",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615341012,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 168
+    },
+    {
+      "id": "la-montanara--radetzky-marsch",
+      "title": "Radetzky Marsch",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616069572,
+      "altTrackIds": [],
+      "album": {
+        "id": 842692752,
+        "title": "A Máquina do Kerb",
+        "releaseDate": "2008-10-10",
+        "recordType": "album"
+      },
+      "duration": 167
+    },
+    {
+      "id": "la-montanara--rapidinho-que-e-bom",
+      "title": "Rapidinho Que É Bom",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340922,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 200
+    },
+    {
+      "id": "la-montanara--river-kwai",
+      "title": "River Kwai",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800161967,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 150
+    },
+    {
+      "id": "la-montanara--rivers-of-babylon",
+      "title": "Rivers of Babylon",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800161937,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 204
+    },
+    {
+      "id": "la-montanara--rosalinde",
+      "title": "ROSALINDE",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566851,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 196
+    },
+    {
+      "id": "la-montanara--sabado-de-noite",
+      "title": "Sábado de Noite",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3325180591,
+      "altTrackIds": [],
+      "album": {
+        "id": 742637121,
+        "title": "Sábado de Noite",
+        "releaseDate": "2025-04-19",
+        "recordType": "single"
+      },
+      "duration": 190
+    },
+    {
+      "id": "la-montanara--sao-seus-olhos",
+      "title": "São seus olhos",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086832,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 187
+    },
+    {
+      "id": "la-montanara--schutzenliesel",
+      "title": "Schützenliesel",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800162047,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 185
+    },
+    {
+      "id": "la-montanara--sei-zu-frunde",
+      "title": "Sei Zu Fründe",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357545,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 172
+    },
+    {
+      "id": "la-montanara--sextou-de-novo",
+      "title": "Sextou de Novo",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3564391151,
+      "altTrackIds": [],
+      "album": {
+        "id": 824424561,
+        "title": "Sextou de Novo",
+        "releaseDate": "2021-12-15",
+        "recordType": "single"
+      },
+      "duration": 163
+    },
+    {
+      "id": "la-montanara--simplicidade",
+      "title": "Simplicidade",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086952,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 156
+    },
+    {
+      "id": "la-montanara--so-falta-voce",
+      "title": "Só Falta Você",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3615340892,
+      "altTrackIds": [],
+      "album": {
+        "id": 842503282,
+        "title": "Chope na Veia",
+        "releaseDate": "2012-07-07",
+        "recordType": "album"
+      },
+      "duration": 194
+    },
+    {
+      "id": "la-montanara--so-que-nao",
+      "title": "Só Que Não",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616087012,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 163
+    },
+    {
+      "id": "la-montanara--solang-die-musik-noch-zu-herzen-geht",
+      "title": "SOLANG DIE MUSIK NOCH ZU HERZEN GEHT",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 374566821,
+      "altTrackIds": [],
+      "album": {
+        "id": 43331271,
+        "title": "ORQUESTRA LA MONTANARA",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 205
+    },
+    {
+      "id": "la-montanara--tic-tac",
+      "title": "Tic Tac",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448102,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 202
+    },
+    {
+      "id": "la-montanara--tira-o-chapeu",
+      "title": "Tira o Chapéu",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357555,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 147
+    },
+    {
+      "id": "la-montanara--trambonaco",
+      "title": "Trambonaço",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357515,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 230
+    },
+    {
+      "id": "la-montanara--ula-la",
+      "title": "Ula-Lá",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800161947,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 157
+    },
+    {
+      "id": "la-montanara--um-momento-a-mais",
+      "title": "Um Momento a Mais",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 144448106,
+      "altTrackIds": [],
+      "album": {
+        "id": 15667224,
+        "title": "Alles Gut !",
+        "releaseDate": "2002-09-18",
+        "recordType": "album"
+      },
+      "duration": 214
+    },
+    {
+      "id": "la-montanara--vamos-cantar",
+      "title": "Vamos cantar",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086872,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695412,
+        "title": "No Colinho Do Alemão",
+        "releaseDate": "2005-05-05",
+        "recordType": "album"
+      },
+      "duration": 238
+    },
+    {
+      "id": "la-montanara--vamos-curtir-este-momento",
+      "title": "Vamos Curtir Este Momento",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086932,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 204
+    },
+    {
+      "id": "la-montanara--vamos-pro-kerb",
+      "title": "Vamos Pro Kerb",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800161957,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "la-montanara--vem-dancar-comigo-alemao",
+      "title": "Vem Dançar Comigo, Alemão",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086892,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 186
+    },
+    {
+      "id": "la-montanara--verdes-vales",
+      "title": "Verdes Vales",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357535,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 216
+    },
+    {
+      "id": "la-montanara--waltz-gelle",
+      "title": "Waltz Gelle",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 1800162007,
+      "altTrackIds": [],
+      "album": {
+        "id": 329611247,
+        "title": "Ula-Lá",
+        "releaseDate": "2006-06-20",
+        "recordType": "album"
+      },
+      "duration": 180
+    },
+    {
+      "id": "la-montanara--wir-sind-aus-sudbrasilien",
+      "title": "Wir Sind Aus Südbrasilien",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 3616086922,
+      "altTrackIds": [],
+      "album": {
+        "id": 842695422,
+        "title": "O Baile do Alemão",
+        "releaseDate": "2015-12-12",
+        "recordType": "album"
+      },
+      "duration": 183
+    },
+    {
+      "id": "la-montanara--xote-1-2-3",
+      "title": "Xote 1,2,3",
+      "artist": "La Montanara",
+      "artistDeezerId": 8602750,
+      "trackId": 2328357585,
+      "altTrackIds": [],
+      "album": {
+        "id": 453578215,
+        "title": "Trambonaço",
+        "releaseDate": "2023-06-16",
+        "recordType": "album"
+      },
+      "duration": 133
+    },
+    {
+      "id": "os-montanari--50-anos",
+      "title": "50 Anos",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129521041,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 212
+    },
+    {
+      "id": "os-montanari--a-festa-e-nossa",
+      "title": "A Festa É Nossa",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129520971,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 142
+    },
+    {
+      "id": "os-montanari--alegria-de-toureiro",
+      "title": "Alegria de toureiro",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361992,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 135
+    },
+    {
+      "id": "os-montanari--alegria-pra-valer",
+      "title": "Alegria pra Valer",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792221,
+      "altTrackIds": [
+        82594848,
+        3129418911
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 223
+    },
+    {
+      "id": "os-montanari--alem-do-horizonte-you-set-my-heart-on-fire",
+      "title": "Além do horizonte - You set my heart on fire",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618792,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 186
+    },
+    {
+      "id": "os-montanari--alpen-rebelen",
+      "title": "Alpen Rebelen",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122752,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 203
+    },
+    {
+      "id": "os-montanari--andando-na-praia",
+      "title": "Andando Na Praia",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122732,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 189
+    },
+    {
+      "id": "os-montanari--auf-auf-zum-frohlichen-jagen",
+      "title": "Auf Auf Zum Frohlichen Jagen",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618812,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 121
+    },
+    {
+      "id": "os-montanari--axe-com-chopp",
+      "title": "Axé Com Chopp",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619362,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 159
+    },
+    {
+      "id": "os-montanari--baile-do-uruguai",
+      "title": "Baile do Uruguai",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368132,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 136
+    },
+    {
+      "id": "os-montanari--bar-do-stits",
+      "title": "Bar do Stits",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122702,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 194
+    },
+    {
+      "id": "os-montanari--beleza-nao-se-poe-na-mesa",
+      "title": "Beleza não se põe na mesa",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618742,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 219
+    },
+    {
+      "id": "os-montanari--bum-bum-tcha-rok-mi",
+      "title": "Bum Bum Tcha (Rok-Mi)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619372,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 152
+    },
+    {
+      "id": "os-montanari--c-est-le-twist-qui-rivient",
+      "title": "C'est Le Twist Qui Rivient",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2691326782,
+      "altTrackIds": [],
+      "album": {
+        "id": 556683032,
+        "title": "1979 - Volume 15",
+        "releaseDate": "1979-02-26",
+        "recordType": "album"
+      },
+      "duration": 172
+    },
+    {
+      "id": "os-montanari--cana-verde",
+      "title": "Cana Verde",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361982,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 149
+    },
+    {
+      "id": "os-montanari--chorando-na-madrugada",
+      "title": "Chorando na Madrugada",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129521051,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 179
+    },
+    {
+      "id": "os-montanari--chotes-da-moreninha",
+      "title": "Chotes da Moreninha",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361932,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 150
+    },
+    {
+      "id": "os-montanari--como-eu-amo-voce",
+      "title": "Como Eu Amo Você",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129521021,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 222
+    },
+    {
+      "id": "os-montanari--coronel-boogey",
+      "title": "Coronel Boogey",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792171,
+      "altTrackIds": [
+        82594838,
+        3129418841
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 231
+    },
+    {
+      "id": "os-montanari--dama-latina",
+      "title": "Dama Latina",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2691326762,
+      "altTrackIds": [],
+      "album": {
+        "id": 556683032,
+        "title": "1979 - Volume 15",
+        "releaseDate": "1979-02-26",
+        "recordType": "album"
+      },
+      "duration": 141
+    },
+    {
+      "id": "os-montanari--danca-da-choppeira",
+      "title": "Dança da Choppeira",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122742,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 168
+    },
+    {
+      "id": "os-montanari--danca-espanhola",
+      "title": "Dança Espanhola",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792301,
+      "altTrackIds": [
+        82594862
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 244
+    },
+    {
+      "id": "os-montanari--danubio-azul",
+      "title": "Danúbio Azul",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361902,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 170
+    },
+    {
+      "id": "os-montanari--desde-el-alma",
+      "title": "Desde el alma",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618822,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 145
+    },
+    {
+      "id": "os-montanari--diana",
+      "title": "Diana",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2691326812,
+      "altTrackIds": [],
+      "album": {
+        "id": 556683032,
+        "title": "1979 - Volume 15",
+        "releaseDate": "1979-02-26",
+        "recordType": "album"
+      },
+      "duration": 146
+    },
+    {
+      "id": "os-montanari--die-alten-zeiten",
+      "title": "Die alten Zeiten",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792351,
+      "altTrackIds": [
+        82594872
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 166
+    },
+    {
+      "id": "os-montanari--du-warst-zu-lang-im-falschen-himmel",
+      "title": "Du warst zu lang im falschen Himmel",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792341,
+      "altTrackIds": [
+        82594870,
+        82594880,
+        3049792391
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 178
+    },
+    {
+      "id": "os-montanari--duas-aguias",
+      "title": "Duas Águias",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129418961,
+      "altTrackIds": [],
+      "album": {
+        "id": 680264711,
+        "title": "Na Oktoberfest",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 199
+    },
+    {
+      "id": "os-montanari--echame-a-mi-la-culpa",
+      "title": "Echame a mi la culpa",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2691326752,
+      "altTrackIds": [],
+      "album": {
+        "id": 556683032,
+        "title": "1979 - Volume 15",
+        "releaseDate": "1979-02-26",
+        "recordType": "album"
+      },
+      "duration": 163
+    },
+    {
+      "id": "os-montanari--edna",
+      "title": "Edna",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361962,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 187
+    },
+    {
+      "id": "os-montanari--el-bandolero-o-tropeiro",
+      "title": "El bandolero (O Tropeiro)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368102,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 196
+    },
+    {
+      "id": "os-montanari--embalo-da-tarantela",
+      "title": "Embalo da Tarantela",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129521061,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 187
+    },
+    {
+      "id": "os-montanari--exaltacao-a-concordia",
+      "title": "Exaltação a Concórdia",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361892,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 173
+    },
+    {
+      "id": "os-montanari--festa",
+      "title": "Festa",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792331,
+      "altTrackIds": [
+        82594868
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 156
+    },
+    {
+      "id": "os-montanari--festa-e-festa",
+      "title": "Festa e Festa",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129418991,
+      "altTrackIds": [],
+      "album": {
+        "id": 680264711,
+        "title": "Na Oktoberfest",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 153
+    },
+    {
+      "id": "os-montanari--festa-em-treze-itilia",
+      "title": "Festa em Treze Itília",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129418981,
+      "altTrackIds": [],
+      "album": {
+        "id": 680264711,
+        "title": "Na Oktoberfest",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 196
+    },
+    {
+      "id": "os-montanari--festa-em-treze-tilias",
+      "title": "Festa em Treze Tílias",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792201,
+      "altTrackIds": [
+        82594844
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 200
+    },
+    {
+      "id": "os-montanari--festa-no-vale",
+      "title": "Festa no Vale",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792211,
+      "altTrackIds": [
+        82594846,
+        3129418951
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 443
+    },
+    {
+      "id": "os-montanari--fim-de-semana",
+      "title": "Fim de Semana",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122772,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 219
+    },
+    {
+      "id": "os-montanari--funiculi-funiculla",
+      "title": "Funiculi Funiculla",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792251,
+      "altTrackIds": [
+        82594854
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 210
+    },
+    {
+      "id": "os-montanari--gosto-doce-da-paixao-es-geth-uns-gut",
+      "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619302,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 177
+    },
+    {
+      "id": "os-montanari--happy-trumpeter",
+      "title": "Happy trumpeter",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618722,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 136
+    },
+    {
+      "id": "os-montanari--heyo-heyo",
+      "title": "Heyo, Heyo",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792261,
+      "altTrackIds": [
+        82594856,
+        3129418931
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 181
+    },
+    {
+      "id": "os-montanari--hip-hop-polka-i",
+      "title": "Hip Hop Polka I",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122782,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 274
+    },
+    {
+      "id": "os-montanari--im-herzen-nur-die-blasmusik",
+      "title": "Im Herzen nur die Blasmusik",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792381,
+      "altTrackIds": [
+        82594878
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 173
+    },
+    {
+      "id": "os-montanari--kerb-n-roll",
+      "title": "Kerb'n Roll",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129521031,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 178
+    },
+    {
+      "id": "os-montanari--kerbfest-die-disco-oma",
+      "title": "Kerbfest (Die Disco Oma)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619272,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 170
+    },
+    {
+      "id": "os-montanari--kon-gidb-mi-deine-hand",
+      "title": "Kon Gidb Mi Deine Hand",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361952,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 160
+    },
+    {
+      "id": "os-montanari--lady-ley",
+      "title": "Lady Ley",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2691326802,
+      "altTrackIds": [],
+      "album": {
+        "id": 556683032,
+        "title": "1979 - Volume 15",
+        "releaseDate": "1979-02-26",
+        "recordType": "album"
+      },
+      "duration": 146
+    },
+    {
+      "id": "os-montanari--limpa-banco-dos-montanari",
+      "title": "Limpa-Banco Dos Montanari",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122712,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 189
+    },
+    {
+      "id": "os-montanari--logo-logo",
+      "title": "Logo-Logo",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619352,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 153
+    },
+    {
+      "id": "os-montanari--marcha-do-coelho",
+      "title": "Marcha do Coelho",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792181,
+      "altTrackIds": [
+        82594840,
+        3129418901
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 182
+    },
+    {
+      "id": "os-montanari--marli",
+      "title": "Marli",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368082,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 139
+    },
+    {
+      "id": "os-montanari--maxixe-do-paulo",
+      "title": "Maxixe do Paulo",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368042,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 124
+    },
+    {
+      "id": "os-montanari--meine-liebe",
+      "title": "Meine Liebe",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792321,
+      "altTrackIds": [
+        82594866,
+        3129418971
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 213
+    },
+    {
+      "id": "os-montanari--melo-do-rolo",
+      "title": "Melô do Rolo",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129418871,
+      "altTrackIds": [
+        3129521081
+      ],
+      "album": {
+        "id": 680264711,
+        "title": "Na Oktoberfest",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 207
+    },
+    {
+      "id": "os-montanari--melo-do-rolo-wen-die-bayern-feyern",
+      "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619282,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 167
+    },
+    {
+      "id": "os-montanari--menina-da-minha-cidade",
+      "title": "Menina da Minha Cidade",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129521001,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 189
+    },
+    {
+      "id": "os-montanari--meu-benzinho",
+      "title": "Meu Benzinho",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122762,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 192
+    },
+    {
+      "id": "os-montanari--musica-e-cerveja-die-musikanten-aus-dem-zillertaler",
+      "title": "Música e Cerveja (Die Musikanten Aus Dem Zillertaler)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619312,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 177
+    },
+    {
+      "id": "os-montanari--my-love",
+      "title": "My Love",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618752,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 264
+    },
+    {
+      "id": "os-montanari--nice-and-slow",
+      "title": "Nice and slow",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618732,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 189
+    },
+    {
+      "id": "os-montanari--no-more-troubles",
+      "title": "No more troubles",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676362002,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 151
+    },
+    {
+      "id": "os-montanari--nosso-momento",
+      "title": "Nosso Momento",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129520981,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 241
+    },
+    {
+      "id": "os-montanari--nossos-segredos",
+      "title": "Nossos Segredos",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619382,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 225
+    },
+    {
+      "id": "os-montanari--o-bar-do-stits",
+      "title": "O Bar do Stits",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122812,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 192
+    },
+    {
+      "id": "os-montanari--o-meu-amor-e-assim",
+      "title": "O Meu Amor É Assim",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129521011,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 197
+    },
+    {
+      "id": "os-montanari--o-vagabundo",
+      "title": "O Vagabundo",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368052,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 186
+    },
+    {
+      "id": "os-montanari--o-verao-sempre-vai-voltar",
+      "title": "O Verão Sempre Vai Voltar",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792291,
+      "altTrackIds": [
+        82594860,
+        3129418891,
+        3129521091
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 189
+    },
+    {
+      "id": "os-montanari--on-a-rainbow",
+      "title": "On a rainbow",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2691326772,
+      "altTrackIds": [],
+      "album": {
+        "id": 556683032,
+        "title": "1979 - Volume 15",
+        "releaseDate": "1979-02-26",
+        "recordType": "album"
+      },
+      "duration": 206
+    },
+    {
+      "id": "os-montanari--onde-estao-os-musicos",
+      "title": "Onde Estão os Músicos?",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792231,
+      "altTrackIds": [
+        82594850
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 157
+    },
+    {
+      "id": "os-montanari--passagem-do-rio",
+      "title": "Passagem do rio",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368122,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 128
+    },
+    {
+      "id": "os-montanari--pet-shop-do-alemao",
+      "title": "Pet Shop do Alemão",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122792,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 218
+    },
+    {
+      "id": "os-montanari--please-love-surrender",
+      "title": "Please love surrender",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618782,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 177
+    },
+    {
+      "id": "os-montanari--ra-ta-ta",
+      "title": "Rä Tä Tä",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792361,
+      "altTrackIds": [
+        82594874,
+        3129418881
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 152
+    },
+    {
+      "id": "os-montanari--revesburgen",
+      "title": "Revesburgen",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792371,
+      "altTrackIds": [
+        82594876,
+        3129418851
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 195
+    },
+    {
+      "id": "os-montanari--rico-vacilon",
+      "title": "Rico Vacilón",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368062,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 164
+    },
+    {
+      "id": "os-montanari--sai-da-pista-joao",
+      "title": "Sai da pista João",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361912,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 177
+    },
+    {
+      "id": "os-montanari--salve-a-banda",
+      "title": "Salve a banda",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618772,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "os-montanari--santa-lucia",
+      "title": "Santa Lucia",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618832,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 198
+    },
+    {
+      "id": "os-montanari--semente-do-mal",
+      "title": "Semente do mal",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618802,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 195
+    },
+    {
+      "id": "os-montanari--sempre-vou-te-amar",
+      "title": "Sempre Vou Te Amar",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129520991,
+      "altTrackIds": [],
+      "album": {
+        "id": 680297651,
+        "title": "Os Montanari",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 228
+    },
+    {
+      "id": "os-montanari--serenata-standchen",
+      "title": "Serenata (Ständchen)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619262,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 202
+    },
+    {
+      "id": "os-montanari--serrana",
+      "title": "Serrana",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368072,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "os-montanari--som-dos-alpes",
+      "title": "Som dos Alpes",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792241,
+      "altTrackIds": [
+        82594852,
+        3129418921
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 153
+    },
+    {
+      "id": "os-montanari--swing-da-alemanha",
+      "title": "Swing da Alemanha",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129418941,
+      "altTrackIds": [
+        3129521071
+      ],
+      "album": {
+        "id": 680264711,
+        "title": "Na Oktoberfest",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 192
+    },
+    {
+      "id": "os-montanari--the-house-of-the-rising-sun",
+      "title": "The house of the rising sun",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676618762,
+      "altTrackIds": [],
+      "album": {
+        "id": 552103962,
+        "title": "1979 - Volume 14",
+        "releaseDate": "1979-02-25",
+        "recordType": "album"
+      },
+      "duration": 216
+    },
+    {
+      "id": "os-montanari--tipitipitipso",
+      "title": "Tipitipitipso",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368092,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 130
+    },
+    {
+      "id": "os-montanari--todos-os-caminhos-levam-a-blumenal",
+      "title": "Todos os Caminhos Levam a Blumenal",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792311,
+      "altTrackIds": [
+        82594864
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 192
+    },
+    {
+      "id": "os-montanari--todos-os-caminhos-levam-a-blumenau",
+      "title": "Todos os Caminhos Levam a Blumenau",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3129419001,
+      "altTrackIds": [],
+      "album": {
+        "id": 680264711,
+        "title": "Na Oktoberfest",
+        "releaseDate": "2014-07-06",
+        "recordType": "album"
+      },
+      "duration": 188
+    },
+    {
+      "id": "os-montanari--toque-de-gaita-auf-der-rodelbahn",
+      "title": "Toque de Gaita (auf Der Rodelbahn)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619322,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 150
+    },
+    {
+      "id": "os-montanari--tres-tiroleses-drei-tiroler-mit-dem-gummiboot",
+      "title": "Três Tiroleses (Drei Tiroler Mit Dem Gummiboot)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 456619342,
+      "altTrackIds": [],
+      "album": {
+        "id": 56145552,
+        "title": "Melô do Rolo",
+        "releaseDate": "2018-01-31",
+        "recordType": "album"
+      },
+      "duration": 184
+    },
+    {
+      "id": "os-montanari--vai-que-e-mole",
+      "title": "Vai que é mole",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361922,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 143
+    },
+    {
+      "id": "os-montanari--vai-ser-maior",
+      "title": "Vai ser maior",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676361972,
+      "altTrackIds": [],
+      "album": {
+        "id": 552009142,
+        "title": "Volume 09 - 1975",
+        "releaseDate": "1975-02-25",
+        "recordType": "album"
+      },
+      "duration": 156
+    },
+    {
+      "id": "os-montanari--valsa-das-9-horas",
+      "title": "Valsa das 9 horas",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2676368112,
+      "altTrackIds": [],
+      "album": {
+        "id": 552011422,
+        "title": "Noites de Kerb - 1968",
+        "releaseDate": "1968-02-25",
+        "recordType": "album"
+      },
+      "duration": 183
+    },
+    {
+      "id": "os-montanari--valsa-das-debutantes-valsa-da-meia-noite",
+      "title": "Valsa das Debutantes (Valsa da Meia-Noite)",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2691326792,
+      "altTrackIds": [],
+      "album": {
+        "id": 556683032,
+        "title": "1979 - Volume 15",
+        "releaseDate": "1979-02-26",
+        "recordType": "album"
+      },
+      "duration": 162
+    },
+    {
+      "id": "os-montanari--velhos-camaradas",
+      "title": "Velhos Camaradas",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792191,
+      "altTrackIds": [
+        82594842,
+        3129418831
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 230
+    },
+    {
+      "id": "os-montanari--vinho-mulher-e-cancao",
+      "title": "Vinho, mulher e canção",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 2691326742,
+      "altTrackIds": [],
+      "album": {
+        "id": 556683032,
+        "title": "1979 - Volume 15",
+        "releaseDate": "1979-02-26",
+        "recordType": "album"
+      },
+      "duration": 212
+    },
+    {
+      "id": "os-montanari--vira-copos",
+      "title": "Vira Copos",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 449122722,
+      "altTrackIds": [],
+      "album": {
+        "id": 54844352,
+        "title": "Bar do Stits",
+        "releaseDate": "2018-01-11",
+        "recordType": "album"
+      },
+      "duration": 208
+    },
+    {
+      "id": "os-montanari--zic-zac",
+      "title": "Zic, Zac",
+      "artist": "Os Montanari",
+      "artistDeezerId": 6295446,
+      "trackId": 3049792271,
+      "altTrackIds": [
+        82594858,
+        3129418861
+      ],
+      "album": {
+        "id": 658116351,
+        "title": "Os Montanari",
+        "releaseDate": "2014-06-23",
+        "recordType": "album"
+      },
+      "duration": 184
+    },
+    {
+      "id": "super-banda-choppao--15-jetzt-geht-s-los",
+      "title": "15 JETZT GEHT'S LOS",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900182,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 173
+    },
+    {
+      "id": "super-banda-choppao--abertura",
+      "title": "Abertura",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269358881,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 101
+    },
+    {
+      "id": "super-banda-choppao--adelheid",
+      "title": "ADELHEID",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038111,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 177
+    },
+    {
+      "id": "super-banda-choppao--agora-pensa",
+      "title": "Agora Pensa",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915712,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 212
+    },
+    {
+      "id": "super-banda-choppao--alte-kameraden",
+      "title": "ALTE KAMERADEN",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038171,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 265
+    },
+    {
+      "id": "super-banda-choppao--amor-de-pobre",
+      "title": "Amor de Pobre",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155742,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 181
+    },
+    {
+      "id": "super-banda-choppao--andorinha",
+      "title": "Andorinha",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374892,
+      "altTrackIds": [],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 209
+    },
+    {
+      "id": "super-banda-choppao--auf-der-autobahn",
+      "title": "Auf Der Autobahn",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915662,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 157
+    },
+    {
+      "id": "super-banda-choppao--balaio-de-gato",
+      "title": "Balaio de Gato",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915772,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 144
+    },
+    {
+      "id": "super-banda-choppao--barril-de-chopp-e-liechtensteiner-polka",
+      "title": "Barril de Chopp e Liechtensteiner Polka",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269358951,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 257
+    },
+    {
+      "id": "super-banda-choppao--bonde-do-alemao",
+      "title": "Bonde do Alemão",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141552,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 161
+    },
+    {
+      "id": "super-banda-choppao--brilho-de-sol",
+      "title": "Brilho de Sol",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 481544092,
+      "altTrackIds": [],
+      "album": {
+        "id": 60473792,
+        "title": "Oktoberfest, Vol. 1",
+        "releaseDate": "2018-04-03",
+        "recordType": "album"
+      },
+      "duration": 187
+    },
+    {
+      "id": "super-banda-choppao--brothers",
+      "title": "Brothers",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 481544102,
+      "altTrackIds": [],
+      "album": {
+        "id": 60473792,
+        "title": "Oktoberfest, Vol. 1",
+        "releaseDate": "2018-04-03",
+        "recordType": "album"
+      },
+      "duration": 159
+    },
+    {
+      "id": "super-banda-choppao--casa-tschock",
+      "title": "Casa Tschock",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 481544162,
+      "altTrackIds": [],
+      "album": {
+        "id": 60473792,
+        "title": "Oktoberfest, Vol. 1",
+        "releaseDate": "2018-04-03",
+        "recordType": "album"
+      },
+      "duration": 188
+    },
+    {
+      "id": "super-banda-choppao--centopeia-do-chopp",
+      "title": "Centopéia do Chopp",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141492,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 216
+    },
+    {
+      "id": "super-banda-choppao--chapada-fest",
+      "title": "Chapada Fest",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155772,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 117
+    },
+    {
+      "id": "super-banda-choppao--chopp-fest",
+      "title": "Chopp Fest",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155752,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 148
+    },
+    {
+      "id": "super-banda-choppao--choppao-e-montanari-radi-radi-radi",
+      "title": "Choppão e Montanari (Radi Radi Radi)",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915722,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 133
+    },
+    {
+      "id": "super-banda-choppao--danca-da-mareca",
+      "title": "Dança da Mareca",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141612,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 150
+    },
+    {
+      "id": "super-banda-choppao--danca-do-pinguim",
+      "title": "Dança do Pinguim",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269358911,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 115
+    },
+    {
+      "id": "super-banda-choppao--das-fliegerlied",
+      "title": "Das Fliegerlied",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269358891,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 216
+    },
+    {
+      "id": "super-banda-choppao--deftig-boarisch",
+      "title": "DEFTIG BOARISCH",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038131,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 133
+    },
+    {
+      "id": "super-banda-choppao--der-bua-passt-nur-in-d-lederhos-n-nei",
+      "title": "Der Bua Passt Nur In d’Lederhos’n Nei",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915692,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 159
+    },
+    {
+      "id": "super-banda-choppao--der-sommer-komt-immer-wieder",
+      "title": "DER SOMMER KOMT IMMER WIEDER",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038071,
+      "altTrackIds": [
+        3269358921
+      ],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 186
+    },
+    {
+      "id": "super-banda-choppao--der-sommer-komt-immer-wielder",
+      "title": "DER SOMMER KOMT IMMER WIELDER",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 4071608541,
+      "altTrackIds": [],
+      "album": {
+        "id": 1000526321,
+        "title": "SEMANA FARROUPILHA COM SUPER BANDA CHOPPÃO 2026",
+        "releaseDate": "2026-09-01",
+        "recordType": "album"
+      },
+      "duration": 194
+    },
+    {
+      "id": "super-banda-choppao--dezenove",
+      "title": "DEZENOVE",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900302,
+      "altTrackIds": [
+        4071608601
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 212
+    },
+    {
+      "id": "super-banda-choppao--dobrado-boa-noite",
+      "title": "DOBRADO BOA NOITE",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038151,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 270
+    },
+    {
+      "id": "super-banda-choppao--dobrado-cervejada",
+      "title": "Dobrado Cervejada",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915782,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 138
+    },
+    {
+      "id": "super-banda-choppao--dobrado-do-porto",
+      "title": "Dobrado do Porto",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915702,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 167
+    },
+    {
+      "id": "super-banda-choppao--ei-tu",
+      "title": "Ei Tu",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915672,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 131
+    },
+    {
+      "id": "super-banda-choppao--ein-prosit",
+      "title": "Ein Prosit",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141662,
+      "altTrackIds": [
+        3269358941
+      ],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 69
+    },
+    {
+      "id": "super-banda-choppao--es-ist-so-schon-ein-musikant-zu-sein",
+      "title": "Es Ist So Schön Ein Musikant Zu Sein",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155812,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 166
+    },
+    {
+      "id": "super-banda-choppao--eu-nao-vou-embora",
+      "title": "Eu Não Vou Embora",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269358981,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 115
+    },
+    {
+      "id": "super-banda-choppao--eu-sou-mich-hat-ein-engel-gekusst",
+      "title": "Eu Sou (Mich Hat Ein Engel Geküsst )",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141542,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 256
+    },
+    {
+      "id": "super-banda-choppao--flavio-e-seu-trombone",
+      "title": "Flávio e Seu Trombone",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269359031,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 177
+    },
+    {
+      "id": "super-banda-choppao--funk-do-alemao-agora-vai-sentar",
+      "title": "Funk do Alemão (Agora Vai Sentar)",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141562,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 154
+    },
+    {
+      "id": "super-banda-choppao--guten-morgen",
+      "title": "Guten Morgen",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 481544072,
+      "altTrackIds": [
+        364531091
+      ],
+      "album": {
+        "id": 60473792,
+        "title": "Oktoberfest, Vol. 1",
+        "releaseDate": "2018-04-03",
+        "recordType": "album"
+      },
+      "duration": 212
+    },
+    {
+      "id": "super-banda-choppao--happy-volskmusik",
+      "title": "HAPPY VOLSKMUSIK",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900072,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 192
+    },
+    {
+      "id": "super-banda-choppao--heimweh",
+      "title": "HEIMWEH",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900252,
+      "altTrackIds": [
+        4071608651
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 203
+    },
+    {
+      "id": "super-banda-choppao--heio-heio",
+      "title": "Heio Heio",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141532,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 153
+    },
+    {
+      "id": "super-banda-choppao--herz-schmerz-ohne-berg",
+      "title": "Herz-Schmerz Ohne Berg",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374882,
+      "altTrackIds": [],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 167
+    },
+    {
+      "id": "super-banda-choppao--heyo",
+      "title": "HEYO",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364531061,
+      "altTrackIds": [
+        4071608501
+      ],
+      "album": {
+        "id": 41964841,
+        "title": "O MELHOR DAS GRANDES FESTAS (AO VIVO)",
+        "releaseDate": "2007-08-03",
+        "recordType": "album"
+      },
+      "duration": 162
+    },
+    {
+      "id": "super-banda-choppao--highway-to-hell",
+      "title": "Highway to Hell",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141582,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 182
+    },
+    {
+      "id": "super-banda-choppao--hino-do-rio-grande-do-sul",
+      "title": "Hino do Rio Grande do Sul",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141602,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 128
+    },
+    {
+      "id": "super-banda-choppao--hip-hop-polka",
+      "title": "HIP HOP POLKA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900042,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 283
+    },
+    {
+      "id": "super-banda-choppao--igrejinha-fest",
+      "title": "Igrejinha–fest",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155722,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 232
+    },
+    {
+      "id": "super-banda-choppao--incendeia",
+      "title": "INCENDEIA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364531201,
+      "altTrackIds": [],
+      "album": {
+        "id": 41964841,
+        "title": "O MELHOR DAS GRANDES FESTAS (AO VIVO)",
+        "releaseDate": "2007-08-03",
+        "recordType": "album"
+      },
+      "duration": 191
+    },
+    {
+      "id": "super-banda-choppao--ist-das-gut-ist-das-schon",
+      "title": "IST DAS GUT, IST DAS SCHON",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900232,
+      "altTrackIds": [
+        4071608671
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 184
+    },
+    {
+      "id": "super-banda-choppao--jetzt-geht-s-los",
+      "title": "Jetzt Geht's Los",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374792,
+      "altTrackIds": [
+        364531041,
+        1395141652,
+        3269359041
+      ],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 161
+    },
+    {
+      "id": "super-banda-choppao--joao-antonio",
+      "title": "João Antônio",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 481544142,
+      "altTrackIds": [],
+      "album": {
+        "id": 60473792,
+        "title": "Oktoberfest, Vol. 1",
+        "releaseDate": "2018-04-03",
+        "recordType": "album"
+      },
+      "duration": 208
+    },
+    {
+      "id": "super-banda-choppao--jodieralm",
+      "title": "Jodieralm",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155762,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 122
+    },
+    {
+      "id": "super-banda-choppao--kanton-express",
+      "title": "Kanton-Express",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374842,
+      "altTrackIds": [],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 136
+    },
+    {
+      "id": "super-banda-choppao--keiner-darf-nach-hause-geh-n",
+      "title": "Keiner Darf Nach Hause Geh'n",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 481544112,
+      "altTrackIds": [],
+      "album": {
+        "id": 60473792,
+        "title": "Oktoberfest, Vol. 1",
+        "releaseDate": "2018-04-03",
+        "recordType": "album"
+      },
+      "duration": 196
+    },
+    {
+      "id": "super-banda-choppao--kerb-em-harmonia",
+      "title": "KERB EM HARMONIA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038091,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 142
+    },
+    {
+      "id": "super-banda-choppao--kerb-em-pinheiro-machado",
+      "title": "KERB EM PINHEIRO MACHADO",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900242,
+      "altTrackIds": [
+        4071608661
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 195
+    },
+    {
+      "id": "super-banda-choppao--kerb-na-estancia",
+      "title": "KERB NA ESTÂNCIA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900192,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 182
+    },
+    {
+      "id": "super-banda-choppao--kohlerliesel",
+      "title": "Köhlerliesel",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915752,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 188
+    },
+    {
+      "id": "super-banda-choppao--kufsteiner-lied",
+      "title": "Kufsteiner-Lied",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374862,
+      "altTrackIds": [],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 148
+    },
+    {
+      "id": "super-banda-choppao--lang-lang-lang-is-her",
+      "title": "Lang, Lang, Lang Is Her",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374802,
+      "altTrackIds": [],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 158
+    },
+    {
+      "id": "super-banda-choppao--lederthal-polka",
+      "title": "LEDERTHAL-POLKA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900142,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 141
+    },
+    {
+      "id": "super-banda-choppao--levanta-poeira",
+      "title": "Levanta Poeira",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 481544132,
+      "altTrackIds": [],
+      "album": {
+        "id": 60473792,
+        "title": "Oktoberfest, Vol. 1",
+        "releaseDate": "2018-04-03",
+        "recordType": "album"
+      },
+      "duration": 195
+    },
+    {
+      "id": "super-banda-choppao--liechtensteinen-polka",
+      "title": "LIECHTENSTEINEN POLKA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 4071608571,
+      "altTrackIds": [],
+      "album": {
+        "id": 1000526321,
+        "title": "SEMANA FARROUPILHA COM SUPER BANDA CHOPPÃO 2026",
+        "releaseDate": "2026-09-01",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "super-banda-choppao--liechtensteiner-polka",
+      "title": "LIECHTENSTEINER - POLKA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900312,
+      "altTrackIds": [
+        481544172,
+        4071608591
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 169
+    },
+    {
+      "id": "super-banda-choppao--loirona-do-sul",
+      "title": "Loirona do Sul",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 4130081981,
+      "altTrackIds": [],
+      "album": {
+        "id": 1020225601,
+        "title": "Loirona do Sul",
+        "releaseDate": "2026-07-08",
+        "recordType": "single"
+      },
+      "duration": 179
+    },
+    {
+      "id": "super-banda-choppao--mais-alegria",
+      "title": "MAIS ALEGRIA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038081,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "super-banda-choppao--mande-uma-self-schenk-mir-ein-foto",
+      "title": "Mande uma Self (Schenk Mir Ein Foto)",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141642,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 219
+    },
+    {
+      "id": "super-banda-choppao--maria-bonita",
+      "title": "MARIA BONITA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900102,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 193
+    },
+    {
+      "id": "super-banda-choppao--marichen",
+      "title": "MARICHEN",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900122,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 161
+    },
+    {
+      "id": "super-banda-choppao--melo-do-rolo",
+      "title": "Melô do Rolo",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141622,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 172
+    },
+    {
+      "id": "super-banda-choppao--meu-cavalo-zaino",
+      "title": "MEU CAVALO ZAINO",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900292,
+      "altTrackIds": [
+        4071608611
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 157
+    },
+    {
+      "id": "super-banda-choppao--milaukee-stemp",
+      "title": "Milaukee Stemp",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374822,
+      "altTrackIds": [],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 137
+    },
+    {
+      "id": "super-banda-choppao--nao-tem-como-evitar",
+      "title": "NÃO TEM COMO EVITAR",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900062,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 184
+    },
+    {
+      "id": "super-banda-choppao--neli",
+      "title": "Neli",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374812,
+      "altTrackIds": [],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 190
+    },
+    {
+      "id": "super-banda-choppao--no-ceu-nao-tem-cerveja",
+      "title": "No Céu Não Tem Cerveja",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269358931,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 287
+    },
+    {
+      "id": "super-banda-choppao--nossa-oktoberfest",
+      "title": "NOSSA OKTOBERFEST",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900152,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 164
+    },
+    {
+      "id": "super-banda-choppao--novemberfest-em-lucas",
+      "title": "NOVEMBERFEST EM LUCAS",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900162,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 194
+    },
+    {
+      "id": "super-banda-choppao--o-que-tem-a-rosa",
+      "title": "O QUE TEM A ROSA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900132,
+      "altTrackIds": [
+        364531181,
+        3269359021
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 196
+    },
+    {
+      "id": "super-banda-choppao--odeon",
+      "title": "Odeon",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155782,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 183
+    },
+    {
+      "id": "super-banda-choppao--onde-tem-chopp",
+      "title": "Onde Tem Chopp",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269358971,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 196
+    },
+    {
+      "id": "super-banda-choppao--polka-do-selpio",
+      "title": "POLKA DO SÉLPIO",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900262,
+      "altTrackIds": [
+        4071608641
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 167
+    },
+    {
+      "id": "super-banda-choppao--polka-herz-und-frohlichkeit",
+      "title": "POLKA HERZ UND FROHLICHKEIT",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900112,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 178
+    },
+    {
+      "id": "super-banda-choppao--polkinha-imperial",
+      "title": "POLKINHA IMPERIAL",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038181,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 151
+    },
+    {
+      "id": "super-banda-choppao--poupuri-dolomiten-sextet",
+      "title": "Poupuri Dolomiten Sextet",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141522,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 216
+    },
+    {
+      "id": "super-banda-choppao--que-bom-que-eu-vim",
+      "title": "Que Bom Que Eu Vim",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269358961,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 186
+    },
+    {
+      "id": "super-banda-choppao--que-bom-que-eu-vim-comme-ci-comme-ca",
+      "title": "Que Bom Que Eu Vim (Comme Ci Comme Ca)",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141572,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 209
+    },
+    {
+      "id": "super-banda-choppao--queimo-a-lingua-mas-nao-sopro",
+      "title": "Queimo a Língua Mas Não Sopro",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915682,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 184
+    },
+    {
+      "id": "super-banda-choppao--rambazamba",
+      "title": "RAMBAZAMBA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900092,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 177
+    },
+    {
+      "id": "super-banda-choppao--ring-dig-ding",
+      "title": "Ring Dig Ding",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915732,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 174
+    },
+    {
+      "id": "super-banda-choppao--rosamunde",
+      "title": "ROSAMUNDE",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 4071608561,
+      "altTrackIds": [],
+      "album": {
+        "id": 1000526321,
+        "title": "SEMANA FARROUPILHA COM SUPER BANDA CHOPPÃO 2026",
+        "releaseDate": "2026-09-01",
+        "recordType": "album"
+      },
+      "duration": 231
+    },
+    {
+      "id": "super-banda-choppao--santa-lucia",
+      "title": "SANTA LUCIA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900082,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 227
+    },
+    {
+      "id": "super-banda-choppao--schuld-sind-deine-himmel-blauen-augen",
+      "title": "SCHULD SIND DEINE HIMMEL BLAUEN AUGEN",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038141,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 146
+    },
+    {
+      "id": "super-banda-choppao--schwarz-braunas-madchen",
+      "title": "Schwarz Braunas Madchen",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269359011,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 143
+    },
+    {
+      "id": "super-banda-choppao--schwarz-braunes-madchen",
+      "title": "SCHWARZ BRAUNES MÄDCHEN",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038121,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 147
+    },
+    {
+      "id": "super-banda-choppao--schwarzbraunes-madchen",
+      "title": "SCHWARZBRAUNES MÄDCHEN",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364531111,
+      "altTrackIds": [],
+      "album": {
+        "id": 41964841,
+        "title": "O MELHOR DAS GRANDES FESTAS (AO VIVO)",
+        "releaseDate": "2007-08-03",
+        "recordType": "album"
+      },
+      "duration": 143
+    },
+    {
+      "id": "super-banda-choppao--schweinfest-in-nova-candelaria",
+      "title": "SCHWEINFEST IN NOVA CANDELÁRIA",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 364038161,
+      "altTrackIds": [],
+      "album": {
+        "id": 41877641,
+        "title": "KERB EM HARMONIA (AO VIVO)",
+        "releaseDate": "2017-03-01",
+        "recordType": "album"
+      },
+      "duration": 148
+    },
+    {
+      "id": "super-banda-choppao--segue-a-frida",
+      "title": "Segue a Frida",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141672,
+      "altTrackIds": [
+        3269358901
+      ],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "super-banda-choppao--sehsucht-nach-dem-fruhling",
+      "title": "Sehsucht Nach Dem Fruhling",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 445915742,
+      "altTrackIds": [],
+      "album": {
+        "id": 54286642,
+        "title": "Festa e Alegria",
+        "releaseDate": "2018-01-03",
+        "recordType": "album"
+      },
+      "duration": 169
+    },
+    {
+      "id": "super-banda-choppao--selecao-cantadas-40-anos",
+      "title": "Seleção Cantadas 40 Anos",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269358991,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 271
+    },
+    {
+      "id": "super-banda-choppao--selecao-dobrados-40-anos",
+      "title": "Seleção Dobrados 40 Anos",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 3269359001,
+      "altTrackIds": [],
+      "album": {
+        "id": 724389141,
+        "title": "Ao Vivo 40 Anos",
+        "releaseDate": "2025-01-29",
+        "recordType": "album"
+      },
+      "duration": 388
+    },
+    {
+      "id": "super-banda-choppao--sete-motivos-sieben-sunden",
+      "title": "Sete Motivos (Sieben Sünden)",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141632,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 184
+    },
+    {
+      "id": "super-banda-choppao--shottisch-boarischer",
+      "title": "SHOTTISCH-BOARISCHER",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900202,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 170
+    },
+    {
+      "id": "super-banda-choppao--silvino-rodrigues",
+      "title": "SILVINO RODRIGUES",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900282,
+      "altTrackIds": [
+        481544122,
+        4071608621
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 240
+    },
+    {
+      "id": "super-banda-choppao--so-ein-schonerr-tag-das-flieguer-lied",
+      "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141472,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 211
+    },
+    {
+      "id": "super-banda-choppao--so-quero-festejar",
+      "title": "SÓ QUERO FESTEJAR",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900052,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 208
+    },
+    {
+      "id": "super-banda-choppao--so-quero-festejar-dance",
+      "title": "SÓ QUERO FESTEJAR (DANCE)",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900172,
+      "altTrackIds": [],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 205
+    },
+    {
+      "id": "super-banda-choppao--stimmt-alle-mit-uns-ein",
+      "title": "Stimmt Alle Mit Uns Ein",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155732,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 146
+    },
+    {
+      "id": "super-banda-choppao--tenente-paranhos",
+      "title": "Tenente Paranhos",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155712,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 221
+    },
+    {
+      "id": "super-banda-choppao--tio-chico",
+      "title": "Tio Chico",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374872,
+      "altTrackIds": [],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 171
+    },
+    {
+      "id": "super-banda-choppao--treue-bergvagabunden",
+      "title": "Treüe Bergvagabunden",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155802,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 191
+    },
+    {
+      "id": "super-banda-choppao--trompeten-echo",
+      "title": "Trompeten-Echo",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155832,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 160
+    },
+    {
+      "id": "super-banda-choppao--ultima-esperanca",
+      "title": "Última Esperança",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 481544062,
+      "altTrackIds": [],
+      "album": {
+        "id": 60473792,
+        "title": "Oktoberfest, Vol. 1",
+        "releaseDate": "2018-04-03",
+        "recordType": "album"
+      },
+      "duration": 229
+    },
+    {
+      "id": "super-banda-choppao--valsa-dos-amores",
+      "title": "VALSA DOS AMORES",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900212,
+      "altTrackIds": [
+        4071608681
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 215
+    },
+    {
+      "id": "super-banda-choppao--we-wil-rock-you",
+      "title": "We Wil Rock You",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141592,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 117
+    },
+    {
+      "id": "super-banda-choppao--wir-kaufen-unsrem-petrus",
+      "title": "Wir Kaufen Unsrem Petrus",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 478374852,
+      "altTrackIds": [],
+      "album": {
+        "id": 59924042,
+        "title": "Oktoberfest, Vol. 3",
+        "releaseDate": "2018-03-19",
+        "recordType": "album"
+      },
+      "duration": 123
+    },
+    {
+      "id": "super-banda-choppao--xote-das-flores",
+      "title": "XOTE DAS FLORES",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 463900272,
+      "altTrackIds": [
+        4071608631
+      ],
+      "album": {
+        "id": 57403792,
+        "title": "SÓ QUERO FESTEJAR",
+        "releaseDate": "2018-02-19",
+        "recordType": "album"
+      },
+      "duration": 153
+    },
+    {
+      "id": "super-banda-choppao--zacatecas",
+      "title": "Zacatecas",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 479155792,
+      "altTrackIds": [],
+      "album": {
+        "id": 60040942,
+        "title": "Oktoberfest, Vol. 2",
+        "releaseDate": "2018-03-26",
+        "recordType": "album"
+      },
+      "duration": 254
+    },
+    {
+      "id": "super-banda-choppao--zigge-zagge",
+      "title": "Zigge Zagge",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141502,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 170
+    },
+    {
+      "id": "super-banda-choppao--zilertaler-hochtzeitsmarsh",
+      "title": "Zilertäler Hochtzeitsmarsh",
+      "artist": "Super Banda Choppão",
+      "artistDeezerId": 7102771,
+      "trackId": 1395141482,
+      "altTrackIds": [],
+      "album": {
+        "id": 235211422,
+        "title": "Oktoberfest Igrejinha 2019",
+        "releaseDate": "2021-05-26",
+        "recordType": "album"
+      },
+      "duration": 172
+    },
+    {
+      "id": "super-musical-monte-carlo--14-colonias",
+      "title": "14 COLÔNIAS",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933692,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 166
+    },
+    {
+      "id": "super-musical-monte-carlo--30-de-outubro",
+      "title": "30 de Outubro",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933392,
+      "altTrackIds": [
+        2219249187
+      ],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 256
+    },
+    {
+      "id": "super-musical-monte-carlo--amante-latino",
+      "title": "AMANTE LATINO",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933642,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 177
+    },
+    {
+      "id": "super-musical-monte-carlo--ao-balancar-das-ondas",
+      "title": "Ao Balançar das Ondas",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249137,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 227
+    },
+    {
+      "id": "super-musical-monte-carlo--augusto-pestana",
+      "title": "Augusto Pestana",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933432,
+      "altTrackIds": [
+        2219249117
+      ],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 167
+    },
+    {
+      "id": "super-musical-monte-carlo--biergarten-horizontina",
+      "title": "Biergarten Horizontina",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3582478291,
+      "altTrackIds": [],
+      "album": {
+        "id": 830954711,
+        "title": "Biergarten Horizontina (Ao Vivo)",
+        "releaseDate": "2025-09-16",
+        "recordType": "single"
+      },
+      "duration": 106
+    },
+    {
+      "id": "super-musical-monte-carlo--bobeou-a-gente-pimba-passa-la",
+      "title": "Bobeou a Gente Pimba- Passa Lá",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862891,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 205
+    },
+    {
+      "id": "super-musical-monte-carlo--cantinho-do-sul",
+      "title": "CANTINHO DO SUL",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933632,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 204
+    },
+    {
+      "id": "super-musical-monte-carlo--castelhano",
+      "title": "CASTELHANO",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933622,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 202
+    },
+    {
+      "id": "super-musical-monte-carlo--centopeia-do-chopp",
+      "title": "Centopeia do Chopp",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724585,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 219
+    },
+    {
+      "id": "super-musical-monte-carlo--chopinho-geladinho",
+      "title": "Chopinho Geladinho",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3335205931,
+      "altTrackIds": [],
+      "album": {
+        "id": 746080191,
+        "title": "Chopinho Geladinho (Ao Vivo)",
+        "releaseDate": "2025-04-08",
+        "recordType": "single"
+      },
+      "duration": 157
+    },
+    {
+      "id": "super-musical-monte-carlo--contos-dos-bosques-de-viena",
+      "title": "Contos dos Bosques de Viena",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933402,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 157
+    },
+    {
+      "id": "super-musical-monte-carlo--dobrado-2000",
+      "title": "Dobrado 2000",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249057,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 150
+    },
+    {
+      "id": "super-musical-monte-carlo--dona-hedi",
+      "title": "Dona Hedi",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249157,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 204
+    },
+    {
+      "id": "super-musical-monte-carlo--dona-hedi-augusto-pestana",
+      "title": "Dona Hedi- Augusto Pestana",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862851,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 232
+    },
+    {
+      "id": "super-musical-monte-carlo--ela-so-quer-dancar",
+      "title": "Ela Só Quer Dançar",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862921,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 170
+    },
+    {
+      "id": "super-musical-monte-carlo--ella",
+      "title": "ELLA",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933592,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 161
+    },
+    {
+      "id": "super-musical-monte-carlo--esportiva",
+      "title": "ESPORTIVA",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933672,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 113
+    },
+    {
+      "id": "super-musical-monte-carlo--feriado-nacional-eu-vou-morrer-de-amor",
+      "title": "Feriado Nacional- Eu Vou Morrer de Amor",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862881,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 185
+    },
+    {
+      "id": "super-musical-monte-carlo--forever-and-ever",
+      "title": "FOREVER AND EVER",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933612,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 199
+    },
+    {
+      "id": "super-musical-monte-carlo--gaucha",
+      "title": "GAÚCHA",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933682,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 189
+    },
+    {
+      "id": "super-musical-monte-carlo--heyo-heyo",
+      "title": "Heyo Heyo",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724595,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 151
+    },
+    {
+      "id": "super-musical-monte-carlo--hoje-e-o-nosso-dia",
+      "title": "Hoje É O Nosso Dia",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2868772582,
+      "altTrackIds": [],
+      "album": {
+        "id": 608385802,
+        "title": "Hoje É O Nosso Dia",
+        "releaseDate": "2024-07-01",
+        "recordType": "single"
+      },
+      "duration": 177
+    },
+    {
+      "id": "super-musical-monte-carlo--homem-da-sua-vida",
+      "title": "Homem da Sua Vida",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862871,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 182
+    },
+    {
+      "id": "super-musical-monte-carlo--isso-ce-num-conta-final-de-semana",
+      "title": "Isso Cê Num Conta- Final de Semana",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862951,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 193
+    },
+    {
+      "id": "super-musical-monte-carlo--joao-balaio",
+      "title": "João Balaio",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3252461161,
+      "altTrackIds": [],
+      "album": {
+        "id": 719162551,
+        "title": "João Balaio",
+        "releaseDate": "2025-02-14",
+        "recordType": "single"
+      },
+      "duration": 160
+    },
+    {
+      "id": "super-musical-monte-carlo--klarineteen-muck-l",
+      "title": "Klarineteen Muck`l",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933442,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 187
+    },
+    {
+      "id": "super-musical-monte-carlo--leva-eu",
+      "title": "Leva Eu",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3276135461,
+      "altTrackIds": [],
+      "album": {
+        "id": 726616301,
+        "title": "Leva Eu",
+        "releaseDate": "2025-02-14",
+        "recordType": "single"
+      },
+      "duration": 187
+    },
+    {
+      "id": "super-musical-monte-carlo--mais-uma-vez",
+      "title": "Mais Uma Vez",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249177,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 147
+    },
+    {
+      "id": "super-musical-monte-carlo--mamma-maria",
+      "title": "Mamma Maria",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2868772482,
+      "altTrackIds": [
+        2959404251
+      ],
+      "album": {
+        "id": 608385742,
+        "title": "Mamma Maria",
+        "releaseDate": "2024-07-01",
+        "recordType": "single"
+      },
+      "duration": 183
+    },
+    {
+      "id": "super-musical-monte-carlo--marreca",
+      "title": "Marreca",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724605,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 154
+    },
+    {
+      "id": "super-musical-monte-carlo--maxixe-lux",
+      "title": "Maxixe Lux",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933362,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 190
+    },
+    {
+      "id": "super-musical-monte-carlo--me-pega-pra-fazer-amor",
+      "title": "Me Pega Pra Fazer Amor",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862901,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 186
+    },
+    {
+      "id": "super-musical-monte-carlo--melo-do-rolo",
+      "title": "Melô do Rolo",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724655,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 157
+    },
+    {
+      "id": "super-musical-monte-carlo--menina-veneno-mesmo-que-seja-eu",
+      "title": "Menina Veneno-Mesmo Que Seja Eu",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862861,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 229
+    },
+    {
+      "id": "super-musical-monte-carlo--monza",
+      "title": "Monza",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933412,
+      "altTrackIds": [
+        2219249097
+      ],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 115
+    },
+    {
+      "id": "super-musical-monte-carlo--motoqueiro-chapa-13",
+      "title": "Motoqueiro Chapa 13",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249127,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 226
+    },
+    {
+      "id": "super-musical-monte-carlo--nice-and-slow",
+      "title": "NICE AND SLOW",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933652,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 233
+    },
+    {
+      "id": "super-musical-monte-carlo--no-vale-do-alto-uruguai",
+      "title": "No Vale do Alto Uruguai",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249067,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 166
+    },
+    {
+      "id": "super-musical-monte-carlo--o-menno-da-porteira",
+      "title": "O MENNO DA PORTEIRA",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933602,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 148
+    },
+    {
+      "id": "super-musical-monte-carlo--o-verao-sempre-vai-voltar",
+      "title": "O Verão Sempre Vai Voltar",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724665,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 176
+    },
+    {
+      "id": "super-musical-monte-carlo--oktober-em-linha-becker",
+      "title": "Oktober em Linha Becker",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724675,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "super-musical-monte-carlo--ole-ole-bonde-do-alemao",
+      "title": "Olê Olê- Bonde do Alemão",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724685,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 200
+    },
+    {
+      "id": "super-musical-monte-carlo--para-pedro",
+      "title": "Para Pedro",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933422,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 169
+    },
+    {
+      "id": "super-musical-monte-carlo--polka-valenzana",
+      "title": "Polka Valenzana",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933342,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 124
+    },
+    {
+      "id": "super-musical-monte-carlo--que-faculdade-ce-faz",
+      "title": "Que Faculdade Cê Faz",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862841,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 172
+    },
+    {
+      "id": "super-musical-monte-carlo--quero-beijar-te-as-maos",
+      "title": "Quero Beijar-te as Mãos",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933452,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 130
+    },
+    {
+      "id": "super-musical-monte-carlo--sail-allong-silvry-moon",
+      "title": "Sail Allong Silvry Moon",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933372,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 142
+    },
+    {
+      "id": "super-musical-monte-carlo--salada-de-frutas",
+      "title": "Salada de Frutas",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249087,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 242
+    },
+    {
+      "id": "super-musical-monte-carlo--sao-joao",
+      "title": "São João",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2868751522,
+      "altTrackIds": [],
+      "album": {
+        "id": 608377652,
+        "title": "São João",
+        "releaseDate": "2024-07-01",
+        "recordType": "single"
+      },
+      "duration": 175
+    },
+    {
+      "id": "super-musical-monte-carlo--sao-lourenco",
+      "title": "São Lourenço",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249147,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 206
+    },
+    {
+      "id": "super-musical-monte-carlo--saudade-desejo-de-amar",
+      "title": "Saudade- Desejo de Amar",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862931,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 188
+    },
+    {
+      "id": "super-musical-monte-carlo--segue-a-frida",
+      "title": "Segue a Frida",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724695,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 238
+    },
+    {
+      "id": "super-musical-monte-carlo--serenata",
+      "title": "SERENATA",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933662,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 199
+    },
+    {
+      "id": "super-musical-monte-carlo--seu-lui",
+      "title": "Seu Lui",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249167,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 132
+    },
+    {
+      "id": "super-musical-monte-carlo--sucessos-do-bailao",
+      "title": "Sucessos do Bailão",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724615,
+      "altTrackIds": [
+        2219248917
+      ],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 582
+    },
+    {
+      "id": "super-musical-monte-carlo--sucessos-do-sul",
+      "title": "Sucessos do Sul",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724625,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 585
+    },
+    {
+      "id": "super-musical-monte-carlo--sucessos-monte-carlo",
+      "title": "Sucessos Monte Carlo",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724705,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 459
+    },
+    {
+      "id": "super-musical-monte-carlo--suica-ii",
+      "title": "Suiça II",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933352,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 175
+    },
+    {
+      "id": "super-musical-monte-carlo--tequila",
+      "title": "Tequila",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933382,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001492,
+        "title": "Vol.9",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 201
+    },
+    {
+      "id": "super-musical-monte-carlo--trem-da-alegria-locopeia",
+      "title": "Trem da Alegria (Locopéia)",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724715,
+      "altTrackIds": [],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 185
+    },
+    {
+      "id": "super-musical-monte-carlo--uma-chance-pra-te-amar",
+      "title": "Uma Chance Pra Te Amar",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862961,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 190
+    },
+    {
+      "id": "super-musical-monte-carlo--valsa-suica",
+      "title": "Valsa Suíça",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249077,
+      "altTrackIds": [
+        2408724725
+      ],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 241
+    },
+    {
+      "id": "super-musical-monte-carlo--valsa-suica-4",
+      "title": "Valsa Suíça 4",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 3948862941,
+      "altTrackIds": [],
+      "album": {
+        "id": 957064181,
+        "title": "Lados (Ao Vivo)",
+        "releaseDate": "2026-04-12",
+        "recordType": "album"
+      },
+      "duration": 245
+    },
+    {
+      "id": "super-musical-monte-carlo--violeta",
+      "title": "Violeta",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2219249107,
+      "altTrackIds": [],
+      "album": {
+        "id": 424640807,
+        "title": "Seleção Especial",
+        "releaseDate": "2023-03-28",
+        "recordType": "album"
+      },
+      "duration": 167
+    },
+    {
+      "id": "super-musical-monte-carlo--vitoria-78",
+      "title": "VITÓRIA 78",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 1618933582,
+      "altTrackIds": [],
+      "album": {
+        "id": 287001522,
+        "title": "Vol.7",
+        "releaseDate": "2022-01-21",
+        "recordType": "album"
+      },
+      "duration": 159
+    },
+    {
+      "id": "super-musical-monte-carlo--zillertaler",
+      "title": "Zillertaler",
+      "artist": "Super Musical Monte Carlo",
+      "artistDeezerId": 157164462,
+      "trackId": 2408724635,
+      "altTrackIds": [
+        2308711915
+      ],
+      "album": {
+        "id": 475700445,
+        "title": "Bailão do Monte Carlo (Ao Vivo)",
+        "releaseDate": "2023-03-01",
+        "recordType": "album"
+      },
+      "duration": 175
+    }
+  ]
+}
