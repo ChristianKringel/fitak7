@@ -16,7 +16,7 @@
       },
       "duration": 146,
       "rank": 89826,
-      "topPosition": 13
+      "topPosition": 6
     },
     {
       "id": "bide-ou-balde--a-la-minuta",
@@ -33,7 +33,7 @@
       },
       "duration": 268,
       "rank": 55375,
-      "topPosition": 20
+      "topPosition": 9
     },
     {
       "id": "bide-ou-balde--aeroporto",
@@ -50,24 +50,24 @@
       },
       "duration": 204,
       "rank": 22243,
-      "topPosition": 27
+      "topPosition": 21
     },
     {
       "id": "bide-ou-balde--back-to-quinze",
       "title": "Back To Quinze",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427362,
+      "trackId": 458874662,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 181,
-      "rank": 88471,
-      "topPosition": 14
+      "rank": 1799,
+      "topPosition": 30
     },
     {
       "id": "bide-ou-balde--bromelias",
@@ -84,24 +84,24 @@
       },
       "duration": 182,
       "rank": 276646,
-      "topPosition": 3
+      "topPosition": 2
     },
     {
       "id": "bide-ou-balde--buddy-holly",
       "title": "Buddy Holly",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427262,
+      "trackId": 458874552,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 152,
-      "rank": 187116,
-      "topPosition": 6
+      "rank": 18613,
+      "topPosition": 25
     },
     {
       "id": "bide-ou-balde--cores-bonitas",
@@ -120,7 +120,7 @@
       },
       "duration": 165,
       "rank": 204116,
-      "topPosition": 4
+      "topPosition": 3
     },
     {
       "id": "bide-ou-balde--dulci",
@@ -137,41 +137,58 @@
       },
       "duration": 199,
       "rank": 47351,
-      "topPosition": 21
+      "topPosition": 10
+    },
+    {
+      "id": "bide-ou-balde--e-porque-nao",
+      "title": "E Porque Não?",
+      "artist": "Bidê ou Balde",
+      "artistDeezerId": 16903,
+      "trackId": 458874572,
+      "altTrackIds": [],
+      "album": {
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
+        "recordType": "album"
+      },
+      "duration": 262,
+      "rank": 32683,
+      "topPosition": 15
     },
     {
       "id": "bide-ou-balde--eu-te-amo-lucinda",
       "title": "(Eu Te Amo) Lucinda",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427292,
+      "trackId": 458874592,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 207,
-      "rank": 108002,
-      "topPosition": 11
+      "rank": 24940,
+      "topPosition": 18
     },
     {
       "id": "bide-ou-balde--gerson",
       "title": "Gerson",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427322,
+      "trackId": 458874622,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 225,
-      "rank": 114860,
-      "topPosition": 10
+      "rank": 22311,
+      "topPosition": 20
     },
     {
       "id": "bide-ou-balde--hollywood-52",
@@ -188,24 +205,24 @@
       },
       "duration": 188,
       "rank": 38438,
-      "topPosition": 23
+      "topPosition": 12
     },
     {
       "id": "bide-ou-balde--k-7",
       "title": "K-7",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427352,
+      "trackId": 458874652,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 186,
-      "rank": 122175,
-      "topPosition": 8
+      "rank": 8985,
+      "topPosition": 28
     },
     {
       "id": "bide-ou-balde--madonna",
@@ -222,7 +239,7 @@
       },
       "duration": 195,
       "rank": 15526,
-      "topPosition": 30
+      "topPosition": 27
     },
     {
       "id": "bide-ou-balde--matelasse",
@@ -239,7 +256,7 @@
       },
       "duration": 177,
       "rank": 121123,
-      "topPosition": 9
+      "topPosition": 5
     },
     {
       "id": "bide-ou-balde--me-deixa-desafinar",
@@ -256,41 +273,41 @@
       },
       "duration": 175,
       "rank": 195656,
-      "topPosition": 5
+      "topPosition": 4
     },
     {
       "id": "bide-ou-balde--me-envergonha",
       "title": "Me Envergonha",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427302,
+      "trackId": 458874602,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 268,
-      "rank": 102763,
-      "topPosition": 12
+      "rank": 25508,
+      "topPosition": 17
     },
     {
       "id": "bide-ou-balde--melissa",
       "title": "Melissa",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427252,
+      "trackId": 458874542,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 191,
-      "rank": 347418,
-      "topPosition": 2
+      "rank": 784,
+      "topPosition": 31
     },
     {
       "id": "bide-ou-balde--mesmo-que-mude",
@@ -324,7 +341,7 @@
       },
       "duration": 324,
       "rank": 37142,
-      "topPosition": 24
+      "topPosition": 13
     },
     {
       "id": "bide-ou-balde--nao-existe-lugar-mais-longe-que-o-japao",
@@ -341,7 +358,7 @@
       },
       "duration": 178,
       "rank": 77826,
-      "topPosition": 17
+      "topPosition": 8
     },
     {
       "id": "bide-ou-balde--o-antipatico",
@@ -358,7 +375,7 @@
       },
       "duration": 204,
       "rank": 87739,
-      "topPosition": 15
+      "topPosition": 7
     },
     {
       "id": "bide-ou-balde--soninho",
@@ -375,58 +392,58 @@
       },
       "duration": 150,
       "rank": 47180,
-      "topPosition": 22
+      "topPosition": 11
     },
     {
       "id": "bide-ou-balde--spaceball",
       "title": "Spaceball",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427312,
+      "trackId": 458874612,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 170,
-      "rank": 55395,
-      "topPosition": 19
+      "rank": 21725,
+      "topPosition": 23
     },
     {
       "id": "bide-ou-balde--sr-promotor",
       "title": "Sr. Promotor",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427282,
+      "trackId": 458874582,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 134,
-      "rank": 81133,
-      "topPosition": 16
+      "rank": 22364,
+      "topPosition": 19
     },
     {
       "id": "bide-ou-balde--tudo-bem",
       "title": "Tudo Bem",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427272,
+      "trackId": 458874562,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 176,
-      "rank": 122393,
-      "topPosition": 7
+      "rank": 8857,
+      "topPosition": 29
     },
     {
       "id": "bide-ou-balde--tudo-e-preza",
@@ -443,7 +460,7 @@
       },
       "duration": 198,
       "rank": 30697,
-      "topPosition": 26
+      "topPosition": 16
     },
     {
       "id": "bide-ou-balde--tudo-funcionando-direito",
@@ -460,7 +477,7 @@
       },
       "duration": 246,
       "rank": 20878,
-      "topPosition": 29
+      "topPosition": 24
     },
     {
       "id": "bide-ou-balde--v-v-a-decomposto-ou-tudo-funcionando-meio-jackson-five",
@@ -477,24 +494,24 @@
       },
       "duration": 137,
       "rank": 22134,
-      "topPosition": 28
+      "topPosition": 22
     },
     {
       "id": "bide-ou-balde--vamos-para-uma-excursao",
       "title": "Vamos para uma Excursão",
       "artist": "Bidê ou Balde",
       "artistDeezerId": 16903,
-      "trackId": 1514427332,
+      "trackId": 458874632,
       "altTrackIds": [],
       "album": {
-        "id": 263812422,
-        "title": "Se Sexo É O Que Importa, Só O Rock É Sobre Amor!",
-        "releaseDate": "2018-02-06",
+        "id": 56516612,
+        "title": "Se Sexo É o Que Importa, Só o Rock É Sobre Amor!",
+        "releaseDate": "2017-07-20",
         "recordType": "album"
       },
       "duration": 151,
-      "rank": 57699,
-      "topPosition": 18
+      "rank": 18609,
+      "topPosition": 26
     },
     {
       "id": "bide-ou-balde--vamos-passar-a-noite-de-galera-16",
@@ -511,7 +528,7 @@
       },
       "duration": 201,
       "rank": 33392,
-      "topPosition": 25
+      "topPosition": 14
     },
     {
       "id": "cachorro-grande--a-alegria-voltou",
@@ -530,7 +547,7 @@
       },
       "duration": 147,
       "rank": 85806,
-      "topPosition": 40
+      "topPosition": 48
     },
     {
       "id": "cachorro-grande--a-hora-do-brasil",
@@ -551,7 +568,7 @@
       },
       "duration": 218,
       "rank": 106817,
-      "topPosition": 33
+      "topPosition": 32
     },
     {
       "id": "cachorro-grande--agoniada",
@@ -568,7 +585,7 @@
       },
       "duration": 302,
       "rank": 39444,
-      "topPosition": 67
+      "topPosition": 76
     },
     {
       "id": "cachorro-grande--agora-eu-to-bem-louco",
@@ -585,7 +602,7 @@
       },
       "duration": 187,
       "rank": 178596,
-      "topPosition": 12
+      "topPosition": 10
     },
     {
       "id": "cachorro-grande--amanha",
@@ -602,7 +619,7 @@
       },
       "duration": 284,
       "rank": 66648,
-      "topPosition": 49
+      "topPosition": 58
     },
     {
       "id": "cachorro-grande--arpoador",
@@ -619,7 +636,7 @@
       },
       "duration": 213,
       "rank": 41609,
-      "topPosition": 66
+      "topPosition": 75
     },
     {
       "id": "cachorro-grande--as-coisas-que-eu-quero-lhe-falar",
@@ -636,7 +653,7 @@
       },
       "duration": 175,
       "rank": 106524,
-      "topPosition": 34
+      "topPosition": 33
     },
     {
       "id": "cachorro-grande--as-proximas-horas-serao-muito-boas",
@@ -645,7 +662,8 @@
       "artistDeezerId": 14827,
       "trackId": 612221972,
       "altTrackIds": [
-        561345372
+        561345372,
+        3305967191
       ],
       "album": {
         "id": 83367602,
@@ -655,7 +673,7 @@
       },
       "duration": 142,
       "rank": 62132,
-      "topPosition": 54
+      "topPosition": 63
     },
     {
       "id": "cachorro-grande--baixo-augusta",
@@ -674,7 +692,7 @@
       },
       "duration": 262,
       "rank": 101494,
-      "topPosition": 35
+      "topPosition": 34
     },
     {
       "id": "cachorro-grande--ben-hur",
@@ -691,7 +709,7 @@
       },
       "duration": 306,
       "rank": 2222,
-      "topPosition": 92
+      "topPosition": 99
     },
     {
       "id": "cachorro-grande--bom-brasileiro",
@@ -701,7 +719,8 @@
       "trackId": 96004586,
       "altTrackIds": [
         96008346,
-        99053748
+        99053748,
+        3305967171
       ],
       "album": {
         "id": 9763334,
@@ -730,7 +749,7 @@
       },
       "duration": 395,
       "rank": 77217,
-      "topPosition": 43
+      "topPosition": 52
     },
     {
       "id": "cachorro-grande--cleptomaniaca-de-coracoes",
@@ -750,27 +769,29 @@
       },
       "duration": 148,
       "rank": 112666,
-      "topPosition": 29
+      "topPosition": 26
     },
     {
       "id": "cachorro-grande--como-era-bom",
       "title": "Como Era Bom",
       "artist": "Cachorro Grande",
       "artistDeezerId": 14827,
-      "trackId": 548399672,
+      "trackId": 3284194681,
       "altTrackIds": [
+        548399672,
         548400282,
-        561345352
+        561345352,
+        3305967201
       ],
       "album": {
-        "id": 72009342,
-        "title": "Cachorro Grande no Estúdio Showlivre, Vol. 3 (Ao Vivo)",
-        "releaseDate": "2016-11-11",
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
         "recordType": "album"
       },
-      "duration": 270,
+      "duration": 295,
       "rank": 65411,
-      "topPosition": 50
+      "topPosition": 59
     },
     {
       "id": "cachorro-grande--conflitos-existenciais",
@@ -780,7 +801,8 @@
       "trackId": 96004148,
       "altTrackIds": [
         96004578,
-        548399702
+        548399702,
+        3305967141
       ],
       "album": {
         "id": 9763302,
@@ -790,7 +812,7 @@
       },
       "duration": 149,
       "rank": 109957,
-      "topPosition": 31
+      "topPosition": 29
     },
     {
       "id": "cachorro-grande--corda-bamba",
@@ -807,7 +829,41 @@
       },
       "duration": 275,
       "rank": 47873,
-      "topPosition": 62
+      "topPosition": 71
+    },
+    {
+      "id": "cachorro-grande--costa-do-marfim",
+      "title": "Costa do Marfim",
+      "artist": "Cachorro Grande",
+      "artistDeezerId": 14827,
+      "trackId": 3284194621,
+      "altTrackIds": [],
+      "album": {
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
+        "recordType": "album"
+      },
+      "duration": 70,
+      "rank": 100000,
+      "topPosition": 35
+    },
+    {
+      "id": "cachorro-grande--crispian-mills",
+      "title": "Crispian Mills",
+      "artist": "Cachorro Grande",
+      "artistDeezerId": 14827,
+      "trackId": 3284194661,
+      "altTrackIds": [],
+      "album": {
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
+        "recordType": "album"
+      },
+      "duration": 298,
+      "rank": 22244,
+      "topPosition": 90
     },
     {
       "id": "cachorro-grande--crispian-milss",
@@ -824,7 +880,7 @@
       },
       "duration": 296,
       "rank": 21605,
-      "topPosition": 84
+      "topPosition": 93
     },
     {
       "id": "cachorro-grande--dance-agora",
@@ -844,7 +900,7 @@
       },
       "duration": 230,
       "rank": 143188,
-      "topPosition": 21
+      "topPosition": 20
     },
     {
       "id": "cachorro-grande--de-longe-todo-mundo-e-normal",
@@ -861,7 +917,7 @@
       },
       "duration": 268,
       "rank": 25513,
-      "topPosition": 80
+      "topPosition": 87
     },
     {
       "id": "cachorro-grande--debaixo-do-chapeu",
@@ -874,7 +930,8 @@
         99053742,
         2571042432,
         2571042562,
-        2571042682
+        2571042682,
+        3305967221
       ],
       "album": {
         "id": 9789860,
@@ -883,8 +940,8 @@
         "recordType": "album"
       },
       "duration": 212,
-      "rank": 198452,
-      "topPosition": 9
+      "rank": 162796,
+      "topPosition": 13
     },
     {
       "id": "cachorro-grande--deixa-fude",
@@ -893,7 +950,8 @@
       "artistDeezerId": 14827,
       "trackId": 96004154,
       "altTrackIds": [
-        561345342
+        561345342,
+        3305967161
       ],
       "album": {
         "id": 9763302,
@@ -902,8 +960,8 @@
         "recordType": "album"
       },
       "duration": 173,
-      "rank": 148850,
-      "topPosition": 17
+      "rank": 110594,
+      "topPosition": 28
     },
     {
       "id": "cachorro-grande--desentoa",
@@ -914,7 +972,8 @@
       "altTrackIds": [
         96008344,
         99053746,
-        561345332
+        561345332,
+        3305967151
       ],
       "album": {
         "id": 9763334,
@@ -924,7 +983,7 @@
       },
       "duration": 262,
       "rank": 197918,
-      "topPosition": 10
+      "topPosition": 9
     },
     {
       "id": "cachorro-grande--dia-perfeito",
@@ -937,7 +996,8 @@
         99053752,
         548278112,
         1110456902,
-        2571042492
+        2571042492,
+        3305967241
       ],
       "album": {
         "id": 9789860,
@@ -966,7 +1026,7 @@
       },
       "duration": 166,
       "rank": 99217,
-      "topPosition": 36
+      "topPosition": 44
     },
     {
       "id": "cachorro-grande--diga-o-que-voce-quer-escutar",
@@ -983,7 +1043,7 @@
       },
       "duration": 244,
       "rank": 30472,
-      "topPosition": 77
+      "topPosition": 84
     },
     {
       "id": "cachorro-grande--eileen",
@@ -1000,7 +1060,7 @@
       },
       "duration": 247,
       "rank": 54899,
-      "topPosition": 59
+      "topPosition": 68
     },
     {
       "id": "cachorro-grande--ela-disse",
@@ -1017,7 +1077,7 @@
       },
       "duration": 189,
       "rank": 69418,
-      "topPosition": 48
+      "topPosition": 57
     },
     {
       "id": "cachorro-grande--electromod",
@@ -1037,7 +1097,7 @@
       },
       "duration": 208,
       "rank": 60609,
-      "topPosition": 56
+      "topPosition": 65
     },
     {
       "id": "cachorro-grande--enquanto-o-trem-que-espero-nao-vem",
@@ -1054,24 +1114,26 @@
       },
       "duration": 151,
       "rank": 54663,
-      "topPosition": 60
+      "topPosition": 69
     },
     {
       "id": "cachorro-grande--eu-nao-vou-mudar",
       "title": "Eu Não Vou Mudar",
       "artist": "Cachorro Grande",
       "artistDeezerId": 14827,
-      "trackId": 548400252,
-      "altTrackIds": [],
+      "trackId": 3284194651,
+      "altTrackIds": [
+        548400252
+      ],
       "album": {
-        "id": 72009422,
-        "title": "Cachorro Grande no Estúdio Showlivre, Vol. 2 (Ao Vivo)",
-        "releaseDate": "2016-12-02",
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
         "recordType": "album"
       },
       "duration": 380,
-      "rank": 33209,
-      "topPosition": 73
+      "rank": 100000,
+      "topPosition": 36
     },
     {
       "id": "cachorro-grande--eu-pensei",
@@ -1087,25 +1149,27 @@
         "recordType": "album"
       },
       "duration": 152,
-      "rank": 144460,
-      "topPosition": 20
+      "rank": 107331,
+      "topPosition": 31
     },
     {
       "id": "cachorro-grande--eu-quis-jogar",
       "title": "Eu Quis Jogar",
       "artist": "Cachorro Grande",
       "artistDeezerId": 14827,
-      "trackId": 548400292,
-      "altTrackIds": [],
+      "trackId": 3284194691,
+      "altTrackIds": [
+        548400292
+      ],
       "album": {
-        "id": 72009422,
-        "title": "Cachorro Grande no Estúdio Showlivre, Vol. 2 (Ao Vivo)",
-        "releaseDate": "2016-12-02",
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
         "recordType": "album"
       },
-      "duration": 276,
-      "rank": 3833,
-      "topPosition": 91
+      "duration": 270,
+      "rank": 100000,
+      "topPosition": 37
     },
     {
       "id": "cachorro-grande--eu-sei-que-vai-feder",
@@ -1122,7 +1186,7 @@
       },
       "duration": 327,
       "rank": 57609,
-      "topPosition": 58
+      "topPosition": 67
     },
     {
       "id": "cachorro-grande--fantasmas",
@@ -1142,7 +1206,24 @@
       },
       "duration": 152,
       "rank": 128858,
-      "topPosition": 26
+      "topPosition": 24
+    },
+    {
+      "id": "cachorro-grande--fizinhur",
+      "title": "Fizinhur",
+      "artist": "Cachorro Grande",
+      "artistDeezerId": 14827,
+      "trackId": 3284194721,
+      "altTrackIds": [],
+      "album": {
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
+        "recordType": "album"
+      },
+      "duration": 61,
+      "rank": 100000,
+      "topPosition": 38
     },
     {
       "id": "cachorro-grande--hey-amigo",
@@ -1154,7 +1235,8 @@
         99053758,
         548278122,
         548399712,
-        561345302
+        561345302,
+        3305967131
       ],
       "album": {
         "id": 83367602,
@@ -1163,8 +1245,8 @@
         "recordType": "album"
       },
       "duration": 198,
-      "rank": 182427,
-      "topPosition": 11
+      "rank": 149650,
+      "topPosition": 17
     },
     {
       "id": "cachorro-grande--hoje-meus-domingos-nao-sao-mais-depressivos",
@@ -1181,7 +1263,7 @@
       },
       "duration": 114,
       "rank": 57832,
-      "topPosition": 57
+      "topPosition": 66
     },
     {
       "id": "cachorro-grande--insatisfeito",
@@ -1198,7 +1280,7 @@
       },
       "duration": 658,
       "rank": 33885,
-      "topPosition": 72
+      "topPosition": 80
     },
     {
       "id": "cachorro-grande--interligado",
@@ -1215,7 +1297,24 @@
       },
       "duration": 215,
       "rank": 142910,
-      "topPosition": 22
+      "topPosition": 21
+    },
+    {
+      "id": "cachorro-grande--introducao-interligado",
+      "title": "Introdução (Interligado)",
+      "artist": "Cachorro Grande",
+      "artistDeezerId": 14827,
+      "trackId": 3305967111,
+      "altTrackIds": [],
+      "album": {
+        "id": 736795761,
+        "title": "Cachorro Grande Clássicos (Ao Vivo)",
+        "releaseDate": "2018-03-16",
+        "recordType": "album"
+      },
+      "duration": 110,
+      "rank": 25196,
+      "topPosition": 88
     },
     {
       "id": "cachorro-grande--lili",
@@ -1236,7 +1335,7 @@
       },
       "duration": 161,
       "rank": 108610,
-      "topPosition": 32
+      "topPosition": 30
     },
     {
       "id": "cachorro-grande--limpol-no-astral",
@@ -1255,7 +1354,7 @@
       },
       "duration": 300,
       "rank": 13901,
-      "topPosition": 88
+      "topPosition": 97
     },
     {
       "id": "cachorro-grande--longa-metragem",
@@ -1288,7 +1387,8 @@
         548400322,
         561345362,
         2571042412,
-        2571042592
+        2571042592,
+        3305967261
       ],
       "album": {
         "id": 9789860,
@@ -1315,7 +1415,7 @@
       },
       "duration": 273,
       "rank": 21922,
-      "topPosition": 83
+      "topPosition": 92
     },
     {
       "id": "cachorro-grande--me-perdi",
@@ -1332,7 +1432,7 @@
       },
       "duration": 138,
       "rank": 95645,
-      "topPosition": 37
+      "topPosition": 45
     },
     {
       "id": "cachorro-grande--mundo-diferente",
@@ -1349,7 +1449,7 @@
       },
       "duration": 289,
       "rank": 69713,
-      "topPosition": 47
+      "topPosition": 56
     },
     {
       "id": "cachorro-grande--na-sua-solidao",
@@ -1366,7 +1466,7 @@
       },
       "duration": 179,
       "rank": 75636,
-      "topPosition": 44
+      "topPosition": 53
     },
     {
       "id": "cachorro-grande--nada-pra-fazer",
@@ -1383,7 +1483,7 @@
       },
       "duration": 253,
       "rank": 33152,
-      "topPosition": 74
+      "topPosition": 81
     },
     {
       "id": "cachorro-grande--nao-entendo-nao-aguento",
@@ -1400,7 +1500,7 @@
       },
       "duration": 258,
       "rank": 48176,
-      "topPosition": 61
+      "topPosition": 70
     },
     {
       "id": "cachorro-grande--nem-tudo-e-mais-como-era-antes",
@@ -1417,7 +1517,7 @@
       },
       "duration": 355,
       "rank": 2049,
-      "topPosition": 93
+      "topPosition": 100
     },
     {
       "id": "cachorro-grande--ningem-mais-lembra-de-voce",
@@ -1451,7 +1551,24 @@
       },
       "duration": 201,
       "rank": 34263,
-      "topPosition": 71
+      "topPosition": 79
+    },
+    {
+      "id": "cachorro-grande--nos-vamos-fazer-voce-se-ligar",
+      "title": "Nós Vamos Fazer Você Se Ligar",
+      "artist": "Cachorro Grande",
+      "artistDeezerId": 14827,
+      "trackId": 3284194631,
+      "altTrackIds": [],
+      "album": {
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
+        "recordType": "album"
+      },
+      "duration": 654,
+      "rank": 100000,
+      "topPosition": 39
     },
     {
       "id": "cachorro-grande--novo-super-heroi",
@@ -1467,8 +1584,8 @@
         "recordType": "album"
       },
       "duration": 184,
-      "rank": 141351,
-      "topPosition": 23
+      "rank": 173759,
+      "topPosition": 11
     },
     {
       "id": "cachorro-grande--nunca-vai-mudar",
@@ -1485,26 +1602,27 @@
       },
       "duration": 191,
       "rank": 78112,
-      "topPosition": 42
+      "topPosition": 51
     },
     {
       "id": "cachorro-grande--nuvens-de-fumaca",
       "title": "Nuvens de Fumaça",
       "artist": "Cachorro Grande",
       "artistDeezerId": 14827,
-      "trackId": 548399682,
+      "trackId": 3284194641,
       "altTrackIds": [
+        548399682,
         548400242
       ],
       "album": {
-        "id": 72009342,
-        "title": "Cachorro Grande no Estúdio Showlivre, Vol. 3 (Ao Vivo)",
-        "releaseDate": "2016-11-11",
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
         "recordType": "album"
       },
-      "duration": 278,
-      "rank": 37613,
-      "topPosition": 70
+      "duration": 290,
+      "rank": 100000,
+      "topPosition": 40
     },
     {
       "id": "cachorro-grande--o-certo-e-o-errado",
@@ -1521,7 +1639,7 @@
       },
       "duration": 166,
       "rank": 63029,
-      "topPosition": 52
+      "topPosition": 61
     },
     {
       "id": "cachorro-grande--o-dia-de-amanha",
@@ -1559,24 +1677,26 @@
       },
       "duration": 182,
       "rank": 32496,
-      "topPosition": 75
+      "topPosition": 82
     },
     {
       "id": "cachorro-grande--o-que-vai-ser",
       "title": "O Que Vai Ser",
       "artist": "Cachorro Grande",
       "artistDeezerId": 14827,
-      "trackId": 548400302,
-      "altTrackIds": [],
+      "trackId": 3284194711,
+      "altTrackIds": [
+        548400302
+      ],
       "album": {
-        "id": 72009422,
-        "title": "Cachorro Grande no Estúdio Showlivre, Vol. 2 (Ao Vivo)",
-        "releaseDate": "2016-12-02",
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
         "recordType": "album"
       },
-      "duration": 298,
-      "rank": 8531,
-      "topPosition": 90
+      "duration": 306,
+      "rank": 100000,
+      "topPosition": 41
     },
     {
       "id": "cachorro-grande--o-que-voce-tem",
@@ -1593,7 +1713,7 @@
       },
       "duration": 188,
       "rank": 111338,
-      "topPosition": 30
+      "topPosition": 27
     },
     {
       "id": "cachorro-grande--o-tempo-esta-do-meu-lado",
@@ -1613,7 +1733,7 @@
       },
       "duration": 122,
       "rank": 73226,
-      "topPosition": 45
+      "topPosition": 54
     },
     {
       "id": "cachorro-grande--o-truque-do-ovo",
@@ -1630,7 +1750,7 @@
       },
       "duration": 286,
       "rank": 22127,
-      "topPosition": 82
+      "topPosition": 91
     },
     {
       "id": "cachorro-grande--olhar-pra-frente",
@@ -1647,7 +1767,7 @@
       },
       "duration": 224,
       "rank": 38587,
-      "topPosition": 69
+      "topPosition": 78
     },
     {
       "id": "cachorro-grande--os-doces-exoticos-de-charlotte-grapewine",
@@ -1667,7 +1787,7 @@
       },
       "duration": 582,
       "rank": 85496,
-      "topPosition": 41
+      "topPosition": 49
     },
     {
       "id": "cachorro-grande--pandora",
@@ -1684,7 +1804,7 @@
       },
       "duration": 306,
       "rank": 26436,
-      "topPosition": 79
+      "topPosition": 86
     },
     {
       "id": "cachorro-grande--pedro-balao",
@@ -1704,8 +1824,8 @@
         "recordType": "album"
       },
       "duration": 190,
-      "rank": 120758,
-      "topPosition": 27
+      "rank": 84775,
+      "topPosition": 50
     },
     {
       "id": "cachorro-grande--pessoas-vazias",
@@ -1722,7 +1842,7 @@
       },
       "duration": 290,
       "rank": 45322,
-      "topPosition": 64
+      "topPosition": 73
     },
     {
       "id": "cachorro-grande--por-onde-vou",
@@ -1742,7 +1862,7 @@
       },
       "duration": 308,
       "rank": 137644,
-      "topPosition": 25
+      "topPosition": 23
     },
     {
       "id": "cachorro-grande--pra-onde-vou-te-levar",
@@ -1761,7 +1881,7 @@
       },
       "duration": 250,
       "rank": 18626,
-      "topPosition": 86
+      "topPosition": 95
     },
     {
       "id": "cachorro-grande--quando-amanhecer",
@@ -1778,7 +1898,7 @@
       },
       "duration": 207,
       "rank": 62046,
-      "topPosition": 55
+      "topPosition": 64
     },
     {
       "id": "cachorro-grande--que-loucura",
@@ -1788,7 +1908,8 @@
       "trackId": 612222012,
       "altTrackIds": [
         99053760,
-        561345312
+        561345312,
+        3305967181
       ],
       "album": {
         "id": 83367602,
@@ -1809,7 +1930,8 @@
       "altTrackIds": [
         96004570,
         99053744,
-        1110456892
+        1110456892,
+        3305967211
       ],
       "album": {
         "id": 9763302,
@@ -1836,7 +1958,7 @@
       },
       "duration": 187,
       "rank": 62201,
-      "topPosition": 53
+      "topPosition": 62
     },
     {
       "id": "cachorro-grande--sem-problemas",
@@ -1853,7 +1975,7 @@
       },
       "duration": 184,
       "rank": 70203,
-      "topPosition": 46
+      "topPosition": 55
     },
     {
       "id": "cachorro-grande--sexperienced",
@@ -1866,7 +1988,8 @@
         99053734,
         2571042422,
         2571042552,
-        2571042722
+        2571042722,
+        3305967271
       ],
       "album": {
         "id": 9789860,
@@ -1893,7 +2016,7 @@
       },
       "duration": 141,
       "rank": 94717,
-      "topPosition": 38
+      "topPosition": 46
     },
     {
       "id": "cachorro-grande--sinceramente",
@@ -1905,7 +2028,8 @@
         96008358,
         99053740,
         3245206601,
-        3260723371
+        3260723371,
+        3305967251
       ],
       "album": {
         "id": 9763334,
@@ -1936,7 +2060,7 @@
       },
       "duration": 155,
       "rank": 65077,
-      "topPosition": 51
+      "topPosition": 60
     },
     {
       "id": "cachorro-grande--situacao-dramatica",
@@ -1970,7 +2094,7 @@
       },
       "duration": 236,
       "rank": 24197,
-      "topPosition": 81
+      "topPosition": 89
     },
     {
       "id": "cachorro-grande--subir-e-facil-dificil-e-descer",
@@ -1989,7 +2113,7 @@
       },
       "duration": 231,
       "rank": 29972,
-      "topPosition": 78
+      "topPosition": 85
     },
     {
       "id": "cachorro-grande--super-amigo",
@@ -2006,7 +2130,7 @@
       },
       "duration": 201,
       "rank": 139331,
-      "topPosition": 24
+      "topPosition": 22
     },
     {
       "id": "cachorro-grande--surreal",
@@ -2025,7 +2149,7 @@
       },
       "duration": 177,
       "rank": 9895,
-      "topPosition": 89
+      "topPosition": 98
     },
     {
       "id": "cachorro-grande--tarantula",
@@ -2045,7 +2169,24 @@
       },
       "duration": 331,
       "rank": 42060,
-      "topPosition": 65
+      "topPosition": 74
+    },
+    {
+      "id": "cachorro-grande--torpor-partes-2-e-5",
+      "title": "Torpor Partes 2 & 5",
+      "artist": "Cachorro Grande",
+      "artistDeezerId": 14827,
+      "trackId": 3284194701,
+      "altTrackIds": [],
+      "album": {
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
+        "recordType": "album"
+      },
+      "duration": 499,
+      "rank": 100000,
+      "topPosition": 42
     },
     {
       "id": "cachorro-grande--tudo-por-voce",
@@ -2062,7 +2203,7 @@
       },
       "duration": 169,
       "rank": 88316,
-      "topPosition": 39
+      "topPosition": 47
     },
     {
       "id": "cachorro-grande--tudo-vai-mudar",
@@ -2079,7 +2220,24 @@
       },
       "duration": 180,
       "rank": 38985,
-      "topPosition": 68
+      "topPosition": 77
+    },
+    {
+      "id": "cachorro-grande--use-o-assento-para-flutar",
+      "title": "Use o Assento para Flutar",
+      "artist": "Cachorro Grande",
+      "artistDeezerId": 14827,
+      "trackId": 3284194671,
+      "altTrackIds": [],
+      "album": {
+        "id": 729407101,
+        "title": "Costa do Marfim",
+        "releaseDate": "2015-08-31",
+        "recordType": "album"
+      },
+      "duration": 369,
+      "rank": 100000,
+      "topPosition": 43
     },
     {
       "id": "cachorro-grande--use-o-assento-para-flutuar",
@@ -2096,7 +2254,7 @@
       },
       "duration": 369,
       "rank": 16828,
-      "topPosition": 87
+      "topPosition": 96
     },
     {
       "id": "cachorro-grande--vai-t-q-da",
@@ -2114,8 +2272,8 @@
         "recordType": "album"
       },
       "duration": 323,
-      "rank": 114994,
-      "topPosition": 28
+      "rank": 114188,
+      "topPosition": 25
     },
     {
       "id": "cachorro-grande--velha-amiga",
@@ -2123,7 +2281,9 @@
       "artist": "Cachorro Grande",
       "artistDeezerId": 14827,
       "trackId": 96008362,
-      "altTrackIds": [],
+      "altTrackIds": [
+        3305967231
+      ],
       "album": {
         "id": 9763672,
         "title": "Pista Livre",
@@ -2132,7 +2292,7 @@
       },
       "duration": 292,
       "rank": 162950,
-      "topPosition": 13
+      "topPosition": 12
     },
     {
       "id": "cachorro-grande--voce-me-faz-continuar",
@@ -2170,7 +2330,7 @@
       },
       "duration": 145,
       "rank": 31617,
-      "topPosition": 76
+      "topPosition": 83
     },
     {
       "id": "cachorro-grande--voce-nao-sabe-o-que-perdeu",
@@ -2184,7 +2344,8 @@
         548278132,
         548399722,
         548400332,
-        561345292
+        561345292,
+        3305967121
       ],
       "album": {
         "id": 9763334,
@@ -2211,7 +2372,7 @@
       },
       "duration": 223,
       "rank": 47515,
-      "topPosition": 63
+      "topPosition": 72
     },
     {
       "id": "cachorro-grande--volta-pro-mesmo-lugar",
@@ -2228,7 +2389,7 @@
       },
       "duration": 154,
       "rank": 20964,
-      "topPosition": 85
+      "topPosition": 94
     },
     {
       "id": "comunidade-nin-jitsu--a-noite",
@@ -2395,7 +2556,7 @@
       },
       "duration": 251,
       "rank": 159480,
-      "topPosition": 22
+      "topPosition": 23
     },
     {
       "id": "comunidade-nin-jitsu--amazonia-x-colombia-26",
@@ -2450,7 +2611,7 @@
       },
       "duration": 167,
       "rank": 160624,
-      "topPosition": 20
+      "topPosition": 21
     },
     {
       "id": "comunidade-nin-jitsu--analfabeto",
@@ -2490,7 +2651,7 @@
       },
       "duration": 132,
       "rank": 124544,
-      "topPosition": 34
+      "topPosition": 33
     },
     {
       "id": "comunidade-nin-jitsu--aperitivado-phonk",
@@ -2753,8 +2914,8 @@
         "recordType": "album"
       },
       "duration": 156,
-      "rank": 131054,
-      "topPosition": 30
+      "rank": 119272,
+      "topPosition": 36
     },
     {
       "id": "comunidade-nin-jitsu--chuva-nas-calcinha-mega-funk",
@@ -2884,7 +3045,7 @@
       },
       "duration": 188,
       "rank": 159807,
-      "topPosition": 21
+      "topPosition": 22
     },
     {
       "id": "comunidade-nin-jitsu--da-certo",
@@ -3177,8 +3338,8 @@
         "recordType": "single"
       },
       "duration": 210,
-      "rank": 155588,
-      "topPosition": 23
+      "rank": 155542,
+      "topPosition": 24
     },
     {
       "id": "comunidade-nin-jitsu--faze-a-cabeca-26",
@@ -3236,7 +3397,7 @@
       },
       "duration": 135,
       "rank": 122606,
-      "topPosition": 35
+      "topPosition": 34
     },
     {
       "id": "comunidade-nin-jitsu--funk-ate-o-caroco",
@@ -3253,7 +3414,7 @@
       },
       "duration": 240,
       "rank": 119298,
-      "topPosition": 36
+      "topPosition": 35
     },
     {
       "id": "comunidade-nin-jitsu--funk-da-paz-rebola-o-resbola",
@@ -3287,7 +3448,7 @@
       },
       "duration": 169,
       "rank": 128829,
-      "topPosition": 32
+      "topPosition": 31
     },
     {
       "id": "comunidade-nin-jitsu--funk-filosofal",
@@ -3999,8 +4160,8 @@
         "recordType": "album"
       },
       "duration": 161,
-      "rank": 153885,
-      "topPosition": 24
+      "rank": 160846,
+      "topPosition": 20
     },
     {
       "id": "comunidade-nin-jitsu--preciso-dela",
@@ -4245,7 +4406,7 @@
       },
       "duration": 197,
       "rank": 130167,
-      "topPosition": 31
+      "topPosition": 30
     },
     {
       "id": "comunidade-nin-jitsu--sou-blase",
@@ -4404,7 +4565,7 @@
       },
       "duration": 160,
       "rank": 128675,
-      "topPosition": 33
+      "topPosition": 32
     },
     {
       "id": "comunidade-nin-jitsu--tipo-loco",
@@ -4586,23 +4747,6 @@
       "topPosition": 110
     },
     {
-      "id": "engenheiros-do-hawaii--10-000-destinos",
-      "title": "10.000 Destinos",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049631,
-      "altTrackIds": [],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 228,
-      "rank": 199449,
-      "topPosition": 134
-    },
-    {
       "id": "engenheiros-do-hawaii--3-minutos",
       "title": "3 Minutos",
       "artist": "Engenheiros do Hawaii",
@@ -4619,24 +4763,22 @@
       },
       "duration": 205,
       "rank": 188000,
-      "topPosition": 144
+      "topPosition": 111
     },
     {
       "id": "engenheiros-do-hawaii--3-x-4",
       "title": "3 X 4",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 305049651,
-      "altTrackIds": [
-        685828462
-      ],
+      "trackId": 685828462,
+      "altTrackIds": [],
       "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
+        "id": 98188942,
+        "title": "Acústico (Ao Vivo / Deluxe)",
+        "releaseDate": "2019-05-31",
         "recordType": "album"
       },
-      "duration": 231,
+      "duration": 189,
       "rank": 652193,
       "topPosition": 5
     },
@@ -4645,20 +4787,17 @@
       "title": "3ª Do Plural",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 98000594,
-      "altTrackIds": [
-        411541342,
-        685828542
-      ],
+      "trackId": 685828542,
+      "altTrackIds": [],
       "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
+        "id": 98188942,
+        "title": "Acústico (Ao Vivo / Deluxe)",
+        "releaseDate": "2019-05-31",
         "recordType": "album"
       },
-      "duration": 182,
+      "duration": 186,
       "rank": 549841,
-      "topPosition": 19
+      "topPosition": 18
     },
     {
       "id": "engenheiros-do-hawaii--a-conquista-do-espaco",
@@ -4678,7 +4817,7 @@
       },
       "duration": 319,
       "rank": 190470,
-      "topPosition": 143
+      "topPosition": 110
     },
     {
       "id": "engenheiros-do-hawaii--a-conquista-do-espelho",
@@ -4697,7 +4836,7 @@
       },
       "duration": 159,
       "rank": 256332,
-      "topPosition": 110
+      "topPosition": 88
     },
     {
       "id": "engenheiros-do-hawaii--a-ilha-nao-se-curva",
@@ -4716,7 +4855,7 @@
       },
       "duration": 253,
       "rank": 148847,
-      "topPosition": 157
+      "topPosition": 116
     },
     {
       "id": "engenheiros-do-hawaii--a-montanha",
@@ -4729,9 +4868,6 @@
         70086912,
         72290904,
         122316526,
-        137542371,
-        137727533,
-        411541472,
         1564486902
       ],
       "album": {
@@ -4741,25 +4877,8 @@
         "recordType": "album"
       },
       "duration": 198,
-      "rank": 344935,
-      "topPosition": 55
-    },
-    {
-      "id": "engenheiros-do-hawaii--a-onda",
-      "title": "A Onda",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727545,
-      "altTrackIds": [],
-      "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 172,
-      "rank": 312577,
-      "topPosition": 71
+      "rank": 334812,
+      "topPosition": 49
     },
     {
       "id": "engenheiros-do-hawaii--a-perigo",
@@ -4769,7 +4888,6 @@
       "trackId": 13310189,
       "altTrackIds": [
         122316504,
-        137542415,
         1564487162
       ],
       "album": {
@@ -4780,7 +4898,7 @@
       },
       "duration": 244,
       "rank": 391678,
-      "topPosition": 40
+      "topPosition": 36
     },
     {
       "id": "engenheiros-do-hawaii--a-promessa",
@@ -4792,7 +4910,6 @@
         3574064,
         70086914,
         122316510,
-        137542375,
         1564487102,
         1564489122
       ],
@@ -4804,7 +4921,7 @@
       },
       "duration": 214,
       "rank": 420811,
-      "topPosition": 33
+      "topPosition": 31
     },
     {
       "id": "engenheiros-do-hawaii--a-revolta-dos-dandis-part-i",
@@ -4828,7 +4945,7 @@
       },
       "duration": 250,
       "rank": 441688,
-      "topPosition": 30
+      "topPosition": 29
     },
     {
       "id": "engenheiros-do-hawaii--a-revolta-dos-dandis-part-ii",
@@ -4850,26 +4967,24 @@
       },
       "duration": 193,
       "rank": 382320,
-      "topPosition": 41
+      "topPosition": 37
     },
     {
       "id": "engenheiros-do-hawaii--a-revolta-dos-dandis-pt-1",
       "title": "A Revolta Dos Dândis Pt. 1",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 411541362,
-      "altTrackIds": [
-        685828632
-      ],
+      "trackId": 685828632,
+      "altTrackIds": [],
       "album": {
-        "id": 48960032,
-        "title": "Engenheiros Do Hawaii Sem Limite",
-        "releaseDate": "2017-09-29",
+        "id": 98188942,
+        "title": "Acústico (Ao Vivo / Deluxe)",
+        "releaseDate": "2019-05-31",
         "recordType": "album"
       },
       "duration": 199,
       "rank": 523337,
-      "topPosition": 24
+      "topPosition": 23
     },
     {
       "id": "engenheiros-do-hawaii--a-verdade-a-ver-navios",
@@ -4891,7 +5006,7 @@
       },
       "duration": 179,
       "rank": 302260,
-      "topPosition": 81
+      "topPosition": 64
     },
     {
       "id": "engenheiros-do-hawaii--a-violencia-travestida-faz-seu-trottoir",
@@ -4910,7 +5025,7 @@
       },
       "duration": 410,
       "rank": 347965,
-      "topPosition": 53
+      "topPosition": 44
     },
     {
       "id": "engenheiros-do-hawaii--alem-dos-out-doors",
@@ -4931,7 +5046,7 @@
       },
       "duration": 213,
       "rank": 316108,
-      "topPosition": 68
+      "topPosition": 55
     },
     {
       "id": "engenheiros-do-hawaii--algo-por-voce",
@@ -4950,7 +5065,7 @@
       },
       "duration": 295,
       "rank": 274380,
-      "topPosition": 99
+      "topPosition": 80
     },
     {
       "id": "engenheiros-do-hawaii--alivio-imediato",
@@ -4964,8 +5079,6 @@
         70086913,
         122316382,
         122316492,
-        137727553,
-        411541352,
         1564486102,
         1564486932,
         1564488352
@@ -4977,8 +5090,8 @@
         "recordType": "album"
       },
       "duration": 225,
-      "rank": 497416,
-      "topPosition": 25
+      "rank": 449308,
+      "topPosition": 27
     },
     {
       "id": "engenheiros-do-hawaii--alucinacao",
@@ -4997,7 +5110,7 @@
       },
       "duration": 209,
       "rank": 308277,
-      "topPosition": 75
+      "topPosition": 59
     },
     {
       "id": "engenheiros-do-hawaii--ando-so",
@@ -5020,7 +5133,7 @@
       },
       "duration": 230,
       "rank": 334205,
-      "topPosition": 60
+      "topPosition": 50
     },
     {
       "id": "engenheiros-do-hawaii--anoiteceu-em-porto-alegre",
@@ -5039,24 +5152,7 @@
       },
       "duration": 485,
       "rank": 416893,
-      "topPosition": 34
-    },
-    {
-      "id": "engenheiros-do-hawaii--arame-farpado",
-      "title": "Arame Farpado",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 98000612,
-      "altTrackIds": [],
-      "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
-        "recordType": "album"
-      },
-      "duration": 178,
-      "rank": 185801,
-      "topPosition": 146
+      "topPosition": 32
     },
     {
       "id": "engenheiros-do-hawaii--armas-quimicas-e-poemas",
@@ -5073,7 +5169,7 @@
       },
       "duration": 211,
       "rank": 586004,
-      "topPosition": 13
+      "topPosition": 12
     },
     {
       "id": "engenheiros-do-hawaii--as-vezes-nunca",
@@ -5092,42 +5188,22 @@
       },
       "duration": 208,
       "rank": 254535,
-      "topPosition": 112
-    },
-    {
-      "id": "engenheiros-do-hawaii--ate-mais",
-      "title": "Até Mais",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049591,
-      "altTrackIds": [],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 297,
-      "rank": 301740,
-      "topPosition": 82
+      "topPosition": 90
     },
     {
       "id": "engenheiros-do-hawaii--ate-o-fim",
       "title": "Até O Fim",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 4682241,
-      "altTrackIds": [
-        411541312,
-        685828342
-      ],
+      "trackId": 685828342,
+      "altTrackIds": [],
       "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
+        "id": 98188942,
+        "title": "Acústico (Ao Vivo / Deluxe)",
+        "releaseDate": "2019-05-31",
         "recordType": "album"
       },
-      "duration": 198,
+      "duration": 218,
       "rank": 642472,
       "topPosition": 7
     },
@@ -5148,7 +5224,7 @@
       },
       "duration": 208,
       "rank": 309810,
-      "topPosition": 73
+      "topPosition": 58
     },
     {
       "id": "engenheiros-do-hawaii--banco",
@@ -5167,7 +5243,7 @@
       },
       "duration": 173,
       "rank": 197505,
-      "topPosition": 137
+      "topPosition": 107
     },
     {
       "id": "engenheiros-do-hawaii--beijos-pra-torcida",
@@ -5186,24 +5262,7 @@
       },
       "duration": 104,
       "rank": 169730,
-      "topPosition": 155
-    },
-    {
-      "id": "engenheiros-do-hawaii--camuflagem",
-      "title": "Camuflagem",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 4682235,
-      "altTrackIds": [],
-      "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
-        "recordType": "album"
-      },
-      "duration": 209,
-      "rank": 216011,
-      "topPosition": 123
+      "topPosition": 114
     },
     {
       "id": "engenheiros-do-hawaii--canibal-vegetarino-devora-planta-carnivora",
@@ -5222,7 +5281,7 @@
       },
       "duration": 380,
       "rank": 235235,
-      "topPosition": 116
+      "topPosition": 94
     },
     {
       "id": "engenheiros-do-hawaii--chuva-de-containers",
@@ -5241,7 +5300,7 @@
       },
       "duration": 185,
       "rank": 226735,
-      "topPosition": 120
+      "topPosition": 97
     },
     {
       "id": "engenheiros-do-hawaii--cidade-em-chamas",
@@ -5261,63 +5320,7 @@
       },
       "duration": 193,
       "rank": 305406,
-      "topPosition": 77
-    },
-    {
-      "id": "engenheiros-do-hawaii--cinza",
-      "title": "Cinza",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727541,
-      "altTrackIds": [
-        411541422
-      ],
-      "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 242,
-      "rank": 309507,
-      "topPosition": 74
-    },
-    {
-      "id": "engenheiros-do-hawaii--concreto-e-asfalto",
-      "title": "Concreto E Asfalto",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049581,
-      "altTrackIds": [
-        137542421,
-        411541552
-      ],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 186,
-      "rank": 326311,
-      "topPosition": 64
-    },
-    {
-      "id": "engenheiros-do-hawaii--coracao-blindado",
-      "title": "Coração Blindado",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727543,
-      "altTrackIds": [],
-      "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 214,
-      "rank": 317625,
-      "topPosition": 67
+      "topPosition": 61
     },
     {
       "id": "engenheiros-do-hawaii--cronica",
@@ -5340,24 +5343,7 @@
       },
       "duration": 166,
       "rank": 263445,
-      "topPosition": 107
-    },
-    {
-      "id": "engenheiros-do-hawaii--cruzada",
-      "title": "Cruzada",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049671,
-      "altTrackIds": [],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 244,
-      "rank": 172184,
-      "topPosition": 153
+      "topPosition": 85
     },
     {
       "id": "engenheiros-do-hawaii--curta-metragem",
@@ -5376,43 +5362,7 @@
       },
       "duration": 114,
       "rank": 197798,
-      "topPosition": 135
-    },
-    {
-      "id": "engenheiros-do-hawaii--dancando-no-campo-minado",
-      "title": "Dançando No Campo Minado",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 4682238,
-      "altTrackIds": [
-        411541492
-      ],
-      "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
-        "recordType": "album"
-      },
-      "duration": 156,
-      "rank": 264377,
-      "topPosition": 104
-    },
-    {
-      "id": "engenheiros-do-hawaii--datas-e-nomes",
-      "title": "Datas E Nomes",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 98000610,
-      "altTrackIds": [],
-      "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
-        "recordType": "album"
-      },
-      "duration": 182,
-      "rank": 186827,
-      "topPosition": 145
+      "topPosition": 105
     },
     {
       "id": "engenheiros-do-hawaii--de-fe",
@@ -5429,7 +5379,7 @@
       },
       "duration": 85,
       "rank": 443992,
-      "topPosition": 29
+      "topPosition": 28
     },
     {
       "id": "engenheiros-do-hawaii--depois-de-nos",
@@ -5446,7 +5396,7 @@
       },
       "duration": 222,
       "rank": 583372,
-      "topPosition": 14
+      "topPosition": 13
     },
     {
       "id": "engenheiros-do-hawaii--descondo-a-serra",
@@ -5465,7 +5415,7 @@
       },
       "duration": 177,
       "rank": 264290,
-      "topPosition": 105
+      "topPosition": 84
     },
     {
       "id": "engenheiros-do-hawaii--desde-aquele-dia",
@@ -5484,7 +5434,7 @@
       },
       "duration": 210,
       "rank": 347584,
-      "topPosition": 54
+      "topPosition": 45
     },
     {
       "id": "engenheiros-do-hawaii--desde-quando",
@@ -5503,7 +5453,7 @@
       },
       "duration": 148,
       "rank": 215276,
-      "topPosition": 124
+      "topPosition": 99
     },
     {
       "id": "engenheiros-do-hawaii--deserto-freezer",
@@ -5521,61 +5471,25 @@
         "recordType": "album"
       },
       "duration": 161,
-      "rank": 180657,
-      "topPosition": 149
+      "rank": 145191,
+      "topPosition": 117
     },
     {
       "id": "engenheiros-do-hawaii--dom-quixote",
       "title": "Dom Quixote",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 4682240,
-      "altTrackIds": [
-        685828432
-      ],
+      "trackId": 685828432,
+      "altTrackIds": [],
       "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
+        "id": 98188942,
+        "title": "Acústico (Ao Vivo / Deluxe)",
+        "releaseDate": "2019-05-31",
         "recordType": "album"
       },
-      "duration": 193,
+      "duration": 209,
       "rank": 626015,
-      "topPosition": 9
-    },
-    {
-      "id": "engenheiros-do-hawaii--duas-noites-no-deserto",
-      "title": "Duas Noites No Deserto",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 4682236,
-      "altTrackIds": [],
-      "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
-        "recordType": "album"
-      },
-      "duration": 137,
-      "rank": 230133,
-      "topPosition": 118
-    },
-    {
-      "id": "engenheiros-do-hawaii--e-storia",
-      "title": "E-Stória",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 98000608,
-      "altTrackIds": [],
-      "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
-        "recordType": "album"
-      },
-      "duration": 195,
-      "rank": 159857,
-      "topPosition": 156
+      "topPosition": 8
     },
     {
       "id": "engenheiros-do-hawaii--era-um-garoto-como-eu-amava-os-beatles-e-os-rolling-stones",
@@ -5583,10 +5497,7 @@
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
       "trackId": 3574074,
-      "altTrackIds": [
-        137542395,
-        411541572
-      ],
+      "altTrackIds": [],
       "album": {
         "id": 337947,
         "title": "10.000 Destinos - Ao Vivo",
@@ -5595,7 +5506,7 @@
       },
       "duration": 207,
       "rank": 282516,
-      "topPosition": 96
+      "topPosition": 77
     },
     {
       "id": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rolling-stones",
@@ -5635,24 +5546,7 @@
       },
       "duration": 190,
       "rank": 590092,
-      "topPosition": 12
-    },
-    {
-      "id": "engenheiros-do-hawaii--esportes-radicais",
-      "title": "Esportes Radicais",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 98000598,
-      "altTrackIds": [],
-      "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
-        "recordType": "album"
-      },
-      "duration": 211,
-      "rank": 290429,
-      "topPosition": 91
+      "topPosition": 11
     },
     {
       "id": "engenheiros-do-hawaii--eu-ligo-pra-voce",
@@ -5671,45 +5565,24 @@
       },
       "duration": 215,
       "rank": 306393,
-      "topPosition": 76
+      "topPosition": 60
     },
     {
       "id": "engenheiros-do-hawaii--eu-que-nao-amo-voce",
       "title": "Eu Que Não Amo Você",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 305049561,
-      "altTrackIds": [
-        137542413,
-        411541372,
-        685828662
-      ],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 266,
-      "rank": 555299,
-      "topPosition": 18
-    },
-    {
-      "id": "engenheiros-do-hawaii--faz-de-conta",
-      "title": "Faz De Conta",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727549,
+      "trackId": 685828662,
       "altTrackIds": [],
       "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
+        "id": 98188942,
+        "title": "Acústico (Ao Vivo / Deluxe)",
+        "releaseDate": "2019-05-31",
         "recordType": "album"
       },
-      "duration": 198,
-      "rank": 330835,
-      "topPosition": 62
+      "duration": 192,
+      "rank": 555299,
+      "topPosition": 17
     },
     {
       "id": "engenheiros-do-hawaii--faz-parte",
@@ -5728,7 +5601,7 @@
       },
       "duration": 211,
       "rank": 302959,
-      "topPosition": 79
+      "topPosition": 63
     },
     {
       "id": "engenheiros-do-hawaii--fe-nenhuma",
@@ -5747,7 +5620,7 @@
       },
       "duration": 165,
       "rank": 228731,
-      "topPosition": 119
+      "topPosition": 96
     },
     {
       "id": "engenheiros-do-hawaii--filmes-de-guerra-cancoes-de-amor",
@@ -5769,58 +5642,7 @@
       },
       "duration": 242,
       "rank": 360962,
-      "topPosition": 50
-    },
-    {
-      "id": "engenheiros-do-hawaii--freud-flintstone",
-      "title": "Freud Flintstone",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137542411,
-      "altTrackIds": [],
-      "album": {
-        "id": 14759263,
-        "title": "10.001 Destinos (Live)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 184,
-      "rank": 201579,
-      "topPosition": 132
-    },
-    {
-      "id": "engenheiros-do-hawaii--fusao-a-frio",
-      "title": "Fusão À Frio",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 4682243,
-      "altTrackIds": [],
-      "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
-        "recordType": "album"
-      },
-      "duration": 166,
-      "rank": 201678,
-      "topPosition": 131
-    },
-    {
-      "id": "engenheiros-do-hawaii--guantanamo",
-      "title": "Guantánamo",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727531,
-      "altTrackIds": [],
-      "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 231,
-      "rank": 372838,
-      "topPosition": 45
+      "topPosition": 42
     },
     {
       "id": "engenheiros-do-hawaii--guardas-da-fronteira",
@@ -5839,7 +5661,7 @@
       },
       "duration": 271,
       "rank": 294722,
-      "topPosition": 89
+      "topPosition": 70
     },
     {
       "id": "engenheiros-do-hawaii--herdeiro-da-pampa-pobre",
@@ -5861,7 +5683,7 @@
       },
       "duration": 238,
       "rank": 469622,
-      "topPosition": 26
+      "topPosition": 25
     },
     {
       "id": "engenheiros-do-hawaii--hora-do-mergulho",
@@ -5882,7 +5704,7 @@
       },
       "duration": 235,
       "rank": 402067,
-      "topPosition": 37
+      "topPosition": 33
     },
     {
       "id": "engenheiros-do-hawaii--humano-demais",
@@ -5901,7 +5723,7 @@
       },
       "duration": 293,
       "rank": 192988,
-      "topPosition": 141
+      "topPosition": 108
     },
     {
       "id": "engenheiros-do-hawaii--ilex-paraguariensis",
@@ -5920,7 +5742,7 @@
       },
       "duration": 260,
       "rank": 379226,
-      "topPosition": 43
+      "topPosition": 38
     },
     {
       "id": "engenheiros-do-hawaii--ilusao-de-otica",
@@ -5939,7 +5761,7 @@
       },
       "duration": 165,
       "rank": 266294,
-      "topPosition": 103
+      "topPosition": 83
     },
     {
       "id": "engenheiros-do-hawaii--infinita-highway",
@@ -5954,8 +5776,6 @@
         72290887,
         122316340,
         122316388,
-        137542373,
-        411541292,
         685828372,
         1564486062,
         1564486872,
@@ -5988,7 +5808,7 @@
       },
       "duration": 252,
       "rank": 190715,
-      "topPosition": 142
+      "topPosition": 109
     },
     {
       "id": "engenheiros-do-hawaii--lance-de-dados",
@@ -6007,7 +5827,7 @@
       },
       "duration": 179,
       "rank": 290531,
-      "topPosition": 90
+      "topPosition": 71
     },
     {
       "id": "engenheiros-do-hawaii--longe-demais-das-capitais",
@@ -6033,63 +5853,27 @@
       },
       "duration": 247,
       "rank": 274939,
-      "topPosition": 97
-    },
-    {
-      "id": "engenheiros-do-hawaii--luz",
-      "title": "Luz",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727559,
-      "altTrackIds": [
-        411541562
-      ],
-      "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 169,
-      "rank": 298243,
-      "topPosition": 86
+      "topPosition": 78
     },
     {
       "id": "engenheiros-do-hawaii--mapas-do-acaso",
       "title": "Mapas Do Acaso",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 13310062,
+      "trackId": 1564489142,
       "altTrackIds": [
-        122316478,
-        1564489142
+        13310062,
+        122316478
       ],
       "album": {
-        "id": 1219428,
-        "title": "Filmes de Guerra, Canções de Amor (Ao Vivo)",
-        "releaseDate": "1998-10-19",
+        "id": 275050842,
+        "title": "O Melhor de Engenheiros do Hawaii",
+        "releaseDate": "2021-12-03",
         "recordType": "album"
       },
-      "duration": 363,
+      "duration": 361,
       "rank": 377723,
-      "topPosition": 44
-    },
-    {
-      "id": "engenheiros-do-hawaii--melhor-assim",
-      "title": "Melhor Assim",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049661,
-      "altTrackIds": [],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 221,
-      "rank": 193372,
-      "topPosition": 140
+      "topPosition": 39
     },
     {
       "id": "engenheiros-do-hawaii--muros-e-grades",
@@ -6112,7 +5896,7 @@
       },
       "duration": 215,
       "rank": 401578,
-      "topPosition": 38
+      "topPosition": 34
     },
     {
       "id": "engenheiros-do-hawaii--museu-de-cera",
@@ -6131,41 +5915,7 @@
       },
       "duration": 234,
       "rank": 213594,
-      "topPosition": 126
-    },
-    {
-      "id": "engenheiros-do-hawaii--na-real",
-      "title": "Na Real",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049641,
-      "altTrackIds": [],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 175,
-      "rank": 171418,
-      "topPosition": 154
-    },
-    {
-      "id": "engenheiros-do-hawaii--na-veia",
-      "title": "Na Veia",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 4682242,
-      "altTrackIds": [],
-      "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
-        "recordType": "album"
-      },
-      "duration": 193,
-      "rank": 299297,
-      "topPosition": 85
+      "topPosition": 100
     },
     {
       "id": "engenheiros-do-hawaii--nada-a-ver",
@@ -6184,43 +5934,7 @@
       },
       "duration": 198,
       "rank": 176636,
-      "topPosition": 151
-    },
-    {
-      "id": "engenheiros-do-hawaii--nada-facil",
-      "title": "Nada Fácil",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049601,
-      "altTrackIds": [],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 219,
-      "rank": 312625,
-      "topPosition": 70
-    },
-    {
-      "id": "engenheiros-do-hawaii--nao-consigo-odiar-ninguem",
-      "title": "Não Consigo Odiar Ninguém",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727539,
-      "altTrackIds": [
-        411541542
-      ],
-      "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 238,
-      "rank": 361297,
-      "topPosition": 48
+      "topPosition": 112
     },
     {
       "id": "engenheiros-do-hawaii--nao-e-sempre",
@@ -6239,7 +5953,7 @@
       },
       "duration": 207,
       "rank": 207754,
-      "topPosition": 129
+      "topPosition": 103
     },
     {
       "id": "engenheiros-do-hawaii--nau-a-deriva",
@@ -6259,43 +5973,7 @@
       },
       "duration": 208,
       "rank": 361624,
-      "topPosition": 47
-    },
-    {
-      "id": "engenheiros-do-hawaii--negro-amor",
-      "title": "Negro Amor",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049571,
-      "altTrackIds": [
-        411541402
-      ],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 278,
-      "rank": 467456,
-      "topPosition": 27
-    },
-    {
-      "id": "engenheiros-do-hawaii--nem-1-dia",
-      "title": "Nem + 1 Dia",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 98000602,
-      "altTrackIds": [],
-      "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
-        "recordType": "album"
-      },
-      "duration": 224,
-      "rank": 302578,
-      "topPosition": 80
+      "topPosition": 41
     },
     {
       "id": "engenheiros-do-hawaii--ninguem-ninguem",
@@ -6307,8 +5985,6 @@
         3574065,
         72290900,
         122316454,
-        137542377,
-        411541382,
         1564486862,
         1564489132
       ],
@@ -6319,8 +5995,8 @@
         "recordType": "album"
       },
       "duration": 301,
-      "rank": 396492,
-      "topPosition": 39
+      "rank": 316642,
+      "topPosition": 54
     },
     {
       "id": "engenheiros-do-hawaii--no-inverno-fica-tarde-cedo",
@@ -6339,26 +6015,7 @@
       },
       "duration": 269,
       "rank": 231453,
-      "topPosition": 117
-    },
-    {
-      "id": "engenheiros-do-hawaii--no-meio-de-tudo-voce",
-      "title": "No Meio De Tudo, Você",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727537,
-      "altTrackIds": [
-        411541392
-      ],
-      "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 208,
-      "rank": 381807,
-      "topPosition": 42
+      "topPosition": 95
     },
     {
       "id": "engenheiros-do-hawaii--nossas-vidas",
@@ -6377,7 +6034,7 @@
       },
       "duration": 185,
       "rank": 197777,
-      "topPosition": 136
+      "topPosition": 106
     },
     {
       "id": "engenheiros-do-hawaii--nove-zero-cinco-um",
@@ -6395,8 +6052,8 @@
         "recordType": "album"
       },
       "duration": 161,
-      "rank": 184686,
-      "topPosition": 147
+      "rank": 154514,
+      "topPosition": 115
     },
     {
       "id": "engenheiros-do-hawaii--novos-horizontes",
@@ -6404,11 +6061,7 @@
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
       "trackId": 3574079,
-      "altTrackIds": [
-        137542405,
-        137542419,
-        137727551
-      ],
+      "altTrackIds": [],
       "album": {
         "id": 337947,
         "title": "10.000 Destinos - Ao Vivo",
@@ -6416,8 +6069,8 @@
         "recordType": "album"
       },
       "duration": 214,
-      "rank": 317795,
-      "topPosition": 66
+      "rank": 254535,
+      "topPosition": 91
     },
     {
       "id": "engenheiros-do-hawaii--numeros",
@@ -6425,9 +6078,7 @@
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
       "trackId": 3574077,
-      "altTrackIds": [
-        137542401
-      ],
+      "altTrackIds": [],
       "album": {
         "id": 337947,
         "title": "10.000 Destinos - Ao Vivo",
@@ -6435,27 +6086,8 @@
         "recordType": "album"
       },
       "duration": 205,
-      "rank": 434251,
-      "topPosition": 31
-    },
-    {
-      "id": "engenheiros-do-hawaii--nunca-mais",
-      "title": "Nunca Mais",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 98000600,
-      "altTrackIds": [
-        411541512
-      ],
-      "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
-        "recordType": "album"
-      },
-      "duration": 288,
-      "rank": 267916,
-      "topPosition": 102
+      "rank": 298266,
+      "topPosition": 67
     },
     {
       "id": "engenheiros-do-hawaii--nunca-mais-poder",
@@ -6474,7 +6106,7 @@
       },
       "duration": 280,
       "rank": 258578,
-      "topPosition": 108
+      "topPosition": 86
     },
     {
       "id": "engenheiros-do-hawaii--nunca-se-sabe",
@@ -6483,8 +6115,7 @@
       "artistDeezerId": 14691,
       "trackId": 13310157,
       "altTrackIds": [
-        122316368,
-        137542417
+        122316368
       ],
       "album": {
         "id": 1219435,
@@ -6494,7 +6125,7 @@
       },
       "duration": 191,
       "rank": 290332,
-      "topPosition": 92
+      "topPosition": 72
     },
     {
       "id": "engenheiros-do-hawaii--nuvem",
@@ -6513,7 +6144,7 @@
       },
       "duration": 173,
       "rank": 296033,
-      "topPosition": 88
+      "topPosition": 69
     },
     {
       "id": "engenheiros-do-hawaii--o-castelo-dos-destinos-cruzados",
@@ -6532,7 +6163,7 @@
       },
       "duration": 242,
       "rank": 274011,
-      "topPosition": 100
+      "topPosition": 81
     },
     {
       "id": "engenheiros-do-hawaii--o-exercito-de-um-homem-so-i",
@@ -6556,7 +6187,7 @@
       },
       "duration": 290,
       "rank": 449449,
-      "topPosition": 28
+      "topPosition": 26
     },
     {
       "id": "engenheiros-do-hawaii--o-exercito-de-um-homem-so-ii",
@@ -6575,24 +6206,7 @@
       },
       "duration": 85,
       "rank": 300420,
-      "topPosition": 84
-    },
-    {
-      "id": "engenheiros-do-hawaii--o-olho-do-furacao",
-      "title": "O Olho Do Furacão",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049611,
-      "altTrackIds": [],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 174,
-      "rank": 221665,
-      "topPosition": 121
+      "topPosition": 66
     },
     {
       "id": "engenheiros-do-hawaii--o-papa-e-pop",
@@ -6617,7 +6231,7 @@
       },
       "duration": 226,
       "rank": 604212,
-      "topPosition": 10
+      "topPosition": 9
     },
     {
       "id": "engenheiros-do-hawaii--o-preco",
@@ -6634,7 +6248,7 @@
       },
       "duration": 214,
       "rank": 595788,
-      "topPosition": 11
+      "topPosition": 10
     },
     {
       "id": "engenheiros-do-hawaii--o-sonho-e-popular",
@@ -6653,7 +6267,7 @@
       },
       "duration": 85,
       "rank": 273406,
-      "topPosition": 101
+      "topPosition": 82
     },
     {
       "id": "engenheiros-do-hawaii--olhos-iguais-aos-seus",
@@ -6672,7 +6286,7 @@
       },
       "duration": 225,
       "rank": 330966,
-      "topPosition": 61
+      "topPosition": 51
     },
     {
       "id": "engenheiros-do-hawaii--ouca-o-que-eu-digo-nao-ouca-ninguem",
@@ -6686,8 +6300,6 @@
         72290891,
         122316358,
         122316398,
-        137542397,
-        411541442,
         1564486082,
         1564487062,
         1564489102
@@ -6700,43 +6312,24 @@
       },
       "duration": 184,
       "rank": 329144,
-      "topPosition": 63
-    },
-    {
-      "id": "engenheiros-do-hawaii--outono-em-porto-alegre",
-      "title": "Outono Em Porto Alegre",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 4682245,
-      "altTrackIds": [],
-      "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
-        "recordType": "album"
-      },
-      "duration": 158,
-      "rank": 214729,
-      "topPosition": 125
+      "topPosition": 52
     },
     {
       "id": "engenheiros-do-hawaii--outras-frequencias",
       "title": "Outras Freqüências",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 411541452,
-      "altTrackIds": [
-        685828592
-      ],
+      "trackId": 685828592,
+      "altTrackIds": [],
       "album": {
-        "id": 48960032,
-        "title": "Engenheiros Do Hawaii Sem Limite",
-        "releaseDate": "2017-09-29",
+        "id": 98188942,
+        "title": "Acústico (Ao Vivo / Deluxe)",
+        "releaseDate": "2019-05-31",
         "recordType": "album"
       },
-      "duration": 185,
+      "duration": 193,
       "rank": 531641,
-      "topPosition": 23
+      "topPosition": 22
     },
     {
       "id": "engenheiros-do-hawaii--outros-tempos",
@@ -6755,7 +6348,7 @@
       },
       "duration": 250,
       "rank": 199708,
-      "topPosition": 133
+      "topPosition": 104
     },
     {
       "id": "engenheiros-do-hawaii--pampa-no-walkman",
@@ -6774,7 +6367,7 @@
       },
       "duration": 193,
       "rank": 301508,
-      "topPosition": 83
+      "topPosition": 65
     },
     {
       "id": "engenheiros-do-hawaii--parabolica",
@@ -6787,8 +6380,6 @@
         70086915,
         72290899,
         122316470,
-        137542379,
-        137727547,
         1564486152,
         1564488392
       ],
@@ -6799,7 +6390,7 @@
         "recordType": "album"
       },
       "duration": 153,
-      "rank": 414665,
+      "rank": 398679,
       "topPosition": 35
     },
     {
@@ -6819,7 +6410,7 @@
       },
       "duration": 215,
       "rank": 532473,
-      "topPosition": 21
+      "topPosition": 20
     },
     {
       "id": "engenheiros-do-hawaii--piano-bar",
@@ -6830,10 +6421,7 @@
       "altTrackIds": [
         3574071,
         72290898,
-        122316432,
-        137542389,
-        137727557,
-        411541502
+        122316432
       ],
       "album": {
         "id": 1219434,
@@ -6842,8 +6430,8 @@
         "recordType": "album"
       },
       "duration": 256,
-      "rank": 631102,
-      "topPosition": 8
+      "rank": 474778,
+      "topPosition": 24
     },
     {
       "id": "engenheiros-do-hawaii--por-acaso",
@@ -6862,7 +6450,7 @@
       },
       "duration": 228,
       "rank": 290005,
-      "topPosition": 93
+      "topPosition": 73
     },
     {
       "id": "engenheiros-do-hawaii--pose",
@@ -6882,7 +6470,7 @@
       },
       "duration": 345,
       "rank": 534479,
-      "topPosition": 20
+      "topPosition": 19
     },
     {
       "id": "engenheiros-do-hawaii--pra-entender",
@@ -6903,24 +6491,7 @@
       },
       "duration": 169,
       "rank": 284858,
-      "topPosition": 95
-    },
-    {
-      "id": "engenheiros-do-hawaii--pra-ficar-legal",
-      "title": "Pra Ficar Legal",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 98000596,
-      "altTrackIds": [],
-      "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
-        "recordType": "album"
-      },
-      "duration": 236,
-      "rank": 334853,
-      "topPosition": 59
+      "topPosition": 75
     },
     {
       "id": "engenheiros-do-hawaii--pra-ser-sincero",
@@ -6935,9 +6506,6 @@
         72290902,
         122316412,
         122316488,
-        137542387,
-        137727561,
-        411541522,
         1564486122,
         1564487142,
         1564488322
@@ -6969,7 +6537,7 @@
       },
       "duration": 282,
       "rank": 274447,
-      "topPosition": 98
+      "topPosition": 79
     },
     {
       "id": "engenheiros-do-hawaii--quando-o-carnaval-chegar",
@@ -6977,9 +6545,7 @@
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
       "trackId": 3574080,
-      "altTrackIds": [
-        137542407
-      ],
+      "altTrackIds": [],
       "album": {
         "id": 337947,
         "title": "10.000 Destinos - Ao Vivo",
@@ -6988,27 +6554,27 @@
       },
       "duration": 99,
       "rank": 305151,
-      "topPosition": 78
+      "topPosition": 62
     },
     {
       "id": "engenheiros-do-hawaii--quanto-vale-a-vida",
       "title": "Quanto Vale A Vida",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 13310065,
+      "trackId": 1564487172,
       "altTrackIds": [
-        122316484,
-        1564487172
+        13310065,
+        122316484
       ],
       "album": {
-        "id": 1219428,
-        "title": "Filmes de Guerra, Canções de Amor (Ao Vivo)",
-        "releaseDate": "1998-10-19",
+        "id": 275050552,
+        "title": "RCA 100 Anos De Música - Engenheiros do Hawaii",
+        "releaseDate": "2021-12-03",
         "recordType": "album"
       },
-      "duration": 334,
+      "duration": 335,
       "rank": 365138,
-      "topPosition": 46
+      "topPosition": 40
     },
     {
       "id": "engenheiros-do-hawaii--quartos-de-hotel",
@@ -7028,24 +6594,7 @@
       },
       "duration": 280,
       "rank": 337890,
-      "topPosition": 57
-    },
-    {
-      "id": "engenheiros-do-hawaii--quebra-cabeca",
-      "title": "Quebra Cabeça",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727535,
-      "altTrackIds": [],
-      "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 205,
-      "rank": 351381,
-      "topPosition": 51
+      "topPosition": 47
     },
     {
       "id": "engenheiros-do-hawaii--quem-diria",
@@ -7064,7 +6613,7 @@
       },
       "duration": 187,
       "rank": 207924,
-      "topPosition": 128
+      "topPosition": 102
     },
     {
       "id": "engenheiros-do-hawaii--quem-tem-pressa-nao-se-interessa",
@@ -7083,7 +6632,7 @@
       },
       "duration": 147,
       "rank": 257142,
-      "topPosition": 109
+      "topPosition": 87
     },
     {
       "id": "engenheiros-do-hawaii--radio-pirata",
@@ -7091,9 +6640,7 @@
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
       "trackId": 3574078,
-      "altTrackIds": [
-        137542403
-      ],
+      "altTrackIds": [],
       "album": {
         "id": 337947,
         "title": "10.000 Destinos - Ao Vivo",
@@ -7101,28 +6648,28 @@
         "recordType": "album"
       },
       "duration": 194,
-      "rank": 405083,
-      "topPosition": 36
+      "rank": 283863,
+      "topPosition": 76
     },
     {
       "id": "engenheiros-do-hawaii--realidade-virtual",
       "title": "Realidade Virtual",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 13310073,
+      "trackId": 72290901,
       "altTrackIds": [
-        72290901,
+        13310073,
         122316500
       ],
       "album": {
-        "id": 1219428,
-        "title": "Filmes de Guerra, Canções de Amor (Ao Vivo)",
-        "releaseDate": "1998-10-19",
+        "id": 7103954,
+        "title": "Maxximum - Engenheiros do Hawaii",
+        "releaseDate": "2005-08-08",
         "recordType": "album"
       },
-      "duration": 241,
+      "duration": 242,
       "rank": 252178,
-      "topPosition": 113
+      "topPosition": 92
     },
     {
       "id": "engenheiros-do-hawaii--refrao-de-bolero",
@@ -7134,8 +6681,6 @@
         3574068,
         72290889,
         122316342,
-        137542383,
-        411541482,
         685828482,
         1564487122
       ],
@@ -7148,40 +6693,6 @@
       "duration": 274,
       "rank": 663461,
       "topPosition": 3
-    },
-    {
-      "id": "engenheiros-do-hawaii--ritos-de-passagem",
-      "title": "Ritos De Passagem",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 98000604,
-      "altTrackIds": [],
-      "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
-        "recordType": "album"
-      },
-      "duration": 221,
-      "rank": 180258,
-      "topPosition": 150
-    },
-    {
-      "id": "engenheiros-do-hawaii--rota-de-colisao",
-      "title": "Rota De Colisão",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 4682237,
-      "altTrackIds": [],
-      "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
-        "recordType": "album"
-      },
-      "duration": 160,
-      "rank": 195751,
-      "topPosition": 139
     },
     {
       "id": "engenheiros-do-hawaii--sala-vip",
@@ -7200,7 +6711,7 @@
       },
       "duration": 285,
       "rank": 238859,
-      "topPosition": 115
+      "topPosition": 93
     },
     {
       "id": "engenheiros-do-hawaii--sampa-no-walkman",
@@ -7221,58 +6732,7 @@
       },
       "duration": 255,
       "rank": 310166,
-      "topPosition": 72
-    },
-    {
-      "id": "engenheiros-do-hawaii--seguir-viagem",
-      "title": "Seguir Viagem",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 305049621,
-      "altTrackIds": [],
-      "album": {
-        "id": 33945471,
-        "title": "!Tchau Radar! (Audio)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 267,
-      "rank": 264265,
-      "topPosition": 106
-    },
-    {
-      "id": "engenheiros-do-hawaii--segunda-feira-blues-i",
-      "title": "Segunda-Feira Blues I",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 4682239,
-      "altTrackIds": [],
-      "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
-        "recordType": "album"
-      },
-      "duration": 210,
-      "rank": 249926,
-      "topPosition": 114
-    },
-    {
-      "id": "engenheiros-do-hawaii--segunda-feira-blues-ii",
-      "title": "Segunda-Feira Blues II",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 4682244,
-      "altTrackIds": [],
-      "album": {
-        "id": 431017,
-        "title": "Dançando No Campo Minado",
-        "releaseDate": "2003-01-01",
-        "recordType": "album"
-      },
-      "duration": 107,
-      "rank": 181317,
-      "topPosition": 148
+      "topPosition": 57
     },
     {
       "id": "engenheiros-do-hawaii--seguranca",
@@ -7294,24 +6754,7 @@
       },
       "duration": 197,
       "rank": 426874,
-      "topPosition": 32
-    },
-    {
-      "id": "engenheiros-do-hawaii--sei-nao",
-      "title": "Sei Não",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 98000606,
-      "altTrackIds": [],
-      "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
-        "recordType": "album"
-      },
-      "duration": 194,
-      "rank": 203579,
-      "topPosition": 130
+      "topPosition": 30
     },
     {
       "id": "engenheiros-do-hawaii--sem-problema",
@@ -7330,24 +6773,7 @@
       },
       "duration": 198,
       "rank": 175937,
-      "topPosition": 152
-    },
-    {
-      "id": "engenheiros-do-hawaii--sem-voce-e-foda",
-      "title": "Sem Você (!É Foda!)",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137542409,
-      "altTrackIds": [],
-      "album": {
-        "id": 14759263,
-        "title": "10.001 Destinos (Live)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 122,
-      "rank": 197076,
-      "topPosition": 138
+      "topPosition": 113
     },
     {
       "id": "engenheiros-do-hawaii--simples-de-coracao",
@@ -7358,8 +6784,7 @@
       "altTrackIds": [
         70086917,
         72290903,
-        122316506,
-        137727555
+        122316506
       ],
       "album": {
         "id": 1219438,
@@ -7369,7 +6794,7 @@
       },
       "duration": 236,
       "rank": 344611,
-      "topPosition": 56
+      "topPosition": 46
     },
     {
       "id": "engenheiros-do-hawaii--sob-o-tapete",
@@ -7388,7 +6813,7 @@
       },
       "duration": 200,
       "rank": 297694,
-      "topPosition": 87
+      "topPosition": 68
     },
     {
       "id": "engenheiros-do-hawaii--somos-quem-podemos-ser",
@@ -7403,8 +6828,6 @@
         72290890,
         122316362,
         122316396,
-        137542385,
-        411541332,
         685828572,
         1564486092,
         1564488272,
@@ -7440,27 +6863,24 @@
       },
       "duration": 188,
       "rank": 321310,
-      "topPosition": 65
+      "topPosition": 53
     },
     {
       "id": "engenheiros-do-hawaii--surfando-karmas-e-dna",
       "title": "Surfando Karmas & DNA",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 98000592,
-      "altTrackIds": [
-        411541462,
-        685828512
-      ],
+      "trackId": 685828512,
+      "altTrackIds": [],
       "album": {
-        "id": 10003082,
-        "title": "Surfando Karmas & DNA",
-        "releaseDate": "2006-06-07",
+        "id": 98188942,
+        "title": "Acústico (Ao Vivo / Deluxe)",
+        "releaseDate": "2019-05-31",
         "recordType": "album"
       },
-      "duration": 203,
+      "duration": 197,
       "rank": 532274,
-      "topPosition": 22
+      "topPosition": 21
     },
     {
       "id": "engenheiros-do-hawaii--sweet-begonia",
@@ -7479,7 +6899,7 @@
       },
       "duration": 150,
       "rank": 211047,
-      "topPosition": 127
+      "topPosition": 101
     },
     {
       "id": "engenheiros-do-hawaii--terra-de-gigantes",
@@ -7505,7 +6925,7 @@
       },
       "duration": 235,
       "rank": 573763,
-      "topPosition": 17
+      "topPosition": 16
     },
     {
       "id": "engenheiros-do-hawaii--toda-forma-de-poder",
@@ -7518,10 +6938,7 @@
         70086903,
         72290885,
         122316312,
-        122316324,
         122316392,
-        137727527,
-        411541302,
         1564486012,
         1564487072,
         1564488282,
@@ -7535,7 +6952,7 @@
       },
       "duration": 195,
       "rank": 581079,
-      "topPosition": 15
+      "topPosition": 14
     },
     {
       "id": "engenheiros-do-hawaii--todo-mundo-e-uma-ilha",
@@ -7552,7 +6969,7 @@
       },
       "duration": 165,
       "rank": 255368,
-      "topPosition": 111
+      "topPosition": 89
     },
     {
       "id": "engenheiros-do-hawaii--tribos-e-tribunais",
@@ -7574,7 +6991,7 @@
       },
       "duration": 221,
       "rank": 289398,
-      "topPosition": 94
+      "topPosition": 74
     },
     {
       "id": "engenheiros-do-hawaii--tunel-do-tempo",
@@ -7594,7 +7011,7 @@
       },
       "duration": 298,
       "rank": 349381,
-      "topPosition": 52
+      "topPosition": 43
     },
     {
       "id": "engenheiros-do-hawaii--variacoes-sobre-um-mesmo-tema",
@@ -7613,24 +7030,7 @@
       },
       "duration": 318,
       "rank": 219390,
-      "topPosition": 122
-    },
-    {
-      "id": "engenheiros-do-hawaii--vertical",
-      "title": "Vertical",
-      "artist": "Engenheiros do Hawaii",
-      "artistDeezerId": 14691,
-      "trackId": 137727529,
-      "altTrackIds": [],
-      "album": {
-        "id": 14781137,
-        "title": "Acústico - Novos Horizontes (Ao Vivo)",
-        "releaseDate": "2016-12-09",
-        "recordType": "album"
-      },
-      "duration": 191,
-      "rank": 360967,
-      "topPosition": 49
+      "topPosition": 98
     },
     {
       "id": "engenheiros-do-hawaii--vicios-de-linguagem",
@@ -7649,26 +7049,24 @@
       },
       "duration": 316,
       "rank": 313713,
-      "topPosition": 69
+      "topPosition": 56
     },
     {
       "id": "engenheiros-do-hawaii--vida-real",
       "title": "Vida Real",
       "artist": "Engenheiros do Hawaii",
       "artistDeezerId": 14691,
-      "trackId": 411541322,
-      "altTrackIds": [
-        685828362
-      ],
+      "trackId": 685828362,
+      "altTrackIds": [],
       "album": {
-        "id": 48960032,
-        "title": "Engenheiros Do Hawaii Sem Limite",
-        "releaseDate": "2017-09-29",
+        "id": 98188942,
+        "title": "Acústico (Ao Vivo / Deluxe)",
+        "releaseDate": "2019-05-31",
         "recordType": "album"
       },
       "duration": 187,
       "rank": 573961,
-      "topPosition": 16
+      "topPosition": 15
     },
     {
       "id": "engenheiros-do-hawaii--vozes",
@@ -7687,7 +7085,7 @@
       },
       "duration": 215,
       "rank": 336350,
-      "topPosition": 58
+      "topPosition": 48
     },
     {
       "id": "graforreia-xilarmonica--amigo-punk",
@@ -8214,7 +7612,7 @@
       },
       "duration": 328,
       "rank": 33280,
-      "topPosition": 137
+      "topPosition": 134
     },
     {
       "id": "nenhum-de-nos--90-minutos",
@@ -8231,7 +7629,7 @@
       },
       "duration": 196,
       "rank": 31853,
-      "topPosition": 143
+      "topPosition": 140
     },
     {
       "id": "nenhum-de-nos--a-minha-casa",
@@ -8265,7 +7663,7 @@
       },
       "duration": 192,
       "rank": 29485,
-      "topPosition": 148
+      "topPosition": 145
     },
     {
       "id": "nenhum-de-nos--abracos-e-brigas",
@@ -8284,7 +7682,7 @@
       },
       "duration": 190,
       "rank": 76463,
-      "topPosition": 93
+      "topPosition": 92
     },
     {
       "id": "nenhum-de-nos--acorda",
@@ -8301,7 +7699,7 @@
       },
       "duration": 283,
       "rank": 37352,
-      "topPosition": 132
+      "topPosition": 129
     },
     {
       "id": "nenhum-de-nos--adeus",
@@ -8318,7 +7716,7 @@
       },
       "duration": 113,
       "rank": 70044,
-      "topPosition": 101
+      "topPosition": 100
     },
     {
       "id": "nenhum-de-nos--afastado",
@@ -8335,7 +7733,7 @@
       },
       "duration": 183,
       "rank": 97417,
-      "topPosition": 74
+      "topPosition": 73
     },
     {
       "id": "nenhum-de-nos--agora-e-tarde-demais",
@@ -8352,7 +7750,7 @@
       },
       "duration": 271,
       "rank": 77763,
-      "topPosition": 91
+      "topPosition": 90
     },
     {
       "id": "nenhum-de-nos--agua-e-fogo",
@@ -8374,7 +7772,7 @@
       },
       "duration": 235,
       "rank": 114824,
-      "topPosition": 63
+      "topPosition": 61
     },
     {
       "id": "nenhum-de-nos--algo-que-nao-se-pode-tocar",
@@ -8391,7 +7789,7 @@
       },
       "duration": 216,
       "rank": 24942,
-      "topPosition": 154
+      "topPosition": 151
     },
     {
       "id": "nenhum-de-nos--algum-misterio",
@@ -8408,7 +7806,7 @@
       },
       "duration": 291,
       "rank": 26555,
-      "topPosition": 150
+      "topPosition": 147
     },
     {
       "id": "nenhum-de-nos--amanha",
@@ -8425,7 +7823,7 @@
       },
       "duration": 234,
       "rank": 72150,
-      "topPosition": 97
+      "topPosition": 96
     },
     {
       "id": "nenhum-de-nos--amanha-ou-depois",
@@ -8466,7 +7864,7 @@
       },
       "duration": 220,
       "rank": 85211,
-      "topPosition": 87
+      "topPosition": 86
     },
     {
       "id": "nenhum-de-nos--ao-meu-redor",
@@ -8476,8 +7874,7 @@
       "trackId": 142336541,
       "altTrackIds": [
         16988531,
-        16991461,
-        141340517
+        16991461
       ],
       "album": {
         "id": 15384761,
@@ -8487,7 +7884,7 @@
       },
       "duration": 225,
       "rank": 215263,
-      "topPosition": 25
+      "topPosition": 24
     },
     {
       "id": "nenhum-de-nos--aquela-estacao",
@@ -8507,7 +7904,7 @@
       },
       "duration": 287,
       "rank": 123293,
-      "topPosition": 57
+      "topPosition": 54
     },
     {
       "id": "nenhum-de-nos--as-mulheres-que-eu-rasguei",
@@ -8524,7 +7921,7 @@
       },
       "duration": 289,
       "rank": 32356,
-      "topPosition": 140
+      "topPosition": 137
     },
     {
       "id": "nenhum-de-nos--brigas",
@@ -8541,7 +7938,7 @@
       },
       "duration": 232,
       "rank": 89171,
-      "topPosition": 84
+      "topPosition": 83
     },
     {
       "id": "nenhum-de-nos--cada-lugar",
@@ -8558,7 +7955,7 @@
       },
       "duration": 209,
       "rank": 47278,
-      "topPosition": 123
+      "topPosition": 120
     },
     {
       "id": "nenhum-de-nos--camila-camila",
@@ -8567,7 +7964,6 @@
       "artistDeezerId": 114140,
       "trackId": 14272468,
       "altTrackIds": [
-        141340521,
         142336499,
         142336517,
         142336519,
@@ -8594,9 +7990,7 @@
       "artist": "Nenhum de Nós",
       "artistDeezerId": 114140,
       "trackId": 1492991782,
-      "altTrackIds": [
-        141340477
-      ],
+      "altTrackIds": [],
       "album": {
         "id": 258544112,
         "title": "Outros",
@@ -8604,8 +7998,8 @@
         "recordType": "album"
       },
       "duration": 242,
-      "rank": 261292,
-      "topPosition": 18
+      "rank": 228116,
+      "topPosition": 23
     },
     {
       "id": "nenhum-de-nos--cardume",
@@ -8622,7 +8016,7 @@
       },
       "duration": 158,
       "rank": 90637,
-      "topPosition": 80
+      "topPosition": 79
     },
     {
       "id": "nenhum-de-nos--carros",
@@ -8641,7 +8035,7 @@
       },
       "duration": 280,
       "rank": 25037,
-      "topPosition": 153
+      "topPosition": 150
     },
     {
       "id": "nenhum-de-nos--caso-raro",
@@ -8658,7 +8052,7 @@
       },
       "duration": 284,
       "rank": 77649,
-      "topPosition": 92
+      "topPosition": 91
     },
     {
       "id": "nenhum-de-nos--clara",
@@ -8675,7 +8069,7 @@
       },
       "duration": 244,
       "rank": 21518,
-      "topPosition": 161
+      "topPosition": 158
     },
     {
       "id": "nenhum-de-nos--clubber",
@@ -8692,7 +8086,7 @@
       },
       "duration": 213,
       "rank": 95091,
-      "topPosition": 76
+      "topPosition": 75
     },
     {
       "id": "nenhum-de-nos--coisa-certa",
@@ -8709,7 +8103,7 @@
       },
       "duration": 244,
       "rank": 90446,
-      "topPosition": 81
+      "topPosition": 80
     },
     {
       "id": "nenhum-de-nos--colhendo-tempestades",
@@ -8748,7 +8142,7 @@
       },
       "duration": 203,
       "rank": 196121,
-      "topPosition": 29
+      "topPosition": 28
     },
     {
       "id": "nenhum-de-nos--confianca",
@@ -8765,7 +8159,7 @@
       },
       "duration": 223,
       "rank": 50580,
-      "topPosition": 118
+      "topPosition": 115
     },
     {
       "id": "nenhum-de-nos--corrente",
@@ -8782,7 +8176,7 @@
       },
       "duration": 271,
       "rank": 90081,
-      "topPosition": 83
+      "topPosition": 82
     },
     {
       "id": "nenhum-de-nos--crimen",
@@ -8801,7 +8195,7 @@
       },
       "duration": 223,
       "rank": 69315,
-      "topPosition": 102
+      "topPosition": 101
     },
     {
       "id": "nenhum-de-nos--culpa",
@@ -8818,7 +8212,7 @@
       },
       "duration": 219,
       "rank": 105207,
-      "topPosition": 69
+      "topPosition": 67
     },
     {
       "id": "nenhum-de-nos--da-janela",
@@ -8840,7 +8234,7 @@
       },
       "duration": 246,
       "rank": 198839,
-      "topPosition": 28
+      "topPosition": 27
     },
     {
       "id": "nenhum-de-nos--danca-do-tempo",
@@ -8880,7 +8274,7 @@
       },
       "duration": 200,
       "rank": 303596,
-      "topPosition": 13
+      "topPosition": 12
     },
     {
       "id": "nenhum-de-nos--deixa-o-sol-entrar",
@@ -8899,7 +8293,7 @@
       },
       "duration": 295,
       "rank": 176381,
-      "topPosition": 35
+      "topPosition": 33
     },
     {
       "id": "nenhum-de-nos--dentro-de-voce",
@@ -8916,7 +8310,7 @@
       },
       "duration": 243,
       "rank": 23854,
-      "topPosition": 158
+      "topPosition": 155
     },
     {
       "id": "nenhum-de-nos--descompasso",
@@ -8933,7 +8327,7 @@
       },
       "duration": 252,
       "rank": 119131,
-      "topPosition": 61
+      "topPosition": 59
     },
     {
       "id": "nenhum-de-nos--desejo",
@@ -8953,7 +8347,7 @@
       },
       "duration": 203,
       "rank": 177429,
-      "topPosition": 33
+      "topPosition": 31
     },
     {
       "id": "nenhum-de-nos--deserto",
@@ -8972,7 +8366,7 @@
       },
       "duration": 277,
       "rank": 124315,
-      "topPosition": 53
+      "topPosition": 50
     },
     {
       "id": "nenhum-de-nos--despliega",
@@ -8989,7 +8383,7 @@
       },
       "duration": 265,
       "rank": 31822,
-      "topPosition": 144
+      "topPosition": 141
     },
     {
       "id": "nenhum-de-nos--dia-de-inverno",
@@ -9006,7 +8400,7 @@
       },
       "duration": 149,
       "rank": 31454,
-      "topPosition": 145
+      "topPosition": 142
     },
     {
       "id": "nenhum-de-nos--dias-que-virao",
@@ -9015,8 +8409,7 @@
       "artistDeezerId": 114140,
       "trackId": 142336537,
       "altTrackIds": [
-        16991457,
-        141340501
+        16991457
       ],
       "album": {
         "id": 15384761,
@@ -9025,8 +8418,8 @@
         "recordType": "album"
       },
       "duration": 222,
-      "rank": 223175,
-      "topPosition": 24
+      "rank": 67915,
+      "topPosition": 104
     },
     {
       "id": "nenhum-de-nos--diga",
@@ -9046,7 +8439,7 @@
       },
       "duration": 249,
       "rank": 61871,
-      "topPosition": 110
+      "topPosition": 109
     },
     {
       "id": "nenhum-de-nos--diga-a-ela",
@@ -9055,7 +8448,6 @@
       "artistDeezerId": 114140,
       "trackId": 720448532,
       "altTrackIds": [
-        141340491,
         1509997812
       ],
       "album": {
@@ -9065,8 +8457,8 @@
         "recordType": "album"
       },
       "duration": 289,
-      "rank": 336123,
-      "topPosition": 11
+      "rank": 301053,
+      "topPosition": 13
     },
     {
       "id": "nenhum-de-nos--divididos",
@@ -9083,7 +8475,7 @@
       },
       "duration": 239,
       "rank": 51652,
-      "topPosition": 116
+      "topPosition": 113
     },
     {
       "id": "nenhum-de-nos--dois-pedacos",
@@ -9102,7 +8494,7 @@
       },
       "duration": 248,
       "rank": 32337,
-      "topPosition": 141
+      "topPosition": 138
     },
     {
       "id": "nenhum-de-nos--duas-luas",
@@ -9121,7 +8513,7 @@
       },
       "duration": 237,
       "rank": 52772,
-      "topPosition": 113
+      "topPosition": 112
     },
     {
       "id": "nenhum-de-nos--duas-metades",
@@ -9155,7 +8547,7 @@
       },
       "duration": 157,
       "rank": 17826,
-      "topPosition": 164
+      "topPosition": 161
     },
     {
       "id": "nenhum-de-nos--el-tubadero",
@@ -9172,7 +8564,7 @@
       },
       "duration": 188,
       "rank": 22590,
-      "topPosition": 159
+      "topPosition": 156
     },
     {
       "id": "nenhum-de-nos--enquanto-conversamos",
@@ -9191,7 +8583,7 @@
       },
       "duration": 186,
       "rank": 118412,
-      "topPosition": 62
+      "topPosition": 60
     },
     {
       "id": "nenhum-de-nos--esperancas-perdidas",
@@ -9208,7 +8600,7 @@
       },
       "duration": 245,
       "rank": 65347,
-      "topPosition": 108
+      "topPosition": 107
     },
     {
       "id": "nenhum-de-nos--estrela-do-oriente",
@@ -9227,7 +8619,7 @@
       },
       "duration": 230,
       "rank": 114081,
-      "topPosition": 64
+      "topPosition": 62
     },
     {
       "id": "nenhum-de-nos--eu-caminhava",
@@ -9236,8 +8628,10 @@
       "artistDeezerId": 114140,
       "trackId": 16988520,
       "altTrackIds": [
-        141340487,
         142337029,
+        142337049,
+        142337051,
+        142337053,
         433201482,
         4139165461
       ],
@@ -9250,57 +8644,6 @@
       "duration": 230,
       "rank": 365225,
       "topPosition": 7
-    },
-    {
-      "id": "nenhum-de-nos--eu-caminhava-cathedral-mix",
-      "title": "Eu Caminhava Cathedral Mix",
-      "artist": "Nenhum de Nós",
-      "artistDeezerId": 114140,
-      "trackId": 142337053,
-      "altTrackIds": [],
-      "album": {
-        "id": 15384817,
-        "title": "Cardume",
-        "releaseDate": "2017-02-17",
-        "recordType": "album"
-      },
-      "duration": 233,
-      "rank": 52151,
-      "topPosition": 115
-    },
-    {
-      "id": "nenhum-de-nos--eu-caminhava-gardel-mix",
-      "title": "Eu Caminhava Gardel Mix",
-      "artist": "Nenhum de Nós",
-      "artistDeezerId": 114140,
-      "trackId": 142337049,
-      "altTrackIds": [],
-      "album": {
-        "id": 15384817,
-        "title": "Cardume",
-        "releaseDate": "2017-02-17",
-        "recordType": "album"
-      },
-      "duration": 214,
-      "rank": 68261,
-      "topPosition": 105
-    },
-    {
-      "id": "nenhum-de-nos--eu-caminhava-hard-mix",
-      "title": "Eu Caminhava Hard Mix",
-      "artist": "Nenhum de Nós",
-      "artistDeezerId": 114140,
-      "trackId": 142337051,
-      "altTrackIds": [],
-      "album": {
-        "id": 15384817,
-        "title": "Cardume",
-        "releaseDate": "2017-02-17",
-        "recordType": "album"
-      },
-      "duration": 233,
-      "rank": 52185,
-      "topPosition": 114
     },
     {
       "id": "nenhum-de-nos--eu-e-voce-sempre",
@@ -9317,7 +8660,7 @@
       },
       "duration": 288,
       "rank": 124862,
-      "topPosition": 52
+      "topPosition": 49
     },
     {
       "id": "nenhum-de-nos--eu-menti",
@@ -9353,7 +8696,7 @@
       },
       "duration": 256,
       "rank": 205031,
-      "topPosition": 27
+      "topPosition": 26
     },
     {
       "id": "nenhum-de-nos--eu-nao-entendo",
@@ -9372,7 +8715,7 @@
       },
       "duration": 259,
       "rank": 335518,
-      "topPosition": 12
+      "topPosition": 11
     },
     {
       "id": "nenhum-de-nos--eu-sei",
@@ -9391,7 +8734,7 @@
       },
       "duration": 308,
       "rank": 123523,
-      "topPosition": 56
+      "topPosition": 53
     },
     {
       "id": "nenhum-de-nos--eu-vejo-estrelas",
@@ -9408,7 +8751,7 @@
       },
       "duration": 338,
       "rank": 38083,
-      "topPosition": 131
+      "topPosition": 128
     },
     {
       "id": "nenhum-de-nos--exatamente-igual",
@@ -9428,7 +8771,7 @@
       },
       "duration": 194,
       "rank": 98878,
-      "topPosition": 73
+      "topPosition": 71
     },
     {
       "id": "nenhum-de-nos--experiencia",
@@ -9447,7 +8790,7 @@
       },
       "duration": 192,
       "rank": 39664,
-      "topPosition": 129
+      "topPosition": 126
     },
     {
       "id": "nenhum-de-nos--extrano",
@@ -9456,7 +8799,6 @@
       "artistDeezerId": 114140,
       "trackId": 16988527,
       "altTrackIds": [
-        141340497,
         142336473,
         1509997852
       ],
@@ -9485,7 +8827,7 @@
       },
       "duration": 226,
       "rank": 125212,
-      "topPosition": 51
+      "topPosition": 48
     },
     {
       "id": "nenhum-de-nos--feedback",
@@ -9505,7 +8847,7 @@
       },
       "duration": 240,
       "rank": 122353,
-      "topPosition": 58
+      "topPosition": 55
     },
     {
       "id": "nenhum-de-nos--flores-de-guadalajara",
@@ -9524,7 +8866,7 @@
       },
       "duration": 192,
       "rank": 71728,
-      "topPosition": 98
+      "topPosition": 97
     },
     {
       "id": "nenhum-de-nos--foi-amor",
@@ -9543,7 +8885,7 @@
       },
       "duration": 235,
       "rank": 136472,
-      "topPosition": 46
+      "topPosition": 44
     },
     {
       "id": "nenhum-de-nos--frio",
@@ -9560,7 +8902,7 @@
       },
       "duration": 203,
       "rank": 24306,
-      "topPosition": 156
+      "topPosition": 153
     },
     {
       "id": "nenhum-de-nos--fuga",
@@ -9599,7 +8941,7 @@
       },
       "duration": 285,
       "rank": 73896,
-      "topPosition": 96
+      "topPosition": 95
     },
     {
       "id": "nenhum-de-nos--homens-caixa",
@@ -9618,7 +8960,7 @@
       },
       "duration": 226,
       "rank": 124002,
-      "topPosition": 54
+      "topPosition": 51
     },
     {
       "id": "nenhum-de-nos--ideologia",
@@ -9635,7 +8977,7 @@
       },
       "duration": 246,
       "rank": 21490,
-      "topPosition": 162
+      "topPosition": 159
     },
     {
       "id": "nenhum-de-nos--igua-a-ti-igual-a-voce",
@@ -9652,7 +8994,7 @@
       },
       "duration": 258,
       "rank": 211008,
-      "topPosition": 26
+      "topPosition": 25
     },
     {
       "id": "nenhum-de-nos--igual-a-voce",
@@ -9688,7 +9030,7 @@
       },
       "duration": 215,
       "rank": 40138,
-      "topPosition": 128
+      "topPosition": 125
     },
     {
       "id": "nenhum-de-nos--infancia",
@@ -9705,7 +9047,7 @@
       },
       "duration": 194,
       "rank": 87883,
-      "topPosition": 86
+      "topPosition": 85
     },
     {
       "id": "nenhum-de-nos--inicio-fim",
@@ -9725,7 +9067,7 @@
       },
       "duration": 290,
       "rank": 94427,
-      "topPosition": 77
+      "topPosition": 76
     },
     {
       "id": "nenhum-de-nos--jealous-guy",
@@ -9744,7 +9086,7 @@
       },
       "duration": 233,
       "rank": 42178,
-      "topPosition": 127
+      "topPosition": 124
     },
     {
       "id": "nenhum-de-nos--jornais",
@@ -9754,8 +9096,7 @@
       "trackId": 142336543,
       "altTrackIds": [
         16988532,
-        16991464,
-        141340513
+        16991464
       ],
       "album": {
         "id": 15384761,
@@ -9764,8 +9105,8 @@
         "recordType": "album"
       },
       "duration": 323,
-      "rank": 230831,
-      "topPosition": 22
+      "rank": 169970,
+      "topPosition": 36
     },
     {
       "id": "nenhum-de-nos--julho-de-83",
@@ -9807,7 +9148,7 @@
       },
       "duration": 229,
       "rank": 74309,
-      "topPosition": 95
+      "topPosition": 94
     },
     {
       "id": "nenhum-de-nos--luzia",
@@ -9824,7 +9165,7 @@
       },
       "duration": 178,
       "rank": 16985,
-      "topPosition": 165
+      "topPosition": 162
     },
     {
       "id": "nenhum-de-nos--mais-um-dia",
@@ -9841,7 +9182,7 @@
       },
       "duration": 247,
       "rank": 23991,
-      "topPosition": 157
+      "topPosition": 154
     },
     {
       "id": "nenhum-de-nos--marcas-do-que-se-foi",
@@ -9860,7 +9201,7 @@
       },
       "duration": 289,
       "rank": 125251,
-      "topPosition": 50
+      "topPosition": 47
     },
     {
       "id": "nenhum-de-nos--melhor-e-diferente",
@@ -9877,7 +9218,7 @@
       },
       "duration": 280,
       "rank": 63602,
-      "topPosition": 109
+      "topPosition": 108
     },
     {
       "id": "nenhum-de-nos--melhor-lugar",
@@ -9894,7 +9235,7 @@
       },
       "duration": 179,
       "rank": 59913,
-      "topPosition": 112
+      "topPosition": 111
     },
     {
       "id": "nenhum-de-nos--mentira",
@@ -9911,7 +9252,7 @@
       },
       "duration": 243,
       "rank": 32703,
-      "topPosition": 138
+      "topPosition": 135
     },
     {
       "id": "nenhum-de-nos--metamorfose-ambulante",
@@ -9930,7 +9271,7 @@
       },
       "duration": 287,
       "rank": 110135,
-      "topPosition": 65
+      "topPosition": 63
     },
     {
       "id": "nenhum-de-nos--meu-mundo-e-nada-mais",
@@ -9948,8 +9289,8 @@
         "recordType": "album"
       },
       "duration": 231,
-      "rank": 143555,
-      "topPosition": 45
+      "rank": 249130,
+      "topPosition": 18
     },
     {
       "id": "nenhum-de-nos--milagre",
@@ -9966,7 +9307,7 @@
       },
       "duration": 216,
       "rank": 105940,
-      "topPosition": 68
+      "topPosition": 66
     },
     {
       "id": "nenhum-de-nos--misterio-profundo",
@@ -9983,7 +9324,7 @@
       },
       "duration": 230,
       "rank": 32539,
-      "topPosition": 139
+      "topPosition": 136
     },
     {
       "id": "nenhum-de-nos--monstrinhos",
@@ -10000,7 +9341,7 @@
       },
       "duration": 269,
       "rank": 49130,
-      "topPosition": 120
+      "topPosition": 117
     },
     {
       "id": "nenhum-de-nos--nao-tenha-medo",
@@ -10017,7 +9358,7 @@
       },
       "duration": 190,
       "rank": 93703,
-      "topPosition": 78
+      "topPosition": 77
     },
     {
       "id": "nenhum-de-nos--nego",
@@ -10034,7 +9375,7 @@
       },
       "duration": 305,
       "rank": 83856,
-      "topPosition": 88
+      "topPosition": 87
     },
     {
       "id": "nenhum-de-nos--nessa-rua",
@@ -10053,7 +9394,7 @@
       },
       "duration": 186,
       "rank": 48639,
-      "topPosition": 121
+      "topPosition": 118
     },
     {
       "id": "nenhum-de-nos--ninguem-pra-dizer-adeus",
@@ -10069,8 +9410,8 @@
         "recordType": "album"
       },
       "duration": 236,
-      "rank": 160881,
-      "topPosition": 41
+      "rank": 119532,
+      "topPosition": 58
     },
     {
       "id": "nenhum-de-nos--no-clube",
@@ -10087,7 +9428,7 @@
       },
       "duration": 221,
       "rank": 34296,
-      "topPosition": 134
+      "topPosition": 131
     },
     {
       "id": "nenhum-de-nos--nossa-danca",
@@ -10104,7 +9445,7 @@
       },
       "duration": 307,
       "rank": 30272,
-      "topPosition": 147
+      "topPosition": 144
     },
     {
       "id": "nenhum-de-nos--noticia-boa",
@@ -10123,7 +9464,7 @@
       },
       "duration": 190,
       "rank": 177053,
-      "topPosition": 34
+      "topPosition": 32
     },
     {
       "id": "nenhum-de-nos--o-aprendiz",
@@ -10140,7 +9481,7 @@
       },
       "duration": 236,
       "rank": 48124,
-      "topPosition": 122
+      "topPosition": 119
     },
     {
       "id": "nenhum-de-nos--o-argonauta",
@@ -10157,7 +9498,7 @@
       },
       "duration": 226,
       "rank": 33413,
-      "topPosition": 135
+      "topPosition": 132
     },
     {
       "id": "nenhum-de-nos--o-astronauta-de-marmore",
@@ -10166,7 +9507,6 @@
       "artistDeezerId": 114140,
       "trackId": 1509997902,
       "altTrackIds": [
-        141340483,
         678054022,
         1509945802,
         2572100962
@@ -10220,7 +9560,7 @@
       },
       "duration": 210,
       "rank": 42338,
-      "topPosition": 126
+      "topPosition": 123
     },
     {
       "id": "nenhum-de-nos--o-inferno-e-o-ceu",
@@ -10237,7 +9577,7 @@
       },
       "duration": 185,
       "rank": 51410,
-      "topPosition": 117
+      "topPosition": 114
     },
     {
       "id": "nenhum-de-nos--o-marinheiro-que-perdeu-as-gracas-do-mar",
@@ -10256,7 +9596,7 @@
       },
       "duration": 330,
       "rank": 83408,
-      "topPosition": 89
+      "topPosition": 88
     },
     {
       "id": "nenhum-de-nos--o-que-clark-kent-nao-viu",
@@ -10273,7 +9613,7 @@
       },
       "duration": 258,
       "rank": 75179,
-      "topPosition": 94
+      "topPosition": 93
     },
     {
       "id": "nenhum-de-nos--o-sorriso-de-jennifer",
@@ -10290,7 +9630,7 @@
       },
       "duration": 234,
       "rank": 90188,
-      "topPosition": 82
+      "topPosition": 81
     },
     {
       "id": "nenhum-de-nos--obsessao",
@@ -10310,7 +9650,7 @@
       },
       "duration": 160,
       "rank": 171390,
-      "topPosition": 36
+      "topPosition": 34
     },
     {
       "id": "nenhum-de-nos--outono-outubro",
@@ -10330,7 +9670,7 @@
       },
       "duration": 218,
       "rank": 104668,
-      "topPosition": 70
+      "topPosition": 68
     },
     {
       "id": "nenhum-de-nos--paraiso",
@@ -10339,7 +9679,6 @@
       "artistDeezerId": 114140,
       "trackId": 1132216712,
       "altTrackIds": [
-        141340493,
         433201412,
         678054032,
         1509945812,
@@ -10352,8 +9691,8 @@
         "recordType": "album"
       },
       "duration": 263,
-      "rank": 189705,
-      "topPosition": 31
+      "rank": 152914,
+      "topPosition": 42
     },
     {
       "id": "nenhum-de-nos--paz-e-amor",
@@ -10395,8 +9734,8 @@
         "recordType": "album"
       },
       "duration": 312,
-      "rank": 131528,
-      "topPosition": 48
+      "rank": 97724,
+      "topPosition": 72
     },
     {
       "id": "nenhum-de-nos--pequena",
@@ -10415,8 +9754,8 @@
         "recordType": "album"
       },
       "duration": 256,
-      "rank": 109786,
-      "topPosition": 66
+      "rank": 170075,
+      "topPosition": 35
     },
     {
       "id": "nenhum-de-nos--perdido-no-livro",
@@ -10433,7 +9772,7 @@
       },
       "duration": 195,
       "rank": 22263,
-      "topPosition": 160
+      "topPosition": 157
     },
     {
       "id": "nenhum-de-nos--perfeita-companhia",
@@ -10450,7 +9789,7 @@
       },
       "duration": 226,
       "rank": 67209,
-      "topPosition": 106
+      "topPosition": 105
     },
     {
       "id": "nenhum-de-nos--piquete-do-caveira",
@@ -10467,7 +9806,7 @@
       },
       "duration": 251,
       "rank": 30843,
-      "topPosition": 146
+      "topPosition": 143
     },
     {
       "id": "nenhum-de-nos--polaroid",
@@ -10476,7 +9815,6 @@
       "artistDeezerId": 114140,
       "trackId": 1492991792,
       "altTrackIds": [
-        141340509,
         433201392,
         1509945722
       ],
@@ -10488,7 +9826,7 @@
       },
       "duration": 278,
       "rank": 122242,
-      "topPosition": 59
+      "topPosition": 56
     },
     {
       "id": "nenhum-de-nos--polaroid-de-loucura-ordinaria",
@@ -10505,7 +9843,7 @@
       },
       "duration": 278,
       "rank": 26231,
-      "topPosition": 152
+      "topPosition": 149
     },
     {
       "id": "nenhum-de-nos--porto-alegre",
@@ -10522,7 +9860,7 @@
       },
       "duration": 213,
       "rank": 123656,
-      "topPosition": 55
+      "topPosition": 52
     },
     {
       "id": "nenhum-de-nos--primavera-no-coracao",
@@ -10543,7 +9881,7 @@
       },
       "duration": 297,
       "rank": 132759,
-      "topPosition": 47
+      "topPosition": 45
     },
     {
       "id": "nenhum-de-nos--quase-sem-querer",
@@ -10559,8 +9897,8 @@
         "recordType": "album"
       },
       "duration": 198,
-      "rank": 157496,
-      "topPosition": 42
+      "rank": 194638,
+      "topPosition": 29
     },
     {
       "id": "nenhum-de-nos--quem-se-importa",
@@ -10577,7 +9915,7 @@
       },
       "duration": 208,
       "rank": 33377,
-      "topPosition": 136
+      "topPosition": 133
     },
     {
       "id": "nenhum-de-nos--raquel",
@@ -10596,7 +9934,7 @@
       },
       "duration": 202,
       "rank": 31935,
-      "topPosition": 142
+      "topPosition": 139
     },
     {
       "id": "nenhum-de-nos--rezo-por-nos",
@@ -10615,7 +9953,7 @@
       },
       "duration": 281,
       "rank": 66783,
-      "topPosition": 107
+      "topPosition": 106
     },
     {
       "id": "nenhum-de-nos--sangue-latino",
@@ -10637,7 +9975,7 @@
       },
       "duration": 173,
       "rank": 229926,
-      "topPosition": 23
+      "topPosition": 22
     },
     {
       "id": "nenhum-de-nos--santa-felicidade",
@@ -10674,7 +10012,7 @@
       },
       "duration": 266,
       "rank": 68517,
-      "topPosition": 104
+      "topPosition": 103
     },
     {
       "id": "nenhum-de-nos--segredos",
@@ -10693,7 +10031,7 @@
       },
       "duration": 165,
       "rank": 6854,
-      "topPosition": 167
+      "topPosition": 164
     },
     {
       "id": "nenhum-de-nos--sempre-sim",
@@ -10710,7 +10048,7 @@
       },
       "duration": 267,
       "rank": 16151,
-      "topPosition": 166
+      "topPosition": 163
     },
     {
       "id": "nenhum-de-nos--simples",
@@ -10727,7 +10065,7 @@
       },
       "duration": 242,
       "rank": 81734,
-      "topPosition": 90
+      "topPosition": 89
     },
     {
       "id": "nenhum-de-nos--sinais-de-fumaca",
@@ -10736,8 +10074,7 @@
       "artistDeezerId": 114140,
       "trackId": 142336529,
       "altTrackIds": [
-        16991451,
-        141340505
+        16991451
       ],
       "album": {
         "id": 15384761,
@@ -10746,8 +10083,8 @@
         "recordType": "album"
       },
       "duration": 233,
-      "rank": 190613,
-      "topPosition": 30
+      "rank": 108179,
+      "topPosition": 65
     },
     {
       "id": "nenhum-de-nos--sobre-as-maos",
@@ -10766,7 +10103,7 @@
       },
       "duration": 209,
       "rank": 155284,
-      "topPosition": 43
+      "topPosition": 41
     },
     {
       "id": "nenhum-de-nos--sobre-o-tempo",
@@ -10775,7 +10112,6 @@
       "artistDeezerId": 114140,
       "trackId": 16988528,
       "altTrackIds": [
-        141340473,
         142336465,
         660238142,
         1509997822
@@ -10805,7 +10141,7 @@
       },
       "duration": 71,
       "rank": 26791,
-      "topPosition": 149
+      "topPosition": 146
     },
     {
       "id": "nenhum-de-nos--strip-tease-baby",
@@ -10824,7 +10160,7 @@
       },
       "duration": 222,
       "rank": 102425,
-      "topPosition": 72
+      "topPosition": 70
     },
     {
       "id": "nenhum-de-nos--sweetbum-zack",
@@ -10841,7 +10177,7 @@
       },
       "duration": 259,
       "rank": 70157,
-      "topPosition": 100
+      "topPosition": 99
     },
     {
       "id": "nenhum-de-nos--tao-diferente",
@@ -10862,7 +10198,7 @@
       },
       "duration": 264,
       "rank": 189037,
-      "topPosition": 32
+      "topPosition": 30
     },
     {
       "id": "nenhum-de-nos--telhados-de-paris",
@@ -10881,7 +10217,7 @@
       },
       "duration": 218,
       "rank": 104080,
-      "topPosition": 71
+      "topPosition": 69
     },
     {
       "id": "nenhum-de-nos--tempo-diferente",
@@ -10898,7 +10234,7 @@
       },
       "duration": 260,
       "rank": 24334,
-      "topPosition": 155
+      "topPosition": 152
     },
     {
       "id": "nenhum-de-nos--tente-outra-vez",
@@ -10935,7 +10271,7 @@
       },
       "duration": 249,
       "rank": 36507,
-      "topPosition": 133
+      "topPosition": 130
     },
     {
       "id": "nenhum-de-nos--todas-as-coisas",
@@ -10952,7 +10288,7 @@
       },
       "duration": 258,
       "rank": 108685,
-      "topPosition": 67
+      "topPosition": 64
     },
     {
       "id": "nenhum-de-nos--total-atencao",
@@ -10969,7 +10305,7 @@
       },
       "duration": 224,
       "rank": 88673,
-      "topPosition": 85
+      "topPosition": 84
     },
     {
       "id": "nenhum-de-nos--tu-vicio",
@@ -10989,7 +10325,7 @@
       },
       "duration": 282,
       "rank": 130780,
-      "topPosition": 49
+      "topPosition": 46
     },
     {
       "id": "nenhum-de-nos--tudo-novo-de-novo",
@@ -11006,7 +10342,7 @@
       },
       "duration": 181,
       "rank": 20494,
-      "topPosition": 163
+      "topPosition": 160
     },
     {
       "id": "nenhum-de-nos--tudo-o-que-passou",
@@ -11023,7 +10359,7 @@
       },
       "duration": 242,
       "rank": 47083,
-      "topPosition": 124
+      "topPosition": 121
     },
     {
       "id": "nenhum-de-nos--tudo-que-aconteceu",
@@ -11043,7 +10379,7 @@
       },
       "duration": 196,
       "rank": 91411,
-      "topPosition": 79
+      "topPosition": 78
     },
     {
       "id": "nenhum-de-nos--tudo-que-passou",
@@ -11062,7 +10398,7 @@
       },
       "duration": 247,
       "rank": 39247,
-      "topPosition": 130
+      "topPosition": 127
     },
     {
       "id": "nenhum-de-nos--ultimo-beijo",
@@ -11083,7 +10419,7 @@
       },
       "duration": 228,
       "rank": 146692,
-      "topPosition": 44
+      "topPosition": 43
     },
     {
       "id": "nenhum-de-nos--um-girassol-da-cor-do-seu-cabelo",
@@ -11121,7 +10457,7 @@
       },
       "duration": 245,
       "rank": 71429,
-      "topPosition": 99
+      "topPosition": 98
     },
     {
       "id": "nenhum-de-nos--um-pouco-mais",
@@ -11138,7 +10474,7 @@
       },
       "duration": 216,
       "rank": 61481,
-      "topPosition": 111
+      "topPosition": 110
     },
     {
       "id": "nenhum-de-nos--um-pouquinho",
@@ -11158,7 +10494,7 @@
       },
       "duration": 234,
       "rank": 49454,
-      "topPosition": 119
+      "topPosition": 116
     },
     {
       "id": "nenhum-de-nos--uma-historia-real",
@@ -11175,7 +10511,7 @@
       },
       "duration": 991,
       "rank": 42698,
-      "topPosition": 125
+      "topPosition": 122
     },
     {
       "id": "nenhum-de-nos--uma-pequena-historia",
@@ -11192,7 +10528,7 @@
       },
       "duration": 208,
       "rank": 95534,
-      "topPosition": 75
+      "topPosition": 74
     },
     {
       "id": "nenhum-de-nos--uma-vida-ordinaria",
@@ -11211,7 +10547,7 @@
       },
       "duration": 196,
       "rank": 120293,
-      "topPosition": 60
+      "topPosition": 57
     },
     {
       "id": "nenhum-de-nos--una-vida-ordinaria",
@@ -11230,7 +10566,7 @@
       },
       "duration": 198,
       "rank": 68656,
-      "topPosition": 103
+      "topPosition": 102
     },
     {
       "id": "nenhum-de-nos--velocidade",
@@ -11247,7 +10583,7 @@
       },
       "duration": 237,
       "rank": 26381,
-      "topPosition": 151
+      "topPosition": 148
     },
     {
       "id": "nenhum-de-nos--voce-vai-lembrar-de-mim",
@@ -11316,7 +10652,7 @@
       },
       "duration": 142,
       "rank": 174766,
-      "topPosition": 8
+      "topPosition": 11
     },
     {
       "id": "os-replicantes--adultera",
@@ -11333,7 +10669,7 @@
       },
       "duration": 134,
       "rank": 75031,
-      "topPosition": 30
+      "topPosition": 31
     },
     {
       "id": "os-replicantes--africa-do-sul",
@@ -11350,7 +10686,7 @@
       },
       "duration": 138,
       "rank": 81647,
-      "topPosition": 25
+      "topPosition": 26
     },
     {
       "id": "os-replicantes--agora-e-tarde",
@@ -11403,7 +10739,7 @@
       },
       "duration": 141,
       "rank": 99716,
-      "topPosition": 22
+      "topPosition": 23
     },
     {
       "id": "os-replicantes--anabela",
@@ -11512,7 +10848,7 @@
       },
       "duration": 159,
       "rank": 73523,
-      "topPosition": 31
+      "topPosition": 32
     },
     {
       "id": "os-replicantes--boy-do-subterraneo",
@@ -11532,7 +10868,7 @@
       },
       "duration": 140,
       "rank": 189724,
-      "topPosition": 7
+      "topPosition": 8
     },
     {
       "id": "os-replicantes--buraco-transdimensional",
@@ -11566,7 +10902,7 @@
       },
       "duration": 121,
       "rank": 78066,
-      "topPosition": 26
+      "topPosition": 27
     },
     {
       "id": "os-replicantes--chegou-a-hora-de-ver-quem-e-quem",
@@ -11602,7 +10938,7 @@
       },
       "duration": 239,
       "rank": 134749,
-      "topPosition": 14
+      "topPosition": 16
     },
     {
       "id": "os-replicantes--choque",
@@ -11621,7 +10957,7 @@
       },
       "duration": 183,
       "rank": 103846,
-      "topPosition": 21
+      "topPosition": 22
     },
     {
       "id": "os-replicantes--chore-meu-bem",
@@ -11945,8 +11281,8 @@
         "recordType": "album"
       },
       "duration": 207,
-      "rank": 70417,
-      "topPosition": 34
+      "rank": 153890,
+      "topPosition": 15
     },
     {
       "id": "os-replicantes--hard-core",
@@ -11963,7 +11299,7 @@
       },
       "duration": 139,
       "rank": 89042,
-      "topPosition": 24
+      "topPosition": 25
     },
     {
       "id": "os-replicantes--hey-babe",
@@ -12107,7 +11443,7 @@
       },
       "duration": 264,
       "rank": 70910,
-      "topPosition": 33
+      "topPosition": 34
     },
     {
       "id": "os-replicantes--maria-lacerda",
@@ -12129,7 +11465,7 @@
       },
       "duration": 220,
       "rank": 117703,
-      "topPosition": 18
+      "topPosition": 19
     },
     {
       "id": "os-replicantes--meio-madeira-meio-alvenaria",
@@ -12182,7 +11518,7 @@
       },
       "duration": 166,
       "rank": 133158,
-      "topPosition": 15
+      "topPosition": 17
     },
     {
       "id": "os-replicantes--minha-vizinha",
@@ -12236,7 +11572,7 @@
       },
       "duration": 143,
       "rank": 121035,
-      "topPosition": 17
+      "topPosition": 18
     },
     {
       "id": "os-replicantes--nada-e-por-acaso",
@@ -12361,7 +11697,7 @@
       },
       "duration": 79,
       "rank": 165184,
-      "topPosition": 10
+      "topPosition": 12
     },
     {
       "id": "os-replicantes--nightmares",
@@ -12395,7 +11731,7 @@
       },
       "duration": 139,
       "rank": 76104,
-      "topPosition": 28
+      "topPosition": 29
     },
     {
       "id": "os-replicantes--o-futuro",
@@ -12434,7 +11770,7 @@
       },
       "duration": 135,
       "rank": 161407,
-      "topPosition": 12
+      "topPosition": 14
     },
     {
       "id": "os-replicantes--o-inverno-esta-chegando",
@@ -12506,7 +11842,7 @@
       },
       "duration": 161,
       "rank": 76677,
-      "topPosition": 27
+      "topPosition": 28
     },
     {
       "id": "os-replicantes--os-cegos-tambem-vao-ao-cinema",
@@ -12523,7 +11859,7 @@
       },
       "duration": 243,
       "rank": 71191,
-      "topPosition": 32
+      "topPosition": 33
     },
     {
       "id": "os-replicantes--outro-lugar",
@@ -12559,7 +11895,7 @@
       },
       "duration": 272,
       "rank": 92039,
-      "topPosition": 23
+      "topPosition": 24
     },
     {
       "id": "os-replicantes--paredes",
@@ -12611,8 +11947,8 @@
         "recordType": "album"
       },
       "duration": 73,
-      "rank": 125469,
-      "topPosition": 16
+      "rank": 183780,
+      "topPosition": 9
     },
     {
       "id": "os-replicantes--pra-ver-se-eu-conseguia",
@@ -12664,8 +12000,8 @@
         "recordType": "album"
       },
       "duration": 232,
-      "rank": 168971,
-      "topPosition": 9
+      "rank": 181927,
+      "topPosition": 10
     },
     {
       "id": "os-replicantes--punk-de-boutique",
@@ -12686,8 +12022,8 @@
         "recordType": "album"
       },
       "duration": 136,
-      "rank": 154207,
-      "topPosition": 13
+      "rank": 191240,
+      "topPosition": 7
     },
     {
       "id": "os-replicantes--quando-eu-te-pegar",
@@ -12774,7 +12110,7 @@
       },
       "duration": 202,
       "rank": 76095,
-      "topPosition": 29
+      "topPosition": 30
     },
     {
       "id": "os-replicantes--sai-daqui",
@@ -12870,7 +12206,7 @@
       },
       "duration": 193,
       "rank": 104992,
-      "topPosition": 20
+      "topPosition": 21
     },
     {
       "id": "os-replicantes--sindrome-de-panico",
@@ -12907,7 +12243,7 @@
       },
       "duration": 254,
       "rank": 161457,
-      "topPosition": 11
+      "topPosition": 13
     },
     {
       "id": "os-replicantes--solo-e-pra-minhoca",
@@ -13020,7 +12356,7 @@
       },
       "duration": 240,
       "rank": 108623,
-      "topPosition": 19
+      "topPosition": 20
     },
     {
       "id": "os-replicantes--vamo-pro-crime",
@@ -13123,8 +12459,8 @@
         "recordType": "album"
       },
       "duration": 220,
-      "rank": 148275,
-      "topPosition": 28
+      "rank": 108866,
+      "topPosition": 36
     },
     {
       "id": "papas-da-lingua--blusinha-branca",
@@ -13284,7 +12620,7 @@
       },
       "duration": 195,
       "rank": 133539,
-      "topPosition": 32
+      "topPosition": 31
     },
     {
       "id": "papas-da-lingua--democracy",
@@ -13306,7 +12642,7 @@
       },
       "duration": 322,
       "rank": 239793,
-      "topPosition": 19
+      "topPosition": 18
     },
     {
       "id": "papas-da-lingua--diga-que-vai",
@@ -13751,7 +13087,7 @@
       },
       "duration": 287,
       "rank": 246189,
-      "topPosition": 18
+      "topPosition": 17
     },
     {
       "id": "papas-da-lingua--mary-jane-essa-mulher-e-o-diabo",
@@ -13770,7 +13106,7 @@
       },
       "duration": 245,
       "rank": 139459,
-      "topPosition": 30
+      "topPosition": 29
     },
     {
       "id": "papas-da-lingua--maxima-culpa",
@@ -13861,7 +13197,7 @@
       },
       "duration": 207,
       "rank": 138989,
-      "topPosition": 31
+      "topPosition": 30
     },
     {
       "id": "papas-da-lingua--musica-pra-dancar",
@@ -13950,7 +13286,7 @@
       },
       "duration": 251,
       "rank": 121537,
-      "topPosition": 35
+      "topPosition": 34
     },
     {
       "id": "papas-da-lingua--no-calor-da-hora",
@@ -13967,7 +13303,7 @@
       },
       "duration": 235,
       "rank": 125338,
-      "topPosition": 33
+      "topPosition": 32
     },
     {
       "id": "papas-da-lingua--noite-de-reggae",
@@ -14045,7 +13381,7 @@
       },
       "duration": 218,
       "rank": 251245,
-      "topPosition": 17
+      "topPosition": 16
     },
     {
       "id": "papas-da-lingua--pensando-nela",
@@ -14104,7 +13440,7 @@
       },
       "duration": 321,
       "rank": 116016,
-      "topPosition": 36
+      "topPosition": 35
     },
     {
       "id": "papas-da-lingua--pet-sematary",
@@ -14140,8 +13476,8 @@
         "recordType": "album"
       },
       "duration": 248,
-      "rank": 263197,
-      "topPosition": 16
+      "rank": 221161,
+      "topPosition": 20
     },
     {
       "id": "papas-da-lingua--po-de-pimenta",
@@ -14164,7 +13500,7 @@
       },
       "duration": 272,
       "rank": 227632,
-      "topPosition": 20
+      "topPosition": 19
     },
     {
       "id": "papas-da-lingua--pra-gente-passear",
@@ -14255,7 +13591,7 @@
       },
       "duration": 268,
       "rank": 139753,
-      "topPosition": 29
+      "topPosition": 28
     },
     {
       "id": "papas-da-lingua--seu-au-au",
@@ -14308,7 +13644,7 @@
       },
       "duration": 221,
       "rank": 123255,
-      "topPosition": 34
+      "topPosition": 33
     },
     {
       "id": "papas-da-lingua--sorte",
@@ -14618,7 +13954,7 @@
       },
       "duration": 174,
       "rank": 113219,
-      "topPosition": 21
+      "topPosition": 20
     },
     {
       "id": "tnt--amigo-meu",
@@ -14653,8 +13989,8 @@
         "recordType": "album"
       },
       "duration": 232,
-      "rank": 160801,
-      "topPosition": 11
+      "rank": 124882,
+      "topPosition": 17
     },
     {
       "id": "tnt--ao-redor",
@@ -14724,7 +14060,7 @@
       },
       "duration": 225,
       "rank": 210750,
-      "topPosition": 5
+      "topPosition": 4
     },
     {
       "id": "tnt--contigo",
@@ -14777,7 +14113,7 @@
       },
       "duration": 182,
       "rank": 114477,
-      "topPosition": 20
+      "topPosition": 19
     },
     {
       "id": "tnt--deus-quis",
@@ -14829,8 +14165,8 @@
         "recordType": "album"
       },
       "duration": 174,
-      "rank": 173756,
-      "topPosition": 10
+      "rank": 142537,
+      "topPosition": 15
     },
     {
       "id": "tnt--estou-louco-por-voce",
@@ -14865,8 +14201,8 @@
         "recordType": "album"
       },
       "duration": 202,
-      "rank": 234770,
-      "topPosition": 2
+      "rank": 192589,
+      "topPosition": 6
     },
     {
       "id": "tnt--febem",
@@ -14885,7 +14221,7 @@
       },
       "duration": 209,
       "rank": 143308,
-      "topPosition": 16
+      "topPosition": 14
     },
     {
       "id": "tnt--historias-felizes",
@@ -14920,8 +14256,8 @@
         "recordType": "album"
       },
       "duration": 250,
-      "rank": 203401,
-      "topPosition": 6
+      "rank": 195496,
+      "topPosition": 5
     },
     {
       "id": "tnt--irma-dr-robert",
@@ -14938,7 +14274,7 @@
       },
       "duration": 285,
       "rank": 211915,
-      "topPosition": 4
+      "topPosition": 3
     },
     {
       "id": "tnt--juro-que-nao",
@@ -14972,7 +14308,7 @@
       },
       "duration": 168,
       "rank": 147873,
-      "topPosition": 14
+      "topPosition": 12
     },
     {
       "id": "tnt--mais-menos",
@@ -15006,7 +14342,7 @@
       },
       "duration": 195,
       "rank": 115766,
-      "topPosition": 19
+      "topPosition": 18
     },
     {
       "id": "tnt--nao-quero-mais-te-ver",
@@ -15022,8 +14358,8 @@
         "recordType": "album"
       },
       "duration": 198,
-      "rank": 136586,
-      "topPosition": 18
+      "rank": 101482,
+      "topPosition": 22
     },
     {
       "id": "tnt--nao-sei",
@@ -15040,7 +14376,7 @@
       },
       "duration": 263,
       "rank": 214898,
-      "topPosition": 3
+      "topPosition": 2
     },
     {
       "id": "tnt--nao-tenho-medo-da-vida",
@@ -15059,7 +14395,7 @@
       },
       "duration": 199,
       "rank": 139117,
-      "topPosition": 17
+      "topPosition": 16
     },
     {
       "id": "tnt--noite-vem-noite-vai",
@@ -15148,7 +14484,7 @@
       },
       "duration": 230,
       "rank": 158859,
-      "topPosition": 13
+      "topPosition": 11
     },
     {
       "id": "tnt--ondas-coloridas",
@@ -15235,7 +14571,7 @@
       },
       "duration": 241,
       "rank": 159849,
-      "topPosition": 12
+      "topPosition": 10
     },
     {
       "id": "tnt--ratiacao",
@@ -15269,7 +14605,7 @@
       },
       "duration": 186,
       "rank": 110006,
-      "topPosition": 22
+      "topPosition": 21
     },
     {
       "id": "tnt--se-quer-saber",
@@ -15320,7 +14656,7 @@
       },
       "duration": 205,
       "rank": 144981,
-      "topPosition": 15
+      "topPosition": 13
     },
     {
       "id": "tnt--vacilou",
