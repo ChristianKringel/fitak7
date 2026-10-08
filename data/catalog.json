@@ -630,6 +630,256 @@
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
+    },
+    {
+      "name": "Tchê Guri",
+      "deezerId": 5337765,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tchê Garotos",
+      "deezerId": 1260841,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Grupo Rodeio",
+      "deezerId": 1430483,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tchê Barbaridade",
+      "deezerId": 1414556,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "João Luiz Corrêa",
+      "deezerId": 4624535,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "César Oliveira e Rogério Melo",
+      "deezerId": 1430482,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: César Oliveira & Rogério Melo."
+    },
+    {
+      "name": "Paulinho Mocelin",
+      "deezerId": 5891372,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Grupo Portal Gaúcho",
+      "deezerId": 10016076,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Porca Véia",
+      "deezerId": 4516223,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Mano Lima",
+      "deezerId": 4538903,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Oswaldir e Carlos Magrão",
+      "deezerId": 1430531,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Oswaldir & Carlos Magrão."
+    },
+    {
+      "name": "Neto Fagundes",
+      "deezerId": 4125918,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Fagundes",
+      "deezerId": 5431390,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Grupo Minuano",
+      "deezerId": 5266062,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Joca Martins",
+      "deezerId": 4735587,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sandro Coelho",
+      "deezerId": 4828528,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Grupo Carqueja",
+      "deezerId": 124811042,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Walther Morais",
+      "deezerId": 1414563,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Chiquito e Bordoneio",
+      "deezerId": 5792159,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Nativos",
+      "deezerId": 6558075,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Luiz Marenco",
+      "deezerId": 4125917,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os 4 Gaudérios",
+      "deezerId": 147224,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Garotos de Ouro",
+      "deezerId": 1261649,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cristiano Quevedo",
+      "deezerId": 4987628,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Baitaca",
+      "deezerId": 4516224,
+      "categories": [
+        "musica-gaucha"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
     }
   ]
 }

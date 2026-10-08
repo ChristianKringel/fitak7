@@ -39,6 +39,31 @@ Música regional e nativista do Rio Grande do Sul.
 - Os Monarcas
 - Renato Borghetti
 - Os Mirins
+- Tchê Guri
+- Tchê Garotos
+- Grupo Rodeio
+- Tchê Barbaridade
+- João Luiz Corrêa
+- César Oliveira e Rogério Melo (no Deezer: César Oliveira & Rogério Melo)
+- Paulinho Mocelin
+- Grupo Portal Gaúcho
+- Porca Véia
+- Mano Lima
+- Oswaldir e Carlos Magrão (no Deezer: Oswaldir & Carlos Magrão)
+- Neto Fagundes
+- Os Fagundes
+- Grupo Minuano
+- Joca Martins
+- Sandro Coelho
+- Grupo Carqueja
+- Walther Morais
+- Chiquito e Bordoneio
+- Os Nativos
+- Luiz Marenco
+- Os 4 Gaudérios
+- Garotos de Ouro
+- Cristiano Quevedo
+- Baitaca
 
 ## Bandinhas Típicas (`bandinhas`)
 
