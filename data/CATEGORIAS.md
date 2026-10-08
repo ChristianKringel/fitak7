@@ -28,6 +28,24 @@ Clássicos do rock nacional.
 - Barão Vermelho
 - Capital Inicial
 - Ira!
+- Los Hermanos
+- Secos & Molhados
+- CPM 22
+- Novos Baianos
+- Rita Lee
+- Ultraje a Rigor
+- Charlie Brown Jr.
+- Raimundos
+- Mamonas Assassinas
+- Matanza
+- RPM
+- Nação Zumbi
+- Os Mutantes
+- Roupa Nova
+- Pitty
+- Skank
+- O Rappa
+- Kid Abelha
 
 ## Música Gaúcha / Nativista (`musica-gaucha`)
 

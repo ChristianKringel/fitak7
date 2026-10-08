@@ -880,6 +880,190 @@
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
+    },
+    {
+      "name": "Los Hermanos",
+      "deezerId": 7691,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Secos & Molhados",
+      "deezerId": 454333,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "CPM 22",
+      "deezerId": 13544,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Novos Baianos",
+      "deezerId": 241426,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rita Lee",
+      "deezerId": 1893,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ultraje a Rigor",
+      "deezerId": 67062,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Charlie Brown Jr.",
+      "deezerId": 8691,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Raimundos",
+      "deezerId": 66479,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Mamonas Assassinas",
+      "deezerId": 698,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Matanza",
+      "deezerId": 414517,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "RPM",
+      "deezerId": 61883,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [
+        112276032,
+        89785042,
+        88547942
+      ],
+      "excludeTrackIds": [],
+      "notes": "Álbuns excluídos são de outro artista homônimo (Relaxing Piano Music)."
+    },
+    {
+      "name": "Nação Zumbi",
+      "deezerId": 99156,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Mutantes",
+      "deezerId": 110459,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Roupa Nova",
+      "deezerId": 16476,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pitty",
+      "deezerId": 12815,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Skank",
+      "deezerId": 13545,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "O Rappa",
+      "deezerId": 12807,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Kid Abelha",
+      "deezerId": 17283,
+      "categories": [
+        "rock-br"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
     }
   ]
 }
