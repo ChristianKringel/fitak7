@@ -21,8 +21,8 @@
       "description": "Bandinhas alemãs e italianas do Sul do Brasil."
     },
     {
-      "slug": "bandinhas-de-baile",
-      "name": "Bandinhas de Baile",
+      "slug": "bandas-de-baile",
+      "name": "Bandas de Baile",
       "description": "Bandas de baile e bailão do Sul do Brasil."
     }
   ],
@@ -362,10 +362,20 @@
       "notes": ""
     },
     {
+      "name": "Os Futuristas",
+      "deezerId": 5309623,
+      "categories": [
+        "bandinhas"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
       "name": "Rainha Musical",
       "deezerId": 5423748,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -375,7 +385,7 @@
       "name": "Brilha Som",
       "deezerId": 1710432,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -385,7 +395,7 @@
       "name": "Rota Luminosa",
       "deezerId": 5931027,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -395,7 +405,7 @@
       "name": "San Marino",
       "deezerId": 13313321,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -405,7 +415,7 @@
       "name": "Rogério Magrão e Banda",
       "deezerId": 50239182,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -415,7 +425,7 @@
       "name": "Terceira Dimensão",
       "deezerId": 1414565,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -425,7 +435,7 @@
       "name": "Os Atuais",
       "deezerId": 5337790,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -435,7 +445,7 @@
       "name": "Musical JM",
       "deezerId": 1414560,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -445,7 +455,7 @@
       "name": "Corpo e Alma",
       "deezerId": 5412140,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -455,7 +465,7 @@
       "name": "Champion",
       "deezerId": 209837207,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -465,7 +475,7 @@
       "name": "Musical San Francisco",
       "deezerId": 5355915,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -475,7 +485,7 @@
       "name": "Flor da Serra",
       "deezerId": 13382435,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -485,7 +495,7 @@
       "name": "Sétimo Sentido",
       "deezerId": 5931023,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -495,7 +505,7 @@
       "name": "Indústria Musical",
       "deezerId": 5960152,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -505,7 +515,7 @@
       "name": "Nave Som",
       "deezerId": 8770644,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -515,7 +525,7 @@
       "name": "Portal da Serra",
       "deezerId": 5426350,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -525,7 +535,7 @@
       "name": "G10",
       "deezerId": 49764432,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -535,7 +545,7 @@
       "name": "Banda Modelo",
       "deezerId": 8602758,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -545,7 +555,7 @@
       "name": "Passarela",
       "deezerId": 5931047,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -555,7 +565,7 @@
       "name": "Pérola Negra",
       "deezerId": 78337112,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -565,7 +575,7 @@
       "name": "Porto do Som",
       "deezerId": 8822592,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -575,7 +585,7 @@
       "name": "Flávio Dalcin e Banda Ouro",
       "deezerId": 13339539,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -585,7 +595,7 @@
       "name": "Destaque Nacional",
       "deezerId": 146818182,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -595,7 +605,27 @@
       "name": "Wilceu Pause",
       "deezerId": 6285714,
       "categories": [
-        "bandinhas-de-baile"
+        "bandas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sul Brass",
+      "deezerId": 15050645,
+      "categories": [
+        "bandas-de-baile"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": "No Deezer: Banda Sul Brass."
+    },
+    {
+      "name": "Musical Festerê",
+      "deezerId": 5428470,
+      "categories": [
+        "bandas-de-baile"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],

@@ -56,8 +56,9 @@ Bandinhas alemãs e italianas do Sul do Brasil.
 - Monte Azul
 - Banda Ghermania
 - Super Banda K'necus
+- Os Futuristas
 
-## Bandinhas de Baile (`bandinhas-de-baile`)
+## Bandas de Baile (`bandas-de-baile`)
 
 Bandas de baile e bailão do Sul do Brasil.
 
@@ -85,3 +86,5 @@ Bandas de baile e bailão do Sul do Brasil.
 - Flávio Dalcin e Banda Ouro (no Deezer: Flávio Dalcin & Banda Ouro)
 - Destaque Nacional (no Deezer: Banda Destaque Nacional)
 - Wilceu Pause
+- Sul Brass (no Deezer: Banda Sul Brass)
+- Musical Festerê
