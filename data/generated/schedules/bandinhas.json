@@ -436,14 +436,17 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-montanari--melo-do-rolo-wen-die-bayern-feyern",
-          "trackId": 456619282,
-          "altTrackIds": [],
-          "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+          "songId": "os-montanari--zic-zac",
+          "trackId": 3049792271,
+          "altTrackIds": [
+            82594858,
+            3129418861
+          ],
+          "title": "Zic, Zac",
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "Chora Seu Domingos",
+              "title": "23 de Dezembro",
               "artist": "Os Futuristas"
             },
             {
@@ -451,11 +454,11 @@
               "artist": "Vox 3"
             },
             {
-              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+              "title": "Zic, Zac",
               "artist": "Os Montanari"
             },
             {
-              "title": "Dança do Pula Pula",
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -544,10 +547,10 @@
     "2026-10-10": {
       "rounds": [
         {
-          "songId": "os-futuristas--as-tres-irmas",
-          "trackId": 3205049441,
+          "songId": "os-futuristas--ate-amanha",
+          "trackId": 2741132771,
           "altTrackIds": [],
-          "title": "As Três Irmãs",
+          "title": "Até Amanhã",
           "artist": "Os Futuristas",
           "options": [
             {
@@ -555,15 +558,15 @@
               "artist": "Monte Azul"
             },
             {
-              "title": "A Festa Vai Começar",
+              "title": "Rancho Grande",
               "artist": "Banda Munich"
             },
             {
-              "title": "Schluck Schluck",
+              "title": "Noites Quentes",
               "artist": "Banda Munich"
             },
             {
-              "title": "As Três Irmãs",
+              "title": "Até Amanhã",
               "artist": "Os Futuristas"
             }
           ],
@@ -607,7 +610,7 @@
               "artist": "Os Futuristas"
             },
             {
-              "title": "Bierwagen",
+              "title": "ALTE KAMERADEN (Cover)",
               "artist": "Super Banda Hopus"
             },
             {
@@ -633,7 +636,7 @@
               "artist": "La Montanara"
             },
             {
-              "title": "Ivone",
+              "title": "Viva o Kerb",
               "artist": "Os Futuristas"
             },
             {
@@ -655,11 +658,11 @@
           "artist": "Banda Cavalinho",
           "options": [
             {
-              "title": "Fandango ao Luar (Cover)",
+              "title": "Dança do Pula Pula",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Pout Pourri de Boleros",
+              "title": "Konis Hupen",
               "artist": "Super Banda Hopus"
             },
             {
@@ -756,13 +759,13 @@
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-choppao--liechtensteiner-polka",
-          "trackId": 463900312,
+          "songId": "super-banda-choppao--o-que-tem-a-rosa",
+          "trackId": 463900132,
           "altTrackIds": [
-            481544172,
-            4071608591
+            364531181,
+            3269359021
           ],
-          "title": "LIECHTENSTEINER - POLKA",
+          "title": "O QUE TEM A ROSA",
           "artist": "Super Banda Choppão",
           "options": [
             {
@@ -778,7 +781,7 @@
               "artist": "Vox 3"
             },
             {
-              "title": "LIECHTENSTEINER - POLKA",
+              "title": "O QUE TEM A ROSA",
               "artist": "Super Banda Choppão"
             }
           ],
@@ -796,15 +799,15 @@
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "HEYO",
+              "title": "Melô do Rolo",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Gostinho de Quero Bis",
+              "title": "Marie, Der Letzte Tanz Is Nur Fur Dich",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Pailon Do Fritz",
+              "title": "Tapa Na Cara",
               "artist": "Super Banda Santa Cruz"
             }
           ],
@@ -848,15 +851,15 @@
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "Hey Baby",
+              "title": "Schluck Schluck",
               "artist": "Banda Munich"
             },
             {
-              "title": "Dança da Mareca",
+              "title": "LIECHTENSTEINER - POLKA",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "VALSA DOS AMORES",
+              "title": "HEYO",
               "artist": "Super Banda Choppão"
             },
             {
@@ -919,26 +922,26 @@
           "answerIndex": 0
         },
         {
-          "songId": "super-banda-choppao--sehsucht-nach-dem-fruhling",
-          "trackId": 445915742,
+          "songId": "super-banda-choppao--so-ein-schonerr-tag-das-flieguer-lied",
+          "trackId": 1395141472,
           "altTrackIds": [],
-          "title": "Sehsucht Nach Dem Fruhling",
+          "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Hoem Parapapa",
+              "title": "Chopp e Alegria",
               "artist": "Banda Munich"
             },
             {
-              "title": "Sehsucht Nach Dem Fruhling",
+              "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Alemão Azarado",
+              "title": "É Homem ou Mulher?",
               "artist": "Monte Azul"
             },
             {
-              "title": "El peso del silencio",
+              "title": "Quando Te Conheci",
               "artist": "Monte Azul"
             }
           ],
@@ -949,26 +952,26 @@
     "2026-10-13": {
       "rounds": [
         {
-          "songId": "super-banda-hopus--pout-pourri-de-boleros",
-          "trackId": 854471302,
+          "songId": "super-banda-hopus--konis-hupen",
+          "trackId": 863428852,
           "altTrackIds": [],
-          "title": "Pout Pourri de Boleros",
+          "title": "Konis Hupen",
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Herr Schmitt",
+              "title": "Fliegerlied",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Pout Pourri de Boleros",
+              "title": "Konis Hupen",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Hey Baby",
+              "title": "Mulher Também Bebe",
               "artist": "Banda Munich"
             },
             {
-              "title": "A Festa Vai Começar",
+              "title": "Panela Velha",
               "artist": "Banda Munich"
             }
           ],
@@ -1086,22 +1089,22 @@
     "2026-10-14": {
       "rounds": [
         {
-          "songId": "super-musical-monte-carlo--chopinho-geladinho",
-          "trackId": 3335205931,
+          "songId": "super-musical-monte-carlo--bobeou-a-gente-pimba-passa-la",
+          "trackId": 3948862891,
           "altTrackIds": [],
-          "title": "Chopinho Geladinho",
+          "title": "Bobeou a Gente Pimba- Passa Lá",
           "artist": "Super Musical Monte Carlo",
           "options": [
+            {
+              "title": "Bobeou a Gente Pimba- Passa Lá",
+              "artist": "Super Musical Monte Carlo"
+            },
             {
               "title": "Chopinho Geladinho",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Feriado Nacional- Eu Vou Morrer de Amor",
-              "artist": "Super Musical Monte Carlo"
-            },
-            {
-              "title": "Festa de Alemão",
+              "title": "Bailes Em Santa Cruz",
               "artist": "Banda Ghermania"
             },
             {
@@ -1260,7 +1263,7 @@
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Heyo, Heyo",
+              "title": "Festa em Treze Tílias",
               "artist": "Os Montanari"
             },
             {
@@ -1268,11 +1271,11 @@
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Zilletaler Hochzeitsmarsch",
+              "title": "Meu Disfarce",
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Alerta Rancho Grande",
+              "title": "Homenagem ao Radialista",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -1292,7 +1295,7 @@
               "artist": "Os Futuristas"
             },
             {
-              "title": "Stein Haus Cervejaria",
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
             },
             {
@@ -1367,55 +1370,54 @@
     "2026-10-16": {
       "rounds": [
         {
-          "songId": "super-musical-monte-carlo--bobeou-a-gente-pimba-passa-la",
-          "trackId": 3948862891,
+          "songId": "super-musical-monte-carlo--chopinho-geladinho",
+          "trackId": 3335205931,
           "altTrackIds": [],
-          "title": "Bobeou a Gente Pimba- Passa Lá",
+          "title": "Chopinho Geladinho",
           "artist": "Super Musical Monte Carlo",
           "options": [
             {
-              "title": "23 de Dezembro",
+              "title": "Até Amanhã",
               "artist": "Os Futuristas"
             },
             {
-              "title": "Polka, Chope e Alegria",
+              "title": "Só Falta Você",
               "artist": "La Montanara"
             },
             {
-              "title": "Bobeou a Gente Pimba- Passa Lá",
+              "title": "Chopinho Geladinho",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Oktoberfest",
+              "title": "Tendo Festa Eu Vou!",
               "artist": "Banda Cavalinho"
             }
           ],
           "answerIndex": 2
         },
         {
-          "songId": "os-montanari--heyo-heyo",
-          "trackId": 3049792261,
+          "songId": "os-montanari--melo-do-rolo",
+          "trackId": 3129418871,
           "altTrackIds": [
-            82594856,
-            3129418931
+            3129521081
           ],
-          "title": "Heyo, Heyo",
+          "title": "Melô do Rolo",
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "As Três Irmãs",
+              "title": "Viva o Kerb",
               "artist": "Os Futuristas"
             },
             {
-              "title": "Schluck Schluck",
+              "title": "Noites Quentes",
               "artist": "Banda Munich"
             },
             {
-              "title": "Não Sei o Que Fazer",
+              "title": "Na Magia da Música",
               "artist": "La Montanara"
             },
             {
-              "title": "Heyo, Heyo",
+              "title": "Melô do Rolo",
               "artist": "Os Montanari"
             }
           ],
@@ -1448,18 +1450,18 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-futuristas--ate-amanha",
-          "trackId": 2741132771,
+          "songId": "os-futuristas--as-tres-irmas",
+          "trackId": 3205049441,
           "altTrackIds": [],
-          "title": "Até Amanhã",
+          "title": "As Três Irmãs",
           "artist": "Os Futuristas",
           "options": [
             {
-              "title": "Schultz Valsa",
+              "title": "Barril de Chopp",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "Gross Sauferei",
+              "title": "Curtindo a Vida",
               "artist": "La Montanara"
             },
             {
@@ -1467,33 +1469,33 @@
               "artist": "La Montanara"
             },
             {
-              "title": "Até Amanhã",
+              "title": "As Três Irmãs",
               "artist": "Os Futuristas"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-choppao--so-ein-schonerr-tag-das-flieguer-lied",
-          "trackId": 1395141472,
+          "songId": "super-banda-choppao--sehsucht-nach-dem-fruhling",
+          "trackId": 445915742,
           "altTrackIds": [],
-          "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
+          "title": "Sehsucht Nach Dem Fruhling",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Sehnne Valsa",
+              "title": "Treze Tilias",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "Derramando O Chopp",
+              "title": "Paquera Do Fritz",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
+              "title": "Sehsucht Nach Dem Fruhling",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Agora é Chopeidança, Vem pra Festança - ( Parídia: Sara Perche Ti Amo )",
+              "title": "Alemão de Blumenau",
               "artist": "Vox 3"
             }
           ],
@@ -1556,18 +1558,18 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-futuristas--almerinda",
-          "trackId": 3234060601,
+          "songId": "os-futuristas--bela-vista",
+          "trackId": 3234060621,
           "altTrackIds": [],
-          "title": "Almerinda",
+          "title": "Bela Vista",
           "artist": "Os Futuristas",
           "options": [
             {
-              "title": "Marreca",
+              "title": "Enchendo a Tulipa",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "Enchendo a Tulipa",
+              "title": "Treze Tilias",
               "artist": "Banda Ghermania"
             },
             {
@@ -1575,29 +1577,29 @@
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Almerinda",
+              "title": "Bela Vista",
               "artist": "Os Futuristas"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "la-montanara--rosalinde",
-          "trackId": 374566851,
+          "songId": "la-montanara--so-falta-voce",
+          "trackId": 3615340892,
           "altTrackIds": [],
-          "title": "ROSALINDE",
+          "title": "Só Falta Você",
           "artist": "La Montanara",
           "options": [
             {
-              "title": "Homenagem ao Irineu (Cover)",
+              "title": "Bierwagen",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Daqui Pra Frente Só Para Trás",
+              "title": "ROSALINDE",
               "artist": "La Montanara"
             },
             {
-              "title": "ROSALINDE",
+              "title": "Só Falta Você",
               "artist": "La Montanara"
             },
             {
@@ -1664,25 +1666,24 @@
           "answerIndex": 2
         },
         {
-          "songId": "super-banda-choppao--o-que-tem-a-rosa",
-          "trackId": 463900132,
+          "songId": "super-banda-choppao--segue-a-frida",
+          "trackId": 1395141672,
           "altTrackIds": [
-            364531181,
-            3269359021
+            3269358901
           ],
-          "title": "O QUE TEM A ROSA",
+          "title": "Segue a Frida",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "O QUE TEM A ROSA",
+              "title": "Segue a Frida",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "É Assim",
+              "title": "As Três Irmãs",
               "artist": "Os Futuristas"
             },
             {
-              "title": "É Homem ou Mulher?",
+              "title": "Alemão Azarado",
               "artist": "Monte Azul"
             },
             {
@@ -1693,22 +1694,22 @@
           "answerIndex": 0
         },
         {
-          "songId": "monte-azul--e-agora-seu-jaco",
-          "trackId": 2814048642,
+          "songId": "monte-azul--e-homem-ou-mulher",
+          "trackId": 3617541562,
           "altTrackIds": [],
-          "title": "E Agora Seu Jacó",
+          "title": "É Homem ou Mulher?",
           "artist": "Monte Azul",
           "options": [
             {
-              "title": "Bierwagen",
+              "title": "ALTE KAMERADEN (Cover)",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Bandida",
+              "title": "AMBOSS POLKA",
               "artist": "La Montanara"
             },
             {
-              "title": "E Agora Seu Jacó",
+              "title": "É Homem ou Mulher?",
               "artist": "Monte Azul"
             },
             {
@@ -1745,16 +1746,17 @@
           "answerIndex": 3
         },
         {
-          "songId": "os-montanari--melo-do-rolo",
-          "trackId": 3129418871,
+          "songId": "os-montanari--heyo-heyo",
+          "trackId": 3049792261,
           "altTrackIds": [
-            3129521081
+            82594856,
+            3129418931
           ],
-          "title": "Melô do Rolo",
+          "title": "Heyo, Heyo",
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "Melô do Rolo",
+              "title": "Heyo, Heyo",
               "artist": "Os Montanari"
             },
             {
@@ -1762,11 +1764,11 @@
               "artist": "Os Futuristas"
             },
             {
-              "title": "Maria Deli Qui Deli",
+              "title": "Gostinho de Quero Bis",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Pout Pourri de Boleros",
+              "title": "Stein Haus Cervejaria",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -1844,11 +1846,11 @@
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Hey Baby",
+              "title": "Munique em Festa",
               "artist": "Banda Munich"
             },
             {
-              "title": "Noites Quentes",
+              "title": "Rancho Grande",
               "artist": "Banda Munich"
             }
           ],
@@ -1992,14 +1994,14 @@
           "answerIndex": 0
         },
         {
-          "songId": "monte-azul--olha-a-farra-do-cleomar",
-          "trackId": 2814048672,
+          "songId": "monte-azul--pasos-en-la-arena",
+          "trackId": 4120060051,
           "altTrackIds": [],
-          "title": "Olha A Farra do Cleomar",
+          "title": "Pasos en la arena",
           "artist": "Monte Azul",
           "options": [
             {
-              "title": "Bailes Em Santa Cruz",
+              "title": "Derramando O Chopp",
               "artist": "Banda Ghermania"
             },
             {
@@ -2007,11 +2009,11 @@
               "artist": "La Montanara"
             },
             {
-              "title": "Olha A Farra do Cleomar",
+              "title": "Pasos en la arena",
               "artist": "Monte Azul"
             },
             {
-              "title": "Paquera Do Fritz",
+              "title": "Eu Vou Pra Oktoberfest",
               "artist": "Banda Ghermania"
             }
           ],
@@ -2039,7 +2041,7 @@
               "artist": "Os Montanari"
             },
             {
-              "title": "Quando Setembro Chegar",
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -2050,55 +2052,53 @@
     "2026-10-21": {
       "rounds": [
         {
-          "songId": "super-banda-choppao--valsa-dos-amores",
-          "trackId": 463900212,
-          "altTrackIds": [
-            4071608681
-          ],
-          "title": "VALSA DOS AMORES",
-          "artist": "Super Banda Choppão",
+          "songId": "super-banda-hopus--alerta-rancho-grande",
+          "trackId": 854471152,
+          "altTrackIds": [],
+          "title": "Alerta Rancho Grande",
+          "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Fritz Und Frida",
+              "title": "Schluck Schluck",
               "artist": "Banda Munich"
             },
             {
-              "title": "VALSA DOS AMORES",
-              "artist": "Super Banda Choppão"
-            },
-            {
-              "title": "Stein Haus Cervejaria",
+              "title": "Alerta Rancho Grande",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Ela Só Quer Dançar",
+              "title": "AMANTE LATINO",
               "artist": "Super Musical Monte Carlo"
+            },
+            {
+              "title": "Bandida",
+              "artist": "La Montanara"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "super-banda-hopus--konis-hupen",
-          "trackId": 863428852,
+          "songId": "super-banda-choppao--so-quero-festejar",
+          "trackId": 463900052,
           "altTrackIds": [],
-          "title": "Konis Hupen",
-          "artist": "Super Banda Hopus",
+          "title": "SÓ QUERO FESTEJAR",
+          "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "NICE AND SLOW",
-              "artist": "Super Musical Monte Carlo"
+              "title": "Festa em Treze Tílias",
+              "artist": "Os Montanari"
             },
             {
-              "title": "A Marreca",
+              "title": "Bela Vista",
+              "artist": "Os Futuristas"
+            },
+            {
+              "title": "Alemão de Blumenau",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Marie, Der Letzte Tanz Is Nur Fur Dich",
-              "artist": "Super Banda K'necus"
-            },
-            {
-              "title": "Konis Hupen",
-              "artist": "Super Banda Hopus"
+              "title": "SÓ QUERO FESTEJAR",
+              "artist": "Super Banda Choppão"
             }
           ],
           "answerIndex": 3
@@ -2186,10 +2186,10 @@
     "2026-10-22": {
       "rounds": [
         {
-          "songId": "super-banda-hopus--stein-haus-cervejaria",
-          "trackId": 2153088607,
+          "songId": "super-banda-hopus--pout-pourri-de-boleros",
+          "trackId": 854471302,
           "altTrackIds": [],
-          "title": "Stein Haus Cervejaria",
+          "title": "Pout Pourri de Boleros",
           "artist": "Super Banda Hopus",
           "options": [
             {
@@ -2201,11 +2201,11 @@
               "artist": "La Montanara"
             },
             {
-              "title": "Stein Haus Cervejaria",
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Bierwagen",
+              "title": "Stein Haus Cervejaria",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -2402,52 +2402,52 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-futuristas--bela-vista",
-          "trackId": 3234060621,
+          "songId": "os-futuristas--almerinda",
+          "trackId": 3234060601,
           "altTrackIds": [],
-          "title": "Bela Vista",
+          "title": "Almerinda",
           "artist": "Os Futuristas",
           "options": [
             {
-              "title": "Bela Vista",
+              "title": "Almerinda",
               "artist": "Os Futuristas"
             },
             {
-              "title": "Olha A Farra do Cleomar",
+              "title": "Atardeser de cobre",
               "artist": "Monte Azul"
             },
             {
-              "title": "Waltz Gelle",
+              "title": "Polka, Chope e Alegria",
               "artist": "La Montanara"
             },
             {
-              "title": "O Verão Sempre Vai Voltar",
+              "title": "Heyo, Heyo",
               "artist": "Os Montanari"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "super-banda-hopus--alerta-rancho-grande",
-          "trackId": 854471152,
+          "songId": "super-banda-hopus--homenagem-ao-radialista",
+          "trackId": 854471222,
           "altTrackIds": [],
-          "title": "Alerta Rancho Grande",
+          "title": "Homenagem ao Radialista",
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Alerta Rancho Grande",
+              "title": "Homenagem ao Radialista",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Zic, Zac",
+              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
               "artist": "Os Montanari"
             },
             {
-              "title": "Munique em Festa",
+              "title": "Hey Baby",
               "artist": "Banda Munich"
             },
             {
-              "title": "Heyo, Heyo",
+              "title": "Zic, Zac",
               "artist": "Os Montanari"
             }
           ],
@@ -2603,7 +2603,7 @@
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Pout Pourri de Boleros",
+              "title": "Homenagem ao Radialista",
               "artist": "Super Banda Hopus"
             },
             {
@@ -2633,7 +2633,7 @@
               "artist": "Banda Munich"
             },
             {
-              "title": "Stein Haus Cervejaria",
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
             },
             {
@@ -2670,48 +2670,48 @@
           "answerIndex": 0
         },
         {
-          "songId": "la-montanara--so-falta-voce",
-          "trackId": 3615340892,
+          "songId": "la-montanara--rosalinde",
+          "trackId": 374566851,
           "altTrackIds": [],
-          "title": "Só Falta Você",
+          "title": "ROSALINDE",
           "artist": "La Montanara",
           "options": [
             {
-              "title": "Sehsucht Nach Dem Fruhling",
+              "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Só Falta Você",
+              "title": "ROSALINDE",
               "artist": "La Montanara"
             },
             {
-              "title": "Polka, Chope e Alegria",
+              "title": "Daqui Pra Frente Só Para Trás",
               "artist": "La Montanara"
             },
             {
-              "title": "Farristas de Ontem",
+              "title": "Lusitano",
               "artist": "Os Futuristas"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "monte-azul--pasos-en-la-arena",
-          "trackId": 4120060051,
+          "songId": "monte-azul--olha-a-farra-do-cleomar",
+          "trackId": 2814048672,
           "altTrackIds": [],
-          "title": "Pasos en la arena",
+          "title": "Olha A Farra do Cleomar",
           "artist": "Monte Azul",
           "options": [
             {
-              "title": "Pasos en la arena",
+              "title": "Olha A Farra do Cleomar",
               "artist": "Monte Azul"
             },
             {
-              "title": "SCHWARZ BRAUNES MÄDCHEN",
+              "title": "O QUE TEM A ROSA",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Andorinha",
+              "title": "ALTE KAMERADEN (Cover)",
               "artist": "Super Banda Hopus"
             },
             {
@@ -2752,40 +2752,44 @@
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-choppao--so-quero-festejar",
-          "trackId": 463900052,
-          "altTrackIds": [],
-          "title": "SÓ QUERO FESTEJAR",
+          "songId": "super-banda-choppao--valsa-dos-amores",
+          "trackId": 463900212,
+          "altTrackIds": [
+            4071608681
+          ],
+          "title": "VALSA DOS AMORES",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "SÓ QUERO FESTEJAR",
+              "title": "VALSA DOS AMORES",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Zic, Zac",
+              "title": "Revesburgen",
               "artist": "Os Montanari"
             },
             {
-              "title": "Na Magia da Música",
+              "title": "Polka, Chope e Alegria",
               "artist": "La Montanara"
             },
             {
-              "title": "Oktoberfest",
+              "title": "Funk do Alemão",
               "artist": "Banda Cavalinho"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "monte-azul--luz-de-faro",
-          "trackId": 4120060061,
-          "altTrackIds": [],
-          "title": "Luz de faro",
+          "songId": "monte-azul--meu-anjo-lindo",
+          "trackId": 3617541482,
+          "altTrackIds": [
+            3617541582
+          ],
+          "title": "Meu Anjo Lindo",
           "artist": "Monte Azul",
           "options": [
             {
-              "title": "Tapa Na Cara",
+              "title": "Tio Delavi",
               "artist": "Super Banda Santa Cruz"
             },
             {
@@ -2793,11 +2797,11 @@
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Luz de faro",
+              "title": "Meu Anjo Lindo",
               "artist": "Monte Azul"
             },
             {
-              "title": "O Navio Fantasma",
+              "title": "Os Kupinchas",
               "artist": "Super Banda K'necus"
             }
           ],
@@ -2832,27 +2836,27 @@
           "answerIndex": 2
         },
         {
-          "songId": "la-montanara--polka-chope-e-alegria",
-          "trackId": 3615340882,
+          "songId": "os-futuristas--chora-seu-domingos",
+          "trackId": 2741132711,
           "altTrackIds": [],
-          "title": "Polka, Chope e Alegria",
-          "artist": "La Montanara",
+          "title": "Chora Seu Domingos",
+          "artist": "Os Futuristas",
           "options": [
             {
-              "title": "Konis Hupen",
+              "title": "Gross Sauferei",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "Chora Seu Domingos",
+              "artist": "Os Futuristas"
+            },
+            {
+              "title": "Ivone",
+              "artist": "Os Futuristas"
+            },
+            {
+              "title": "Festival da Linguiça",
               "artist": "Super Banda Hopus"
-            },
-            {
-              "title": "Polka, Chope e Alegria",
-              "artist": "La Montanara"
-            },
-            {
-              "title": "AMBOSS POLKA",
-              "artist": "La Montanara"
-            },
-            {
-              "title": "A Locopéia (Trem da Alegria)",
-              "artist": "Banda Cavalinho"
             }
           ],
           "answerIndex": 1
@@ -2914,17 +2918,14 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-montanari--zic-zac",
-          "trackId": 3049792271,
-          "altTrackIds": [
-            82594858,
-            3129418861
-          ],
-          "title": "Zic, Zac",
+          "songId": "os-montanari--melo-do-rolo-wen-die-bayern-feyern",
+          "trackId": 456619282,
+          "altTrackIds": [],
+          "title": "Melô do Rolo (Wen Die Bayern Feyern)",
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "Das Geht Nach Blumenau",
+              "title": "Alemão de Blumenau",
               "artist": "Vox 3"
             },
             {
@@ -2932,11 +2933,11 @@
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Zic, Zac",
+              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
               "artist": "Os Montanari"
             },
             {
-              "title": "Se Chover Rosas",
+              "title": "Hoem Parapapa",
               "artist": "Banda Munich"
             }
           ],
@@ -3051,40 +3052,43 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-montanari--gosto-doce-da-paixao-es-geth-uns-gut",
-          "trackId": 456619302,
-          "altTrackIds": [],
-          "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
-          "artist": "Os Montanari",
+          "songId": "super-banda-choppao--liechtensteiner-polka",
+          "trackId": 463900312,
+          "altTrackIds": [
+            481544172,
+            4071608591
+          ],
+          "title": "LIECHTENSTEINER - POLKA",
+          "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Hey Blumenau",
-              "artist": "Banda Cavalinho"
-            },
-            {
-              "title": "O Verão Sempre Vai Voltar",
-              "artist": "Os Montanari"
-            },
-            {
-              "title": "BELLA BELLA DONA",
+              "title": "Waltz Gelle",
               "artist": "La Montanara"
             },
             {
-              "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
-              "artist": "Os Montanari"
+              "title": "Das Fliegerlied",
+              "artist": "Super Banda Choppão"
+            },
+            {
+              "title": "Ta Tudo Bem",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "LIECHTENSTEINER - POLKA",
+              "artist": "Super Banda Choppão"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-hopus--festival-da-linguica",
-          "trackId": 854471262,
+          "songId": "super-banda-hopus--stein-haus-cervejaria",
+          "trackId": 2153088607,
           "altTrackIds": [],
-          "title": "Festival da Linguiça",
+          "title": "Stein Haus Cervejaria",
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Centopéia do Chopp - Hino da Centopéia",
+              "title": "Chopp e Schnaps",
               "artist": "Vox 3"
             },
             {
@@ -3092,11 +3096,11 @@
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Olha A Farra do Cleomar",
+              "title": "Não Consigo Te Esquecer",
               "artist": "Monte Azul"
             },
             {
-              "title": "Festival da Linguiça",
+              "title": "Stein Haus Cervejaria",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -3133,107 +3137,105 @@
     "2026-10-29": {
       "rounds": [
         {
-          "songId": "super-banda-choppao--segue-a-frida",
-          "trackId": 1395141672,
-          "altTrackIds": [
-            3269358901
-          ],
-          "title": "Segue a Frida",
-          "artist": "Super Banda Choppão",
+          "songId": "os-montanari--gosto-doce-da-paixao-es-geth-uns-gut",
+          "trackId": 456619302,
+          "altTrackIds": [],
+          "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
+          "artist": "Os Montanari",
           "options": [
             {
-              "title": "Konis Hupen",
-              "artist": "Super Banda Hopus"
+              "title": "Segue a Frida ( Paródia Follow The Leader )",
+              "artist": "Vox 3"
             },
             {
-              "title": "SÓ QUERO FESTEJAR",
-              "artist": "Super Banda Choppão"
+              "title": "Festa em Treze Tílias",
+              "artist": "Os Montanari"
             },
             {
               "title": "Bela Vista",
               "artist": "Os Futuristas"
             },
             {
-              "title": "Segue a Frida",
-              "artist": "Super Banda Choppão"
+              "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
+              "artist": "Os Montanari"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "monte-azul--e-homem-ou-mulher",
-          "trackId": 3617541562,
+          "songId": "la-montanara--polka-chope-e-alegria",
+          "trackId": 3615340882,
           "altTrackIds": [],
-          "title": "É Homem ou Mulher?",
-          "artist": "Monte Azul",
+          "title": "Polka, Chope e Alegria",
+          "artist": "La Montanara",
           "options": [
+            {
+              "title": "Zilletaler Hochzeitsmarsch",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Marina - Rosita",
+              "artist": "La Montanara"
+            },
             {
               "title": "Polka, Chope e Alegria",
               "artist": "La Montanara"
             },
             {
-              "title": "E Agora Seu Jacó",
-              "artist": "Monte Azul"
-            },
-            {
-              "title": "É Homem ou Mulher?",
-              "artist": "Monte Azul"
-            },
-            {
-              "title": "A Festa Vai Começar",
-              "artist": "Banda Munich"
+              "title": "Maria Deli Qui Deli",
+              "artist": "Super Banda K'necus"
             }
           ],
           "answerIndex": 2
         },
         {
-          "songId": "la-montanara--marina-rosita",
-          "trackId": 2572181552,
+          "songId": "monte-azul--e-agora-seu-jaco",
+          "trackId": 2814048642,
           "altTrackIds": [],
-          "title": "Marina - Rosita",
-          "artist": "La Montanara",
+          "title": "E Agora Seu Jacó",
+          "artist": "Monte Azul",
           "options": [
             {
-              "title": "É Homem ou Mulher?",
+              "title": "Zic, Zac",
+              "artist": "Os Montanari"
+            },
+            {
+              "title": "Homenagem ao Radialista",
+              "artist": "Super Banda Hopus"
+            },
+            {
+              "title": "Festa do Chopp",
+              "artist": "Super Banda Hopus"
+            },
+            {
+              "title": "E Agora Seu Jacó",
               "artist": "Monte Azul"
-            },
-            {
-              "title": "Novemberfest em Lucas",
-              "artist": "Super Banda K'necus"
-            },
-            {
-              "title": "Valsa do Joceli",
-              "artist": "Super Banda K'necus"
-            },
-            {
-              "title": "Marina - Rosita",
-              "artist": "La Montanara"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "os-futuristas--chora-seu-domingos",
-          "trackId": 2741132711,
+          "songId": "super-banda-hopus--alte-kameraden-cover",
+          "trackId": 1516211592,
           "altTrackIds": [],
-          "title": "Chora Seu Domingos",
-          "artist": "Os Futuristas",
+          "title": "ALTE KAMERADEN (Cover)",
+          "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "A Locopéia (Trem da Alegria)",
-              "artist": "Banda Cavalinho"
+              "title": "Das Fliegerlied",
+              "artist": "Super Banda Choppão"
             },
             {
-              "title": "Chora Seu Domingos",
+              "title": "ALTE KAMERADEN (Cover)",
+              "artist": "Super Banda Hopus"
+            },
+            {
+              "title": "Konis Hupen",
+              "artist": "Super Banda Hopus"
+            },
+            {
+              "title": "Farristas de Ontem",
               "artist": "Os Futuristas"
-            },
-            {
-              "title": "Até Amanhã",
-              "artist": "Os Futuristas"
-            },
-            {
-              "title": "Pra Tirar a Tristeza",
-              "artist": "Super Banda K'necus"
             }
           ],
           "answerIndex": 1
@@ -3324,32 +3326,56 @@
           "answerIndex": 3
         },
         {
-          "songId": "monte-azul--meu-anjo-lindo",
-          "trackId": 3617541482,
-          "altTrackIds": [
-            3617541582
-          ],
-          "title": "Meu Anjo Lindo",
+          "songId": "monte-azul--luz-de-faro",
+          "trackId": 4120060061,
+          "altTrackIds": [],
+          "title": "Luz de faro",
           "artist": "Monte Azul",
           "options": [
             {
-              "title": "Polkinha do Alemão",
+              "title": "Os Kupinchas",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Agora é Lei, É se Divertir, Com o Bierhauptstadtwagen - (PARÓDIA: SARA PERCHE TI AMO)",
+              "title": "Centopéia do Chopp",
               "artist": "Vox 3"
             },
             {
-              "title": "Meu Anjo Lindo",
+              "title": "Luz de faro",
               "artist": "Monte Azul"
             },
             {
-              "title": "Vamos Chegar",
+              "title": "Valsa do Joceli",
               "artist": "Super Banda K'necus"
             }
           ],
           "answerIndex": 2
+        },
+        {
+          "songId": "la-montanara--marina-rosita",
+          "trackId": 2572181552,
+          "altTrackIds": [],
+          "title": "Marina - Rosita",
+          "artist": "La Montanara",
+          "options": [
+            {
+              "title": "Marina - Rosita",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "Shuainarái",
+              "artist": "Vox 3"
+            },
+            {
+              "title": "Treze Tilias",
+              "artist": "Banda Ghermania"
+            },
+            {
+              "title": "Juracy",
+              "artist": "Os Futuristas"
+            }
+          ],
+          "answerIndex": 0
         },
         {
           "songId": "super-banda-k-necus--hulala-k-necus",
@@ -3359,46 +3385,20 @@
           "artist": "Super Banda K'necus",
           "options": [
             {
+              "title": "Heyo, Heyo",
+              "artist": "Os Montanari"
+            },
+            {
               "title": "Hulala K'necus",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Bierwagen",
-              "artist": "Super Banda Hopus"
+              "title": "Zilletaler Hochzeitsmarsch",
+              "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Chopinho Geladinho",
-              "artist": "Super Musical Monte Carlo"
-            },
-            {
-              "title": "Marreca (A Dança da Marreca)",
-              "artist": "Banda Cavalinho"
-            }
-          ],
-          "answerIndex": 0
-        },
-        {
-          "songId": "la-montanara--curtindo-a-vida",
-          "trackId": 3616069512,
-          "altTrackIds": [],
-          "title": "Curtindo a Vida",
-          "artist": "La Montanara",
-          "options": [
-            {
-              "title": "Novemberfest em Lucas",
-              "artist": "Super Banda K'necus"
-            },
-            {
-              "title": "Curtindo a Vida",
-              "artist": "La Montanara"
-            },
-            {
-              "title": "Bailes Em Santa Cruz",
-              "artist": "Banda Ghermania"
-            },
-            {
-              "title": "Maria Deli Qui Deli",
-              "artist": "Super Banda K'necus"
+              "title": "O Verão Sempre Vai Voltar",
+              "artist": "Os Montanari"
             }
           ],
           "answerIndex": 1
@@ -3408,31 +3408,27 @@
     "2026-10-31": {
       "rounds": [
         {
-          "songId": "os-montanari--o-verao-sempre-vai-voltar",
-          "trackId": 3049792291,
-          "altTrackIds": [
-            82594860,
-            3129418891,
-            3129521091
-          ],
-          "title": "O Verão Sempre Vai Voltar",
-          "artist": "Os Montanari",
+          "songId": "la-montanara--curtindo-a-vida",
+          "trackId": 3616069512,
+          "altTrackIds": [],
+          "title": "Curtindo a Vida",
+          "artist": "La Montanara",
           "options": [
             {
-              "title": "AMANTE LATINO",
-              "artist": "Super Musical Monte Carlo"
+              "title": "Das Fliegerlied",
+              "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Treze Tilias",
-              "artist": "Banda Ghermania"
-            },
-            {
-              "title": "O Verão Sempre Vai Voltar",
-              "artist": "Os Montanari"
-            },
-            {
-              "title": "Frida, Meu Amorzinho",
+              "title": "Alemão de Blumenau",
               "artist": "Vox 3"
+            },
+            {
+              "title": "Curtindo a Vida",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "Maria Deli Qui Deli",
+              "artist": "Super Banda K'necus"
             }
           ],
           "answerIndex": 2
@@ -3490,27 +3486,31 @@
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-hopus--fandango-ao-luar-cover",
-          "trackId": 1516211672,
-          "altTrackIds": [],
-          "title": "Fandango ao Luar (Cover)",
-          "artist": "Super Banda Hopus",
+          "songId": "os-montanari--o-verao-sempre-vai-voltar",
+          "trackId": 3049792291,
+          "altTrackIds": [
+            82594860,
+            3129418891,
+            3129521091
+          ],
+          "title": "O Verão Sempre Vai Voltar",
+          "artist": "Os Montanari",
           "options": [
             {
-              "title": "Coronel Boogey",
+              "title": "Jetzt Geht's Los",
+              "artist": "Super Banda Choppão"
+            },
+            {
+              "title": "O Verão Sempre Vai Voltar",
               "artist": "Os Montanari"
             },
             {
-              "title": "Fandango ao Luar (Cover)",
-              "artist": "Super Banda Hopus"
+              "title": "As Três Irmãs",
+              "artist": "Os Futuristas"
             },
             {
-              "title": "Me Pega Pra Fazer Amor",
-              "artist": "Super Musical Monte Carlo"
-            },
-            {
-              "title": "Chopinho Geladinho",
-              "artist": "Super Musical Monte Carlo"
+              "title": "É Assim",
+              "artist": "Os Futuristas"
             }
           ],
           "answerIndex": 1
@@ -3613,7 +3613,7 @@
               "artist": "Os Montanari"
             },
             {
-              "title": "Zigge Zagge",
+              "title": "VALSA DOS AMORES",
               "artist": "Super Banda Choppão"
             },
             {
@@ -3624,23 +3624,26 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-montanari--melo-do-rolo-wen-die-bayern-feyern",
-          "trackId": 456619282,
-          "altTrackIds": [],
-          "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+          "songId": "os-montanari--zic-zac",
+          "trackId": 3049792271,
+          "altTrackIds": [
+            82594858,
+            3129418861
+          ],
+          "title": "Zic, Zac",
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+              "title": "Zic, Zac",
               "artist": "Os Montanari"
             },
             {
-              "title": "Bruma en el valle",
+              "title": "E Agora Seu Jacó",
               "artist": "Monte Azul"
             },
             {
-              "title": "E - Wurstwagen",
-              "artist": "Vox 3"
+              "title": "Marreca",
+              "artist": "Banda Ghermania"
             },
             {
               "title": "Dançando Com A Imperial",
@@ -3732,26 +3735,26 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-futuristas--as-tres-irmas",
-          "trackId": 3205049441,
+          "songId": "os-futuristas--ate-amanha",
+          "trackId": 2741132771,
           "altTrackIds": [],
-          "title": "As Três Irmãs",
+          "title": "Até Amanhã",
           "artist": "Os Futuristas",
           "options": [
             {
-              "title": "As Três Irmãs",
+              "title": "Até Amanhã",
               "artist": "Os Futuristas"
             },
             {
-              "title": "A Rosquinha",
+              "title": "A Locopéia (Trem da Alegria)",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Frida, Meu Amorzinho",
+              "title": "Chopp e Schnaps",
               "artist": "Vox 3"
             },
             {
-              "title": "Mamma Maria",
+              "title": "Biergarten Horizontina",
               "artist": "Super Musical Monte Carlo"
             }
           ],
@@ -3765,11 +3768,11 @@
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "O Navio Fantasma",
+              "title": "Novemberfest em Lucas",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Hulala K'necus",
+              "title": "Gostinho de Quero Bis",
               "artist": "Super Banda K'necus"
             },
             {
@@ -3777,7 +3780,7 @@
               "artist": "Os Montanari"
             },
             {
-              "title": "Shuainarái",
+              "title": "Segue a Frida ( Paródia Follow The Leader )",
               "artist": "Vox 3"
             }
           ],
@@ -3877,7 +3880,7 @@
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "A Garota dos Meus Sonhos",
+              "title": "Maria Deli Qui Deli",
               "artist": "Super Banda K'necus"
             },
             {
@@ -3892,29 +3895,29 @@
           "answerIndex": 2
         },
         {
-          "songId": "super-banda-choppao--liechtensteiner-polka",
-          "trackId": 463900312,
+          "songId": "super-banda-choppao--o-que-tem-a-rosa",
+          "trackId": 463900132,
           "altTrackIds": [
-            481544172,
-            4071608591
+            364531181,
+            3269359021
           ],
-          "title": "LIECHTENSTEINER - POLKA",
+          "title": "O QUE TEM A ROSA",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Lusitano",
+              "title": "Juracy",
               "artist": "Os Futuristas"
             },
             {
-              "title": "Até Amanhã",
+              "title": "As Três Irmãs",
               "artist": "Os Futuristas"
             },
             {
-              "title": "LIECHTENSTEINER - POLKA",
+              "title": "O QUE TEM A ROSA",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Eu Vou Pra Oktoberfest",
+              "title": "Bailes Em Santa Cruz",
               "artist": "Banda Ghermania"
             }
           ],
@@ -4003,14 +4006,14 @@
           "answerIndex": 0
         },
         {
-          "songId": "super-banda-choppao--sehsucht-nach-dem-fruhling",
-          "trackId": 445915742,
+          "songId": "super-banda-choppao--so-ein-schonerr-tag-das-flieguer-lied",
+          "trackId": 1395141472,
           "altTrackIds": [],
-          "title": "Sehsucht Nach Dem Fruhling",
+          "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "SÓ QUERO FESTEJAR",
+              "title": "SCHWARZ BRAUNES MÄDCHEN",
               "artist": "Super Banda Choppão"
             },
             {
@@ -4018,11 +4021,11 @@
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Sehsucht Nach Dem Fruhling",
+              "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Novemberfest em Lucas",
+              "title": "Valsa do Joceli",
               "artist": "Super Banda K'necus"
             }
           ],
@@ -4036,7 +4039,7 @@
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "Festival da Linguiça",
+              "title": "Festa do Chopp",
               "artist": "Super Banda Hopus"
             },
             {
@@ -4044,11 +4047,11 @@
               "artist": "Os Montanari"
             },
             {
-              "title": "A Rosquinha",
+              "title": "A Marreca",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Na Magia da Música",
+              "title": "ROSALINDE",
               "artist": "La Montanara"
             }
           ],
@@ -4137,26 +4140,26 @@
           "answerIndex": 1
         },
         {
-          "songId": "super-banda-hopus--pout-pourri-de-boleros",
-          "trackId": 854471302,
+          "songId": "super-banda-hopus--konis-hupen",
+          "trackId": 863428852,
           "altTrackIds": [],
-          "title": "Pout Pourri de Boleros",
+          "title": "Konis Hupen",
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Pout Pourri de Boleros",
+              "title": "Konis Hupen",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Alemon Popaion",
+              "title": "Marcha Da Estrada",
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+              "title": "Marcha do Coelho",
               "artist": "Os Montanari"
             },
             {
-              "title": "Ela Só Quer Dançar",
+              "title": "Homem da Sua Vida",
               "artist": "Super Musical Monte Carlo"
             }
           ],
@@ -4261,7 +4264,7 @@
               "artist": "La Montanara"
             },
             {
-              "title": "Bar do Stits",
+              "title": "Bum Bum Tcha (Rok-Mi)",
               "artist": "Os Montanari"
             },
             {
@@ -4276,26 +4279,26 @@
           "answerIndex": 0
         },
         {
-          "songId": "super-musical-monte-carlo--chopinho-geladinho",
-          "trackId": 3335205931,
+          "songId": "super-musical-monte-carlo--bobeou-a-gente-pimba-passa-la",
+          "trackId": 3948862891,
           "altTrackIds": [],
-          "title": "Chopinho Geladinho",
+          "title": "Bobeou a Gente Pimba- Passa Lá",
           "artist": "Super Musical Monte Carlo",
           "options": [
             {
-              "title": "Tapa Na Cara",
+              "title": "Que Cara é Essa",
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Chopinho Geladinho",
+              "title": "Bobeou a Gente Pimba- Passa Lá",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "O Navio Fantasma",
+              "title": "Maria Deli Qui Deli",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Dona Hedi- Augusto Pestana",
+              "title": "Chopinho Geladinho",
               "artist": "Super Musical Monte Carlo"
             }
           ],
@@ -4315,7 +4318,7 @@
               "artist": "Vox 3"
             },
             {
-              "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
+              "title": "Festa em Treze Tílias",
               "artist": "Os Montanari"
             },
             {
@@ -4398,15 +4401,15 @@
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Dança da Mareca",
+              "title": "Jetzt Geht's Los",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Festival da Linguiça",
+              "title": "ALTE KAMERADEN (Cover)",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Das Fliegerlied",
+              "title": "Que Cara é Essa",
               "artist": "Super Banda Santa Cruz"
             },
             {
@@ -4473,26 +4476,26 @@
           "answerIndex": 2
         },
         {
-          "songId": "super-musical-monte-carlo--bobeou-a-gente-pimba-passa-la",
-          "trackId": 3948862891,
+          "songId": "super-musical-monte-carlo--chopinho-geladinho",
+          "trackId": 3335205931,
           "altTrackIds": [],
-          "title": "Bobeou a Gente Pimba- Passa Lá",
+          "title": "Chopinho Geladinho",
           "artist": "Super Musical Monte Carlo",
           "options": [
             {
-              "title": "Trinca, Mas Não Trepa",
+              "title": "Alemão de Blumenau",
               "artist": "Vox 3"
+            },
+            {
+              "title": "E Agora Seu Jacó",
+              "artist": "Monte Azul"
             },
             {
               "title": "Alemão Azarado",
               "artist": "Monte Azul"
             },
             {
-              "title": "Baile de Alemão",
-              "artist": "Monte Azul"
-            },
-            {
-              "title": "Bobeou a Gente Pimba- Passa Lá",
+              "title": "Chopinho Geladinho",
               "artist": "Super Musical Monte Carlo"
             }
           ],
@@ -4503,26 +4506,26 @@
     "2026-11-08": {
       "rounds": [
         {
-          "songId": "super-banda-choppao--so-ein-schonerr-tag-das-flieguer-lied",
-          "trackId": 1395141472,
+          "songId": "super-banda-choppao--sehsucht-nach-dem-fruhling",
+          "trackId": 445915742,
           "altTrackIds": [],
-          "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
+          "title": "Sehsucht Nach Dem Fruhling",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Das Fliegerlied",
+              "title": "SÓ QUERO FESTEJAR",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Sueño de invierno",
+              "title": "Meu Anjo Lindo",
               "artist": "Monte Azul"
             },
             {
-              "title": "SAUF MA NO A MASS (Cover)",
+              "title": "Stein Haus Cervejaria",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
+              "title": "Sehsucht Nach Dem Fruhling",
               "artist": "Super Banda Choppão"
             }
           ],
@@ -4555,51 +4558,50 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-futuristas--ate-amanha",
-          "trackId": 2741132771,
+          "songId": "os-futuristas--as-tres-irmas",
+          "trackId": 3205049441,
           "altTrackIds": [],
-          "title": "Até Amanhã",
+          "title": "As Três Irmãs",
           "artist": "Os Futuristas",
           "options": [
-            {
-              "title": "Festival da Linguiça",
-              "artist": "Super Banda Hopus"
-            },
             {
               "title": "Festa do Chopp",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
-              "artist": "Os Montanari"
-            },
-            {
-              "title": "Até Amanhã",
-              "artist": "Os Futuristas"
-            }
-          ],
-          "answerIndex": 3
-        },
-        {
-          "songId": "os-montanari--heyo-heyo",
-          "trackId": 3049792261,
-          "altTrackIds": [
-            82594856,
-            3129418931
-          ],
-          "title": "Heyo, Heyo",
-          "artist": "Os Montanari",
-          "options": [
-            {
-              "title": "Novemberfest em Lucas",
-              "artist": "Super Banda K'necus"
+              "title": "Dança do Pula Pula",
+              "artist": "Super Banda Hopus"
             },
             {
               "title": "Heyo, Heyo",
               "artist": "Os Montanari"
             },
             {
-              "title": "Dança do Pula Pula",
+              "title": "As Três Irmãs",
+              "artist": "Os Futuristas"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-montanari--melo-do-rolo",
+          "trackId": 3129418871,
+          "altTrackIds": [
+            3129521081
+          ],
+          "title": "Melô do Rolo",
+          "artist": "Os Montanari",
+          "options": [
+            {
+              "title": "Marie, Der Letzte Tanz Is Nur Fur Dich",
+              "artist": "Super Banda K'necus"
+            },
+            {
+              "title": "Melô do Rolo",
+              "artist": "Os Montanari"
+            },
+            {
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
             },
             {
@@ -4692,52 +4694,52 @@
           "answerIndex": 0
         },
         {
-          "songId": "la-montanara--rosalinde",
-          "trackId": 374566851,
+          "songId": "la-montanara--so-falta-voce",
+          "trackId": 3615340892,
           "altTrackIds": [],
-          "title": "ROSALINDE",
+          "title": "Só Falta Você",
           "artist": "La Montanara",
           "options": [
             {
-              "title": "Janjão",
+              "title": "A Marreca 2 - a Vingança",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "ROSALINDE",
+              "title": "Só Falta Você",
               "artist": "La Montanara"
             },
             {
-              "title": "Paquera Do Fritz",
+              "title": "Treze Tilias",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "Waltz Gelle",
+              "title": "Curtindo a Vida",
               "artist": "La Montanara"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "os-futuristas--almerinda",
-          "trackId": 3234060601,
+          "songId": "os-futuristas--bela-vista",
+          "trackId": 3234060621,
           "altTrackIds": [],
-          "title": "Almerinda",
+          "title": "Bela Vista",
           "artist": "Os Futuristas",
           "options": [
             {
-              "title": "Biergarten Horizontina",
+              "title": "Chopinho Geladinho",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Tendo Festa Eu Vou!",
+              "title": "A Marreca 2 - a Vingança",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "As Três Irmãs",
+              "title": "Até Amanhã",
               "artist": "Os Futuristas"
             },
             {
-              "title": "Almerinda",
+              "title": "Bela Vista",
               "artist": "Os Futuristas"
             }
           ],
@@ -4774,25 +4776,24 @@
     "2026-11-10": {
       "rounds": [
         {
-          "songId": "super-banda-choppao--o-que-tem-a-rosa",
-          "trackId": 463900132,
+          "songId": "super-banda-choppao--segue-a-frida",
+          "trackId": 1395141672,
           "altTrackIds": [
-            364531181,
-            3269359021
+            3269358901
           ],
-          "title": "O QUE TEM A ROSA",
+          "title": "Segue a Frida",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "VALSA DOS AMORES",
+              "title": "HEYO",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "É Assim",
+              "title": "Acorda Meu Amor",
               "artist": "Os Futuristas"
             },
             {
-              "title": "O QUE TEM A ROSA",
+              "title": "Segue a Frida",
               "artist": "Super Banda Choppão"
             },
             {
@@ -4803,38 +4804,39 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-montanari--melo-do-rolo",
-          "trackId": 3129418871,
+          "songId": "os-montanari--heyo-heyo",
+          "trackId": 3049792261,
           "altTrackIds": [
-            3129521081
+            82594856,
+            3129418931
           ],
-          "title": "Melô do Rolo",
+          "title": "Heyo, Heyo",
           "artist": "Os Montanari",
           "options": [
-            {
-              "title": "Melô do Rolo",
-              "artist": "Os Montanari"
-            },
-            {
-              "title": "Alemão de Blumenau",
-              "artist": "Vox 3"
-            },
             {
               "title": "Heyo, Heyo",
               "artist": "Os Montanari"
             },
             {
-              "title": "Bandida",
+              "title": "Centopéia do Chopp - Hino da Centopéia",
+              "artist": "Vox 3"
+            },
+            {
+              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+              "artist": "Os Montanari"
+            },
+            {
+              "title": "Polka, Chope e Alegria",
               "artist": "La Montanara"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "monte-azul--e-agora-seu-jaco",
-          "trackId": 2814048642,
+          "songId": "monte-azul--e-homem-ou-mulher",
+          "trackId": 3617541562,
           "altTrackIds": [],
-          "title": "E Agora Seu Jacó",
+          "title": "É Homem ou Mulher?",
           "artist": "Monte Azul",
           "options": [
             {
@@ -4842,11 +4844,11 @@
               "artist": "Os Futuristas"
             },
             {
-              "title": "E Agora Seu Jacó",
+              "title": "É Homem ou Mulher?",
               "artist": "Monte Azul"
             },
             {
-              "title": "Konis Hupen",
+              "title": "Festival da Linguiça",
               "artist": "Super Banda Hopus"
             },
             {
@@ -4864,7 +4866,7 @@
           "artist": "La Montanara",
           "options": [
             {
-              "title": "Fandango ao Luar (Cover)",
+              "title": "Dança do Pula Pula",
               "artist": "Super Banda Hopus"
             },
             {
@@ -4932,7 +4934,7 @@
               "artist": "Monte Azul"
             },
             {
-              "title": "Homenagem ao Irineu (Cover)",
+              "title": "Fandango no Chapadão",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -4946,15 +4948,15 @@
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Trinca, Mas Não Trepa",
+              "title": "Centopéia do Chopp",
               "artist": "Vox 3"
             },
             {
-              "title": "Centopéia do Chopp - Hino da Centopéia",
+              "title": "E - Wurstwagen",
               "artist": "Vox 3"
             },
             {
-              "title": "AMANTE LATINO",
+              "title": "Biergarten Horizontina",
               "artist": "Super Musical Monte Carlo"
             },
             {
@@ -5052,22 +5054,22 @@
     "2026-11-12": {
       "rounds": [
         {
-          "songId": "monte-azul--olha-a-farra-do-cleomar",
-          "trackId": 2814048672,
+          "songId": "monte-azul--pasos-en-la-arena",
+          "trackId": 4120060051,
           "altTrackIds": [],
-          "title": "Olha A Farra do Cleomar",
+          "title": "Pasos en la arena",
           "artist": "Monte Azul",
           "options": [
             {
-              "title": "Segue a Frida ( Paródia Follow The Leader )",
+              "title": "Frida, Meu Amorzinho",
               "artist": "Vox 3"
             },
             {
-              "title": "Olha A Farra do Cleomar",
+              "title": "Pasos en la arena",
               "artist": "Monte Azul"
             },
             {
-              "title": "Revesburgen",
+              "title": "Som dos Alpes",
               "artist": "Os Montanari"
             },
             {
@@ -5186,26 +5188,26 @@
     "2026-11-13": {
       "rounds": [
         {
-          "songId": "super-banda-hopus--konis-hupen",
-          "trackId": 863428852,
+          "songId": "super-banda-hopus--alerta-rancho-grande",
+          "trackId": 854471152,
           "altTrackIds": [],
-          "title": "Konis Hupen",
+          "title": "Alerta Rancho Grande",
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Oktoberfest Song",
+              "title": "Marreca (A Dança da Marreca)",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "HEYO",
+              "title": "LIECHTENSTEINER - POLKA",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Festa do Chopp",
+              "title": "ALTE KAMERADEN (Cover)",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Konis Hupen",
+              "title": "Alerta Rancho Grande",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -5264,28 +5266,26 @@
           "answerIndex": 0
         },
         {
-          "songId": "super-banda-choppao--valsa-dos-amores",
-          "trackId": 463900212,
-          "altTrackIds": [
-            4071608681
-          ],
-          "title": "VALSA DOS AMORES",
+          "songId": "super-banda-choppao--so-quero-festejar",
+          "trackId": 463900052,
+          "altTrackIds": [],
+          "title": "SÓ QUERO FESTEJAR",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "VALSA DOS AMORES",
+              "title": "SÓ QUERO FESTEJAR",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "O Verão Sempre Vai Voltar",
+              "title": "Zic, Zac",
               "artist": "Os Montanari"
             },
             {
-              "title": "Sehnne Valsa",
+              "title": "Ein Prosit",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "A Festa Vai Começar",
+              "title": "Noites Quentes",
               "artist": "Banda Munich"
             }
           ],
@@ -5348,10 +5348,10 @@
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-hopus--stein-haus-cervejaria",
-          "trackId": 2153088607,
+          "songId": "super-banda-hopus--pout-pourri-de-boleros",
+          "trackId": 854471302,
           "altTrackIds": [],
-          "title": "Stein Haus Cervejaria",
+          "title": "Pout Pourri de Boleros",
           "artist": "Super Banda Hopus",
           "options": [
             {
@@ -5367,7 +5367,7 @@
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Stein Haus Cervejaria",
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -5512,48 +5512,48 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-futuristas--bela-vista",
-          "trackId": 3234060621,
+          "songId": "os-futuristas--almerinda",
+          "trackId": 3234060601,
           "altTrackIds": [],
-          "title": "Bela Vista",
+          "title": "Almerinda",
           "artist": "Os Futuristas",
           "options": [
             {
-              "title": "Jetzt Geht's Los",
+              "title": "O QUE TEM A ROSA",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Oktoberfest Song",
+              "title": "A Marreca",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Herr Schmitt",
+              "title": "Oktoberfest",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Bela Vista",
+              "title": "Almerinda",
               "artist": "Os Futuristas"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-hopus--alerta-rancho-grande",
-          "trackId": 854471152,
+          "songId": "super-banda-hopus--homenagem-ao-radialista",
+          "trackId": 854471222,
           "altTrackIds": [],
-          "title": "Alerta Rancho Grande",
+          "title": "Homenagem ao Radialista",
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Ein Prosit",
+              "title": "Marreca",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "Alerta Rancho Grande",
+              "title": "Homenagem ao Radialista",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Melô do Rolo",
+              "title": "Sehsucht Nach Dem Fruhling",
               "artist": "Super Banda Choppão"
             },
             {
@@ -5691,7 +5691,7 @@
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Homenagem ao Irineu (Cover)",
+              "title": "Fandango no Chapadão",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -5728,10 +5728,10 @@
     "2026-11-17": {
       "rounds": [
         {
-          "songId": "monte-azul--pasos-en-la-arena",
-          "trackId": 4120060051,
+          "songId": "monte-azul--olha-a-farra-do-cleomar",
+          "trackId": 2814048672,
           "altTrackIds": [],
-          "title": "Pasos en la arena",
+          "title": "Olha A Farra do Cleomar",
           "artist": "Monte Azul",
           "options": [
             {
@@ -5739,7 +5739,7 @@
               "artist": "Monte Azul"
             },
             {
-              "title": "Pasos en la arena",
+              "title": "Olha A Farra do Cleomar",
               "artist": "Monte Azul"
             },
             {
@@ -5747,7 +5747,7 @@
               "artist": "Banda Munich"
             },
             {
-              "title": "Marcha do Coelho",
+              "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
               "artist": "Os Montanari"
             }
           ],
@@ -5780,22 +5780,22 @@
           "answerIndex": 1
         },
         {
-          "songId": "la-montanara--so-falta-voce",
-          "trackId": 3615340892,
+          "songId": "la-montanara--rosalinde",
+          "trackId": 374566851,
           "altTrackIds": [],
-          "title": "Só Falta Você",
+          "title": "ROSALINDE",
           "artist": "La Montanara",
           "options": [
             {
-              "title": "Coronel Boogey",
+              "title": "Bum Bum Tcha (Rok-Mi)",
               "artist": "Os Montanari"
             },
             {
-              "title": "Só Falta Você",
+              "title": "ROSALINDE",
               "artist": "La Montanara"
             },
             {
-              "title": "ROSALINDE",
+              "title": "O Chopp Vai Rolar",
               "artist": "La Montanara"
             },
             {
@@ -5817,7 +5817,7 @@
               "artist": "Vox 3"
             },
             {
-              "title": "Pout Pourri de Boleros",
+              "title": "Homenagem ao Radialista",
               "artist": "Super Banda Hopus"
             },
             {
@@ -5832,27 +5832,27 @@
           "answerIndex": 0
         },
         {
-          "songId": "super-banda-choppao--so-quero-festejar",
-          "trackId": 463900052,
+          "songId": "os-futuristas--chora-seu-domingos",
+          "trackId": 2741132711,
           "altTrackIds": [],
-          "title": "SÓ QUERO FESTEJAR",
-          "artist": "Super Banda Choppão",
+          "title": "Chora Seu Domingos",
+          "artist": "Os Futuristas",
           "options": [
             {
-              "title": "SÓ QUERO FESTEJAR",
-              "artist": "Super Banda Choppão"
+              "title": "Chora Seu Domingos",
+              "artist": "Os Futuristas"
             },
             {
-              "title": "Feriado Nacional- Eu Vou Morrer de Amor",
-              "artist": "Super Musical Monte Carlo"
+              "title": "Polka Party",
+              "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "O Navio Fantasma",
-              "artist": "Super Banda K'necus"
+              "title": "Bum Bum Tcha (Rok-Mi)",
+              "artist": "Os Montanari"
             },
             {
-              "title": "Tendo Festa Eu Vou!",
-              "artist": "Banda Cavalinho"
+              "title": "AMBOSS POLKA",
+              "artist": "La Montanara"
             }
           ],
           "answerIndex": 0
@@ -5862,27 +5862,29 @@
     "2026-11-18": {
       "rounds": [
         {
-          "songId": "monte-azul--luz-de-faro",
-          "trackId": 4120060061,
-          "altTrackIds": [],
-          "title": "Luz de faro",
-          "artist": "Monte Azul",
+          "songId": "super-banda-choppao--valsa-dos-amores",
+          "trackId": 463900212,
+          "altTrackIds": [
+            4071608681
+          ],
+          "title": "VALSA DOS AMORES",
+          "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Oktoberfest",
-              "artist": "Banda Cavalinho"
+              "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
+              "artist": "Os Montanari"
             },
             {
-              "title": "Ela Só Quer Dançar",
+              "title": "Dona Hedi- Augusto Pestana",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Homem da Sua Vida",
+              "title": "Feriado Nacional- Eu Vou Morrer de Amor",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Luz de faro",
-              "artist": "Monte Azul"
+              "title": "VALSA DOS AMORES",
+              "artist": "Super Banda Choppão"
             }
           ],
           "answerIndex": 3
@@ -5942,39 +5944,38 @@
           "answerIndex": 3
         },
         {
-          "songId": "la-montanara--polka-chope-e-alegria",
-          "trackId": 3615340882,
-          "altTrackIds": [],
-          "title": "Polka, Chope e Alegria",
-          "artist": "La Montanara",
+          "songId": "monte-azul--meu-anjo-lindo",
+          "trackId": 3617541482,
+          "altTrackIds": [
+            3617541582
+          ],
+          "title": "Meu Anjo Lindo",
+          "artist": "Monte Azul",
           "options": [
             {
-              "title": "Polka, Chope e Alegria",
-              "artist": "La Montanara"
-            },
-            {
-              "title": "Olha A Farra do Cleomar",
+              "title": "Meu Anjo Lindo",
               "artist": "Monte Azul"
             },
             {
-              "title": "Curtindo a Vida",
-              "artist": "La Montanara"
+              "title": "Sehnne Valsa",
+              "artist": "Banda Ghermania"
             },
             {
-              "title": "Eu Vou Pra Oktoberfest",
-              "artist": "Banda Ghermania"
+              "title": "É Homem ou Mulher?",
+              "artist": "Monte Azul"
+            },
+            {
+              "title": "Lusitano",
+              "artist": "Os Futuristas"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "os-montanari--zic-zac",
-          "trackId": 3049792271,
-          "altTrackIds": [
-            82594858,
-            3129418861
-          ],
-          "title": "Zic, Zac",
+          "songId": "os-montanari--melo-do-rolo-wen-die-bayern-feyern",
+          "trackId": 456619282,
+          "altTrackIds": [],
+          "title": "Melô do Rolo (Wen Die Bayern Feyern)",
           "artist": "Os Montanari",
           "options": [
             {
@@ -5982,15 +5983,15 @@
               "artist": "Os Montanari"
             },
             {
-              "title": "Bobeou a Gente Pimba- Passa Lá",
+              "title": "Bandida",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "Biergarten Horizontina",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Melô do Rolo",
-              "artist": "Super Banda Choppão"
-            },
-            {
-              "title": "Zic, Zac",
+              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
               "artist": "Os Montanari"
             }
           ],
@@ -6012,7 +6013,7 @@
               "artist": "Banda Munich"
             },
             {
-              "title": "Bierwagen",
+              "title": "Alerta Rancho Grande",
               "artist": "Super Banda Hopus"
             },
             {
@@ -6038,7 +6039,7 @@
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Festival da Linguiça",
+              "title": "Homenagem ao Radialista",
               "artist": "Super Banda Hopus"
             },
             {
@@ -6168,7 +6169,7 @@
           "artist": "La Montanara",
           "options": [
             {
-              "title": "SCHWEINFEST IN NOVA CANDELÁRIA",
+              "title": "SCHWARZ BRAUNES MÄDCHEN",
               "artist": "Super Banda Choppão"
             },
             {
@@ -6187,14 +6188,14 @@
           "answerIndex": 1
         },
         {
-          "songId": "super-banda-hopus--festival-da-linguica",
-          "trackId": 854471262,
+          "songId": "super-banda-hopus--stein-haus-cervejaria",
+          "trackId": 2153088607,
           "altTrackIds": [],
-          "title": "Festival da Linguiça",
+          "title": "Stein Haus Cervejaria",
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Maria Deli Qui Deli",
+              "title": "Ich Wolt Noch Mahl",
               "artist": "Super Banda K'necus"
             },
             {
@@ -6202,7 +6203,7 @@
               "artist": "Vox 3"
             },
             {
-              "title": "Festival da Linguiça",
+              "title": "Stein Haus Cervejaria",
               "artist": "Super Banda Hopus"
             },
             {
@@ -6213,111 +6214,30 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-montanari--gosto-doce-da-paixao-es-geth-uns-gut",
-          "trackId": 456619302,
-          "altTrackIds": [],
-          "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
-          "artist": "Os Montanari",
-          "options": [
-            {
-              "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
-              "artist": "Os Montanari"
-            },
-            {
-              "title": "Schluck Schluck",
-              "artist": "Banda Munich"
-            },
-            {
-              "title": "Sehsucht Nach Dem Fruhling",
-              "artist": "Super Banda Choppão"
-            },
-            {
-              "title": "Mamma Mia (Cover)",
-              "artist": "Super Banda Hopus"
-            }
-          ],
-          "answerIndex": 0
-        },
-        {
-          "songId": "super-banda-choppao--segue-a-frida",
-          "trackId": 1395141672,
+          "songId": "super-banda-choppao--liechtensteiner-polka",
+          "trackId": 463900312,
           "altTrackIds": [
-            3269358901
+            481544172,
+            4071608591
           ],
-          "title": "Segue a Frida",
+          "title": "LIECHTENSTEINER - POLKA",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "A Garota dos Meus Sonhos",
-              "artist": "Super Banda K'necus"
-            },
-            {
-              "title": "Segue a Frida",
+              "title": "LIECHTENSTEINER - POLKA",
               "artist": "Super Banda Choppão"
             },
-            {
-              "title": "Stein Haus Cervejaria",
-              "artist": "Super Banda Hopus"
-            },
-            {
-              "title": "Konis Hupen",
-              "artist": "Super Banda Hopus"
-            }
-          ],
-          "answerIndex": 1
-        }
-      ]
-    },
-    "2026-11-21": {
-      "rounds": [
-        {
-          "songId": "os-futuristas--chora-seu-domingos",
-          "trackId": 2741132711,
-          "altTrackIds": [],
-          "title": "Chora Seu Domingos",
-          "artist": "Os Futuristas",
-          "options": [
-            {
-              "title": "Chora Seu Domingos",
-              "artist": "Os Futuristas"
-            },
-            {
-              "title": "Marina - Rosita",
-              "artist": "La Montanara"
-            },
-            {
-              "title": "SAUF MA NO A MASS (Cover)",
-              "artist": "Super Banda Hopus"
-            },
-            {
-              "title": "Hey Blumenau",
-              "artist": "Banda Cavalinho"
-            }
-          ],
-          "answerIndex": 0
-        },
-        {
-          "songId": "monte-azul--e-homem-ou-mulher",
-          "trackId": 3617541562,
-          "altTrackIds": [],
-          "title": "É Homem ou Mulher?",
-          "artist": "Monte Azul",
-          "options": [
             {
               "title": "É Homem ou Mulher?",
               "artist": "Monte Azul"
             },
             {
-              "title": "Tendo Festa Eu Vou!",
+              "title": "Marreca",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Eu Vou Pra Oktoberfest",
-              "artist": "Banda Ghermania"
-            },
-            {
-              "title": "HEYO",
-              "artist": "Super Banda Choppão"
+              "title": "Chopp e Schnaps",
+              "artist": "Vox 3"
             }
           ],
           "answerIndex": 0
@@ -6330,24 +6250,162 @@
           "artist": "Vox 3",
           "options": [
             {
-              "title": "Schultz Valsa",
-              "artist": "Banda Ghermania"
+              "title": "Chopp e Alegria",
+              "artist": "Banda Munich"
             },
             {
               "title": "Agora é Lei, É se Divertir, Com o Bierhauptstadtwagen - (Com Sotaque - PARÓDIA: SARA PERCHE TI AMO)",
               "artist": "Vox 3"
             },
             {
-              "title": "Mimosa",
+              "title": "Ivone",
               "artist": "Os Futuristas"
             },
             {
-              "title": "Paquera Do Fritz",
+              "title": "Na Linha 15 Também Se Dança",
+              "artist": "Os Futuristas"
+            }
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-11-21": {
+      "rounds": [
+        {
+          "songId": "os-montanari--gosto-doce-da-paixao-es-geth-uns-gut",
+          "trackId": 456619302,
+          "altTrackIds": [],
+          "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
+          "artist": "Os Montanari",
+          "options": [
+            {
+              "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
+              "artist": "Os Montanari"
+            },
+            {
+              "title": "O Chopp Vai Rolar",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "A Festa Vai Começar",
+              "artist": "Banda Munich"
+            },
+            {
+              "title": "Derramando O Chopp",
+              "artist": "Banda Ghermania"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "monte-azul--e-agora-seu-jaco",
+          "trackId": 2814048642,
+          "altTrackIds": [],
+          "title": "E Agora Seu Jacó",
+          "artist": "Monte Azul",
+          "options": [
+            {
+              "title": "E Agora Seu Jacó",
+              "artist": "Monte Azul"
+            },
+            {
+              "title": "Tendo Festa Eu Vou!",
+              "artist": "Banda Cavalinho"
+            },
+            {
+              "title": "Eu Vou Pra Oktoberfest",
+              "artist": "Banda Ghermania"
+            },
+            {
+              "title": "Dança da Mareca",
+              "artist": "Super Banda Choppão"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "super-banda-hopus--alte-kameraden-cover",
+          "trackId": 1516211592,
+          "altTrackIds": [],
+          "title": "ALTE KAMERADEN (Cover)",
+          "artist": "Super Banda Hopus",
+          "options": [
+            {
+              "title": "Eu Vou Pra Oktoberfest",
+              "artist": "Banda Ghermania"
+            },
+            {
+              "title": "ALTE KAMERADEN (Cover)",
+              "artist": "Super Banda Hopus"
+            },
+            {
+              "title": "O Navio Fantasma",
+              "artist": "Super Banda K'necus"
+            },
+            {
+              "title": "Marreca",
               "artist": "Banda Ghermania"
             }
           ],
           "answerIndex": 1
         },
+        {
+          "songId": "la-montanara--polka-chope-e-alegria",
+          "trackId": 3615340882,
+          "altTrackIds": [],
+          "title": "Polka, Chope e Alegria",
+          "artist": "La Montanara",
+          "options": [
+            {
+              "title": "Polka, Chope e Alegria",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "LIECHTENSTEINER - POLKA",
+              "artist": "Super Banda Choppão"
+            },
+            {
+              "title": "Derramando O Chopp",
+              "artist": "Banda Ghermania"
+            },
+            {
+              "title": "ROSALINDE",
+              "artist": "La Montanara"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "vox-3--agora-e-chopeidanca-vem-pra-festanca-paridia-sara-perche-ti-amo",
+          "trackId": 3456678571,
+          "altTrackIds": [],
+          "title": "Agora é Chopeidança, Vem pra Festança - ( Parídia: Sara Perche Ti Amo )",
+          "artist": "Vox 3",
+          "options": [
+            {
+              "title": "Agora é Chopeidança, Vem pra Festança - ( Parídia: Sara Perche Ti Amo )",
+              "artist": "Vox 3"
+            },
+            {
+              "title": "Alemon Popaion",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Mimosa",
+              "artist": "Os Futuristas"
+            },
+            {
+              "title": "Juracy",
+              "artist": "Os Futuristas"
+            }
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-11-22": {
+      "rounds": [
         {
           "songId": "la-montanara--marina-rosita",
           "trackId": 2572181552,
@@ -6360,63 +6418,7 @@
               "artist": "La Montanara"
             },
             {
-              "title": "Jetzt Geht's Los",
-              "artist": "Super Banda Choppão"
-            },
-            {
-              "title": "Festa de Alemão",
-              "artist": "Banda Ghermania"
-            },
-            {
-              "title": "ROSALINDE",
-              "artist": "La Montanara"
-            }
-          ],
-          "answerIndex": 0
-        },
-        {
-          "songId": "super-banda-k-necus--hulala-k-necus",
-          "trackId": 2616128542,
-          "altTrackIds": [],
-          "title": "Hulala K'necus",
-          "artist": "Super Banda K'necus",
-          "options": [
-            {
-              "title": "Hulala K'necus",
-              "artist": "Super Banda K'necus"
-            },
-            {
-              "title": "O QUE TEM A ROSA",
-              "artist": "Super Banda Choppão"
-            },
-            {
-              "title": "Das Fliegerlied",
-              "artist": "Super Banda Santa Cruz"
-            },
-            {
-              "title": "Que Cara é Essa",
-              "artist": "Super Banda Santa Cruz"
-            }
-          ],
-          "answerIndex": 0
-        }
-      ]
-    },
-    "2026-11-22": {
-      "rounds": [
-        {
-          "songId": "la-montanara--curtindo-a-vida",
-          "trackId": 3616069512,
-          "altTrackIds": [],
-          "title": "Curtindo a Vida",
-          "artist": "La Montanara",
-          "options": [
-            {
-              "title": "Curtindo a Vida",
-              "artist": "La Montanara"
-            },
-            {
-              "title": "Gross Sauferei",
+              "title": "Só Falta Você",
               "artist": "La Montanara"
             },
             {
@@ -6424,7 +6426,7 @@
               "artist": "Vox 3"
             },
             {
-              "title": "E Agora Seu Jacó",
+              "title": "Luz de faro",
               "artist": "Monte Azul"
             }
           ],
@@ -6460,55 +6462,53 @@
           "answerIndex": 2
         },
         {
-          "songId": "monte-azul--meu-anjo-lindo",
-          "trackId": 3617541482,
-          "altTrackIds": [
-            3617541582
-          ],
-          "title": "Meu Anjo Lindo",
+          "songId": "monte-azul--luz-de-faro",
+          "trackId": 4120060061,
+          "altTrackIds": [],
+          "title": "Luz de faro",
           "artist": "Monte Azul",
           "options": [
             {
-              "title": "Schluck Schluck",
+              "title": "Munique em Festa",
               "artist": "Banda Munich"
             },
             {
-              "title": "Festa de Alemão",
+              "title": "Marreca",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "Eu Vou Pra Oktoberfest",
+              "title": "Bailes Em Santa Cruz",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "Meu Anjo Lindo",
+              "title": "Luz de faro",
               "artist": "Monte Azul"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "vox-3--agora-e-chopeidanca-vem-pra-festanca-paridia-sara-perche-ti-amo",
-          "trackId": 3456678571,
+          "songId": "super-banda-k-necus--hulala-k-necus",
+          "trackId": 2616128542,
           "altTrackIds": [],
-          "title": "Agora é Chopeidança, Vem pra Festança - ( Parídia: Sara Perche Ti Amo )",
-          "artist": "Vox 3",
+          "title": "Hulala K'necus",
+          "artist": "Super Banda K'necus",
           "options": [
             {
-              "title": "Viva Tua Vida",
+              "title": "Vamos Colher",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Hulala K'necus",
+              "artist": "Super Banda K'necus"
+            },
+            {
+              "title": "E Agora Seu Jacó",
               "artist": "Monte Azul"
             },
             {
-              "title": "Agora é Chopeidança, Vem pra Festança - ( Parídia: Sara Perche Ti Amo )",
-              "artist": "Vox 3"
-            },
-            {
-              "title": "SCHWEINFEST IN NOVA CANDELÁRIA",
-              "artist": "Super Banda Choppão"
-            },
-            {
-              "title": "Waltz Gelle",
-              "artist": "La Montanara"
+              "title": "Hoem Parapapa",
+              "artist": "Banda Munich"
             }
           ],
           "answerIndex": 1
@@ -6570,31 +6570,27 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-montanari--o-verao-sempre-vai-voltar",
-          "trackId": 3049792291,
-          "altTrackIds": [
-            82594860,
-            3129418891,
-            3129521091
-          ],
-          "title": "O Verão Sempre Vai Voltar",
-          "artist": "Os Montanari",
+          "songId": "la-montanara--curtindo-a-vida",
+          "trackId": 3616069512,
+          "altTrackIds": [],
+          "title": "Curtindo a Vida",
+          "artist": "La Montanara",
           "options": [
             {
-              "title": "O Verão Sempre Vai Voltar",
-              "artist": "Os Montanari"
+              "title": "Curtindo a Vida",
+              "artist": "La Montanara"
             },
             {
-              "title": "Vamos Colher",
-              "artist": "Super Banda Santa Cruz"
+              "title": "Hey Baby",
+              "artist": "Banda Munich"
             },
             {
-              "title": "Alemão Azarado",
-              "artist": "Monte Azul"
+              "title": "AMANTE LATINO",
+              "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Gostinho de Quero Bis",
-              "artist": "Super Banda K'necus"
+              "title": "Shuainarái",
+              "artist": "Vox 3"
             }
           ],
           "answerIndex": 0
@@ -6626,27 +6622,31 @@
           "answerIndex": 1
         },
         {
-          "songId": "super-banda-hopus--fandango-ao-luar-cover",
-          "trackId": 1516211672,
-          "altTrackIds": [],
-          "title": "Fandango ao Luar (Cover)",
-          "artist": "Super Banda Hopus",
+          "songId": "os-montanari--o-verao-sempre-vai-voltar",
+          "trackId": 3049792291,
+          "altTrackIds": [
+            82594860,
+            3129418891,
+            3129521091
+          ],
+          "title": "O Verão Sempre Vai Voltar",
+          "artist": "Os Montanari",
           "options": [
             {
-              "title": "Oktoberfest Song",
-              "artist": "Banda Cavalinho"
+              "title": "Hulala K'necus",
+              "artist": "Super Banda K'necus"
             },
             {
-              "title": "Fandango ao Luar (Cover)",
-              "artist": "Super Banda Hopus"
+              "title": "O Verão Sempre Vai Voltar",
+              "artist": "Os Montanari"
             },
             {
-              "title": "Marreca",
-              "artist": "Banda Cavalinho"
+              "title": "Maria Deli Qui Deli",
+              "artist": "Super Banda K'necus"
             },
             {
-              "title": "Mamma Maria",
-              "artist": "Super Musical Monte Carlo"
+              "title": "Até Amanhã",
+              "artist": "Os Futuristas"
             }
           ],
           "answerIndex": 1
@@ -6701,7 +6701,7 @@
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Dança do Pula Pula",
+              "title": "Bierwagen",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -6734,18 +6734,21 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-montanari--melo-do-rolo-wen-die-bayern-feyern",
-          "trackId": 456619282,
-          "altTrackIds": [],
-          "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+          "songId": "os-montanari--zic-zac",
+          "trackId": 3049792271,
+          "altTrackIds": [
+            82594858,
+            3129418861
+          ],
+          "title": "Zic, Zac",
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "O Navio Fantasma",
+              "title": "Marie, Der Letzte Tanz Is Nur Fur Dich",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Ta Tudo Bem",
+              "title": "Vamos Colher",
               "artist": "Super Banda Santa Cruz"
             },
             {
@@ -6753,7 +6756,7 @@
               "artist": "Os Montanari"
             },
             {
-              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+              "title": "Zic, Zac",
               "artist": "Os Montanari"
             }
           ],
@@ -6786,26 +6789,26 @@
           "answerIndex": 0
         },
         {
-          "songId": "os-futuristas--as-tres-irmas",
-          "trackId": 3205049441,
+          "songId": "os-futuristas--ate-amanha",
+          "trackId": 2741132771,
           "altTrackIds": [],
-          "title": "As Três Irmãs",
+          "title": "Até Amanhã",
           "artist": "Os Futuristas",
           "options": [
             {
-              "title": "Festa do Chopp",
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
-            },
-            {
-              "title": "Ela Só Quer Dançar",
-              "artist": "Super Musical Monte Carlo"
             },
             {
               "title": "Biergarten Horizontina",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "As Três Irmãs",
+              "title": "Dona Hedi- Augusto Pestana",
+              "artist": "Super Musical Monte Carlo"
+            },
+            {
+              "title": "Até Amanhã",
               "artist": "Os Futuristas"
             }
           ],
@@ -6901,7 +6904,7 @@
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Rancheira do Edvino",
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
             },
             {
@@ -6927,7 +6930,7 @@
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Só Falta Você",
+              "title": "Polka, Chope e Alegria",
               "artist": "La Montanara"
             },
             {
@@ -6935,7 +6938,7 @@
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Centopéia do Chopp - Hino da Centopéia",
+              "title": "Trinca, Mas Não Trepa",
               "artist": "Vox 3"
             },
             {
@@ -6976,13 +6979,13 @@
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-choppao--liechtensteiner-polka",
-          "trackId": 463900312,
+          "songId": "super-banda-choppao--o-que-tem-a-rosa",
+          "trackId": 463900132,
           "altTrackIds": [
-            481544172,
-            4071608591
+            364531181,
+            3269359021
           ],
-          "title": "LIECHTENSTEINER - POLKA",
+          "title": "O QUE TEM A ROSA",
           "artist": "Super Banda Choppão",
           "options": [
             {
@@ -6990,11 +6993,11 @@
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "ROCK PARTY 2",
+              "title": "Que Cara é Essa",
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "LIECHTENSTEINER - POLKA",
+              "title": "O QUE TEM A ROSA",
               "artist": "Super Banda Choppão"
             },
             {
@@ -7113,26 +7116,26 @@
           "answerIndex": 2
         },
         {
-          "songId": "super-banda-choppao--sehsucht-nach-dem-fruhling",
-          "trackId": 445915742,
+          "songId": "super-banda-choppao--so-ein-schonerr-tag-das-flieguer-lied",
+          "trackId": 1395141472,
           "altTrackIds": [],
-          "title": "Sehsucht Nach Dem Fruhling",
+          "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Gosto Doce da Paixão (Es Geth Uns Gut)",
+              "title": "Festa em Treze Tílias",
               "artist": "Os Montanari"
             },
             {
-              "title": "Que Cara é Essa",
+              "title": "Polonaise",
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Dança da Mareca",
+              "title": "Das Fliegerlied",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Sehsucht Nach Dem Fruhling",
+              "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
               "artist": "Super Banda Choppão"
             }
           ],
@@ -7150,15 +7153,15 @@
               "artist": "Os Montanari"
             },
             {
-              "title": "Bobeou a Gente Pimba- Passa Lá",
+              "title": "Ela Só Quer Dançar",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Sehnne Valsa",
+              "title": "Schultz Valsa",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "Ela Só Quer Dançar",
+              "title": "Homem da Sua Vida",
               "artist": "Super Musical Monte Carlo"
             }
           ],
@@ -7191,26 +7194,26 @@
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-hopus--pout-pourri-de-boleros",
-          "trackId": 854471302,
+          "songId": "super-banda-hopus--konis-hupen",
+          "trackId": 863428852,
           "altTrackIds": [],
-          "title": "Pout Pourri de Boleros",
+          "title": "Konis Hupen",
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Tendo Festa Eu Vou!",
+              "title": "Alemão de Blumenau",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Almerinda",
+              "title": "Bela Vista",
               "artist": "Os Futuristas"
             },
             {
-              "title": "Curtindo a Vida",
+              "title": "Não Sei o Que Fazer",
               "artist": "La Montanara"
             },
             {
-              "title": "Pout Pourri de Boleros",
+              "title": "Konis Hupen",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -7257,7 +7260,7 @@
           "artist": "Banda Ghermania",
           "options": [
             {
-              "title": "Festival da Linguiça",
+              "title": "Homenagem ao Radialista",
               "artist": "Super Banda Hopus"
             },
             {
@@ -7371,7 +7374,7 @@
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Stein Haus Cervejaria",
+              "title": "Pout Pourri de Boleros",
               "artist": "Super Banda Hopus"
             },
             {
@@ -7395,7 +7398,7 @@
           "artist": "Vox 3",
           "options": [
             {
-              "title": "Coronel Boogey",
+              "title": "Bum Bum Tcha (Rok-Mi)",
               "artist": "Os Montanari"
             },
             {
@@ -7407,7 +7410,7 @@
               "artist": "Vox 3"
             },
             {
-              "title": "Bum Bum Tcha (Rok-Mi)",
+              "title": "Bar do Stits",
               "artist": "Os Montanari"
             }
           ],
@@ -7443,26 +7446,26 @@
           "answerIndex": 0
         },
         {
-          "songId": "super-musical-monte-carlo--chopinho-geladinho",
-          "trackId": 3335205931,
+          "songId": "super-musical-monte-carlo--bobeou-a-gente-pimba-passa-la",
+          "trackId": 3948862891,
           "altTrackIds": [],
-          "title": "Chopinho Geladinho",
+          "title": "Bobeou a Gente Pimba- Passa Lá",
           "artist": "Super Musical Monte Carlo",
           "options": [
             {
-              "title": "Baile de Alemão",
+              "title": "Atardeser de cobre",
               "artist": "Monte Azul"
             },
             {
-              "title": "Chopinho Geladinho",
+              "title": "Bobeou a Gente Pimba- Passa Lá",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Alemão de Blumenau",
+              "title": "Shuainarái",
               "artist": "Vox 3"
             },
             {
-              "title": "Dança do Pula Pula",
+              "title": "Festa do Chopp",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -7476,7 +7479,7 @@
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Fliegerlied",
+              "title": "Alemão de Blumenau",
               "artist": "Banda Cavalinho"
             },
             {
@@ -7484,11 +7487,11 @@
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Zilletaler Hochzeitsmarsch",
+              "title": "Alemon Popaion",
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Festival da Linguiça",
+              "title": "Homenagem ao Radialista",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -7499,22 +7502,22 @@
     "2026-11-30": {
       "rounds": [
         {
-          "songId": "super-musical-monte-carlo--bobeou-a-gente-pimba-passa-la",
-          "trackId": 3948862891,
+          "songId": "super-musical-monte-carlo--chopinho-geladinho",
+          "trackId": 3335205931,
           "altTrackIds": [],
-          "title": "Bobeou a Gente Pimba- Passa Lá",
+          "title": "Chopinho Geladinho",
           "artist": "Super Musical Monte Carlo",
           "options": [
             {
-              "title": "Bobeou a Gente Pimba- Passa Lá",
+              "title": "Chopinho Geladinho",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Festa de Alemão",
+              "title": "Treze Tilias",
               "artist": "Banda Ghermania"
             },
             {
-              "title": "Ein Prosit",
+              "title": "Enchendo a Tulipa",
               "artist": "Banda Ghermania"
             },
             {
@@ -7546,7 +7549,7 @@
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Bierwagen",
+              "title": "ALTE KAMERADEN (Cover)",
               "artist": "Super Banda Hopus"
             }
           ],
@@ -7602,21 +7605,21 @@
               "artist": "Monte Azul"
             },
             {
-              "title": "Bar do Stits",
+              "title": "Bum Bum Tcha (Rok-Mi)",
               "artist": "Os Montanari"
             }
           ],
           "answerIndex": 2
         },
         {
-          "songId": "os-futuristas--ate-amanha",
-          "trackId": 2741132771,
+          "songId": "os-futuristas--as-tres-irmas",
+          "trackId": 3205049441,
           "altTrackIds": [],
-          "title": "Até Amanhã",
+          "title": "As Três Irmãs",
           "artist": "Os Futuristas",
           "options": [
             {
-              "title": "Até Amanhã",
+              "title": "As Três Irmãs",
               "artist": "Os Futuristas"
             },
             {
@@ -7624,11 +7627,11 @@
               "artist": "Monte Azul"
             },
             {
-              "title": "HEYO",
+              "title": "Dança da Mareca",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Meu Anjo Lindo",
+              "title": "Atardeser de cobre",
               "artist": "Monte Azul"
             }
           ],
@@ -7691,77 +7694,76 @@
           "answerIndex": 3
         },
         {
-          "songId": "super-banda-choppao--so-ein-schonerr-tag-das-flieguer-lied",
-          "trackId": 1395141472,
+          "songId": "super-banda-choppao--sehsucht-nach-dem-fruhling",
+          "trackId": 445915742,
           "altTrackIds": [],
-          "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
+          "title": "Sehsucht Nach Dem Fruhling",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Tudo Que Sonhei Para Mim",
+              "title": "Vamos Colher",
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
+              "title": "Sehsucht Nach Dem Fruhling",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Homem da Sua Vida",
+              "title": "Biergarten Horizontina",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Uma Chance Pra Te Amar",
+              "title": "Klarineteen Muck`l",
               "artist": "Super Musical Monte Carlo"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "os-montanari--heyo-heyo",
-          "trackId": 3049792261,
+          "songId": "os-montanari--melo-do-rolo",
+          "trackId": 3129418871,
           "altTrackIds": [
-            82594856,
-            3129418931
+            3129521081
           ],
-          "title": "Heyo, Heyo",
+          "title": "Melô do Rolo",
           "artist": "Os Montanari",
           "options": [
             {
-              "title": "Gostinho de Quero Bis",
+              "title": "A Garota dos Meus Sonhos",
               "artist": "Super Banda K'necus"
-            },
-            {
-              "title": "Heyo, Heyo",
-              "artist": "Os Montanari"
             },
             {
               "title": "Melô do Rolo",
               "artist": "Os Montanari"
             },
             {
-              "title": "Almerinda",
+              "title": "Heyo, Heyo",
+              "artist": "Os Montanari"
+            },
+            {
+              "title": "Acorda Meu Amor",
               "artist": "Os Futuristas"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "os-futuristas--almerinda",
-          "trackId": 3234060601,
+          "songId": "os-futuristas--bela-vista",
+          "trackId": 3234060621,
           "altTrackIds": [],
-          "title": "Almerinda",
+          "title": "Bela Vista",
           "artist": "Os Futuristas",
           "options": [
             {
-              "title": "Na Magia da Música",
+              "title": "Só Falta Você",
               "artist": "La Montanara"
             },
             {
-              "title": "Curtindo a Vida",
+              "title": "BELLA BELLA DONA",
               "artist": "La Montanara"
             },
             {
-              "title": "Almerinda",
+              "title": "Bela Vista",
               "artist": "Os Futuristas"
             },
             {
@@ -7854,18 +7856,18 @@
           "answerIndex": 1
         },
         {
-          "songId": "la-montanara--rosalinde",
-          "trackId": 374566851,
+          "songId": "la-montanara--so-falta-voce",
+          "trackId": 3615340892,
           "altTrackIds": [],
-          "title": "ROSALINDE",
+          "title": "Só Falta Você",
           "artist": "La Montanara",
           "options": [
             {
-              "title": "ROSALINDE",
+              "title": "Só Falta Você",
               "artist": "La Montanara"
             },
             {
-              "title": "Lusitano",
+              "title": "Farristas de Ontem",
               "artist": "Os Futuristas"
             },
             {
@@ -7873,7 +7875,7 @@
               "artist": "Super Banda Santa Cruz"
             },
             {
-              "title": "Tio Delavi",
+              "title": "Ta Tudo Bem",
               "artist": "Super Banda Santa Cruz"
             }
           ],
@@ -7910,21 +7912,20 @@
     "2026-12-03": {
       "rounds": [
         {
-          "songId": "super-banda-choppao--o-que-tem-a-rosa",
-          "trackId": 463900132,
+          "songId": "super-banda-choppao--segue-a-frida",
+          "trackId": 1395141672,
           "altTrackIds": [
-            364531181,
-            3269359021
+            3269358901
           ],
-          "title": "O QUE TEM A ROSA",
+          "title": "Segue a Frida",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Polkinha do Alemão",
+              "title": "Hulala K'necus",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Oktoberfest Song",
+              "title": "Marreca (A Dança da Marreca)",
               "artist": "Banda Cavalinho"
             },
             {
@@ -7932,7 +7933,7 @@
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "O QUE TEM A ROSA",
+              "title": "Segue a Frida",
               "artist": "Super Banda Choppão"
             }
           ],
@@ -7965,10 +7966,10 @@
           "answerIndex": 1
         },
         {
-          "songId": "monte-azul--e-agora-seu-jaco",
-          "trackId": 2814048642,
+          "songId": "monte-azul--e-homem-ou-mulher",
+          "trackId": 3617541562,
           "altTrackIds": [],
-          "title": "E Agora Seu Jacó",
+          "title": "É Homem ou Mulher?",
           "artist": "Monte Azul",
           "options": [
             {
@@ -7980,23 +7981,24 @@
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Melô do Rolo",
+              "title": "O QUE TEM A ROSA",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "E Agora Seu Jacó",
+              "title": "É Homem ou Mulher?",
               "artist": "Monte Azul"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "os-montanari--melo-do-rolo",
-          "trackId": 3129418871,
+          "songId": "os-montanari--heyo-heyo",
+          "trackId": 3049792261,
           "altTrackIds": [
-            3129521081
+            82594856,
+            3129418931
           ],
-          "title": "Melô do Rolo",
+          "title": "Heyo, Heyo",
           "artist": "Os Montanari",
           "options": [
             {
@@ -8004,15 +8006,15 @@
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "Marie, Der Letzte Tanz Is Nur Fur Dich",
+              "title": "Novemberfest em Lucas",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Hulala K'necus",
+              "title": "Ich Wolt Noch Mahl",
               "artist": "Super Banda K'necus"
             },
             {
-              "title": "Melô do Rolo",
+              "title": "Heyo, Heyo",
               "artist": "Os Montanari"
             }
           ],
@@ -8111,11 +8113,11 @@
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Dona Hedi- Augusto Pestana",
+              "title": "Homem da Sua Vida",
               "artist": "Super Musical Monte Carlo"
             },
             {
-              "title": "Zic, Zac",
+              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
               "artist": "Os Montanari"
             },
             {
@@ -8123,7 +8125,7 @@
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Melô do Rolo (Wen Die Bayern Feyern)",
+              "title": "O Verão Sempre Vai Voltar",
               "artist": "Os Montanari"
             }
           ],
@@ -8266,52 +8268,52 @@
           "answerIndex": 0
         },
         {
-          "songId": "monte-azul--olha-a-farra-do-cleomar",
-          "trackId": 2814048672,
+          "songId": "monte-azul--pasos-en-la-arena",
+          "trackId": 4120060051,
           "altTrackIds": [],
-          "title": "Olha A Farra do Cleomar",
+          "title": "Pasos en la arena",
           "artist": "Monte Azul",
           "options": [
+            {
+              "title": "Pasos en la arena",
+              "artist": "Monte Azul"
+            },
+            {
+              "title": "Dança Espanhola",
+              "artist": "Os Montanari"
+            },
             {
               "title": "Olha A Farra do Cleomar",
               "artist": "Monte Azul"
             },
             {
-              "title": "Coronel Boogey",
-              "artist": "Os Montanari"
-            },
-            {
-              "title": "Meu Anjo Lindo",
-              "artist": "Monte Azul"
-            },
-            {
-              "title": "Mamma Mia (Cover)",
+              "title": "Konis Hupen",
               "artist": "Super Banda Hopus"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "super-banda-hopus--konis-hupen",
-          "trackId": 863428852,
+          "songId": "super-banda-hopus--alerta-rancho-grande",
+          "trackId": 854471152,
           "altTrackIds": [],
-          "title": "Konis Hupen",
+          "title": "Alerta Rancho Grande",
           "artist": "Super Banda Hopus",
           "options": [
             {
-              "title": "Acorda Meu Amor",
+              "title": "Chora Seu Domingos",
               "artist": "Os Futuristas"
             },
             {
-              "title": "Tendo Festa Eu Vou!",
+              "title": "Oktoberfest",
               "artist": "Banda Cavalinho"
             },
             {
-              "title": "Konis Hupen",
+              "title": "Alerta Rancho Grande",
               "artist": "Super Banda Hopus"
             },
             {
-              "title": "Farristas de Ontem",
+              "title": "Acorda Meu Amor",
               "artist": "Os Futuristas"
             }
           ],
@@ -8374,28 +8376,26 @@
           "answerIndex": 1
         },
         {
-          "songId": "super-banda-choppao--valsa-dos-amores",
-          "trackId": 463900212,
-          "altTrackIds": [
-            4071608681
-          ],
-          "title": "VALSA DOS AMORES",
+          "songId": "super-banda-choppao--so-quero-festejar",
+          "trackId": 463900052,
+          "altTrackIds": [],
+          "title": "SÓ QUERO FESTEJAR",
           "artist": "Super Banda Choppão",
           "options": [
             {
-              "title": "Me Liga",
+              "title": "Na Magia da Música",
               "artist": "La Montanara"
             },
             {
-              "title": "Hoem Parapapa (Mega Dance)",
+              "title": "Noites Quentes",
               "artist": "Banda Munich"
             },
             {
-              "title": "O QUE TEM A ROSA",
+              "title": "Jetzt Geht's Los",
               "artist": "Super Banda Choppão"
             },
             {
-              "title": "VALSA DOS AMORES",
+              "title": "SÓ QUERO FESTEJAR",
               "artist": "Super Banda Choppão"
             }
           ],

@@ -473,7 +473,7 @@
               "artist": "Os Replicantes"
             },
             {
-              "title": "Olhos Verdes",
+              "title": "O Amor Se Escondeu",
               "artist": "Papas da Língua"
             },
             {
@@ -554,7 +554,7 @@
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "ABRA A SUA CABEÇA",
+              "title": "Melô do Analfabeto",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -795,7 +795,7 @@
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Cowboy (Pesadão)",
+              "title": "Detetive Vs Melissa",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -1192,22 +1192,20 @@
     "2026-10-14": {
       "rounds": [
         {
-          "songId": "comunidade-nin-jitsu--cowboy",
-          "trackId": 1167106852,
+          "songId": "comunidade-nin-jitsu--carburou",
+          "trackId": 1032116872,
           "altTrackIds": [
-            101490084,
-            548336132,
-            1103240992
+            1961293637
           ],
-          "title": "Cowboy",
+          "title": "Carburou",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "(Eu Te Amo) Lucinda",
+              "title": "Cores Bonitas",
               "artist": "Bidê ou Balde"
             },
             {
-              "title": "Cowboy",
+              "title": "Carburou",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -1215,7 +1213,7 @@
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Debaixo do Chapéu",
+              "title": "Bom Brasileiro",
               "artist": "Cachorro Grande"
             }
           ],
@@ -1554,35 +1552,38 @@
               "artist": "Cachorro Grande"
             },
             {
-              "title": "Olhos Verdes",
+              "title": "Lua Cheia",
               "artist": "Papas da Língua"
             }
           ],
           "answerIndex": 2
         },
         {
-          "songId": "comunidade-nin-jitsu--borracho-y-loco",
-          "trackId": 4170305312,
+          "songId": "comunidade-nin-jitsu--arrastao-do-amor",
+          "trackId": 1167106872,
           "altTrackIds": [
-            2164107507
+            101490096,
+            548336122,
+            651881112,
+            1103240932
           ],
-          "title": "Borracho Y Loco",
+          "title": "Arrastão do Amor",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Borracho Y Loco",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Nunca Diga",
+              "title": "Meus Dois Amigos",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Lua Cheia",
+              "title": "O Amor Se Escondeu",
               "artist": "Papas da Língua"
             },
             {
-              "title": "Pequeno Grande Amor",
+              "title": "Olhos Verdes",
               "artist": "Papas da Língua"
             }
           ],
@@ -1703,32 +1704,30 @@
           "answerIndex": 2
         },
         {
-          "songId": "comunidade-nin-jitsu--detetive",
-          "trackId": 1094177342,
+          "songId": "comunidade-nin-jitsu--cowboy",
+          "trackId": 1167106852,
           "altTrackIds": [
-            548336092,
-            1103241002,
-            1120517452,
-            1167106952,
-            1803353847
+            101490084,
+            548336132,
+            1103240992
           ],
-          "title": "Detetive",
+          "title": "Cowboy",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Bromélias",
+              "title": "Matelassê",
               "artist": "Bidê ou Balde"
             },
             {
-              "title": "Detetive",
+              "title": "Cowboy",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Vem Pra Cá",
+              "title": "Viajar",
               "artist": "Papas da Língua"
             },
             {
-              "title": "Rap do Trago",
+              "title": "Toda Molhada (Casa do Sol)",
               "artist": "Comunidade Nin-Jitsu"
             }
           ],
@@ -1941,7 +1940,7 @@
               "artist": "Cachorro Grande"
             },
             {
-              "title": "Ah! Eu Tô Sem Erva",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -1989,57 +1988,68 @@
           "answerIndex": 3
         },
         {
-          "songId": "graforreia-xilarmonica--voce-foi-embora",
-          "trackId": 982399952,
-          "altTrackIds": [],
-          "title": "Você Foi Embora",
-          "artist": "Graforréia Xilarmônica",
+          "songId": "comunidade-nin-jitsu--rap-do-trago",
+          "trackId": 1094177362,
+          "altTrackIds": [
+            1103240912,
+            1120517412,
+            1120517462,
+            2635444752
+          ],
+          "title": "Rap do Trago",
+          "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Você Foi Embora",
-              "artist": "Graforréia Xilarmônica"
+              "title": "Rap do Trago",
+              "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Estou Na Mão",
-              "artist": "TNT"
+              "title": "Lunático",
+              "artist": "Cachorro Grande"
             },
             {
-              "title": "Cachorro Louco",
-              "artist": "TNT"
+              "title": "Sexperienced",
+              "artist": "Cachorro Grande"
             },
             {
-              "title": "Somos Quem Podemos Ser",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Bromélias",
+              "artist": "Bidê ou Balde"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "nenhum-de-nos--amanha-ou-depois",
-          "trackId": 13262190,
+          "songId": "nenhum-de-nos--camila-camila",
+          "trackId": 14272468,
           "altTrackIds": [
-            1032625502,
-            1509997772,
-            2572100992,
-            4139165481
+            141340521,
+            142336499,
+            142336517,
+            142336519,
+            142336521,
+            142336523,
+            678053992,
+            1509945772,
+            1509997742,
+            2572100972
           ],
-          "title": "Amanhã ou Depois",
+          "title": "Camila, Camila",
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Vem Pra Cá",
+              "title": "Um Dia De Sol",
               "artist": "Papas da Língua"
             },
             {
-              "title": "Cores Bonitas",
+              "title": "Bromélias",
               "artist": "Bidê ou Balde"
             },
             {
-              "title": "Amanhã ou Depois",
+              "title": "Camila, Camila",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Sorte",
+              "title": "Lua Cheia",
               "artist": "Papas da Língua"
             }
           ],
@@ -2184,30 +2194,32 @@
           "answerIndex": 1
         },
         {
-          "songId": "comunidade-nin-jitsu--ejaculacao-precoce",
-          "trackId": 1167106892,
+          "songId": "comunidade-nin-jitsu--detetive",
+          "trackId": 1094177342,
           "altTrackIds": [
-            101490100,
-            548336152,
-            1803353857
+            548336092,
+            1103241002,
+            1120517452,
+            1167106952,
+            1803353847
           ],
-          "title": "Ejaculação Precoce",
+          "title": "Detetive",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Ejaculação Precoce",
+              "title": "Detetive",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Carburou",
+              "title": "Toda Molhada",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Eu Gostaria de Matar os Dois",
+              "title": "Você Foi Embora",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Me Envergonha",
+              "title": "Melissa",
               "artist": "Bidê ou Balde"
             }
           ],
@@ -2242,29 +2254,26 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-replicantes--boy-do-subterraneo",
-          "trackId": 13310369,
-          "altTrackIds": [
-            651564802,
-            3725240332
-          ],
-          "title": "Boy Do Subterrâneo",
-          "artist": "Os Replicantes",
+          "songId": "graforreia-xilarmonica--voce-foi-embora",
+          "trackId": 982399952,
+          "altTrackIds": [],
+          "title": "Você Foi Embora",
+          "artist": "Graforréia Xilarmônica",
           "options": [
             {
-              "title": "Me Envergonha",
-              "artist": "Bidê ou Balde"
+              "title": "Viajar",
+              "artist": "Papas da Língua"
             },
             {
-              "title": "Refrão de Bolero",
+              "title": "Infinita Highway",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Boy Do Subterrâneo",
-              "artist": "Os Replicantes"
+              "title": "Você Foi Embora",
+              "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "O Astronauta de Mármore (Starman)",
+              "title": "O Astronauta de Mármore",
               "artist": "Nenhum de Nós"
             }
           ],
@@ -2275,121 +2284,120 @@
     "2026-10-21": {
       "rounds": [
         {
-          "songId": "nenhum-de-nos--vou-deixar-que-voce-se-va",
-          "trackId": 1672800,
+          "songId": "os-replicantes--boy-do-subterraneo",
+          "trackId": 13310369,
           "altTrackIds": [
-            106042421,
-            678054012,
-            1032625572,
-            1509945792,
-            1509997882,
-            1510007962
+            651564802,
+            3725240332
           ],
-          "title": "Vou Deixar Que Você Se Vá",
-          "artist": "Nenhum de Nós",
+          "title": "Boy Do Subterrâneo",
+          "artist": "Os Replicantes",
           "options": [
             {
-              "title": "Até O Fim",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Pra Ser Sincero",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Me Deixa Desafinar",
-              "artist": "Bidê ou Balde"
-            },
-            {
-              "title": "Vou Deixar Que Você Se Vá",
-              "artist": "Nenhum de Nós"
-            }
-          ],
-          "answerIndex": 3
-        },
-        {
-          "songId": "engenheiros-do-hawaii--o-preco",
-          "trackId": 685828422,
-          "altTrackIds": [],
-          "title": "O Preço",
-          "artist": "Engenheiros do Hawaii",
-          "options": [
-            {
-              "title": "O Preço",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Rancho",
+              "title": "Bagaceiro Chinelão",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Detetive Vs Melissa",
-              "artist": "Comunidade Nin-Jitsu"
+              "title": "Nunca Diga",
+              "artist": "Graforréia Xilarmônica"
             },
-            {
-              "title": "A Verdadeira Corrida Espacial",
-              "artist": "Os Replicantes"
-            }
-          ],
-          "answerIndex": 0
-        },
-        {
-          "songId": "comunidade-nin-jitsu--rap-do-trago",
-          "trackId": 1094177362,
-          "altTrackIds": [
-            1103240912,
-            1120517412,
-            1120517462,
-            2635444752
-          ],
-          "title": "Rap do Trago",
-          "artist": "Comunidade Nin-Jitsu",
-          "options": [
             {
               "title": "Blusinha Branca",
               "artist": "Papas da Língua"
             },
             {
-              "title": "O Astronauta de Mármore",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Vem Pra Cá",
-              "artist": "Papas da Língua"
-            },
-            {
-              "title": "Rap do Trago",
-              "artist": "Comunidade Nin-Jitsu"
+              "title": "Boy Do Subterrâneo",
+              "artist": "Os Replicantes"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "os-replicantes--nicotina",
-          "trackId": 13310383,
+          "songId": "nenhum-de-nos--extrano",
+          "trackId": 16988527,
           "altTrackIds": [
-            554981352,
-            651566282,
-            3725240302
+            141340497,
+            142336473,
+            1509997852
           ],
-          "title": "Nicotina",
-          "artist": "Os Replicantes",
+          "title": "Extraño",
+          "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Até O Fim",
+              "title": "Extraño",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Mary Jane",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Agora Eu Tô Bem Louco",
+              "artist": "Cachorro Grande"
+            },
+            {
+              "title": "Spaceball",
+              "artist": "Bidê ou Balde"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rolling-stones",
+          "trackId": 13252212,
+          "altTrackIds": [
+            70086902,
+            122316406,
+            1564486852,
+            1564488292,
+            1564489222
+          ],
+          "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            {
+              "title": "Identidade Zero",
+              "artist": "TNT"
+            },
+            {
+              "title": "Eu Sei",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Não Sei",
+              "artist": "TNT"
+            },
+            {
+              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
               "artist": "Engenheiros do Hawaii"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "comunidade-nin-jitsu--borracho-y-loco",
+          "trackId": 4170305312,
+          "altTrackIds": [
+            2164107507
+          ],
+          "title": "Borracho Y Loco",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            {
+              "title": "Ana Banana",
+              "artist": "TNT"
             },
             {
-              "title": "Eu Gostaria de Matar os Dois",
+              "title": "Pensando Nela",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Baby",
+              "title": "Grito de Tarzan",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Nicotina",
-              "artist": "Os Replicantes"
+              "title": "Borracho Y Loco",
+              "artist": "Comunidade Nin-Jitsu"
             }
           ],
           "answerIndex": 3
@@ -2428,29 +2436,32 @@
     "2026-10-22": {
       "rounds": [
         {
-          "songId": "engenheiros-do-hawaii--vida-real",
-          "trackId": 411541322,
+          "songId": "nenhum-de-nos--amanha-ou-depois",
+          "trackId": 13262190,
           "altTrackIds": [
-            685828362
+            1032625502,
+            1509997772,
+            2572100992,
+            4139165481
           ],
-          "title": "Vida Real",
-          "artist": "Engenheiros do Hawaii",
+          "title": "Amanhã ou Depois",
+          "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Fulvio Sillas",
+              "title": "Eu",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Eu não entendo",
+              "title": "Identidade Zero",
+              "artist": "TNT"
+            },
+            {
+              "title": "O Astronauta de Mármore (Starman)",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Terra de Gigantes",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Vida Real",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Amanhã ou Depois",
+              "artist": "Nenhum de Nós"
             }
           ],
           "answerIndex": 3
@@ -2488,29 +2499,29 @@
           "answerIndex": 2
         },
         {
-          "songId": "comunidade-nin-jitsu--carburou",
-          "trackId": 1032116872,
+          "songId": "engenheiros-do-hawaii--dom-quixote",
+          "trackId": 4682240,
           "altTrackIds": [
-            1961293637
+            685828432
           ],
-          "title": "Carburou",
-          "artist": "Comunidade Nin-Jitsu",
+          "title": "Dom Quixote",
+          "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Sobre o Tempo",
-              "artist": "Nenhum de Nós"
+              "title": "Disco Rock",
+              "artist": "Papas da Língua"
             },
             {
-              "title": "Ejaculação Precoce",
-              "artist": "Comunidade Nin-Jitsu"
+              "title": "Armas Químicas E Poemas",
+              "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Carburou",
-              "artist": "Comunidade Nin-Jitsu"
+              "title": "Dom Quixote",
+              "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Irmã Dr. Robert",
-              "artist": "TNT"
+              "title": "K-7",
+              "artist": "Bidê ou Balde"
             }
           ],
           "answerIndex": 2
@@ -2527,7 +2538,7 @@
           "artist": "Cachorro Grande",
           "options": [
             {
-              "title": "Ejaculação Precoce",
+              "title": "Cowboy",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -2546,36 +2557,31 @@
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--voce-vai-lembrar-de-mim",
-          "trackId": 1379588922,
+          "songId": "os-replicantes--nicotina",
+          "trackId": 13310383,
           "altTrackIds": [
-            678053982,
-            1032625462,
-            1132216752,
-            1509945762,
-            1509997752,
-            2572100982,
-            2572101032,
-            4139165471
+            554981352,
+            651566282,
+            3725240302
           ],
-          "title": "Você Vai Lembrar De Mim",
-          "artist": "Nenhum de Nós",
+          "title": "Nicotina",
+          "artist": "Os Replicantes",
           "options": [
             {
-              "title": "O Astronauta de Mármore",
-              "artist": "Nenhum de Nós"
+              "title": "Boy Do Subterrâneo",
+              "artist": "Os Replicantes"
             },
             {
-              "title": "Denis",
+              "title": "Rancho",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Você Vai Lembrar De Mim",
-              "artist": "Nenhum de Nós"
+              "title": "Nicotina",
+              "artist": "Os Replicantes"
             },
             {
-              "title": "3 X 4",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Tudo Bem",
+              "artist": "Bidê ou Balde"
             }
           ],
           "answerIndex": 2
@@ -2584,6 +2590,134 @@
     },
     "2026-10-23": {
       "rounds": [
+        {
+          "songId": "engenheiros-do-hawaii--vida-real",
+          "trackId": 411541322,
+          "altTrackIds": [
+            685828362
+          ],
+          "title": "Vida Real",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            {
+              "title": "Ela Vai Passar",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Vida Real",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "3ª Do Plural",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Maria Lacerda",
+              "artist": "Os Replicantes"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "papas-da-lingua--essa-nao-e-a-sua-vida",
+          "trackId": 4154047992,
+          "altTrackIds": [
+            3314325,
+            15023938,
+            723079722,
+            3947977371,
+            3947977611
+          ],
+          "title": "Essa Não É A Sua Vida",
+          "artist": "Papas da Língua",
+          "options": [
+            {
+              "title": "Borracho Y Loco",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Essa Não É A Sua Vida",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Viajar",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Buddy Holly",
+              "artist": "Bidê ou Balde"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--paz-e-amor",
+          "trackId": 1379588952,
+          "altTrackIds": [
+            106042431,
+            678054002,
+            1032625592,
+            1076720342,
+            1509945782,
+            1509997892,
+            1510007972,
+            2572101002
+          ],
+          "title": "Paz e Amor",
+          "artist": "Nenhum de Nós",
+          "options": [
+            {
+              "title": "À la Minuta",
+              "artist": "Bidê ou Balde"
+            },
+            {
+              "title": "Vamos para uma Excursão",
+              "artist": "Bidê ou Balde"
+            },
+            {
+              "title": "Paz e Amor",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Melô do Analfabeto",
+              "artist": "Comunidade Nin-Jitsu"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "nenhum-de-nos--o-astronauta-de-marmore-starman",
+          "trackId": 16988518,
+          "altTrackIds": [
+            142337041,
+            142337055,
+            142337057,
+            142337059,
+            142337061,
+            4139165441
+          ],
+          "title": "O Astronauta de Mármore (Starman)",
+          "artist": "Nenhum de Nós",
+          "options": [
+            {
+              "title": "O Astronauta de Mármore (Starman)",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Cowboy",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Você Vai Lembrar De Mim",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Festa Punk",
+              "artist": "Os Replicantes"
+            }
+          ],
+          "answerIndex": 0
+        },
         {
           "songId": "engenheiros-do-hawaii--infinita-highway",
           "trackId": 13310165,
@@ -2605,86 +2739,28 @@
           "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Viajar",
-              "artist": "Papas da Língua"
+              "title": "Festa Punk",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Não Aguento Mais",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Astronauta",
+              "artist": "Os Replicantes"
             },
             {
               "title": "Infinita Highway",
               "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Refrão de Bolero",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Ele Quer Ser Punk",
-              "artist": "Os Replicantes"
             }
           ],
-          "answerIndex": 1
-        },
-        {
-          "songId": "papas-da-lingua--essa-nao-e-a-sua-vida",
-          "trackId": 4154047992,
-          "altTrackIds": [
-            3314325,
-            15023938,
-            723079722,
-            3947977371,
-            3947977611
-          ],
-          "title": "Essa Não É A Sua Vida",
-          "artist": "Papas da Língua",
-          "options": [
-            {
-              "title": "Carburou",
-              "artist": "Comunidade Nin-Jitsu"
-            },
-            {
-              "title": "Essa Não É A Sua Vida",
-              "artist": "Papas da Língua"
-            },
-            {
-              "title": "Viajar",
-              "artist": "Papas da Língua"
-            },
-            {
-              "title": "Buddy Holly",
-              "artist": "Bidê ou Balde"
-            }
-          ],
-          "answerIndex": 1
-        },
-        {
-          "songId": "nenhum-de-nos--extrano",
-          "trackId": 16988527,
-          "altTrackIds": [
-            141340497,
-            142336473,
-            1509997852
-          ],
-          "title": "Extraño",
-          "artist": "Nenhum de Nós",
-          "options": [
-            {
-              "title": "À la Minuta",
-              "artist": "Bidê ou Balde"
-            },
-            {
-              "title": "Vamos para uma Excursão",
-              "artist": "Bidê ou Balde"
-            },
-            {
-              "title": "Extraño",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Ta Pegando Fogo",
-              "artist": "Comunidade Nin-Jitsu"
-            }
-          ],
-          "answerIndex": 2
-        },
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-10-24": {
+      "rounds": [
         {
           "songId": "engenheiros-do-hawaii--toda-forma-de-poder",
           "trackId": 13310114,
@@ -2706,141 +2782,75 @@
           "artist": "Engenheiros do Hawaii",
           "options": [
             {
+              "title": "Me Envergonha",
+              "artist": "Bidê ou Balde"
+            },
+            {
+              "title": "Vou Ligar",
+              "artist": "Papas da Língua"
+            },
+            {
               "title": "Toda Forma De Poder",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Das Coisas Que Eu Entendo",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "O Papa é Pop",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Longa-Metragem",
-              "artist": "Cachorro Grande"
-            }
-          ],
-          "answerIndex": 0
-        },
-        {
-          "songId": "engenheiros-do-hawaii--dom-quixote",
-          "trackId": 4682240,
-          "altTrackIds": [
-            685828432
-          ],
-          "title": "Dom Quixote",
-          "artist": "Engenheiros do Hawaii",
-          "options": [
-            {
-              "title": "Problemas",
-              "artist": "Os Replicantes"
-            },
-            {
-              "title": "Detetive Vs Melissa",
-              "artist": "Comunidade Nin-Jitsu"
-            },
-            {
-              "title": "Astronauta",
-              "artist": "Os Replicantes"
-            },
-            {
-              "title": "Dom Quixote",
-              "artist": "Engenheiros do Hawaii"
-            }
-          ],
-          "answerIndex": 3
-        }
-      ]
-    },
-    "2026-10-24": {
-      "rounds": [
-        {
-          "songId": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rolling-stones",
-          "trackId": 13252212,
-          "altTrackIds": [
-            70086902,
-            122316406,
-            1564486852,
-            1564488292,
-            1564489222
-          ],
-          "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
-          "artist": "Engenheiros do Hawaii",
-          "options": [
-            {
-              "title": "Bromélias",
-              "artist": "Bidê ou Balde"
-            },
-            {
-              "title": "Eu Sei",
-              "artist": "Papas da Língua"
-            },
-            {
-              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Vem Pra Cá",
+              "title": "Disco Rock",
               "artist": "Papas da Língua"
             }
           ],
           "answerIndex": 2
         },
         {
-          "songId": "nenhum-de-nos--camila-camila",
-          "trackId": 14272468,
+          "songId": "nenhum-de-nos--voce-vai-lembrar-de-mim",
+          "trackId": 1379588922,
           "altTrackIds": [
-            141340521,
-            142336499,
-            142336517,
-            142336519,
-            142336521,
-            142336523,
-            678053992,
-            1509945772,
-            1509997742,
-            2572100972
+            678053982,
+            1032625462,
+            1132216752,
+            1509945762,
+            1509997752,
+            2572100982,
+            2572101032,
+            4139165471
           ],
-          "title": "Camila, Camila",
+          "title": "Você Vai Lembrar De Mim",
           "artist": "Nenhum de Nós",
           "options": [
+            {
+              "title": "Calor Da Hora",
+              "artist": "Papas da Língua"
+            },
             {
               "title": "Blusinha Branca",
               "artist": "Papas da Língua"
             },
             {
-              "title": "Sorte",
-              "artist": "Papas da Língua"
-            },
-            {
-              "title": "Camila, Camila",
+              "title": "Você Vai Lembrar De Mim",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Infinita Highway",
+              "title": "Até O Fim",
               "artist": "Engenheiros do Hawaii"
             }
           ],
           "answerIndex": 2
         },
         {
-          "songId": "nenhum-de-nos--o-astronauta-de-marmore-starman",
-          "trackId": 16988518,
+          "songId": "nenhum-de-nos--vou-deixar-que-voce-se-va",
+          "trackId": 1672800,
           "altTrackIds": [
-            142337041,
-            142337055,
-            142337057,
-            142337059,
-            142337061,
-            4139165441
+            106042421,
+            678054012,
+            1032625572,
+            1509945792,
+            1509997882,
+            1510007962
           ],
-          "title": "O Astronauta de Mármore (Starman)",
+          "title": "Vou Deixar Que Você Se Vá",
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Camila, Camila",
+              "title": "Um Girassol Da Cor Do Seu Cabelo",
               "artist": "Nenhum de Nós"
             },
             {
@@ -2848,47 +2858,38 @@
               "artist": "Os Replicantes"
             },
             {
-              "title": "Lua Cheia",
+              "title": "Blusinha Branca",
               "artist": "Papas da Língua"
             },
             {
-              "title": "O Astronauta de Mármore (Starman)",
+              "title": "Vou Deixar Que Você Se Vá",
               "artist": "Nenhum de Nós"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "nenhum-de-nos--paz-e-amor",
-          "trackId": 1379588952,
-          "altTrackIds": [
-            106042431,
-            678054002,
-            1032625592,
-            1076720342,
-            1509945782,
-            1509997892,
-            1510007972,
-            2572101002
-          ],
-          "title": "Paz e Amor",
-          "artist": "Nenhum de Nós",
+          "songId": "engenheiros-do-hawaii--o-preco",
+          "trackId": 685828422,
+          "altTrackIds": [],
+          "title": "O Preço",
+          "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Paz e Amor",
+              "title": "O Preço",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Ana Banana",
+              "artist": "TNT"
+            },
+            {
+              "title": "Armas Químicas E Poemas",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Eu Caminhava",
               "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Dulci",
-              "artist": "Bidê ou Balde"
-            },
-            {
-              "title": "Eu não entendo",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Pensando Nela",
-              "artist": "Graforréia Xilarmônica"
             }
           ],
           "answerIndex": 0
@@ -2968,7 +2969,7 @@
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Amigo Punk",
+              "title": "Carburou",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -3153,7 +3154,7 @@
               "artist": "Papas da Língua"
             },
             {
-              "title": "Borracho Y Loco",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             }
           ],
@@ -3900,30 +3901,28 @@
           "answerIndex": 2
         },
         {
-          "songId": "comunidade-nin-jitsu--cowboy",
-          "trackId": 1167106852,
+          "songId": "comunidade-nin-jitsu--carburou",
+          "trackId": 1032116872,
           "altTrackIds": [
-            101490084,
-            548336132,
-            1103240992
+            1961293637
           ],
-          "title": "Cowboy",
+          "title": "Carburou",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Olhos Verdes",
+              "title": "Lua Cheia",
               "artist": "Papas da Língua"
             },
             {
-              "title": "Cowboy",
+              "title": "Carburou",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Cores Bonitas",
+              "title": "Buddy Holly",
               "artist": "Bidê ou Balde"
             },
             {
-              "title": "Sorte",
+              "title": "Pequeno Grande Amor",
               "artist": "Papas da Língua"
             }
           ],
@@ -4007,7 +4006,7 @@
               "artist": "Os Replicantes"
             },
             {
-              "title": "Borracho Y Loco",
+              "title": "Ejaculação Precoce",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -4146,12 +4145,15 @@
     "2026-11-02": {
       "rounds": [
         {
-          "songId": "comunidade-nin-jitsu--borracho-y-loco",
-          "trackId": 4170305312,
+          "songId": "comunidade-nin-jitsu--arrastao-do-amor",
+          "trackId": 1167106872,
           "altTrackIds": [
-            2164107507
+            101490096,
+            548336122,
+            651881112,
+            1103240932
           ],
-          "title": "Borracho Y Loco",
+          "title": "Arrastão do Amor",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
@@ -4159,11 +4161,11 @@
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Borracho Y Loco",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Festa Punk",
+              "title": "Motel Da Esquina",
               "artist": "Os Replicantes"
             },
             {
@@ -4196,7 +4198,7 @@
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Ta Pegando Fogo",
+              "title": "Melô do Analfabeto",
               "artist": "Comunidade Nin-Jitsu"
             }
           ],
@@ -4323,32 +4325,30 @@
           "answerIndex": 3
         },
         {
-          "songId": "comunidade-nin-jitsu--detetive",
-          "trackId": 1094177342,
+          "songId": "comunidade-nin-jitsu--cowboy",
+          "trackId": 1167106852,
           "altTrackIds": [
-            548336092,
-            1103241002,
-            1120517452,
-            1167106952,
-            1803353847
+            101490084,
+            548336132,
+            1103240992
           ],
-          "title": "Detetive",
+          "title": "Cowboy",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Grito de Tarzan",
+              "title": "Colégio Interno",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Toda Molhada",
+              "title": "Borracho Y Loco",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Detetive",
+              "title": "Cowboy",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Infinita Highway",
+              "title": "O Preço",
               "artist": "Engenheiros do Hawaii"
             }
           ],
@@ -4368,7 +4368,7 @@
               "artist": "Bidê ou Balde"
             },
             {
-              "title": "Ejaculação Precoce",
+              "title": "Cowboy",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -4429,7 +4429,7 @@
               "artist": "Os Replicantes"
             },
             {
-              "title": "Olhos Verdes",
+              "title": "Pequeno Grande Amor",
               "artist": "Papas da Língua"
             },
             {
@@ -4497,7 +4497,7 @@
               "artist": "Cachorro Grande"
             },
             {
-              "title": "Olhos Verdes",
+              "title": "Pequeno Grande Amor",
               "artist": "Papas da Língua"
             },
             {
@@ -4633,23 +4633,29 @@
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--amanha-ou-depois",
-          "trackId": 13262190,
+          "songId": "nenhum-de-nos--camila-camila",
+          "trackId": 14272468,
           "altTrackIds": [
-            1032625502,
-            1509997772,
-            2572100992,
-            4139165481
+            141340521,
+            142336499,
+            142336517,
+            142336519,
+            142336521,
+            142336523,
+            678053992,
+            1509945772,
+            1509997742,
+            2572100972
           ],
-          "title": "Amanhã ou Depois",
+          "title": "Camila, Camila",
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Surfista Calhorda",
+              "title": "Ele Quer Ser Punk",
               "artist": "Os Replicantes"
             },
             {
-              "title": "Amanhã ou Depois",
+              "title": "Camila, Camila",
               "artist": "Nenhum de Nós"
             },
             {
@@ -4657,37 +4663,11 @@
               "artist": "Papas da Língua"
             },
             {
-              "title": "Bagaceiro Chinelão",
+              "title": "Você Foi Embora",
               "artist": "Graforréia Xilarmônica"
             }
           ],
           "answerIndex": 1
-        },
-        {
-          "songId": "graforreia-xilarmonica--voce-foi-embora",
-          "trackId": 982399952,
-          "altTrackIds": [],
-          "title": "Você Foi Embora",
-          "artist": "Graforréia Xilarmônica",
-          "options": [
-            {
-              "title": "Você Foi Embora",
-              "artist": "Graforréia Xilarmônica"
-            },
-            {
-              "title": "O Astronauta de Mármore",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Refrão de Bolero",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Cores Bonitas",
-              "artist": "Bidê ou Balde"
-            }
-          ],
-          "answerIndex": 0
         },
         {
           "songId": "engenheiros-do-hawaii--ate-o-fim",
@@ -4700,20 +4680,51 @@
           "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Sexperienced",
-              "artist": "Cachorro Grande"
-            },
-            {
-              "title": "Hey, Amigo!",
-              "artist": "Cachorro Grande"
-            },
-            {
-              "title": "K-7",
-              "artist": "Bidê ou Balde"
-            },
-            {
               "title": "Até O Fim",
               "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Baby Eu Vou Morar N'outro Planeta",
+              "artist": "TNT"
+            },
+            {
+              "title": "Vou Ligar",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Ah! Eu Tô Sem Erva",
+              "artist": "Comunidade Nin-Jitsu"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--rap-do-trago",
+          "trackId": 1094177362,
+          "altTrackIds": [
+            1103240912,
+            1120517412,
+            1120517462,
+            2635444752
+          ],
+          "title": "Rap do Trago",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            {
+              "title": "Identidade Zero",
+              "artist": "TNT"
+            },
+            {
+              "title": "Nunca Mais Voltar",
+              "artist": "TNT"
+            },
+            {
+              "title": "Infinita Highway",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Rap do Trago",
+              "artist": "Comunidade Nin-Jitsu"
             }
           ],
           "answerIndex": 3
@@ -4795,65 +4806,6 @@
           "answerIndex": 1
         },
         {
-          "songId": "os-replicantes--boy-do-subterraneo",
-          "trackId": 13310369,
-          "altTrackIds": [
-            651564802,
-            3725240332
-          ],
-          "title": "Boy Do Subterrâneo",
-          "artist": "Os Replicantes",
-          "options": [
-            {
-              "title": "Boy Do Subterrâneo",
-              "artist": "Os Replicantes"
-            },
-            {
-              "title": "Somos Quem Podemos Ser",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "O Mundo É Maior Que Teu Quarto",
-              "artist": "TNT"
-            },
-            {
-              "title": "Debaixo do Chapéu",
-              "artist": "Cachorro Grande"
-            }
-          ],
-          "answerIndex": 0
-        },
-        {
-          "songId": "comunidade-nin-jitsu--ejaculacao-precoce",
-          "trackId": 1167106892,
-          "altTrackIds": [
-            101490100,
-            548336152,
-            1803353857
-          ],
-          "title": "Ejaculação Precoce",
-          "artist": "Comunidade Nin-Jitsu",
-          "options": [
-            {
-              "title": "Vamos para uma Excursão",
-              "artist": "Bidê ou Balde"
-            },
-            {
-              "title": "Dança do Tempo",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Das Coisas Que Eu Entendo",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Ejaculação Precoce",
-              "artist": "Comunidade Nin-Jitsu"
-            }
-          ],
-          "answerIndex": 3
-        },
-        {
           "songId": "nenhum-de-nos--julho-de-83",
           "trackId": 106042361,
           "altTrackIds": [
@@ -4871,16 +4823,74 @@
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Colégio Interno",
-              "artist": "Graforréia Xilarmônica"
+              "title": "O Antipático",
+              "artist": "Bidê ou Balde"
             },
             {
               "title": "Liga Essa Bomba",
               "artist": "TNT"
             },
             {
-              "title": "3 X 4",
+              "title": "O Papa é Pop",
               "artist": "Engenheiros do Hawaii"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "comunidade-nin-jitsu--detetive",
+          "trackId": 1094177342,
+          "altTrackIds": [
+            548336092,
+            1103241002,
+            1120517452,
+            1167106952,
+            1803353847
+          ],
+          "title": "Detetive",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            {
+              "title": "Cores Bonitas",
+              "artist": "Bidê ou Balde"
+            },
+            {
+              "title": "Você Vai Lembrar De Mim",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Amanhã ou Depois",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Detetive",
+              "artist": "Comunidade Nin-Jitsu"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "graforreia-xilarmonica--voce-foi-embora",
+          "trackId": 982399952,
+          "altTrackIds": [],
+          "title": "Você Foi Embora",
+          "artist": "Graforréia Xilarmônica",
+          "options": [
+            {
+              "title": "Você Foi Embora",
+              "artist": "Graforréia Xilarmônica"
+            },
+            {
+              "title": "Mesmo Que Mude",
+              "artist": "Bidê ou Balde"
+            },
+            {
+              "title": "Eu Caminhava",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Ele Quer Ser Punk",
+              "artist": "Os Replicantes"
             }
           ],
           "answerIndex": 0
@@ -4918,116 +4928,115 @@
     "2026-11-07": {
       "rounds": [
         {
-          "songId": "nenhum-de-nos--vou-deixar-que-voce-se-va",
-          "trackId": 1672800,
+          "songId": "nenhum-de-nos--extrano",
+          "trackId": 16988527,
           "altTrackIds": [
-            106042421,
-            678054012,
-            1032625572,
-            1509945792,
-            1509997882,
-            1510007962
+            141340497,
+            142336473,
+            1509997852
           ],
-          "title": "Vou Deixar Que Você Se Vá",
+          "title": "Extraño",
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Hippie-Punk-Rajneesh",
+              "title": "Motel Da Esquina",
               "artist": "Os Replicantes"
             },
             {
-              "title": "Vou Deixar Que Você Se Vá",
+              "title": "Extraño",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Merda de Bar",
+              "title": "Ejaculação Precoce",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Toda Molhada",
+              "title": "Ta Pegando Fogo",
               "artist": "Comunidade Nin-Jitsu"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "comunidade-nin-jitsu--rap-do-trago",
-          "trackId": 1094177362,
+          "songId": "comunidade-nin-jitsu--borracho-y-loco",
+          "trackId": 4170305312,
           "altTrackIds": [
-            1103240912,
-            1120517412,
-            1120517462,
-            2635444752
+            2164107507
           ],
-          "title": "Rap do Trago",
+          "title": "Borracho Y Loco",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Pra Ser Sincero",
+              "title": "Era Um Garoto Que Como Eu Amava Os Beatles E Os Rollings Stones (C'Era Un Ragazzo Che Come Me Amava I Beatles E I Rolling Stones)",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Rap do Trago",
+              "title": "Borracho Y Loco",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Dom Quixote",
+              "title": "Somos Quem Podemos Ser",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Você Foi Embora",
+              "title": "Eu",
               "artist": "Graforréia Xilarmônica"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "engenheiros-do-hawaii--o-preco",
-          "trackId": 685828422,
-          "altTrackIds": [],
-          "title": "O Preço",
+          "songId": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rolling-stones",
+          "trackId": 13252212,
+          "altTrackIds": [
+            70086902,
+            122316406,
+            1564486852,
+            1564488292,
+            1564489222
+          ],
+          "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
           "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Dança do Tempo",
+              "title": "Você Vai Lembrar De Mim",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Viajar",
+              "title": "Vem Pra Cá",
               "artist": "Papas da Língua"
             },
             {
-              "title": "O Preço",
+              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Lunático",
+              "title": "Você Não Sabe o Que Perdeu",
               "artist": "Cachorro Grande"
             }
           ],
           "answerIndex": 2
         },
         {
-          "songId": "os-replicantes--nicotina",
-          "trackId": 13310383,
+          "songId": "os-replicantes--boy-do-subterraneo",
+          "trackId": 13310369,
           "altTrackIds": [
-            554981352,
-            651566282,
-            3725240302
+            651564802,
+            3725240332
           ],
-          "title": "Nicotina",
+          "title": "Boy Do Subterrâneo",
           "artist": "Os Replicantes",
           "options": [
             {
-              "title": "K-7",
+              "title": "Matelassê",
               "artist": "Bidê ou Balde"
             },
             {
-              "title": "Nicotina",
+              "title": "Boy Do Subterrâneo",
               "artist": "Os Replicantes"
             },
             {
-              "title": "Armas Químicas E Poemas",
+              "title": "Até O Fim",
               "artist": "Engenheiros do Hawaii"
             },
             {
@@ -5071,64 +5080,59 @@
     "2026-11-08": {
       "rounds": [
         {
-          "songId": "nenhum-de-nos--voce-vai-lembrar-de-mim",
-          "trackId": 1379588922,
+          "songId": "os-replicantes--nicotina",
+          "trackId": 13310383,
           "altTrackIds": [
-            678053982,
-            1032625462,
-            1132216752,
-            1509945762,
-            1509997752,
-            2572100982,
-            2572101032,
-            4139165471
+            554981352,
+            651566282,
+            3725240302
           ],
-          "title": "Você Vai Lembrar De Mim",
-          "artist": "Nenhum de Nós",
+          "title": "Nicotina",
+          "artist": "Os Replicantes",
           "options": [
             {
-              "title": "Surfista Calhorda",
+              "title": "Um Dia De Sol",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "O Papa é Pop",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Nicotina",
               "artist": "Os Replicantes"
             },
             {
-              "title": "Piano Bar",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Pensando Nela",
+              "artist": "Graforréia Xilarmônica"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--dom-quixote",
+          "trackId": 4682240,
+          "altTrackIds": [
+            685828432
+          ],
+          "title": "Dom Quixote",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            {
+              "title": "Amanhã ou Depois",
+              "artist": "Nenhum de Nós"
             },
             {
               "title": "Você Vai Lembrar De Mim",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Rap do Trago",
-              "artist": "Comunidade Nin-Jitsu"
-            }
-          ],
-          "answerIndex": 2
-        },
-        {
-          "songId": "comunidade-nin-jitsu--carburou",
-          "trackId": 1032116872,
-          "altTrackIds": [
-            1961293637
-          ],
-          "title": "Carburou",
-          "artist": "Comunidade Nin-Jitsu",
-          "options": [
-            {
-              "title": "Lunático",
-              "artist": "Cachorro Grande"
-            },
-            {
-              "title": "Que Loucura!",
-              "artist": "Cachorro Grande"
-            },
-            {
-              "title": "Carburou",
-              "artist": "Comunidade Nin-Jitsu"
-            },
-            {
-              "title": "Somos Quem Podemos Ser",
+              "title": "Dom Quixote",
               "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Bom Brasileiro",
+              "artist": "Cachorro Grande"
             }
           ],
           "answerIndex": 2
@@ -5196,29 +5200,32 @@
           "answerIndex": 1
         },
         {
-          "songId": "engenheiros-do-hawaii--vida-real",
-          "trackId": 411541322,
+          "songId": "nenhum-de-nos--amanha-ou-depois",
+          "trackId": 13262190,
           "altTrackIds": [
-            685828362
+            1032625502,
+            1509997772,
+            2572100992,
+            4139165481
           ],
-          "title": "Vida Real",
-          "artist": "Engenheiros do Hawaii",
+          "title": "Amanhã ou Depois",
+          "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Mary Jane",
-              "artist": "Papas da Língua"
+              "title": "Rancho",
+              "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Ela Vai Passar",
-              "artist": "Papas da Língua"
+              "title": "Amigo Punk",
+              "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "(Eu Te Amo) Lucinda",
-              "artist": "Bidê ou Balde"
+              "title": "Toda Molhada (Casa do Sol)",
+              "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Vida Real",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Amanhã ou Depois",
+              "artist": "Nenhum de Nós"
             }
           ],
           "answerIndex": 3
@@ -5228,42 +5235,58 @@
     "2026-11-09": {
       "rounds": [
         {
-          "songId": "engenheiros-do-hawaii--dom-quixote",
-          "trackId": 4682240,
+          "songId": "engenheiros-do-hawaii--infinita-highway",
+          "trackId": 13310165,
           "altTrackIds": [
-            685828432
+            3574063,
+            13310130,
+            70086909,
+            72290887,
+            122316340,
+            122316388,
+            137542373,
+            411541292,
+            685828372,
+            1564486062,
+            1564486872,
+            1564488332
           ],
-          "title": "Dom Quixote",
+          "title": "Infinita Highway",
           "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Dom Quixote",
+              "title": "Infinita Highway",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Tive Teu Nome",
+              "title": "Grito de Tarzan",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Diga a Ela",
+              "title": "Camila, Camila",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Depois De Nós",
+              "title": "3 X 4",
               "artist": "Engenheiros do Hawaii"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "nenhum-de-nos--extrano",
-          "trackId": 16988527,
+          "songId": "nenhum-de-nos--paz-e-amor",
+          "trackId": 1379588952,
           "altTrackIds": [
-            141340497,
-            142336473,
-            1509997852
+            106042431,
+            678054002,
+            1032625592,
+            1076720342,
+            1509945782,
+            1509997892,
+            1510007972,
+            2572101002
           ],
-          "title": "Extraño",
+          "title": "Paz e Amor",
           "artist": "Nenhum de Nós",
           "options": [
             {
@@ -5275,11 +5298,11 @@
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Canção Da Meia Noite",
+              "title": "Jornais",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Extraño",
+              "title": "Paz e Amor",
               "artist": "Nenhum de Nós"
             }
           ],
@@ -5303,7 +5326,7 @@
               "artist": "Papas da Língua"
             },
             {
-              "title": "Olhos Verdes",
+              "title": "O Amor Se Escondeu",
               "artist": "Papas da Língua"
             },
             {
@@ -5317,6 +5340,71 @@
           ],
           "answerIndex": 0
         },
+        {
+          "songId": "nenhum-de-nos--o-astronauta-de-marmore-starman",
+          "trackId": 16988518,
+          "altTrackIds": [
+            142337041,
+            142337055,
+            142337057,
+            142337059,
+            142337061,
+            4139165441
+          ],
+          "title": "O Astronauta de Mármore (Starman)",
+          "artist": "Nenhum de Nós",
+          "options": [
+            {
+              "title": "Amanhã ou Depois",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "O Astronauta de Mármore (Starman)",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Rancho",
+              "artist": "Graforréia Xilarmônica"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "engenheiros-do-hawaii--vida-real",
+          "trackId": 411541322,
+          "altTrackIds": [
+            685828362
+          ],
+          "title": "Vida Real",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            {
+              "title": "Empregada",
+              "artist": "Graforréia Xilarmônica"
+            },
+            {
+              "title": "Vida Real",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Dança do Tempo",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Terra de Gigantes",
+              "artist": "Engenheiros do Hawaii"
+            }
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    "2026-11-10": {
+      "rounds": [
         {
           "songId": "engenheiros-do-hawaii--toda-forma-de-poder",
           "trackId": 13310114,
@@ -5338,103 +5426,58 @@
           "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Depois De Nós",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Oh! Deby",
-              "artist": "TNT"
-            },
-            {
               "title": "Toda Forma De Poder",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Colégio Interno",
-              "artist": "Graforréia Xilarmônica"
-            }
-          ],
-          "answerIndex": 2
-        },
-        {
-          "songId": "engenheiros-do-hawaii--infinita-highway",
-          "trackId": 13310165,
-          "altTrackIds": [
-            3574063,
-            13310130,
-            70086909,
-            72290887,
-            122316340,
-            122316388,
-            137542373,
-            411541292,
-            685828372,
-            1564486062,
-            1564486872,
-            1564488332
-          ],
-          "title": "Infinita Highway",
-          "artist": "Engenheiros do Hawaii",
-          "options": [
-            {
-              "title": "Eu",
-              "artist": "Graforréia Xilarmônica"
+              "title": "Toda Molhada (Casa do Sol 2025)",
+              "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Infinita Highway",
-              "artist": "Engenheiros do Hawaii"
+              "title": "ABRA A SUA CABEÇA",
+              "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Amanhã ou Depois",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Somos Quem Podemos Ser",
-              "artist": "Engenheiros do Hawaii"
-            }
-          ],
-          "answerIndex": 1
-        }
-      ]
-    },
-    "2026-11-10": {
-      "rounds": [
-        {
-          "songId": "nenhum-de-nos--camila-camila",
-          "trackId": 14272468,
-          "altTrackIds": [
-            141340521,
-            142336499,
-            142336517,
-            142336519,
-            142336521,
-            142336523,
-            678053992,
-            1509945772,
-            1509997742,
-            2572100972
-          ],
-          "title": "Camila, Camila",
-          "artist": "Nenhum de Nós",
-          "options": [
-            {
-              "title": "Camila, Camila",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Cores Bonitas",
+              "title": "Spaceball",
               "artist": "Bidê ou Balde"
-            },
-            {
-              "title": "Melissa",
-              "artist": "Bidê ou Balde"
-            },
-            {
-              "title": "Refrão de Bolero",
-              "artist": "Engenheiros do Hawaii"
             }
           ],
           "answerIndex": 0
+        },
+        {
+          "songId": "nenhum-de-nos--voce-vai-lembrar-de-mim",
+          "trackId": 1379588922,
+          "altTrackIds": [
+            678053982,
+            1032625462,
+            1132216752,
+            1509945762,
+            1509997752,
+            2572100982,
+            2572101032,
+            4139165471
+          ],
+          "title": "Você Vai Lembrar De Mim",
+          "artist": "Nenhum de Nós",
+          "options": [
+            {
+              "title": "Sandina",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Ah! Eu Tô Sem Erva",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "A Verdadeira Corrida Espacial",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Você Vai Lembrar De Mim",
+              "artist": "Nenhum de Nós"
+            }
+          ],
+          "answerIndex": 3
         },
         {
           "songId": "comunidade-nin-jitsu--toda-molhada-casa-do-sol",
@@ -5448,78 +5491,44 @@
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Rancho",
-              "artist": "Graforréia Xilarmônica"
-            },
-            {
-              "title": "Identidade Zero",
-              "artist": "TNT"
-            },
-            {
-              "title": "Bagaceiro Chinelão",
-              "artist": "Graforréia Xilarmônica"
+              "title": "Debaixo do Chapéu",
+              "artist": "Cachorro Grande"
             },
             {
               "title": "Toda Molhada (Casa do Sol)",
               "artist": "Comunidade Nin-Jitsu"
-            }
-          ],
-          "answerIndex": 3
-        },
-        {
-          "songId": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rolling-stones",
-          "trackId": 13252212,
-          "altTrackIds": [
-            70086902,
-            122316406,
-            1564486852,
-            1564488292,
-            1564489222
-          ],
-          "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
-          "artist": "Engenheiros do Hawaii",
-          "options": [
-            {
-              "title": "Não Aguento Mais",
-              "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Hippie-Punk-Rajneesh",
+              "artist": "Os Replicantes"
             },
             {
-              "title": "Você Vai Lembrar De Mim",
-              "artist": "Nenhum de Nós"
-            },
-            {
-              "title": "Toda Molhada",
-              "artist": "Comunidade Nin-Jitsu"
+              "title": "Hey, Amigo!",
+              "artist": "Cachorro Grande"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--paz-e-amor",
-          "trackId": 1379588952,
+          "songId": "nenhum-de-nos--vou-deixar-que-voce-se-va",
+          "trackId": 1672800,
           "altTrackIds": [
-            106042431,
-            678054002,
-            1032625592,
-            1076720342,
-            1509945782,
-            1509997892,
-            1510007972,
-            2572101002
+            106042421,
+            678054012,
+            1032625572,
+            1509945792,
+            1509997882,
+            1510007962
           ],
-          "title": "Paz e Amor",
+          "title": "Vou Deixar Que Você Se Vá",
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Tom & Jerry",
+              "title": "Só Mais Uma Chance (Pin-Up)",
               "artist": "Os Replicantes"
             },
             {
-              "title": "Pensando Nela",
+              "title": "Rancho",
               "artist": "Graforréia Xilarmônica"
             },
             {
@@ -5527,41 +5536,34 @@
               "artist": "Os Replicantes"
             },
             {
-              "title": "Paz e Amor",
+              "title": "Vou Deixar Que Você Se Vá",
               "artist": "Nenhum de Nós"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "nenhum-de-nos--o-astronauta-de-marmore-starman",
-          "trackId": 16988518,
-          "altTrackIds": [
-            142337041,
-            142337055,
-            142337057,
-            142337059,
-            142337061,
-            4139165441
-          ],
-          "title": "O Astronauta de Mármore (Starman)",
-          "artist": "Nenhum de Nós",
+          "songId": "engenheiros-do-hawaii--o-preco",
+          "trackId": 685828422,
+          "altTrackIds": [],
+          "title": "O Preço",
+          "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Baby Eu Vou Morar N'outro Planeta",
-              "artist": "TNT"
+              "title": "Pingos de Amor",
+              "artist": "Papas da Língua"
             },
             {
-              "title": "Você Me Deixa Insano",
-              "artist": "TNT"
+              "title": "Calor Da Hora",
+              "artist": "Papas da Língua"
             },
             {
-              "title": "O Astronauta de Mármore (Starman)",
-              "artist": "Nenhum de Nós"
+              "title": "O Preço",
+              "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Bromélias",
-              "artist": "Bidê ou Balde"
+              "title": "Baby",
+              "artist": "Graforréia Xilarmônica"
             }
           ],
           "answerIndex": 2
@@ -5586,7 +5588,7 @@
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Merda de Bar",
+              "title": "Ejaculação Precoce",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -5675,7 +5677,7 @@
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Ejaculação Precoce",
+              "title": "Melô do Analfabeto",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -5911,7 +5913,7 @@
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Cores Bonitas",
+              "title": "(Eu Te Amo) Lucinda",
               "artist": "Bidê ou Balde"
             },
             {
@@ -6436,7 +6438,7 @@
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Cowboy",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             }
           ],
@@ -6573,14 +6575,12 @@
           "answerIndex": 3
         },
         {
-          "songId": "comunidade-nin-jitsu--cowboy",
-          "trackId": 1167106852,
+          "songId": "comunidade-nin-jitsu--carburou",
+          "trackId": 1032116872,
           "altTrackIds": [
-            101490084,
-            548336132,
-            1103240992
+            1961293637
           ],
-          "title": "Cowboy",
+          "title": "Carburou",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
@@ -6592,11 +6592,11 @@
               "artist": "TNT"
             },
             {
-              "title": "Até O Fim",
+              "title": "Armas Químicas E Poemas",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Cowboy",
+              "title": "Carburou",
               "artist": "Comunidade Nin-Jitsu"
             }
           ],
@@ -6837,7 +6837,7 @@
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Merda de Bar",
+              "title": "Ejaculação Precoce",
               "artist": "Comunidade Nin-Jitsu"
             }
           ],
@@ -6882,7 +6882,7 @@
           "artist": "Cachorro Grande",
           "options": [
             {
-              "title": "Lua Cheia",
+              "title": "Eu Sei",
               "artist": "Papas da Língua"
             },
             {
@@ -6901,28 +6901,31 @@
           "answerIndex": 1
         },
         {
-          "songId": "comunidade-nin-jitsu--borracho-y-loco",
-          "trackId": 4170305312,
+          "songId": "comunidade-nin-jitsu--arrastao-do-amor",
+          "trackId": 1167106872,
           "altTrackIds": [
-            2164107507
+            101490096,
+            548336122,
+            651881112,
+            1103240932
           ],
-          "title": "Borracho Y Loco",
+          "title": "Arrastão do Amor",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Borracho Y Loco",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Dia Perfeito",
+              "title": "Hey, Amigo!",
               "artist": "Cachorro Grande"
             },
             {
-              "title": "3 X 4",
+              "title": "Armas Químicas E Poemas",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Somos Quem Podemos Ser",
+              "title": "Vida Real",
               "artist": "Engenheiros do Hawaii"
             }
           ],
@@ -7023,32 +7026,30 @@
           "answerIndex": 3
         },
         {
-          "songId": "comunidade-nin-jitsu--detetive",
-          "trackId": 1094177342,
+          "songId": "comunidade-nin-jitsu--cowboy",
+          "trackId": 1167106852,
           "altTrackIds": [
-            548336092,
-            1103241002,
-            1120517452,
-            1167106952,
-            1803353847
+            101490084,
+            548336132,
+            1103240992
           ],
-          "title": "Detetive",
+          "title": "Cowboy",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Não Sei",
+              "title": "Entra Nessa",
               "artist": "TNT"
             },
             {
-              "title": "Detetive",
+              "title": "Cowboy",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Você Me Deixa Insano",
+              "title": "Irmã Dr. Robert",
               "artist": "TNT"
             },
             {
-              "title": "Sorte",
+              "title": "Disco Rock",
               "artist": "Papas da Língua"
             }
           ],
@@ -7072,7 +7073,7 @@
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Olhos Verdes",
+              "title": "Pequeno Grande Amor",
               "artist": "Papas da Língua"
             },
             {
@@ -7246,27 +7247,33 @@
     "2026-11-22": {
       "rounds": [
         {
-          "songId": "nenhum-de-nos--amanha-ou-depois",
-          "trackId": 13262190,
+          "songId": "nenhum-de-nos--camila-camila",
+          "trackId": 14272468,
           "altTrackIds": [
-            1032625502,
-            1509997772,
-            2572100992,
-            4139165481
+            141340521,
+            142336499,
+            142336517,
+            142336519,
+            142336521,
+            142336523,
+            678053992,
+            1509945772,
+            1509997742,
+            2572100972
           ],
-          "title": "Amanhã ou Depois",
+          "title": "Camila, Camila",
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Amanhã ou Depois",
+              "title": "Camila, Camila",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "3 X 4",
+              "title": "Somos Quem Podemos Ser",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Desentoa",
+              "title": "Que Loucura!",
               "artist": "Cachorro Grande"
             },
             {
@@ -7310,30 +7317,32 @@
           "answerIndex": 0
         },
         {
-          "songId": "engenheiros-do-hawaii--ate-o-fim",
-          "trackId": 4682241,
+          "songId": "comunidade-nin-jitsu--rap-do-trago",
+          "trackId": 1094177362,
           "altTrackIds": [
-            411541312,
-            685828342
+            1103240912,
+            1120517412,
+            1120517462,
+            2635444752
           ],
-          "title": "Até O Fim",
-          "artist": "Engenheiros do Hawaii",
+          "title": "Rap do Trago",
+          "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "O Preço",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Carburou",
+              "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Colégio Interno",
+              "title": "Rancho",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Um Dia De Sol",
+              "title": "Viajar",
               "artist": "Papas da Língua"
             },
             {
-              "title": "Até O Fim",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Rap do Trago",
+              "artist": "Comunidade Nin-Jitsu"
             }
           ],
           "answerIndex": 3
@@ -7369,27 +7378,30 @@
           "answerIndex": 1
         },
         {
-          "songId": "graforreia-xilarmonica--voce-foi-embora",
-          "trackId": 982399952,
-          "altTrackIds": [],
-          "title": "Você Foi Embora",
-          "artist": "Graforréia Xilarmônica",
+          "songId": "engenheiros-do-hawaii--ate-o-fim",
+          "trackId": 4682241,
+          "altTrackIds": [
+            411541312,
+            685828342
+          ],
+          "title": "Até O Fim",
+          "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Boy Do Subterrâneo",
-              "artist": "Os Replicantes"
+              "title": "Carburou",
+              "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Sorte",
-              "artist": "Papas da Língua"
+              "title": "K-7",
+              "artist": "Bidê ou Balde"
             },
             {
-              "title": "Você Foi Embora",
-              "artist": "Graforréia Xilarmônica"
+              "title": "Até O Fim",
+              "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Um Dia De Sol",
-              "artist": "Papas da Língua"
+              "title": "Tudo Bem",
+              "artist": "Bidê ou Balde"
             }
           ],
           "answerIndex": 2
@@ -7427,30 +7439,33 @@
           "answerIndex": 2
         },
         {
-          "songId": "os-replicantes--boy-do-subterraneo",
-          "trackId": 13310369,
+          "songId": "nenhum-de-nos--julho-de-83",
+          "trackId": 106042361,
           "altTrackIds": [
-            651564802,
-            3725240332
+            13262197,
+            1032625552,
+            1132216762,
+            1509997782,
+            1510007902
           ],
-          "title": "Boy Do Subterrâneo",
-          "artist": "Os Replicantes",
+          "title": "Julho de 83",
+          "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Ana Banana",
-              "artist": "TNT"
+              "title": "Você Me Faz Continuar",
+              "artist": "Cachorro Grande"
             },
             {
-              "title": "Denis",
-              "artist": "Graforréia Xilarmônica"
+              "title": "Buddy Holly",
+              "artist": "Bidê ou Balde"
             },
             {
-              "title": "Boy Do Subterrâneo",
-              "artist": "Os Replicantes"
+              "title": "Julho de 83",
+              "artist": "Nenhum de Nós"
             },
             {
-              "title": "Nunca Diga",
-              "artist": "Graforréia Xilarmônica"
+              "title": "Back To Quinze",
+              "artist": "Bidê ou Balde"
             }
           ],
           "answerIndex": 2
@@ -7495,63 +7510,59 @@
           "answerIndex": 1
         },
         {
-          "songId": "comunidade-nin-jitsu--ejaculacao-precoce",
-          "trackId": 1167106892,
+          "songId": "comunidade-nin-jitsu--detetive",
+          "trackId": 1094177342,
           "altTrackIds": [
-            101490100,
-            548336152,
-            1803353857
+            548336092,
+            1103241002,
+            1120517452,
+            1167106952,
+            1803353847
           ],
-          "title": "Ejaculação Precoce",
+          "title": "Detetive",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Dança do Tempo",
+              "title": "Amanhã ou Depois",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Ejaculação Precoce",
+              "title": "Detetive",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Tudo Que Ela Gosta de Escutar",
+              "title": "Não Aguento Mais",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Punk de Boutique",
+              "title": "Ele Quer Ser Punk",
               "artist": "Os Replicantes"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--julho-de-83",
-          "trackId": 106042361,
-          "altTrackIds": [
-            13262197,
-            1032625552,
-            1132216762,
-            1509997782,
-            1510007902
-          ],
-          "title": "Julho de 83",
-          "artist": "Nenhum de Nós",
+          "songId": "graforreia-xilarmonica--voce-foi-embora",
+          "trackId": 982399952,
+          "altTrackIds": [],
+          "title": "Você Foi Embora",
+          "artist": "Graforréia Xilarmônica",
           "options": [
             {
-              "title": "Baby Eu Vou Morar N'outro Planeta",
-              "artist": "TNT"
-            },
-            {
-              "title": "Toda Molhada (Casa do Sol)",
-              "artist": "Comunidade Nin-Jitsu"
-            },
-            {
-              "title": "Era Um Garoto Que Como Eu Amava Os Beatles E Os Rollings Stones (C'Era Un Ragazzo Che Come Me Amava I Beatles E I Rolling Stones)",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Julho de 83",
+              "title": "Camila, Camila",
               "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Lunático",
+              "artist": "Cachorro Grande"
+            },
+            {
+              "title": "Ele Quer Ser Punk",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Você Foi Embora",
+              "artist": "Graforréia Xilarmônica"
             }
           ],
           "answerIndex": 3
@@ -7590,53 +7601,49 @@
           "answerIndex": 2
         },
         {
-          "songId": "comunidade-nin-jitsu--rap-do-trago",
-          "trackId": 1094177362,
+          "songId": "comunidade-nin-jitsu--borracho-y-loco",
+          "trackId": 4170305312,
           "altTrackIds": [
-            1103240912,
-            1120517412,
-            1120517462,
-            2635444752
+            2164107507
           ],
-          "title": "Rap do Trago",
+          "title": "Borracho Y Loco",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Rap do Trago",
+              "title": "Borracho Y Loco",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Estou Na Mão",
+              "title": "Identidade Zero",
               "artist": "TNT"
             },
             {
-              "title": "Irmã Dr. Robert",
+              "title": "O Mundo É Maior Que Teu Quarto",
               "artist": "TNT"
             },
             {
-              "title": "Nunca Diga",
+              "title": "Pensando Nela",
               "artist": "Graforréia Xilarmônica"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "os-replicantes--nicotina",
-          "trackId": 13310383,
+          "songId": "os-replicantes--boy-do-subterraneo",
+          "trackId": 13310369,
           "altTrackIds": [
-            554981352,
-            651566282,
-            3725240302
+            651564802,
+            3725240332
           ],
-          "title": "Nicotina",
+          "title": "Boy Do Subterrâneo",
           "artist": "Os Replicantes",
           "options": [
             {
-              "title": "Quem Procura Acha",
+              "title": "O Mundo É Maior Que Teu Quarto",
               "artist": "TNT"
             },
             {
-              "title": "Nicotina",
+              "title": "Boy Do Subterrâneo",
               "artist": "Os Replicantes"
             },
             {
@@ -7644,32 +7651,29 @@
               "artist": "Cachorro Grande"
             },
             {
-              "title": "Mentira",
+              "title": "Festa Punk",
               "artist": "Os Replicantes"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--vou-deixar-que-voce-se-va",
-          "trackId": 1672800,
+          "songId": "nenhum-de-nos--extrano",
+          "trackId": 16988527,
           "altTrackIds": [
-            106042421,
-            678054012,
-            1032625572,
-            1509945792,
-            1509997882,
-            1510007962
+            141340497,
+            142336473,
+            1509997852
           ],
-          "title": "Vou Deixar Que Você Se Vá",
+          "title": "Extraño",
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Vou Deixar Que Você Se Vá",
+              "title": "Extraño",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Liga Essa Bomba",
+              "title": "Não Quero Mais Te Ver",
               "artist": "TNT"
             },
             {
@@ -7677,33 +7681,39 @@
               "artist": "Papas da Língua"
             },
             {
-              "title": "O Preço",
+              "title": "Pose",
               "artist": "Engenheiros do Hawaii"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "engenheiros-do-hawaii--o-preco",
-          "trackId": 685828422,
-          "altTrackIds": [],
-          "title": "O Preço",
+          "songId": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rolling-stones",
+          "trackId": 13252212,
+          "altTrackIds": [
+            70086902,
+            122316406,
+            1564486852,
+            1564488292,
+            1564489222
+          ],
+          "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
           "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Desentoa",
+              "title": "Dia Perfeito",
               "artist": "Cachorro Grande"
             },
             {
-              "title": "Nicotina",
+              "title": "Ele Quer Ser Punk",
               "artist": "Os Replicantes"
             },
             {
-              "title": "Diga a Ela",
+              "title": "Sobre o Tempo",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "O Preço",
+              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
               "artist": "Engenheiros do Hawaii"
             }
           ],
@@ -7746,64 +7756,62 @@
           "answerIndex": 3
         },
         {
-          "songId": "engenheiros-do-hawaii--vida-real",
-          "trackId": 411541322,
+          "songId": "nenhum-de-nos--amanha-ou-depois",
+          "trackId": 13262190,
           "altTrackIds": [
-            685828362
+            1032625502,
+            1509997772,
+            2572100992,
+            4139165481
           ],
-          "title": "Vida Real",
-          "artist": "Engenheiros do Hawaii",
+          "title": "Amanhã ou Depois",
+          "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "3ª Do Plural",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Toda Molhada (Casa do Sol 2025)",
-              "artist": "Comunidade Nin-Jitsu"
-            },
-            {
-              "title": "Paz e Amor",
+              "title": "Vou Deixar Que Você Se Vá",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Vida Real",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Hippie-Punk-Rajneesh",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Dia Perfeito",
+              "artist": "Cachorro Grande"
+            },
+            {
+              "title": "Amanhã ou Depois",
+              "artist": "Nenhum de Nós"
             }
           ],
           "answerIndex": 3
         },
         {
-          "songId": "nenhum-de-nos--voce-vai-lembrar-de-mim",
-          "trackId": 1379588922,
+          "songId": "os-replicantes--nicotina",
+          "trackId": 13310383,
           "altTrackIds": [
-            678053982,
-            1032625462,
-            1132216752,
-            1509945762,
-            1509997752,
-            2572100982,
-            2572101032,
-            4139165471
+            554981352,
+            651566282,
+            3725240302
           ],
-          "title": "Você Vai Lembrar De Mim",
-          "artist": "Nenhum de Nós",
+          "title": "Nicotina",
+          "artist": "Os Replicantes",
           "options": [
             {
-              "title": "Irmã Dr. Robert",
-              "artist": "TNT"
-            },
-            {
-              "title": "Infinita Highway",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Sorte",
+              "title": "O Amor Se Escondeu",
               "artist": "Papas da Língua"
             },
             {
-              "title": "Você Vai Lembrar De Mim",
-              "artist": "Nenhum de Nós"
+              "title": "Ejaculação Precoce",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Buddy Holly",
+              "artist": "Bidê ou Balde"
+            },
+            {
+              "title": "Nicotina",
+              "artist": "Os Replicantes"
             }
           ],
           "answerIndex": 3
@@ -7832,36 +7840,36 @@
               "artist": "Cachorro Grande"
             },
             {
-              "title": "Ejaculação Precoce",
+              "title": "Cowboy",
               "artist": "Comunidade Nin-Jitsu"
             }
           ],
           "answerIndex": 2
         },
         {
-          "songId": "comunidade-nin-jitsu--carburou",
-          "trackId": 1032116872,
+          "songId": "engenheiros-do-hawaii--dom-quixote",
+          "trackId": 4682240,
           "altTrackIds": [
-            1961293637
+            685828432
           ],
-          "title": "Carburou",
-          "artist": "Comunidade Nin-Jitsu",
+          "title": "Dom Quixote",
+          "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Somos Quem Podemos Ser",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Era Um Garoto Que Como Eu Amava Os Beatles E Os Rollings Stones (C'Era Un Ragazzo Che Come Me Amava I Beatles E I Rolling Stones)",
-              "artist": "Engenheiros do Hawaii"
-            },
-            {
-              "title": "Carburou",
+              "title": "ABRA A SUA CABEÇA",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Vou Ligar",
-              "artist": "Papas da Língua"
+              "title": "Borracho Y Loco",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Dom Quixote",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Grito de Tarzan",
+              "artist": "Graforréia Xilarmônica"
             }
           ],
           "answerIndex": 2
@@ -7871,70 +7879,73 @@
     "2026-11-26": {
       "rounds": [
         {
-          "songId": "engenheiros-do-hawaii--toda-forma-de-poder",
-          "trackId": 13310114,
+          "songId": "nenhum-de-nos--o-astronauta-de-marmore-starman",
+          "trackId": 16988518,
           "altTrackIds": [
-            13310132,
-            70086903,
-            72290885,
-            122316312,
-            122316324,
-            122316392,
-            137727527,
-            411541302,
-            1564486012,
-            1564487072,
-            1564488282,
-            1564489172
+            142337041,
+            142337055,
+            142337057,
+            142337059,
+            142337061,
+            4139165441
           ],
-          "title": "Toda Forma De Poder",
-          "artist": "Engenheiros do Hawaii",
+          "title": "O Astronauta de Mármore (Starman)",
+          "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Eu não entendo",
+              "title": "Ele Quer Ser Punk",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "O Astronauta de Mármore (Starman)",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Toda Forma De Poder",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Dia Perfeito",
+              "artist": "Cachorro Grande"
             },
             {
-              "title": "Amigo Punk",
-              "artist": "Comunidade Nin-Jitsu"
-            },
-            {
-              "title": "Literatura Brasileira",
-              "artist": "Graforréia Xilarmônica"
+              "title": "Sorte",
+              "artist": "Papas da Língua"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--extrano",
-          "trackId": 16988527,
+          "songId": "engenheiros-do-hawaii--infinita-highway",
+          "trackId": 13310165,
           "altTrackIds": [
-            141340497,
-            142336473,
-            1509997852
+            3574063,
+            13310130,
+            70086909,
+            72290887,
+            122316340,
+            122316388,
+            137542373,
+            411541292,
+            685828372,
+            1564486062,
+            1564486872,
+            1564488332
           ],
-          "title": "Extraño",
-          "artist": "Nenhum de Nós",
+          "title": "Infinita Highway",
+          "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Disco Rock",
-              "artist": "Papas da Língua"
+              "title": "Me Deixa Desafinar",
+              "artist": "Bidê ou Balde"
             },
             {
-              "title": "A Cigana",
-              "artist": "TNT"
+              "title": "Ah! Eu Tô Sem Erva",
+              "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Quem Procura Acha",
-              "artist": "TNT"
+              "title": "Toda Molhada",
+              "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Extraño",
-              "artist": "Nenhum de Nós"
+              "title": "Infinita Highway",
+              "artist": "Engenheiros do Hawaii"
             }
           ],
           "answerIndex": 3
@@ -7972,68 +7983,64 @@
           "answerIndex": 3
         },
         {
-          "songId": "engenheiros-do-hawaii--dom-quixote",
-          "trackId": 4682240,
+          "songId": "engenheiros-do-hawaii--vida-real",
+          "trackId": 411541322,
           "altTrackIds": [
-            685828432
+            685828362
           ],
-          "title": "Dom Quixote",
+          "title": "Vida Real",
           "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Vou Deixar Que Você Se Vá",
+              "title": "Tente Outra Vez",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Twist",
+              "title": "Tive Teu Nome",
               "artist": "Graforréia Xilarmônica"
             },
             {
-              "title": "Dom Quixote",
+              "title": "Vida Real",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Eu não entendo",
+              "title": "Duas Metades",
               "artist": "Nenhum de Nós"
             }
           ],
           "answerIndex": 2
         },
         {
-          "songId": "engenheiros-do-hawaii--infinita-highway",
-          "trackId": 13310165,
+          "songId": "nenhum-de-nos--paz-e-amor",
+          "trackId": 1379588952,
           "altTrackIds": [
-            3574063,
-            13310130,
-            70086909,
-            72290887,
-            122316340,
-            122316388,
-            137542373,
-            411541292,
-            685828372,
-            1564486062,
-            1564486872,
-            1564488332
+            106042431,
+            678054002,
+            1032625592,
+            1076720342,
+            1509945782,
+            1509997892,
+            1510007972,
+            2572101002
           ],
-          "title": "Infinita Highway",
-          "artist": "Engenheiros do Hawaii",
+          "title": "Paz e Amor",
+          "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Infinita Highway",
+              "title": "Paz e Amor",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Toda Molhada (Casa do Sol 2025)",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Toda Forma De Poder",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Bagaceiro Chinelão",
-              "artist": "Graforréia Xilarmônica"
-            },
-            {
-              "title": "Astronauta",
-              "artist": "Os Replicantes"
-            },
-            {
-              "title": "Até O Fim",
-              "artist": "Engenheiros do Hawaii"
+              "title": "Dança do Tempo",
+              "artist": "Nenhum de Nós"
             }
           ],
           "answerIndex": 0
@@ -8043,33 +8050,35 @@
     "2026-11-27": {
       "rounds": [
         {
-          "songId": "nenhum-de-nos--o-astronauta-de-marmore-starman",
-          "trackId": 16988518,
+          "songId": "nenhum-de-nos--voce-vai-lembrar-de-mim",
+          "trackId": 1379588922,
           "altTrackIds": [
-            142337041,
-            142337055,
-            142337057,
-            142337059,
-            142337061,
-            4139165441
+            678053982,
+            1032625462,
+            1132216752,
+            1509945762,
+            1509997752,
+            2572100982,
+            2572101032,
+            4139165471
           ],
-          "title": "O Astronauta de Mármore (Starman)",
+          "title": "Você Vai Lembrar De Mim",
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "3 X 4",
+              "title": "Somos Quem Podemos Ser",
               "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Borracho Y Loco",
+              "artist": "Comunidade Nin-Jitsu"
             },
             {
               "title": "Cowboy",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Toda Molhada",
-              "artist": "Comunidade Nin-Jitsu"
-            },
-            {
-              "title": "O Astronauta de Mármore (Starman)",
+              "title": "Você Vai Lembrar De Mim",
               "artist": "Nenhum de Nós"
             }
           ],
@@ -8099,111 +8108,105 @@
               "artist": "Os Replicantes"
             },
             {
-              "title": "ABRA A SUA CABEÇA",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             }
           ],
           "answerIndex": 0
         },
         {
-          "songId": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rolling-stones",
-          "trackId": 13252212,
+          "songId": "engenheiros-do-hawaii--toda-forma-de-poder",
+          "trackId": 13310114,
           "altTrackIds": [
-            70086902,
-            122316406,
-            1564486852,
-            1564488292,
-            1564489222
+            13310132,
+            70086903,
+            72290885,
+            122316312,
+            122316324,
+            122316392,
+            137727527,
+            411541302,
+            1564486012,
+            1564487072,
+            1564488282,
+            1564489172
           ],
-          "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+          "title": "Toda Forma De Poder",
           "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Refrão de Bolero",
+              "title": "Terra de Gigantes",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+              "title": "Toda Forma De Poder",
               "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Amanhã ou Depois",
+              "title": "Santa Felicidade",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Surfista Calhorda",
+              "title": "Chernobil",
               "artist": "Os Replicantes"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--camila-camila",
-          "trackId": 14272468,
-          "altTrackIds": [
-            141340521,
-            142336499,
-            142336517,
-            142336519,
-            142336521,
-            142336523,
-            678053992,
-            1509945772,
-            1509997742,
-            2572100972
-          ],
-          "title": "Camila, Camila",
-          "artist": "Nenhum de Nós",
+          "songId": "engenheiros-do-hawaii--o-preco",
+          "trackId": 685828422,
+          "altTrackIds": [],
+          "title": "O Preço",
+          "artist": "Engenheiros do Hawaii",
           "options": [
             {
-              "title": "Sandina",
-              "artist": "Os Replicantes"
+              "title": "Tudo Bem",
+              "artist": "Bidê ou Balde"
             },
             {
-              "title": "Camila, Camila",
-              "artist": "Nenhum de Nós"
+              "title": "O Preço",
+              "artist": "Engenheiros do Hawaii"
             },
             {
-              "title": "Astronauta",
-              "artist": "Os Replicantes"
+              "title": "K-7",
+              "artist": "Bidê ou Balde"
             },
             {
-              "title": "Grito de Tarzan",
+              "title": "Meus Dois Amigos",
               "artist": "Graforréia Xilarmônica"
             }
           ],
           "answerIndex": 1
         },
         {
-          "songId": "nenhum-de-nos--paz-e-amor",
-          "trackId": 1379588952,
+          "songId": "nenhum-de-nos--vou-deixar-que-voce-se-va",
+          "trackId": 1672800,
           "altTrackIds": [
-            106042431,
-            678054002,
-            1032625592,
-            1076720342,
-            1509945782,
-            1509997892,
-            1510007972,
-            2572101002
+            106042421,
+            678054012,
+            1032625572,
+            1509945792,
+            1509997882,
+            1510007962
           ],
-          "title": "Paz e Amor",
+          "title": "Vou Deixar Que Você Se Vá",
           "artist": "Nenhum de Nós",
           "options": [
             {
-              "title": "Não Quero Mais Te Ver",
+              "title": "Irmã Dr. Robert",
               "artist": "TNT"
             },
             {
-              "title": "Dulci",
+              "title": "Cores Bonitas",
               "artist": "Bidê ou Balde"
             },
             {
-              "title": "Democracy",
+              "title": "Blusinha Branca",
               "artist": "Papas da Língua"
             },
             {
-              "title": "Paz e Amor",
+              "title": "Vou Deixar Que Você Se Vá",
               "artist": "Nenhum de Nós"
             }
           ],
@@ -8233,7 +8236,7 @@
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Ah! Eu Tô Sem Erva (Pesadona)",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -8259,11 +8262,11 @@
               "artist": "Cachorro Grande"
             },
             {
-              "title": "Carburou",
+              "title": "Borracho Y Loco",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Toda Molhada (Casa do Sol)",
+              "title": "Toda Molhada",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -8923,7 +8926,7 @@
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Ah! Eu Tô Sem Erva",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
@@ -9153,26 +9156,24 @@
           "answerIndex": 0
         },
         {
-          "songId": "comunidade-nin-jitsu--cowboy",
-          "trackId": 1167106852,
+          "songId": "comunidade-nin-jitsu--carburou",
+          "trackId": 1032116872,
           "altTrackIds": [
-            101490084,
-            548336132,
-            1103240992
+            1961293637
           ],
-          "title": "Cowboy",
+          "title": "Carburou",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Cowboy",
+              "title": "Carburou",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Sobre o Tempo",
+              "title": "Tente Outra Vez",
               "artist": "Nenhum de Nós"
             },
             {
-              "title": "Bom Brasileiro",
+              "title": "Agora Eu Tô Bem Louco",
               "artist": "Cachorro Grande"
             },
             {
@@ -9409,7 +9410,7 @@
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Meus Dois Amigos",
+              "title": "Literatura Brasileira",
               "artist": "Graforréia Xilarmônica"
             },
             {
@@ -9421,7 +9422,7 @@
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Literatura Brasileira",
+              "title": "Fulvio Sillas",
               "artist": "Graforréia Xilarmônica"
             }
           ],
@@ -9544,28 +9545,31 @@
           "answerIndex": 3
         },
         {
-          "songId": "comunidade-nin-jitsu--borracho-y-loco",
-          "trackId": 4170305312,
+          "songId": "comunidade-nin-jitsu--arrastao-do-amor",
+          "trackId": 1167106872,
           "altTrackIds": [
-            2164107507
+            101490096,
+            548336122,
+            651881112,
+            1103240932
           ],
-          "title": "Borracho Y Loco",
+          "title": "Arrastão do Amor",
           "artist": "Comunidade Nin-Jitsu",
           "options": [
             {
-              "title": "Borracho Y Loco",
+              "title": "Arrastão do Amor",
               "artist": "Comunidade Nin-Jitsu"
             },
             {
-              "title": "Sorte",
+              "title": "Pequeno Grande Amor",
               "artist": "Papas da Língua"
             },
             {
-              "title": "Que Loucura!",
+              "title": "Ningém Mais Lembra de Você",
               "artist": "Cachorro Grande"
             },
             {
-              "title": "O Mundo É Maior Que Teu Quarto",
+              "title": "Quem Procura Acha",
               "artist": "TNT"
             }
           ],
