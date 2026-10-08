@@ -1,4 +1,12 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "regions": ["gru1"]
+  "regions": ["gru1"],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "fitak7.vercel.app" }],
+      "destination": "https://fitak7.com/$1",
+      "permanent": true
+    }
+  ]
 }
