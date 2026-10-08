@@ -48,6 +48,7 @@ Durações ficam em `lib/game/config.ts` (`NORMAL_CLIP_SECONDS = 15`, `HARD_CLIP
 - O Deezer pode devolver erro com HTTP 200 e um objeto `{ "error": { ... } }` no corpo. Tratar isso como erro.
 - Listas são paginadas (`index`, `limit`, campo `next`). Sempre percorrer até o fim.
 - Algumas faixas vêm com `preview` vazio. Essas são descartadas.
+- **Disponibilidade depende do país do IP.** Muitas faixas só tocam no Brasil (`available_countries: ["BR"]`); fora dele o Deezer devolve sem preview. Por isso as funções rodam em `gru1` (`vercel.json`). Não mudar a região.
 
 ## Dados
 
