@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next";
 import type { Metadata, Viewport } from "next";
 import { Archivo, JetBrains_Mono, Permanent_Marker, Rubik_Mono_One } from "next/font/google";
 
@@ -52,6 +53,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="flex min-h-full flex-col font-sans">
         <AppHeader />
         <main className="mx-auto w-full max-w-md flex-1 px-5 pt-7 pb-12">{children}</main>
+        <Analytics />
       </body>
     </html>
   );
