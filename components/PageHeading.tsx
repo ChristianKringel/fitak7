@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 import { tapeNumber } from "./tape";
 
 interface PageHeadingProps {
@@ -11,6 +13,13 @@ interface PageHeadingProps {
 export function PageHeading({ mode, title, index, color }: PageHeadingProps) {
   return (
     <div className="flex flex-col gap-2">
+      <Link
+        href="/"
+        className="-ml-1 flex min-h-11 w-fit items-center gap-1.5 px-1 text-[13px] font-semibold text-muted hover:text-fg"
+      >
+        <span aria-hidden>←</span>
+        Categorias
+      </Link>
       <p className="eyebrow flex items-center gap-2 text-accent">
         <span aria-hidden className="h-3 w-3 rounded-full border-2 border-ink" style={{ background: color }} />
         K7 {tapeNumber(index)} · {mode}
