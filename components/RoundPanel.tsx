@@ -33,10 +33,16 @@ interface RoundPanelProps {
   after: ReactNode;
   /** Shown when the audio fails (e.g. a skip button). */
   onAudioError?: ReactNode;
+  /**
+   * Load the clip as soon as the round shows up. Off in rooms, where the
+   * first audio request starts the round's clock.
+   */
+  preload?: boolean;
 }
 
 export function RoundPanel(props: RoundPanelProps) {
-  const { heading, color, options, audioSrc, clipSeconds, result, onGuess, after, onAudioError } = props;
+  const { heading, color, options, audioSrc, clipSeconds, result, onGuess, after, onAudioError, preload = true } =
+    props;
   const player = useClipPlayer();
   const { prepare, reset } = player;
   const [pending, setPending] = useState<number | null>(null);
@@ -44,8 +50,8 @@ export function RoundPanel(props: RoundPanelProps) {
 
   // Start loading the clip as soon as the round shows up.
   useEffect(() => {
-    prepare(audioSrc);
-  }, [audioSrc, prepare]);
+    if (preload) prepare(audioSrc);
+  }, [audioSrc, prepare, preload]);
 
   async function choose(choice: number) {
     setPending(choice);

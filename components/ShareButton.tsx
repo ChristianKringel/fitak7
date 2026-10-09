@@ -4,7 +4,7 @@ import { useState } from "react";
 
 import { primaryButton } from "./styles";
 
-export function ShareButton({ text }: { text: string }) {
+export function ShareButton({ text, label = "Compartilhar resultado" }: { text: string; label?: string }) {
   const [feedback, setFeedback] = useState<string | null>(null);
 
   async function share() {
@@ -28,7 +28,7 @@ export function ShareButton({ text }: { text: string }) {
 
   return (
     <button type="button" onClick={share} className={`${primaryButton} w-full`}>
-      {feedback ?? "Compartilhar resultado"}
+      {feedback ?? label}
     </button>
   );
 }

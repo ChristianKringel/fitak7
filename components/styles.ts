@@ -17,3 +17,7 @@ export const card = "rounded-2xl border-2 border-line bg-surface/40 p-4";
 
 /** Paper label, like the sticker on a cassette. */
 export const paperLabel = "rounded-[10px] border-2 border-ink bg-paper text-ink";
+
+/** Text field on a paper background; 16px so iOS doesn't zoom in on focus. */
+export const textInput =
+  "min-h-[50px] w-full rounded-xl border-2 border-ink bg-paper px-4 text-[16px] font-semibold text-ink placeholder:text-paper-muted/70";

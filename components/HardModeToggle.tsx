@@ -1,5 +1,6 @@
 "use client";
 
+import { usePathname } from "next/navigation";
 import { useEffect, useId, useRef, useState } from "react";
 
 import { HARD_CLIP_SECONDS, NORMAL_CLIP_SECONDS } from "@/lib/game/config";
@@ -8,9 +9,16 @@ import { updateGameState, useGameState } from "@/lib/storage/game-store";
 
 import { paperLabel } from "./styles";
 
+/** Multiplayer rooms have their own mode, chosen when the room is created. */
+function isMultiplayerPath(pathname: string): boolean {
+  return pathname === "/multiplayer" || pathname.startsWith("/sala/");
+}
+
 export function HardModeToggle() {
+  const pathname = usePathname();
   const state = useGameState();
   const on = state?.preferences.hardMode ?? false;
+  if (isMultiplayerPath(pathname)) return null;
 
   return (
     <div className="flex items-center gap-1.5">

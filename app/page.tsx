@@ -25,6 +25,20 @@ export default async function Home() {
         </p>
       </section>
 
+      <Link
+        href="/multiplayer"
+        className="key mt-5 flex items-center gap-3 rounded-2xl border-2 border-ink bg-tape-yellow px-4 py-3.5 text-ink shadow-[0_4px_0_var(--key-shadow)] hover:bg-[#ffe47a]"
+      >
+        <span className="flex min-w-0 flex-1 flex-col">
+          <span className="font-mono text-[11px] font-bold tracking-[0.12em] uppercase">Multiplayer</span>
+          <span className="text-[17px] leading-tight font-extrabold">Desafie a turma</span>
+          <span className="text-[13px] leading-snug">Crie uma sala, mande o link e veja quem acerta mais.</span>
+        </span>
+        <span aria-hidden className="text-2xl font-black">
+          →
+        </span>
+      </Link>
+
       <h2 className="eyebrow pt-[22px] pb-3 text-accent">Escolha sua fita</h2>
 
       <ul className="flex flex-col gap-[22px]">
