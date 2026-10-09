@@ -2,9 +2,12 @@
 
 import type {
   ApiError,
+  CreateRoomRequest,
   DailyChallengeResponse,
   GuessResponse,
   InfiniteRoundResponse,
+  RoomCodeResponse,
+  RoomResponse,
 } from "./types";
 
 export class ApiRequestError extends Error {
@@ -53,4 +56,12 @@ export const api = {
     `/api/infinite/${enc(category)}/audio?token=${enc(token)}`,
   infiniteGuess: (category: string, token: string, choice: number) =>
     post<GuessResponse>(`/api/infinite/${enc(category)}/guess`, { token, choice }),
+
+  createRoom: (body: CreateRoomRequest) => post<RoomCodeResponse>("/api/rooms", body),
+  room: (code: string) => request<RoomResponse>(`/api/rooms/${enc(code)}`),
+  joinRoom: (code: string, name: string) => post<RoomCodeResponse>(`/api/rooms/${enc(code)}/join`, { name }),
+  rematch: (code: string) => post<RoomCodeResponse>(`/api/rooms/${enc(code)}/rematch`, {}),
+  roomAudioUrl: (code: string, index: number) => `/api/rooms/${enc(code)}/${index}/audio`,
+  roomGuess: (code: string, index: number, choice: number) =>
+    post<GuessResponse>(`/api/rooms/${enc(code)}/${index}/guess`, { choice }),
 };

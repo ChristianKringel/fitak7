@@ -49,3 +49,57 @@ export interface GuessResponse {
 export interface ApiError {
   error: string;
 }
+
+export interface CreateRoomRequest {
+  category: string;
+  roundCount: number;
+  hardMode: boolean;
+  name: string;
+}
+
+export interface JoinRoomRequest {
+  name: string;
+}
+
+export interface RoomCodeResponse {
+  code: string;
+}
+
+export interface RoomStanding {
+  name: string;
+  answered: number;
+  correct: number;
+  totalMs: number;
+  finished: boolean;
+  /** null while still playing. */
+  position: number | null;
+  me: boolean;
+}
+
+export interface RoomRoundRecord {
+  choice: number;
+  answerIndex: number;
+  correct: boolean;
+  elapsedMs: number;
+  answer: RevealedAnswer;
+}
+
+export interface RoomResponse {
+  code: string;
+  category: { slug: string; name: string };
+  roundCount: number;
+  hardMode: boolean;
+  createdAt: number;
+  expiresAt: number;
+  maxPlayers: number;
+  standings: RoomStanding[];
+  /** Code of the rematch room, once someone created it. */
+  rematch: string | null;
+  /** Only for players of the room. */
+  me: {
+    name: string;
+    rounds: { options: RoundOption[] }[];
+    /** Answered rounds, in order. */
+    answers: RoomRoundRecord[];
+  } | null;
+}

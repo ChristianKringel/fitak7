@@ -37,19 +37,28 @@ export async function audioRedirect(trackIds: readonly number[]): Promise<Respon
   return new Response(null, { status: 302, headers: { Location: preview, ...NO_STORE } });
 }
 
-export async function guessResponse(
-  choice: number,
-  answerIndex: number,
-  song: { title: string; artist: string; trackId: number },
-): Promise<Response> {
+/** Song details shown after a guess; album info is best-effort. */
+export async function revealAnswer(song: {
+  title: string;
+  artist: string;
+  trackId: number;
+}): Promise<RevealedAnswer> {
   // Details are best-effort: the guess result must not depend on Deezer.
   const track = await getTrack(song.trackId).catch(() => null);
-  const answer: RevealedAnswer = {
+  return {
     title: song.title,
     artist: song.artist,
     album: track?.album.title ?? null,
     cover: track?.album.cover_big ?? track?.album.cover_medium ?? null,
     link: track?.link ?? null,
   };
+}
+
+export async function guessResponse(
+  choice: number,
+  answerIndex: number,
+  song: { title: string; artist: string; trackId: number },
+): Promise<Response> {
+  const answer = await revealAnswer(song);
   return json<GuessResponse>({ correct: choice === answerIndex, answerIndex, answer });
 }
