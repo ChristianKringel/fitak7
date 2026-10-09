@@ -8603,6 +8603,151 @@
           "answerIndex": 3
         }
       ]
+    },
+    "2026-12-07": {
+      "rounds": [
+        {
+          "songId": "rogerio-magrao-e-banda--tbt-preferido",
+          "trackId": 2369612655,
+          "altTrackIds": [
+            1956224147
+          ],
+          "title": "Tbt Preferido",
+          "artist": "Rogério Magrão e Banda",
+          "options": [
+            {
+              "title": "É Sério",
+              "artist": "Nave Som"
+            },
+            {
+              "title": "Tbt Preferido",
+              "artist": "Rogério Magrão e Banda"
+            },
+            {
+              "title": "Uma Dose Pra Lembrar",
+              "artist": "Nave Som"
+            },
+            {
+              "title": "A Outra (Misturinha)",
+              "artist": "San Marino"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-atuais--nos-bracos-do-coroa",
+          "trackId": 430320722,
+          "altTrackIds": [
+            478321972,
+            3227974431
+          ],
+          "title": "Nos Braços do Coroa",
+          "artist": "Os Atuais",
+          "options": [
+            {
+              "title": "DESPEDIDA DE SOLTEIRO",
+              "artist": "G10"
+            },
+            {
+              "title": "Quando o Baile Acabar",
+              "artist": "San Marino"
+            },
+            {
+              "title": "Nos Braços do Coroa",
+              "artist": "Os Atuais"
+            },
+            {
+              "title": "Moça",
+              "artist": "Os Atuais"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "champion--mes-que-vem-a-gente-casa-30-anos",
+          "trackId": 2254292867,
+          "altTrackIds": [],
+          "title": "Mês Que Vem A Gente Casa - 30 Anos",
+          "artist": "Champion",
+          "options": [
+            {
+              "title": "Tomando Juízo - 30 Anos",
+              "artist": "Champion"
+            },
+            {
+              "title": "Tem Que Ser o Seu",
+              "artist": "Brilha Som"
+            },
+            {
+              "title": "Destinos de Alma",
+              "artist": "G10"
+            },
+            {
+              "title": "Mês Que Vem A Gente Casa - 30 Anos",
+              "artist": "Champion"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "corpo-e-alma--alo-meu-amor",
+          "trackId": 1146225242,
+          "altTrackIds": [
+            1200065242,
+            1367868412,
+            1724229907,
+            2161873617,
+            2293874045
+          ],
+          "title": "Alô Meu Amor",
+          "artist": "Corpo e Alma",
+          "options": [
+            {
+              "title": "Alô Meu Amor",
+              "artist": "Corpo e Alma"
+            },
+            {
+              "title": "SE EU BEBO É POR ELA",
+              "artist": "Musical Festerê"
+            },
+            {
+              "title": "Pássaro Livre",
+              "artist": "Os Atuais"
+            },
+            {
+              "title": "Morena De 15 Anos",
+              "artist": "Os Atuais"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "terceira-dimensao--faz-tempo-que-te-tenteio",
+          "trackId": 478364732,
+          "altTrackIds": [],
+          "title": "Faz Tempo Que Te Tenteio",
+          "artist": "Terceira Dimensão",
+          "options": [
+            {
+              "title": "Faz Tempo Que Te Tenteio",
+              "artist": "Terceira Dimensão"
+            },
+            {
+              "title": "Melô do Gago",
+              "artist": "Terceira Dimensão"
+            },
+            {
+              "title": "Se Você Dissesse",
+              "artist": "Flávio Dalcin e Banda Ouro"
+            },
+            {
+              "title": "Soy Latino Americano",
+              "artist": "Brilha Som"
+            }
+          ],
+          "answerIndex": 0
+        }
+      ]
     }
   }
 }

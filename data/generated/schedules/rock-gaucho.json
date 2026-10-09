@@ -9505,6 +9505,167 @@
           "answerIndex": 1
         }
       ]
+    },
+    "2026-12-07": {
+      "rounds": [
+        {
+          "songId": "nenhum-de-nos--extrano",
+          "trackId": 16988527,
+          "altTrackIds": [
+            142336473,
+            1509997852
+          ],
+          "title": "Extraño",
+          "artist": "Nenhum de Nós",
+          "options": [
+            {
+              "title": "Interligado",
+              "artist": "Cachorro Grande"
+            },
+            {
+              "title": "Hollywood #52",
+              "artist": "Bidê ou Balde"
+            },
+            {
+              "title": "Extraño",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Soninho",
+              "artist": "Bidê ou Balde"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "comunidade-nin-jitsu--nao-aguento-mais",
+          "trackId": 1167106832,
+          "altTrackIds": [
+            101490090,
+            548336082,
+            1103240922,
+            1389315622,
+            1732090967,
+            1803353867
+          ],
+          "title": "Não Aguento Mais",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            {
+              "title": "Não Aguento Mais",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Somos Quem Podemos Ser",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Sinceramente",
+              "artist": "Cachorro Grande"
+            },
+            {
+              "title": "Bagaceiro Chinelão",
+              "artist": "Graforréia Xilarmônica"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "cachorro-grande--dia-perfeito",
+          "trackId": 96219814,
+          "altTrackIds": [
+            96004594,
+            99053752,
+            548278112,
+            1110456902,
+            2571042492,
+            3305967241
+          ],
+          "title": "Dia Perfeito",
+          "artist": "Cachorro Grande",
+          "options": [
+            {
+              "title": "Refrão de Bolero",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Dia Perfeito",
+              "artist": "Cachorro Grande"
+            },
+            {
+              "title": "Um Dia De Sol",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Blusinha Branca",
+              "artist": "Papas da Língua"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-replicantes--surfista-calhorda",
+          "trackId": 13310370,
+          "altTrackIds": [
+            554981382,
+            651564812,
+            769703352
+          ],
+          "title": "Surfista Calhorda",
+          "artist": "Os Replicantes",
+          "options": [
+            {
+              "title": "Você Não Sabe o Que Perdeu",
+              "artist": "Cachorro Grande"
+            },
+            {
+              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Detetive",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Surfista Calhorda",
+              "artist": "Os Replicantes"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rolling-stones",
+          "trackId": 13252212,
+          "altTrackIds": [
+            70086902,
+            122316406,
+            1564486852,
+            1564488292,
+            1564489222
+          ],
+          "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            {
+              "title": "Amigo Punk",
+              "artist": "Graforréia Xilarmônica"
+            },
+            {
+              "title": "Festa Punk",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Mesmo Que Mude",
+              "artist": "Bidê ou Balde"
+            }
+          ],
+          "answerIndex": 2
+        }
+      ]
     }
   }
 }

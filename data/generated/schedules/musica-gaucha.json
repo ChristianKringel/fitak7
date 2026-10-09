@@ -9170,6 +9170,151 @@
           "answerIndex": 0
         }
       ]
+    },
+    "2026-12-07": {
+      "rounds": [
+        {
+          "songId": "teixeirinha--canarinho-cantador",
+          "trackId": 14644754,
+          "altTrackIds": [
+            9054698
+          ],
+          "title": "Canarinho cantador",
+          "artist": "Teixeirinha",
+          "options": [
+            {
+              "title": "Te Tatuei No Coração",
+              "artist": "Sandro Coelho"
+            },
+            {
+              "title": "Amar Você",
+              "artist": "Sandro Coelho"
+            },
+            {
+              "title": "Canarinho cantador",
+              "artist": "Teixeirinha"
+            },
+            {
+              "title": "Deus Gaúcho",
+              "artist": "Grupo Rodeio"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "oswaldir-e-carlos-magrao--lago-verde-azul",
+          "trackId": 430228782,
+          "altTrackIds": [
+            3059394771
+          ],
+          "title": "Lago Verde Azul",
+          "artist": "Oswaldir e Carlos Magrão",
+          "options": [
+            {
+              "title": "GAITEIRO POR DEMAIS",
+              "artist": "Porca Véia"
+            },
+            {
+              "title": "RODEIO DE VACARIA",
+              "artist": "Garotos de Ouro"
+            },
+            {
+              "title": "Lago Verde Azul",
+              "artist": "Oswaldir e Carlos Magrão"
+            },
+            {
+              "title": "TERTÚLIA",
+              "artist": "Oswaldir e Carlos Magrão"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "grupo-portal-gaucho--na-moda-loca",
+          "trackId": 1763942247,
+          "altTrackIds": [
+            2078521237,
+            2517861481,
+            2710502692,
+            2734219651,
+            3204915531,
+            4088532871
+          ],
+          "title": "Na Moda Loca",
+          "artist": "Grupo Portal Gaúcho",
+          "options": [
+            {
+              "title": "Pra Não Pensar Em Você",
+              "artist": "Sandro Coelho"
+            },
+            {
+              "title": "Na Moda Loca",
+              "artist": "Grupo Portal Gaúcho"
+            },
+            {
+              "title": "Acho Que Tô Incomodando",
+              "artist": "Sandro Coelho"
+            },
+            {
+              "title": "De Boca em Boca",
+              "artist": "Luiz Marenco"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "os-serranos--nossa-vanera",
+          "trackId": 416209102,
+          "altTrackIds": [],
+          "title": "Nossa Vanera",
+          "artist": "Os Serranos",
+          "options": [
+            {
+              "title": "Mulher Agro",
+              "artist": "Sandro Coelho"
+            },
+            {
+              "title": "Nossa Vanera",
+              "artist": "Os Serranos"
+            },
+            {
+              "title": "Guri",
+              "artist": "Os Fagundes"
+            },
+            {
+              "title": "Origens",
+              "artist": "Os Fagundes"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "grupo-carqueja--carqueja",
+          "trackId": 2812415472,
+          "altTrackIds": [],
+          "title": "Carqueja",
+          "artist": "Grupo Carqueja",
+          "options": [
+            {
+              "title": "Moça",
+              "artist": "Grupo Portal Gaúcho"
+            },
+            {
+              "title": "Pancoso",
+              "artist": "Paulinho Mocelin"
+            },
+            {
+              "title": "Mal Parido",
+              "artist": "Mano Lima"
+            },
+            {
+              "title": "Carqueja",
+              "artist": "Grupo Carqueja"
+            }
+          ],
+          "answerIndex": 3
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,4849 @@
+{
+  "category": "anos-2020",
+  "topShare": 1,
+  "songs": [
+    {
+      "id": "alok--bye-bye-inhibitions",
+      "title": "Bye Bye Inhibitions",
+      "artist": "Alok",
+      "artistDeezerId": 1429841,
+      "trackId": 4289374152,
+      "altTrackIds": [],
+      "album": {
+        "id": 1080007302,
+        "title": "Bye Bye Inhibitions",
+        "releaseDate": "2026-10-02",
+        "recordType": "single"
+      },
+      "duration": 146,
+      "rank": 809246,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "alok--deep-down",
+      "title": "Deep Down",
+      "artist": "Alok",
+      "artistDeezerId": 1429841,
+      "trackId": 1775000867,
+      "altTrackIds": [
+        1818279427,
+        1857281047,
+        1865016297,
+        1865050527,
+        1886589187,
+        1935178137
+      ],
+      "album": {
+        "id": 323786907,
+        "title": "Deep Down (feat. Never Dull)",
+        "releaseDate": "2022-06-17",
+        "recordType": "single"
+      },
+      "duration": 165,
+      "rank": 754926,
+      "topPosition": 3,
+      "year": 2022
+    },
+    {
+      "id": "alok--dive-into-me",
+      "title": "Dive Into Me",
+      "artist": "Alok",
+      "artistDeezerId": 1429841,
+      "trackId": 3864481301,
+      "altTrackIds": [
+        3949047611,
+        3949047621,
+        3949047631
+      ],
+      "album": {
+        "id": 926315591,
+        "title": "Dive Into Me",
+        "releaseDate": "2026-03-20",
+        "recordType": "single"
+      },
+      "duration": 164,
+      "rank": 829961,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "ana-castela--e-que-eu-nao-te-esqueci",
+      "title": "É Que Eu Não Te Esqueci",
+      "artist": "Ana Castela",
+      "artistDeezerId": 123053672,
+      "trackId": 4020319821,
+      "altTrackIds": [],
+      "album": {
+        "id": 982282511,
+        "title": "Fire Arena",
+        "releaseDate": "2026-05-28",
+        "recordType": "album"
+      },
+      "duration": 163,
+      "rank": 786913,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "ana-castela--fronteira",
+      "title": "Fronteira",
+      "artist": "Ana Castela",
+      "artistDeezerId": 123053672,
+      "trackId": 2674356972,
+      "altTrackIds": [
+        2538689811,
+        2547576672
+      ],
+      "album": {
+        "id": 551420222,
+        "title": "Boiadeira Internacional",
+        "releaseDate": "2024-02-23",
+        "recordType": "album"
+      },
+      "duration": 166,
+      "rank": 670772,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "ana-castela--solteiro-forcado-boiadeira-internacional",
+      "title": "Solteiro Forçado (Boiadeira Internacional)",
+      "artist": "Ana Castela",
+      "artistDeezerId": 123053672,
+      "trackId": 2324778865,
+      "altTrackIds": [
+        2424114085
+      ],
+      "album": {
+        "id": 452575085,
+        "title": "Solteiro Forçado (Boiadeira Internacional)",
+        "releaseDate": "2023-07-07",
+        "recordType": "single"
+      },
+      "duration": 194,
+      "rank": 788888,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "ana-gabriela--nao-te-largo-nao-te-troco",
+      "title": "Não Te Largo, Não Te Troco",
+      "artist": "Ana Gabriela",
+      "artistDeezerId": 12526962,
+      "trackId": 999664722,
+      "altTrackIds": [
+        2483812751,
+        2531318161
+      ],
+      "album": {
+        "id": 156246492,
+        "title": "Ana",
+        "releaseDate": "2020-07-03",
+        "recordType": "compile"
+      },
+      "duration": 189,
+      "rank": 559193,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "ana-gabriela--no-escuro",
+      "title": "No Escuro",
+      "artist": "Ana Gabriela",
+      "artistDeezerId": 12526962,
+      "trackId": 1973100677,
+      "altTrackIds": [
+        1850396437,
+        2531318201
+      ],
+      "album": {
+        "id": 367567587,
+        "title": "Degradê",
+        "releaseDate": "2022-11-04",
+        "recordType": "album"
+      },
+      "duration": 238,
+      "rank": 600989,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "ana-gabriela--x",
+      "title": "X",
+      "artist": "Ana Gabriela",
+      "artistDeezerId": 12526962,
+      "trackId": 974294092,
+      "altTrackIds": [
+        999664692,
+        2531318131
+      ],
+      "album": {
+        "id": 151307062,
+        "title": "X",
+        "releaseDate": "2020-06-19",
+        "recordType": "single"
+      },
+      "duration": 226,
+      "rank": 473079,
+      "topPosition": 3,
+      "year": 2020
+    },
+    {
+      "id": "anavitoria--amarelo-azul-e-branco",
+      "title": "Amarelo, azul e branco",
+      "artist": "Anavitória",
+      "artistDeezerId": 7765128,
+      "trackId": 1173817862,
+      "altTrackIds": [],
+      "album": {
+        "id": 192564652,
+        "title": "COR",
+        "releaseDate": "2021-01-01",
+        "recordType": "album"
+      },
+      "duration": 201,
+      "rank": 621385,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "anavitoria--geleira-do-tempo",
+      "title": "Geleira do tempo",
+      "artist": "Anavitória",
+      "artistDeezerId": 7765128,
+      "trackId": 1506259542,
+      "altTrackIds": [],
+      "album": {
+        "id": 261778202,
+        "title": "Geleira do tempo",
+        "releaseDate": "2021-10-01",
+        "recordType": "single"
+      },
+      "duration": 211,
+      "rank": 664810,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "anavitoria--lisboa",
+      "title": "Lisboa",
+      "artist": "Anavitória",
+      "artistDeezerId": 7765128,
+      "trackId": 1173817992,
+      "altTrackIds": [],
+      "album": {
+        "id": 192564652,
+        "title": "COR",
+        "releaseDate": "2021-01-01",
+        "recordType": "album"
+      },
+      "duration": 219,
+      "rank": 718392,
+      "topPosition": 1,
+      "year": 2021
+    },
+    {
+      "id": "anitta--feitico",
+      "title": "Feitiço",
+      "artist": "Anitta",
+      "artistDeezerId": 4390053,
+      "trackId": 4171205852,
+      "altTrackIds": [],
+      "album": {
+        "id": 1035772942,
+        "title": "EQUILIBRIVM II",
+        "releaseDate": "2026-07-24",
+        "recordType": "album"
+      },
+      "duration": 173,
+      "rank": 824873,
+      "topPosition": 3,
+      "year": 2026
+    },
+    {
+      "id": "anitta--nao-me-cutuca",
+      "title": "Não Me Cutuca",
+      "artist": "Anitta",
+      "artistDeezerId": 4390053,
+      "trackId": 4171205832,
+      "altTrackIds": [],
+      "album": {
+        "id": 1035772942,
+        "title": "EQUILIBRIVM II",
+        "releaseDate": "2026-07-24",
+        "recordType": "album"
+      },
+      "duration": 155,
+      "rank": 869363,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "anitta--voce-ja-sabe",
+      "title": "Você Já Sabe",
+      "artist": "Anitta",
+      "artistDeezerId": 4390053,
+      "trackId": 4171205812,
+      "altTrackIds": [],
+      "album": {
+        "id": 1035772942,
+        "title": "EQUILIBRIVM II",
+        "releaseDate": "2026-07-24",
+        "recordType": "album"
+      },
+      "duration": 163,
+      "rank": 866540,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "baco-exu-do-blues--20-ligacoes",
+      "title": "20 Ligações",
+      "artist": "Baco Exu do Blues",
+      "artistDeezerId": 11136556,
+      "trackId": 3258496171,
+      "altTrackIds": [],
+      "album": {
+        "id": 720992491,
+        "title": "QVVJFA?",
+        "releaseDate": "2022-01-26",
+        "recordType": "album"
+      },
+      "duration": 193,
+      "rank": 630928,
+      "topPosition": 2,
+      "year": 2022
+    },
+    {
+      "id": "baco-exu-do-blues--hotel-caro",
+      "title": "Hotel Caro",
+      "artist": "Baco Exu do Blues",
+      "artistDeezerId": 11136556,
+      "trackId": 3261216921,
+      "altTrackIds": [],
+      "album": {
+        "id": 721796111,
+        "title": "Hotel Caro",
+        "releaseDate": "2022-06-12",
+        "recordType": "single"
+      },
+      "duration": 221,
+      "rank": 643875,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "baco-exu-do-blues--piscina-vazia",
+      "title": "piscina vazia",
+      "artist": "Baco Exu do Blues",
+      "artistDeezerId": 11136556,
+      "trackId": 2847768922,
+      "altTrackIds": [],
+      "album": {
+        "id": 601768472,
+        "title": "FETICHE",
+        "releaseDate": "2024-06-26",
+        "recordType": "album"
+      },
+      "duration": 182,
+      "rank": 594036,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "bk--amanhecer",
+      "title": "Amanhecer",
+      "artist": "BK'",
+      "artistDeezerId": 4633500,
+      "trackId": 3261553741,
+      "altTrackIds": [],
+      "album": {
+        "id": 721909201,
+        "title": "ICARUS",
+        "releaseDate": "2022-11-17",
+        "recordType": "album"
+      },
+      "duration": 211,
+      "rank": 694825,
+      "topPosition": 2,
+      "year": 2022
+    },
+    {
+      "id": "bk--cacos-de-vidro-sample-esperar-pra-ver",
+      "title": "Cacos De Vidro (sample: Esperar pra Ver)",
+      "artist": "BK'",
+      "artistDeezerId": 4633500,
+      "trackId": 3280953131,
+      "altTrackIds": [],
+      "album": {
+        "id": 728302211,
+        "title": "Diamantes, Lágrimas e Rostos para Esquecer",
+        "releaseDate": "2025-01-28",
+        "recordType": "album"
+      },
+      "duration": 149,
+      "rank": 665833,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "bk--musicas-de-amor-nunca-mais",
+      "title": "Músicas de amor nunca mais",
+      "artist": "BK'",
+      "artistDeezerId": 4633500,
+      "trackId": 3261553711,
+      "altTrackIds": [],
+      "album": {
+        "id": 721909201,
+        "title": "ICARUS",
+        "releaseDate": "2022-11-17",
+        "recordType": "album"
+      },
+      "duration": 202,
+      "rank": 696301,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "clayton-e-romario--desacelera-esse-passo",
+      "title": "Desacelera Esse Passo",
+      "artist": "Clayton & Romário",
+      "artistDeezerId": 5910045,
+      "trackId": 3198382181,
+      "altTrackIds": [
+        3118543211,
+        3647895702
+      ],
+      "album": {
+        "id": 701634411,
+        "title": "Ao Vivo em Brasília (Vol.2)",
+        "releaseDate": "2025-02-06",
+        "recordType": "album"
+      },
+      "duration": 183,
+      "rank": 545911,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "clayton-e-romario--opa-cade-eu",
+      "title": "Opa Cadê Eu",
+      "artist": "Clayton & Romário",
+      "artistDeezerId": 5910045,
+      "trackId": 3198382131,
+      "altTrackIds": [
+        3647895672
+      ],
+      "album": {
+        "id": 701634411,
+        "title": "Ao Vivo em Brasília (Vol.2)",
+        "releaseDate": "2025-02-06",
+        "recordType": "album"
+      },
+      "duration": 154,
+      "rank": 752025,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "clayton-e-romario--sei-tocar-violao",
+      "title": "Sei Tocar Violão",
+      "artist": "Clayton & Romário",
+      "artistDeezerId": 5910045,
+      "trackId": 3198382141,
+      "altTrackIds": [
+        2992024051,
+        3647895682
+      ],
+      "album": {
+        "id": 701634411,
+        "title": "Ao Vivo em Brasília (Vol.2)",
+        "releaseDate": "2025-02-06",
+        "recordType": "album"
+      },
+      "duration": 164,
+      "rank": 642620,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "diego-e-victor-hugo--desbloqueado",
+      "title": "Desbloqueado",
+      "artist": "Diego & Victor Hugo",
+      "artistDeezerId": 7068753,
+      "trackId": 1438959432,
+      "altTrackIds": [
+        1548243182,
+        1548246672,
+        1548250572,
+        2102084157,
+        2367032035,
+        3041657901,
+        3041662381,
+        3041667471,
+        3041668991,
+        3041673151,
+        3041676121,
+        3122852791,
+        3202479911,
+        3340363161
+      ],
+      "album": {
+        "id": 245675312,
+        "title": "Equilíbrio (Ao Vivo)",
+        "releaseDate": "2021-07-29",
+        "recordType": "album"
+      },
+      "duration": 188,
+      "rank": 672409,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "diego-e-victor-hugo--facas",
+      "title": "Facas",
+      "artist": "Diego & Victor Hugo",
+      "artistDeezerId": 7068753,
+      "trackId": 1438959482,
+      "altTrackIds": [
+        1100416582,
+        1548243172,
+        1548246662,
+        1548250552,
+        1624617512,
+        2102084207,
+        3041658001,
+        3041662511,
+        3041667711,
+        3041669171,
+        3041673291,
+        3041676441,
+        3340363381
+      ],
+      "album": {
+        "id": 245675312,
+        "title": "Equilíbrio (Ao Vivo)",
+        "releaseDate": "2021-07-29",
+        "recordType": "album"
+      },
+      "duration": 196,
+      "rank": 706250,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "diego-e-victor-hugo--tubaroes",
+      "title": "Tubarões",
+      "artist": "Diego & Victor Hugo",
+      "artistDeezerId": 7068753,
+      "trackId": 3340362911,
+      "altTrackIds": [
+        3648749602,
+        4222435802
+      ],
+      "album": {
+        "id": 747816671,
+        "title": "Sofrência no Grau com Diego & Victor Hugo",
+        "releaseDate": "2025-05-01",
+        "recordType": "album"
+      },
+      "duration": 162,
+      "rank": 932214,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "dilsinho--nao-vai-embora",
+      "title": "Não Vai Embora",
+      "artist": "Dilsinho",
+      "artistDeezerId": 5417614,
+      "trackId": 882338722,
+      "altTrackIds": [],
+      "album": {
+        "id": 132523732,
+        "title": "Não Vai Embora",
+        "releaseDate": "2020-05-08",
+        "recordType": "single"
+      },
+      "duration": 205,
+      "rank": 533185,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "dilsinho--passada-de-mao",
+      "title": "Passada de Mão",
+      "artist": "Dilsinho",
+      "artistDeezerId": 5417614,
+      "trackId": 2821154722,
+      "altTrackIds": [
+        2631197082,
+        3283258591
+      ],
+      "album": {
+        "id": 593128752,
+        "title": "Diferentão 2 Ao Vivo",
+        "releaseDate": "2024-06-06",
+        "recordType": "album"
+      },
+      "duration": 163,
+      "rank": 602900,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "dilsinho--porre",
+      "title": "Porre",
+      "artist": "Dilsinho",
+      "artistDeezerId": 5417614,
+      "trackId": 1573106082,
+      "altTrackIds": [
+        2941116441,
+        2950829891,
+        2950860761,
+        2950864431,
+        2954329361,
+        2954440101
+      ],
+      "album": {
+        "id": 276937042,
+        "title": "Garrafas e Bocas (A Saideira)",
+        "releaseDate": "2021-12-09",
+        "recordType": "album"
+      },
+      "duration": 171,
+      "rank": 394191,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "djonga--melhor-que-ontem",
+      "title": "MELHOR QUE ONTEM",
+      "artist": "Djonga",
+      "artistDeezerId": 8629022,
+      "trackId": 3268059091,
+      "altTrackIds": [],
+      "album": {
+        "id": 723953431,
+        "title": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
+        "releaseDate": "2025-03-13",
+        "recordType": "album"
+      },
+      "duration": 210,
+      "rank": 597793,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "djonga--penumbra",
+      "title": "penumbra",
+      "artist": "Djonga",
+      "artistDeezerId": 8629022,
+      "trackId": 1933819537,
+      "altTrackIds": [],
+      "album": {
+        "id": 360630827,
+        "title": "O Dono do Lugar",
+        "releaseDate": "2022-10-13",
+        "recordType": "album"
+      },
+      "duration": 184,
+      "rank": 570596,
+      "topPosition": 2,
+      "year": 2022
+    },
+    {
+      "id": "djonga--procuro-alguem",
+      "title": "Procuro Alguém",
+      "artist": "Djonga",
+      "artistDeezerId": 8629022,
+      "trackId": 3251396081,
+      "altTrackIds": [],
+      "album": {
+        "id": 718845151,
+        "title": "Histórias da Minha Área",
+        "releaseDate": "2020-03-16",
+        "recordType": "album"
+      },
+      "duration": 213,
+      "rank": 557507,
+      "topPosition": 3,
+      "year": 2020
+    },
+    {
+      "id": "duda-beat--meu-pisero",
+      "title": "Meu Pisêro",
+      "artist": "Duda Beat",
+      "artistDeezerId": 14639121,
+      "trackId": 3234660051,
+      "altTrackIds": [
+        3261708481,
+        3261708491
+      ],
+      "album": {
+        "id": 713355131,
+        "title": "Te Amo Lá Fora",
+        "releaseDate": "2021-04-28",
+        "recordType": "album"
+      },
+      "duration": 199,
+      "rank": 413804,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "duda-beat--nem-um-pouquinho",
+      "title": "Nem um Pouquinho",
+      "artist": "Duda Beat",
+      "artistDeezerId": 14639121,
+      "trackId": 3234660071,
+      "altTrackIds": [
+        3261708391
+      ],
+      "album": {
+        "id": 713355131,
+        "title": "Te Amo Lá Fora",
+        "releaseDate": "2021-04-28",
+        "recordType": "album"
+      },
+      "duration": 255,
+      "rank": 388491,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "duda-beat--voce-vai-gostar",
+      "title": "você vai gostar",
+      "artist": "Duda Beat",
+      "artistDeezerId": 14639121,
+      "trackId": 3487006181,
+      "altTrackIds": [
+        3487008681
+      ],
+      "album": {
+        "id": 797518721,
+        "title": "você vai gostar",
+        "releaseDate": "2025-08-08",
+        "recordType": "single"
+      },
+      "duration": 205,
+      "rank": 502397,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "felipe-amorim--eu-vou-na-sua-casa",
+      "title": "Eu Vou na Sua Casa",
+      "artist": "Felipe Amorim",
+      "artistDeezerId": 7611526,
+      "trackId": 3413629531,
+      "altTrackIds": [
+        3411783221,
+        3453137701
+      ],
+      "album": {
+        "id": 772172221,
+        "title": "RomantiDog",
+        "releaseDate": "2025-06-16",
+        "recordType": "album"
+      },
+      "duration": 179,
+      "rank": 760851,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "felipe-amorim--maria-vaqueiro",
+      "title": "Maria Vaqueiro",
+      "artist": "Felipe Amorim",
+      "artistDeezerId": 7611526,
+      "trackId": 4039332041,
+      "altTrackIds": [],
+      "album": {
+        "id": 989134981,
+        "title": "Maria Vaqueiro",
+        "releaseDate": "2026-05-23",
+        "recordType": "single"
+      },
+      "duration": 132,
+      "rank": 752777,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "felipe-amorim--toca-o-trompete",
+      "title": "Toca o Trompete",
+      "artist": "Felipe Amorim",
+      "artistDeezerId": 7611526,
+      "trackId": 2367060685,
+      "altTrackIds": [
+        2461626825
+      ],
+      "album": {
+        "id": 464218205,
+        "title": "Cadê o After? Pt. 1",
+        "releaseDate": "2023-07-21",
+        "recordType": "ep"
+      },
+      "duration": 163,
+      "rank": 638725,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "felipe-araujo--amando-individual",
+      "title": "Amando Individual",
+      "artist": "Felipe Araújo",
+      "artistDeezerId": 5423737,
+      "trackId": 1443961412,
+      "altTrackIds": [
+        1402090832,
+        1402092002
+      ],
+      "album": {
+        "id": 246920422,
+        "title": "Check",
+        "releaseDate": "2021-07-30",
+        "recordType": "album"
+      },
+      "duration": 176,
+      "rank": 611185,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "felipe-araujo--body-splash",
+      "title": "Body Splash",
+      "artist": "Felipe Araújo",
+      "artistDeezerId": 5423737,
+      "trackId": 3069018071,
+      "altTrackIds": [
+        3069019091,
+        3314542921,
+        3369430161,
+        3426252201,
+        3473499731,
+        3517824921,
+        3604563812,
+        3838275921
+      ],
+      "album": {
+        "id": 664114531,
+        "title": "Carta Aberta (Ao Vivo / Vol.1)",
+        "releaseDate": "2024-11-08",
+        "recordType": "album"
+      },
+      "duration": 155,
+      "rank": 792714,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "felipe-araujo--voce-nao-vale",
+      "title": "Você Não Vale",
+      "artist": "Felipe Araújo",
+      "artistDeezerId": 5423737,
+      "trackId": 1273732352,
+      "altTrackIds": [
+        1173604272,
+        1249536282
+      ],
+      "album": {
+        "id": 214410312,
+        "title": "As Melhores para Fãs",
+        "releaseDate": "2020-12-01",
+        "recordType": "album"
+      },
+      "duration": 180,
+      "rank": 385142,
+      "topPosition": 3,
+      "year": 2020
+    },
+    {
+      "id": "ferrugem--apaguei-pra-todos",
+      "title": "Apaguei Pra Todos",
+      "artist": "Ferrugem",
+      "artistDeezerId": 4397349,
+      "trackId": 2714500592,
+      "altTrackIds": [
+        2714491642,
+        2834053202,
+        3603152672
+      ],
+      "album": {
+        "id": 562889172,
+        "title": "Ferrugem 10 Anos, Vol. 1: O Início (Ao Vivo)",
+        "releaseDate": "2024-04-18",
+        "recordType": "album"
+      },
+      "duration": 198,
+      "rank": 820172,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "ferrugem--interessante",
+      "title": "Interessante",
+      "artist": "Ferrugem",
+      "artistDeezerId": 4397349,
+      "trackId": 2362759725,
+      "altTrackIds": [
+        2256079947,
+        2325193515,
+        2325193525,
+        2563244752,
+        2714500552,
+        2834053162,
+        3548575361
+      ],
+      "album": {
+        "id": 463063035,
+        "title": "Interessante",
+        "releaseDate": "2023-05-05",
+        "recordType": "album"
+      },
+      "duration": 172,
+      "rank": 665809,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "ferrugem--me-bloqueia",
+      "title": "Me Bloqueia",
+      "artist": "Ferrugem",
+      "artistDeezerId": 4397349,
+      "trackId": 2714500622,
+      "altTrackIds": [
+        2656431662,
+        2834053232,
+        3255975851,
+        3603152682
+      ],
+      "album": {
+        "id": 562889172,
+        "title": "Ferrugem 10 Anos, Vol. 1: O Início (Ao Vivo)",
+        "releaseDate": "2024-04-18",
+        "recordType": "album"
+      },
+      "duration": 197,
+      "rank": 738922,
+      "topPosition": 2,
+      "year": 2024
+    },
+    {
+      "id": "filipe-ret--amor-livre",
+      "title": "Amor Livre",
+      "artist": "Filipe Ret",
+      "artistDeezerId": 5049074,
+      "trackId": 2565544742,
+      "altTrackIds": [
+        2566583292
+      ],
+      "album": {
+        "id": 518535652,
+        "title": "FRXV (Ao Vivo)",
+        "releaseDate": "2023-12-15",
+        "recordType": "album"
+      },
+      "duration": 136,
+      "rank": 686720,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "filipe-ret--f-f-m",
+      "title": "F* F* M*",
+      "artist": "Filipe Ret",
+      "artistDeezerId": 5049074,
+      "trackId": 1341528532,
+      "altTrackIds": [
+        1241315882,
+        1270057502,
+        2565544542
+      ],
+      "album": {
+        "id": 222419472,
+        "title": "Imaterial (Deluxe)",
+        "releaseDate": "2021-04-23",
+        "recordType": "album"
+      },
+      "duration": 176,
+      "rank": 661432,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "filipe-ret--kgl-s",
+      "title": "KGL's",
+      "artist": "Filipe Ret",
+      "artistDeezerId": 5049074,
+      "trackId": 3450782901,
+      "altTrackIds": [
+        3463709231
+      ],
+      "album": {
+        "id": 784983451,
+        "title": "Nume - Epílogo",
+        "releaseDate": "2025-07-17",
+        "recordType": "album"
+      },
+      "duration": 258,
+      "rank": 676894,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "gaab--preserve",
+      "title": "Preservê",
+      "artist": "Gaab",
+      "artistDeezerId": 364582,
+      "trackId": 1250285182,
+      "altTrackIds": [
+        1057874782,
+        2560834262,
+        2647191972,
+        2714436752,
+        3925957051
+      ],
+      "album": {
+        "id": 209063062,
+        "title": "U",
+        "releaseDate": "2018-07-27",
+        "recordType": "compile"
+      },
+      "duration": 148,
+      "rank": 370816,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "george-henrique-e-rodrigo--cuida-da-sua-vida",
+      "title": "Cuida da Sua Vida",
+      "artist": "George Henrique & Rodrigo",
+      "artistDeezerId": 4039193,
+      "trackId": 2180378927,
+      "altTrackIds": [],
+      "album": {
+        "id": 414961597,
+        "title": "Influências",
+        "releaseDate": "2023-03-10",
+        "recordType": "album"
+      },
+      "duration": 160,
+      "rank": 387688,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "george-henrique-e-rodrigo--nao-acredito",
+      "title": "Não acredito",
+      "artist": "George Henrique & Rodrigo",
+      "artistDeezerId": 4039193,
+      "trackId": 2180378967,
+      "altTrackIds": [],
+      "album": {
+        "id": 414961597,
+        "title": "Influências",
+        "releaseDate": "2023-03-10",
+        "recordType": "album"
+      },
+      "duration": 208,
+      "rank": 309290,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "george-henrique-e-rodrigo--vai-la-em-casa-hoje",
+      "title": "Vai Lá Em Casa Hoje",
+      "artist": "George Henrique & Rodrigo",
+      "artistDeezerId": 4039193,
+      "trackId": 2542130681,
+      "altTrackIds": [],
+      "album": {
+        "id": 512519381,
+        "title": "Vai Lá Em Casa Hoje (Ao Vivo)",
+        "releaseDate": "2021-10-22",
+        "recordType": "single"
+      },
+      "duration": 191,
+      "rank": 726540,
+      "topPosition": 1,
+      "year": 2021
+    },
+    {
+      "id": "gloria-groove--a-queda",
+      "title": "A QUEDA",
+      "artist": "Gloria Groove",
+      "artistDeezerId": 9848068,
+      "trackId": 1638702492,
+      "altTrackIds": [
+        1513462012,
+        1588354252,
+        2366189065
+      ],
+      "album": {
+        "id": 291494172,
+        "title": "LADY LESTE",
+        "releaseDate": "2022-02-10",
+        "recordType": "album"
+      },
+      "duration": 173,
+      "rank": 618553,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "gloria-groove--nosso-primeiro-beijo",
+      "title": "Nosso Primeiro Beijo",
+      "artist": "Gloria Groove",
+      "artistDeezerId": 9848068,
+      "trackId": 2818478782,
+      "altTrackIds": [
+        3314401261
+      ],
+      "album": {
+        "id": 592174082,
+        "title": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "releaseDate": "2024-05-30",
+        "recordType": "album"
+      },
+      "duration": 168,
+      "rank": 724130,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "gloria-groove--vermelho",
+      "title": "VERMELHO",
+      "artist": "Gloria Groove",
+      "artistDeezerId": 9848068,
+      "trackId": 1638702402,
+      "altTrackIds": [],
+      "album": {
+        "id": 291494172,
+        "title": "LADY LESTE",
+        "releaseDate": "2022-02-10",
+        "recordType": "album"
+      },
+      "duration": 152,
+      "rank": 657660,
+      "topPosition": 2,
+      "year": 2022
+    },
+    {
+      "id": "grupo-revelacao--parabens-pra-voce",
+      "title": "Parabéns pra Você",
+      "artist": "Grupo Revelação",
+      "artistDeezerId": 16893,
+      "trackId": 2485389691,
+      "altTrackIds": [
+        2432959115
+      ],
+      "album": {
+        "id": 496556951,
+        "title": "Pagode do Revela, Pt. 4 (Ao Vivo)",
+        "releaseDate": "2020-03-13",
+        "recordType": "album"
+      },
+      "duration": 306,
+      "rank": 474502,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "guilherme-e-benuto--grau-de-maluca",
+      "title": "Grau de Maluca",
+      "artist": "Guilherme & Benuto",
+      "artistDeezerId": 61145262,
+      "trackId": 3546991501,
+      "altTrackIds": [
+        3427845441
+      ],
+      "album": {
+        "id": 818280341,
+        "title": "+ Amor, + Música Ao Vivo",
+        "releaseDate": "2025-09-18",
+        "recordType": "album"
+      },
+      "duration": 172,
+      "rank": 777582,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "guilherme-e-benuto--manda-um-oi",
+      "title": "Manda um Oi",
+      "artist": "Guilherme & Benuto",
+      "artistDeezerId": 61145262,
+      "trackId": 2631197542,
+      "altTrackIds": [
+        2260528787,
+        2989132781,
+        2989134001,
+        2989134491,
+        2989155761,
+        3060624021,
+        3060629901,
+        3060631921
+      ],
+      "album": {
+        "id": 538366592,
+        "title": "Deu Rolo de Novo (Ao Vivo)",
+        "releaseDate": "2024-02-01",
+        "recordType": "album"
+      },
+      "duration": 166,
+      "rank": 773268,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "guilherme-e-benuto--sujeito-homem",
+      "title": "Sujeito Homem",
+      "artist": "Guilherme & Benuto",
+      "artistDeezerId": 61145262,
+      "trackId": 3060623981,
+      "altTrackIds": [
+        3035175671,
+        3060629841,
+        3202479631,
+        3546991511
+      ],
+      "album": {
+        "id": 661502341,
+        "title": "Guilherme & Benuto - As Mais Tocadas 2025",
+        "releaseDate": "2024-11-01",
+        "recordType": "album"
+      },
+      "duration": 180,
+      "rank": 673173,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "gustavo-mioto--com-ou-sem-mim",
+      "title": "Com Ou Sem Mim",
+      "artist": "Gustavo Mioto",
+      "artistDeezerId": 7674918,
+      "trackId": 1302897012,
+      "altTrackIds": [
+        807595222,
+        1182131292,
+        1196159392,
+        1668041302,
+        2064180187,
+        2330276835,
+        2487370081,
+        2644045192,
+        3033498871,
+        3033498901,
+        3355165791,
+        3450852671
+      ],
+      "album": {
+        "id": 219543122,
+        "title": "Gustavo Mioto – Escolhidas a Dedo",
+        "releaseDate": "2020-12-01",
+        "recordType": "album"
+      },
+      "duration": 194,
+      "rank": 631040,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "gustavo-mioto--despedida-de-casal",
+      "title": "Despedida De Casal",
+      "artist": "Gustavo Mioto",
+      "artistDeezerId": 7674918,
+      "trackId": 1302897002,
+      "altTrackIds": [
+        1143565352,
+        1196159482,
+        1668041342,
+        2064180217,
+        2330276745,
+        2644045292,
+        3033498891,
+        3138993801,
+        3450852721
+      ],
+      "album": {
+        "id": 219543122,
+        "title": "Gustavo Mioto – Escolhidas a Dedo",
+        "releaseDate": "2020-12-01",
+        "recordType": "album"
+      },
+      "duration": 181,
+      "rank": 640320,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "gustavo-mioto--solteiro-nao-trai",
+      "title": "Solteiro Não Trai",
+      "artist": "Gustavo Mioto",
+      "artistDeezerId": 7674918,
+      "trackId": 1196159382,
+      "altTrackIds": [
+        598773612,
+        1302897032,
+        1668041422,
+        2064180177,
+        2644045272,
+        3033498851,
+        3355165811
+      ],
+      "album": {
+        "id": 197344132,
+        "title": "Gustavo Mioto Ao Vivo Em Fortaleza (Ao Vivo)",
+        "releaseDate": "2020-02-14",
+        "recordType": "album"
+      },
+      "duration": 185,
+      "rank": 630399,
+      "topPosition": 3,
+      "year": 2020
+    },
+    {
+      "id": "gusttavo-lima--bloqueado",
+      "title": "Bloqueado",
+      "artist": "Gusttavo Lima",
+      "artistDeezerId": 1541592,
+      "trackId": 1583227252,
+      "altTrackIds": [
+        2030935247,
+        2032414177,
+        2320558135,
+        2653396302,
+        2653398202,
+        2653398742,
+        2695416552,
+        2752447411,
+        2752448791,
+        3060636211,
+        3060642001,
+        3130780941,
+        3133499461,
+        3135061651,
+        3202479831,
+        3397827791,
+        4170283802
+      ],
+      "album": {
+        "id": 278864922,
+        "title": "Buteco in Boston (Ao Vivo)",
+        "releaseDate": "2021-12-16",
+        "recordType": "album"
+      },
+      "duration": 168,
+      "rank": 617527,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "gusttavo-lima--retrovisor",
+      "title": "Retrovisor",
+      "artist": "Gusttavo Lima",
+      "artistDeezerId": 1541592,
+      "trackId": 3863109261,
+      "altTrackIds": [
+        4170283682
+      ],
+      "album": {
+        "id": 925832541,
+        "title": "Feito À Mão",
+        "releaseDate": "2026-03-05",
+        "recordType": "album"
+      },
+      "duration": 185,
+      "rank": 612134,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "gusttavo-lima--termina-comigo-antes",
+      "title": "Termina Comigo Antes",
+      "artist": "Gusttavo Lima",
+      "artistDeezerId": 1541592,
+      "trackId": 2030935257,
+      "altTrackIds": [
+        1693252897,
+        2032414187,
+        2320558095,
+        2653396252,
+        2653398252,
+        2653398702,
+        2695416512,
+        2752447441,
+        2752448381,
+        3060636171,
+        3060641961,
+        3130780871,
+        3133499431,
+        3135061621,
+        3397827711,
+        4170283732
+      ],
+      "album": {
+        "id": 378977137,
+        "title": "Gusttavo Lima 2023 - As Mais Tocadas",
+        "releaseDate": "2022-11-10",
+        "recordType": "album"
+      },
+      "duration": 187,
+      "rank": 647279,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "henrique-e-juliano--amigo-da-minha-saudade",
+      "title": "Amigo Da Minha Saudade",
+      "artist": "Henrique & Juliano",
+      "artistDeezerId": 4876653,
+      "trackId": 3876592021,
+      "altTrackIds": [
+        3876592201
+      ],
+      "album": {
+        "id": 930781491,
+        "title": "Manifesto Musical 2, Vol. 1 (Ao Vivo)",
+        "releaseDate": "2024-12-13",
+        "recordType": "album"
+      },
+      "duration": 150,
+      "rank": 895014,
+      "topPosition": 2,
+      "year": 2024
+    },
+    {
+      "id": "henrique-e-juliano--seja-ex",
+      "title": "Seja Ex",
+      "artist": "Henrique & Juliano",
+      "artistDeezerId": 4876653,
+      "trackId": 3876591911,
+      "altTrackIds": [
+        3876592091,
+        3877702621
+      ],
+      "album": {
+        "id": 930781491,
+        "title": "Manifesto Musical 2, Vol. 1 (Ao Vivo)",
+        "releaseDate": "2024-12-13",
+        "recordType": "album"
+      },
+      "duration": 192,
+      "rank": 841321,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "henrique-e-juliano--ultima-saudade",
+      "title": "Última Saudade",
+      "artist": "Henrique & Juliano",
+      "artistDeezerId": 4876653,
+      "trackId": 3876591901,
+      "altTrackIds": [
+        3876592081,
+        3877702611
+      ],
+      "album": {
+        "id": 930781491,
+        "title": "Manifesto Musical 2, Vol. 1 (Ao Vivo)",
+        "releaseDate": "2024-12-13",
+        "recordType": "album"
+      },
+      "duration": 150,
+      "rank": 910767,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "hugo-e-guilherme--elevador",
+      "title": "Elevador",
+      "artist": "Hugo & Guilherme",
+      "artistDeezerId": 10633657,
+      "trackId": 2277012637,
+      "altTrackIds": [
+        2898814281,
+        3021192481,
+        3713733382,
+        3713734142
+      ],
+      "album": {
+        "id": 439608407,
+        "title": "Original (Ao Vivo)",
+        "releaseDate": "2023-06-07",
+        "recordType": "album"
+      },
+      "duration": 155,
+      "rank": 564018,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "hugo-e-guilherme--mal-feito",
+      "title": "Mal Feito",
+      "artist": "Hugo & Guilherme",
+      "artistDeezerId": 10633657,
+      "trackId": 1706821807,
+      "altTrackIds": [
+        1589171262,
+        1683824407,
+        1833997017,
+        3713733222,
+        3713733972
+      ],
+      "album": {
+        "id": 307871407,
+        "title": "Próximo Passo (Ao Vivo)",
+        "releaseDate": "2022-04-14",
+        "recordType": "album"
+      },
+      "duration": 177,
+      "rank": 760519,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "hugo-e-guilherme--meu-numero",
+      "title": "Meu Número",
+      "artist": "Hugo & Guilherme",
+      "artistDeezerId": 10633657,
+      "trackId": 1706821797,
+      "altTrackIds": [
+        1706312397,
+        1833997007,
+        3713733332,
+        3713734082
+      ],
+      "album": {
+        "id": 307871407,
+        "title": "Próximo Passo (Ao Vivo)",
+        "releaseDate": "2022-04-14",
+        "recordType": "album"
+      },
+      "duration": 208,
+      "rank": 652050,
+      "topPosition": 2,
+      "year": 2022
+    },
+    {
+      "id": "israel-e-rodolffo--arruma-um-bao",
+      "title": "Arruma Um Bão",
+      "artist": "Israel & Rodolffo",
+      "artistDeezerId": 5200697,
+      "trackId": 3005433031,
+      "altTrackIds": [
+        3713617272,
+        3713617682
+      ],
+      "album": {
+        "id": 645989571,
+        "title": "Termômetro",
+        "releaseDate": "2024-10-04",
+        "recordType": "album"
+      },
+      "duration": 175,
+      "rank": 731528,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "israel-e-rodolffo--bombonzinho",
+      "title": "Bombonzinho",
+      "artist": "Israel & Rodolffo",
+      "artistDeezerId": 5200697,
+      "trackId": 2269799057,
+      "altTrackIds": [
+        1978300657,
+        2023949707,
+        2145088707,
+        2352856205,
+        2820753932,
+        3713617302,
+        3713617782
+      ],
+      "album": {
+        "id": 437761197,
+        "title": "Let's Bora, Vol. 3 (Ao Vivo)",
+        "releaseDate": "2023-05-18",
+        "recordType": "album"
+      },
+      "duration": 154,
+      "rank": 692630,
+      "topPosition": 3,
+      "year": 2022
+    },
+    {
+      "id": "israel-e-rodolffo--seu-brilho-sumiu",
+      "title": "Seu Brilho Sumiu",
+      "artist": "Israel & Rodolffo",
+      "artistDeezerId": 5200697,
+      "trackId": 2269799047,
+      "altTrackIds": [
+        2145060797,
+        2145088687,
+        2352856215,
+        2820753942,
+        3713617282,
+        3713617722
+      ],
+      "album": {
+        "id": 437761197,
+        "title": "Let's Bora, Vol. 3 (Ao Vivo)",
+        "releaseDate": "2023-05-18",
+        "recordType": "album"
+      },
+      "duration": 168,
+      "rank": 712543,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "ivete-sangalo--macetando",
+      "title": "Macetando",
+      "artist": "Ivete Sangalo",
+      "artistDeezerId": 8647,
+      "trackId": 3234732701,
+      "altTrackIds": [
+        3234732711
+      ],
+      "album": {
+        "id": 713383981,
+        "title": "Macetando",
+        "releaseDate": "2023-12-15",
+        "recordType": "single"
+      },
+      "duration": 167,
+      "rank": 567643,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "ivete-sangalo--mo-loucura",
+      "title": "Mó Loucura",
+      "artist": "Ivete Sangalo",
+      "artistDeezerId": 8647,
+      "trackId": 3650995142,
+      "altTrackIds": [
+        3595365312
+      ],
+      "album": {
+        "id": 854823472,
+        "title": "Ivete Clareou (Ao Vivo)",
+        "releaseDate": "2025-11-14",
+        "recordType": "album"
+      },
+      "duration": 169,
+      "rank": 592785,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "ivete-sangalo--por-inteiro",
+      "title": "Por Inteiro",
+      "artist": "Ivete Sangalo",
+      "artistDeezerId": 8647,
+      "trackId": 3650995182,
+      "altTrackIds": [
+        3567275441,
+        3593267932
+      ],
+      "album": {
+        "id": 854823472,
+        "title": "Ivete Clareou (Ao Vivo)",
+        "releaseDate": "2025-11-14",
+        "recordType": "album"
+      },
+      "duration": 236,
+      "rank": 559071,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "iza--fe",
+      "title": "Fé",
+      "artist": "Iza",
+      "artistDeezerId": 262833,
+      "trackId": 1766942667,
+      "altTrackIds": [
+        3355324871
+      ],
+      "album": {
+        "id": 322051717,
+        "title": "Fé",
+        "releaseDate": "2022-06-02",
+        "recordType": "single"
+      },
+      "duration": 185,
+      "rank": 578254,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "iza--gueto",
+      "title": "Gueto",
+      "artist": "Iza",
+      "artistDeezerId": 262833,
+      "trackId": 1385358682,
+      "altTrackIds": [
+        3355324961
+      ],
+      "album": {
+        "id": 233259792,
+        "title": "Gueto",
+        "releaseDate": "2021-06-03",
+        "recordType": "single"
+      },
+      "duration": 168,
+      "rank": 486121,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "iza--sem-filtro",
+      "title": "Sem Filtro",
+      "artist": "Iza",
+      "artistDeezerId": 262833,
+      "trackId": 1550618152,
+      "altTrackIds": [
+        1649037582,
+        3355324921
+      ],
+      "album": {
+        "id": 272155312,
+        "title": "Sem Filtro",
+        "releaseDate": "2021-11-18",
+        "recordType": "single"
+      },
+      "duration": 206,
+      "rank": 521459,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "jao--aurora",
+      "title": "Aurora",
+      "artist": "Jão",
+      "artistDeezerId": 5297266,
+      "trackId": 4170795632,
+      "altTrackIds": [],
+      "album": {
+        "id": 1035598992,
+        "title": "Memórias Póstumas",
+        "releaseDate": "2026-07-27",
+        "recordType": "album"
+      },
+      "duration": 220,
+      "rank": 703398,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "jao--catedral",
+      "title": "Catedral",
+      "artist": "Jão",
+      "artistDeezerId": 5297266,
+      "trackId": 4170795612,
+      "altTrackIds": [],
+      "album": {
+        "id": 1035598992,
+        "title": "Memórias Póstumas",
+        "releaseDate": "2026-07-27",
+        "recordType": "album"
+      },
+      "duration": 221,
+      "rank": 658500,
+      "topPosition": 3,
+      "year": 2026
+    },
+    {
+      "id": "jao--por-voce",
+      "title": "Por Você",
+      "artist": "Jão",
+      "artistDeezerId": 5297266,
+      "trackId": 4170795642,
+      "altTrackIds": [],
+      "album": {
+        "id": 1035598992,
+        "title": "Memórias Póstumas",
+        "releaseDate": "2026-07-27",
+        "recordType": "album"
+      },
+      "duration": 212,
+      "rank": 666081,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "jeninho--peao-todo-tatuado",
+      "title": "Peão Todo Tatuado",
+      "artist": "Jeninho",
+      "artistDeezerId": 52981672,
+      "trackId": 3893226711,
+      "altTrackIds": [
+        3893257681
+      ],
+      "album": {
+        "id": 937045061,
+        "title": "Peão Todo Tatuado",
+        "releaseDate": "2026-03-06",
+        "recordType": "single"
+      },
+      "duration": 134,
+      "rank": 972910,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "joao-gomes--arriadin-por-tu",
+      "title": "Arriadin por Tu",
+      "artist": "João Gomes",
+      "artistDeezerId": 135512622,
+      "trackId": 3314109431,
+      "altTrackIds": [],
+      "album": {
+        "id": 739089071,
+        "title": "Dominguinho",
+        "releaseDate": "2025-04-18",
+        "recordType": "album"
+      },
+      "duration": 174,
+      "rank": 734836,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "joao-gomes--beija-flor",
+      "title": "Beija Flor",
+      "artist": "João Gomes",
+      "artistDeezerId": 135512622,
+      "trackId": 3314109421,
+      "altTrackIds": [],
+      "album": {
+        "id": 739089071,
+        "title": "Dominguinho",
+        "releaseDate": "2025-04-18",
+        "recordType": "album"
+      },
+      "duration": 223,
+      "rank": 732465,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "joao-gomes--lembrei-de-nos",
+      "title": "Lembrei de Nós",
+      "artist": "João Gomes",
+      "artistDeezerId": 135512622,
+      "trackId": 3314109411,
+      "altTrackIds": [
+        3223028251
+      ],
+      "album": {
+        "id": 739089071,
+        "title": "Dominguinho",
+        "releaseDate": "2025-04-18",
+        "recordType": "album"
+      },
+      "duration": 196,
+      "rank": 810486,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "jorge-e-mateus--cantada-boba",
+      "title": "Cantada Boba",
+      "artist": "Jorge & Mateus",
+      "artistDeezerId": 3881631,
+      "trackId": 3064886081,
+      "altTrackIds": [
+        3909277061
+      ],
+      "album": {
+        "id": 662905781,
+        "title": "Check-In (Ao Vivo)",
+        "releaseDate": "2024-11-07",
+        "recordType": "album"
+      },
+      "duration": 183,
+      "rank": 869621,
+      "topPosition": 2,
+      "year": 2024
+    },
+    {
+      "id": "jorge-e-mateus--havera-sinais",
+      "title": "Haverá Sinais",
+      "artist": "Jorge & Mateus",
+      "artistDeezerId": 3881631,
+      "trackId": 3064886111,
+      "altTrackIds": [
+        2652893202,
+        3909276951
+      ],
+      "album": {
+        "id": 662905781,
+        "title": "Check-In (Ao Vivo)",
+        "releaseDate": "2024-11-07",
+        "recordType": "album"
+      },
+      "duration": 191,
+      "rank": 847260,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "jorge-e-mateus--xonei",
+      "title": "Xonei",
+      "artist": "Jorge & Mateus",
+      "artistDeezerId": 3881631,
+      "trackId": 2935875381,
+      "altTrackIds": [
+        3064886121,
+        3909276981
+      ],
+      "album": {
+        "id": 625716421,
+        "title": "Xonei",
+        "releaseDate": "2024-08-15",
+        "recordType": "single"
+      },
+      "duration": 154,
+      "rank": 878225,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "kayblack--melhor-so",
+      "title": "Melhor Só",
+      "artist": "Kayblack",
+      "artistDeezerId": 77482782,
+      "trackId": 2203364927,
+      "altTrackIds": [
+        2206154247
+      ],
+      "album": {
+        "id": 420507137,
+        "title": "Contradições",
+        "releaseDate": "2023-03-31",
+        "recordType": "album"
+      },
+      "duration": 229,
+      "rank": 670877,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "kayblack--misterios",
+      "title": "Mistérios",
+      "artist": "Kayblack",
+      "artistDeezerId": 77482782,
+      "trackId": 2878431472,
+      "altTrackIds": [
+        2878432152
+      ],
+      "album": {
+        "id": 611553742,
+        "title": "Mistérios",
+        "releaseDate": "2024-07-16",
+        "recordType": "single"
+      },
+      "duration": 136,
+      "rank": 607254,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "kayblack--segredo",
+      "title": "Segredo",
+      "artist": "Kayblack",
+      "artistDeezerId": 77482782,
+      "trackId": 2203364887,
+      "altTrackIds": [],
+      "album": {
+        "id": 420507137,
+        "title": "Contradições",
+        "releaseDate": "2023-03-31",
+        "recordType": "album"
+      },
+      "duration": 104,
+      "rank": 609543,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "l7nnon--gratidao",
+      "title": "Gratidão",
+      "artist": "L7nnon",
+      "artistDeezerId": 45663272,
+      "trackId": 3726300902,
+      "altTrackIds": [],
+      "album": {
+        "id": 880584572,
+        "title": "Hip Hop Rare",
+        "releaseDate": "2020-09-25",
+        "recordType": "album"
+      },
+      "duration": 248,
+      "rank": 619636,
+      "topPosition": 3,
+      "year": 2020
+    },
+    {
+      "id": "l7nnon--perdicao",
+      "title": "Perdição",
+      "artist": "L7nnon",
+      "artistDeezerId": 45663272,
+      "trackId": 3726300842,
+      "altTrackIds": [
+        3588548101
+      ],
+      "album": {
+        "id": 880584572,
+        "title": "Hip Hop Rare",
+        "releaseDate": "2020-09-25",
+        "recordType": "album"
+      },
+      "duration": 275,
+      "rank": 681417,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "l7nnon--vamo-marolar",
+      "title": "Vamo Marolar",
+      "artist": "L7nnon",
+      "artistDeezerId": 45663272,
+      "trackId": 2681813492,
+      "altTrackIds": [],
+      "album": {
+        "id": 553792142,
+        "title": "IRRASTREÁVEL",
+        "releaseDate": "2024-03-28",
+        "recordType": "album"
+      },
+      "duration": 181,
+      "rank": 624506,
+      "topPosition": 2,
+      "year": 2024
+    },
+    {
+      "id": "lagum--a-cidade",
+      "title": "A Cidade",
+      "artist": "Lagum",
+      "artistDeezerId": 8222632,
+      "trackId": 3357246501,
+      "altTrackIds": [
+        4060657331
+      ],
+      "album": {
+        "id": 753509701,
+        "title": "As Cores, as Curvas e as Dores do Mundo",
+        "releaseDate": "2025-05-27",
+        "recordType": "album"
+      },
+      "duration": 163,
+      "rank": 503934,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "lagum--ninguem-me-ensinou",
+      "title": "NINGUÉM ME ENSINOU",
+      "artist": "Lagum",
+      "artistDeezerId": 8222632,
+      "trackId": 1551637772,
+      "altTrackIds": [
+        1088891412,
+        2576420042,
+        4060657301
+      ],
+      "album": {
+        "id": 272395432,
+        "title": "MEMÓRIAS (de onde eu nunca fui)",
+        "releaseDate": "2021-11-26",
+        "recordType": "album"
+      },
+      "duration": 157,
+      "rank": 567305,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "lagum--sera",
+      "title": "Será",
+      "artist": "Lagum",
+      "artistDeezerId": 8222632,
+      "trackId": 984290562,
+      "altTrackIds": [],
+      "album": {
+        "id": 153040882,
+        "title": "Será",
+        "releaseDate": "2020-06-19",
+        "recordType": "single"
+      },
+      "duration": 179,
+      "rank": 568987,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "lauana-prado--agora-somos-ex",
+      "title": "Agora Somos Ex",
+      "artist": "Lauana Prado",
+      "artistDeezerId": 11242224,
+      "trackId": 2484345301,
+      "altTrackIds": [
+        2521461481,
+        2521461711,
+        2521461861,
+        2523128381,
+        2531713581,
+        2539631841,
+        2574706912,
+        2655123052,
+        3068772191
+      ],
+      "album": {
+        "id": 496289661,
+        "title": "Raiz Goiânia (Ao Vivo)",
+        "releaseDate": "2023-10-12",
+        "recordType": "album"
+      },
+      "duration": 197,
+      "rank": 506392,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "lauana-prado--primeiro-eu",
+      "title": "Primeiro Eu",
+      "artist": "Lauana Prado",
+      "artistDeezerId": 11242224,
+      "trackId": 1673993797,
+      "altTrackIds": [
+        2287608587,
+        2556293162,
+        3129028471,
+        3200846531,
+        3232037691,
+        3308028361,
+        3412430071
+      ],
+      "album": {
+        "id": 300059167,
+        "title": "Natural",
+        "releaseDate": "2022-03-10",
+        "recordType": "album"
+      },
+      "duration": 166,
+      "rank": 507459,
+      "topPosition": 2,
+      "year": 2022
+    },
+    {
+      "id": "lauana-prado--whisky-vagabund0",
+      "title": "Whisky Vagabund0",
+      "artist": "Lauana Prado",
+      "artistDeezerId": 11242224,
+      "trackId": 2287608507,
+      "altTrackIds": [
+        2184981167,
+        2395946085,
+        2556293002,
+        2574706952,
+        2943296371,
+        2980157301,
+        3066375911,
+        3080594931,
+        3117336371,
+        3129028381,
+        3140430551,
+        3151203451,
+        3154061641,
+        3232037541,
+        3412430031,
+        3460192311,
+        3516044591
+      ],
+      "album": {
+        "id": 442503217,
+        "title": "Lauana Prado 2023",
+        "releaseDate": "2023-05-24",
+        "recordType": "album"
+      },
+      "duration": 153,
+      "rank": 682445,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "leo-foguete--alguns-defeitos",
+      "title": "Alguns Defeitos",
+      "artist": "Léo Foguete",
+      "artistDeezerId": 262408191,
+      "trackId": 4159301582,
+      "altTrackIds": [
+        4159301792
+      ],
+      "album": {
+        "id": 1031186432,
+        "title": "Além Do Tempo",
+        "releaseDate": "2026-07-24",
+        "recordType": "album"
+      },
+      "duration": 148,
+      "rank": 712501,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "leo-foguete--copia-proibida",
+      "title": "Cópia Proibida",
+      "artist": "Léo Foguete",
+      "artistDeezerId": 262408191,
+      "trackId": 3145741271,
+      "altTrackIds": [
+        3145716341
+      ],
+      "album": {
+        "id": 684868181,
+        "title": "Obrigado Deus",
+        "releaseDate": "2024-10-28",
+        "recordType": "album"
+      },
+      "duration": 159,
+      "rank": 755870,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "leo-foguete--ultima-noite-solo",
+      "title": "Última Noite (Solo)",
+      "artist": "Léo Foguete",
+      "artistDeezerId": 262408191,
+      "trackId": 3145741261,
+      "altTrackIds": [
+        2988266421
+      ],
+      "album": {
+        "id": 684868181,
+        "title": "Obrigado Deus",
+        "releaseDate": "2024-10-28",
+        "recordType": "album"
+      },
+      "duration": 154,
+      "rank": 706787,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "leo-santana--audio-que-te-entrega",
+      "title": "Áudio Que Te Entrega",
+      "artist": "Léo Santana",
+      "artistDeezerId": 4456001,
+      "trackId": 1667841092,
+      "altTrackIds": [
+        1825802557
+      ],
+      "album": {
+        "id": 298666442,
+        "title": "Áudio Que Te Entrega",
+        "releaseDate": "2022-03-04",
+        "recordType": "single"
+      },
+      "duration": 171,
+      "rank": 601946,
+      "topPosition": 3,
+      "year": 2022
+    },
+    {
+      "id": "leo-santana--desliza-olhinho-no-corpinho",
+      "title": "Desliza (\"Ólhinho\" No Corpinho)",
+      "artist": "Léo Santana",
+      "artistDeezerId": 4456001,
+      "trackId": 3676413772,
+      "altTrackIds": [
+        3359004801,
+        3431073971,
+        3801885202
+      ],
+      "album": {
+        "id": 863388052,
+        "title": "Esquenta - 20 anos de Léo Santana",
+        "releaseDate": "2025-12-02",
+        "recordType": "album"
+      },
+      "duration": 147,
+      "rank": 709025,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "leo-santana--zona-de-perigo",
+      "title": "Zona De Perigo",
+      "artist": "Léo Santana",
+      "artistDeezerId": 4456001,
+      "trackId": 2281044897,
+      "altTrackIds": [
+        2074433447,
+        2626431572,
+        2757052521,
+        2829910662,
+        2893604941,
+        2959660691,
+        3138566461,
+        3186642131,
+        3250902371,
+        3676413852,
+        3801885232
+      ],
+      "album": {
+        "id": 440690517,
+        "title": "Vem Deslizando, Vai",
+        "releaseDate": "2023-05-19",
+        "recordType": "album"
+      },
+      "duration": 142,
+      "rank": 602625,
+      "topPosition": 2,
+      "year": 2022
+    },
+    {
+      "id": "leonardo--evidencias",
+      "title": "Evidências",
+      "artist": "Leonardo",
+      "artistDeezerId": 109903,
+      "trackId": 2387443835,
+      "altTrackIds": [],
+      "album": {
+        "id": 469926985,
+        "title": "Cabaré Rouge, Vol.2 (Ao Vivo)",
+        "releaseDate": "2023-08-11",
+        "recordType": "album"
+      },
+      "duration": 280,
+      "rank": 460704,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "leonardo--por-um-minuto",
+      "title": "Por Um Minuto",
+      "artist": "Leonardo",
+      "artistDeezerId": 109903,
+      "trackId": 2387443815,
+      "altTrackIds": [],
+      "album": {
+        "id": 469926985,
+        "title": "Cabaré Rouge, Vol.2 (Ao Vivo)",
+        "releaseDate": "2023-08-11",
+        "recordType": "album"
+      },
+      "duration": 288,
+      "rank": 423152,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "liniker--caju",
+      "title": "CAJU",
+      "artist": "Liniker",
+      "artistDeezerId": 9151334,
+      "trackId": 3234735461,
+      "altTrackIds": [
+        3266175111
+      ],
+      "album": {
+        "id": 713384901,
+        "title": "CAJU",
+        "releaseDate": "2024-08-19",
+        "recordType": "album"
+      },
+      "duration": 266,
+      "rank": 709488,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "liniker--charme",
+      "title": "CHARME",
+      "artist": "Liniker",
+      "artistDeezerId": 9151334,
+      "trackId": 3794767412,
+      "altTrackIds": [],
+      "album": {
+        "id": 903921662,
+        "title": "CHARME",
+        "releaseDate": "2026-02-05",
+        "recordType": "single"
+      },
+      "duration": 183,
+      "rank": 661253,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "liniker--tudo",
+      "title": "TUDO",
+      "artist": "Liniker",
+      "artistDeezerId": 9151334,
+      "trackId": 3234735471,
+      "altTrackIds": [
+        3234719951
+      ],
+      "album": {
+        "id": 713384901,
+        "title": "CAJU",
+        "releaseDate": "2024-08-19",
+        "recordType": "album"
+      },
+      "duration": 214,
+      "rank": 647373,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "luan-santana--clone",
+      "title": "CLONE",
+      "artist": "Luan Santana",
+      "artistDeezerId": 1264078,
+      "trackId": 3216000891,
+      "altTrackIds": [
+        4097808851
+      ],
+      "album": {
+        "id": 707488201,
+        "title": "LUAN AO VIVO NA LUA",
+        "releaseDate": "2025-02-13",
+        "recordType": "album"
+      },
+      "duration": 164,
+      "rank": 700116,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "luan-santana--dona",
+      "title": "DONA",
+      "artist": "Luan Santana",
+      "artistDeezerId": 1264078,
+      "trackId": 3216000851,
+      "altTrackIds": [
+        3324993701
+      ],
+      "album": {
+        "id": 707488201,
+        "title": "LUAN AO VIVO NA LUA",
+        "releaseDate": "2025-02-13",
+        "recordType": "album"
+      },
+      "duration": 212,
+      "rank": 734770,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "luan-santana--morena",
+      "title": "MORENA",
+      "artist": "Luan Santana",
+      "artistDeezerId": 1264078,
+      "trackId": 2907341841,
+      "altTrackIds": [
+        1397354732,
+        1532579912
+      ],
+      "album": {
+        "id": 619590611,
+        "title": "Ama Pra Porra ou Porra Nenhuma",
+        "releaseDate": "2024-08-02",
+        "recordType": "album"
+      },
+      "duration": 193,
+      "rank": 688656,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "ludmilla--falta-de-mim",
+      "title": "Falta de Mim",
+      "artist": "Ludmilla",
+      "artistDeezerId": 73396,
+      "trackId": 2641862582,
+      "altTrackIds": [
+        2622615602
+      ],
+      "album": {
+        "id": 541647532,
+        "title": "Numanice #3 (Ao Vivo)",
+        "releaseDate": "2024-02-20",
+        "recordType": "album"
+      },
+      "duration": 154,
+      "rank": 689387,
+      "topPosition": 2,
+      "year": 2024
+    },
+    {
+      "id": "ludmilla--insonia",
+      "title": "Insônia",
+      "artist": "Ludmilla",
+      "artistDeezerId": 73396,
+      "trackId": 1870125867,
+      "altTrackIds": [
+        1868292427,
+        2063373077
+      ],
+      "album": {
+        "id": 347205797,
+        "title": "Numanice #2 (Ao Vivo)",
+        "releaseDate": "2022-01-26",
+        "recordType": "album"
+      },
+      "duration": 181,
+      "rank": 702922,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "ludmilla--maliciosa",
+      "title": "Maliciosa",
+      "artist": "Ludmilla",
+      "artistDeezerId": 73396,
+      "trackId": 2641862512,
+      "altTrackIds": [
+        2609046392
+      ],
+      "album": {
+        "id": 541647532,
+        "title": "Numanice #3 (Ao Vivo)",
+        "releaseDate": "2024-02-20",
+        "recordType": "album"
+      },
+      "duration": 167,
+      "rank": 680487,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "luisa-sonza--modo-turbo",
+      "title": "MODO TURBO",
+      "artist": "Luísa Sonza",
+      "artistDeezerId": 10286020,
+      "trackId": 1262398772,
+      "altTrackIds": [
+        1177800012,
+        1537412492
+      ],
+      "album": {
+        "id": 211801312,
+        "title": "Só as Brabas",
+        "releaseDate": "2021-03-10",
+        "recordType": "album"
+      },
+      "duration": 150,
+      "rank": 623365,
+      "topPosition": 3,
+      "year": 2020
+    },
+    {
+      "id": "luisa-sonza--sagrado-profano",
+      "title": "Sagrado Profano",
+      "artist": "Luísa Sonza",
+      "artistDeezerId": 10286020,
+      "trackId": 2428168355,
+      "altTrackIds": [
+        2817822922,
+        2996641841,
+        3219411861,
+        4008373671
+      ],
+      "album": {
+        "id": 480890205,
+        "title": "Escândalo Íntimo",
+        "releaseDate": "2024-05-28",
+        "recordType": "album"
+      },
+      "duration": 198,
+      "rank": 662267,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "luisa-sonza--surreal",
+      "title": "Surreal",
+      "artist": "Luísa Sonza",
+      "artistDeezerId": 10286020,
+      "trackId": 2428168325,
+      "altTrackIds": [
+        2996641811,
+        3219411891
+      ],
+      "album": {
+        "id": 480890205,
+        "title": "Escândalo Íntimo",
+        "releaseDate": "2024-05-28",
+        "recordType": "album"
+      },
+      "duration": 234,
+      "rank": 629634,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "maiara-e-maraisa--ai-eu-bebo",
+      "title": "Aí Eu Bebo",
+      "artist": "Maiara & Maraisa",
+      "artistDeezerId": 6511779,
+      "trackId": 921291782,
+      "altTrackIds": [
+        769507062,
+        2365513605
+      ],
+      "album": {
+        "id": 139957832,
+        "title": "Aqui Em Casa (ao Vivo)",
+        "releaseDate": "2020-04-17",
+        "recordType": "album"
+      },
+      "duration": 173,
+      "rank": 551797,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "maiara-e-maraisa--libera-ela",
+      "title": "Libera Ela",
+      "artist": "Maiara & Maraisa",
+      "artistDeezerId": 6511779,
+      "trackId": 921291772,
+      "altTrackIds": [],
+      "album": {
+        "id": 139957832,
+        "title": "Aqui Em Casa (ao Vivo)",
+        "releaseDate": "2020-04-17",
+        "recordType": "album"
+      },
+      "duration": 168,
+      "rank": 499853,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "mari-fernandez--choro-gelo-e-gin",
+      "title": "Choro, Gelo e Gin",
+      "artist": "Mari Fernandez",
+      "artistDeezerId": 131216322,
+      "trackId": 3207270651,
+      "altTrackIds": [
+        3302725581,
+        3723051112,
+        3759193872,
+        4083927371
+      ],
+      "album": {
+        "id": 704576671,
+        "title": "Ao Vivo no Rio de Janeiro, Vol. 2",
+        "releaseDate": "2025-02-13",
+        "recordType": "album"
+      },
+      "duration": 152,
+      "rank": 662225,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "mari-fernandez--nao-era-o-vinho",
+      "title": "Não Era O Vinho",
+      "artist": "Mari Fernandez",
+      "artistDeezerId": 131216322,
+      "trackId": 4250381531,
+      "altTrackIds": [],
+      "album": {
+        "id": 1064709841,
+        "title": "Não Era O Vinho",
+        "releaseDate": "2026-09-10",
+        "recordType": "single"
+      },
+      "duration": 186,
+      "rank": 640425,
+      "topPosition": 3,
+      "year": 2026
+    },
+    {
+      "id": "mari-fernandez--pagina-de-ex",
+      "title": "Página De Ex",
+      "artist": "Mari Fernandez",
+      "artistDeezerId": 131216322,
+      "trackId": 2806948292,
+      "altTrackIds": [
+        2755387101,
+        3113633661,
+        3207270701,
+        3302725601,
+        3723051052,
+        3759193782,
+        4083927171
+      ],
+      "album": {
+        "id": 588156142,
+        "title": "Mari No Barzinho, Vol. 1 (Ao Vivo)",
+        "releaseDate": "2024-07-17",
+        "recordType": "album"
+      },
+      "duration": 161,
+      "rank": 710347,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "marilia-mendonca--esqueca-me-se-for-capaz",
+      "title": "Esqueça-Me Se For Capaz",
+      "artist": "Marília Mendonça",
+      "artistDeezerId": 7068771,
+      "trackId": 1509453792,
+      "altTrackIds": [
+        2343735785,
+        3776795922,
+        4303912022
+      ],
+      "album": {
+        "id": 262562462,
+        "title": "Festa das Patroas 35%",
+        "releaseDate": "2021-10-14",
+        "recordType": "album"
+      },
+      "duration": 169,
+      "rank": 721393,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "marilia-mendonca--foi-por-conveniencia",
+      "title": "Foi por Conveniência",
+      "artist": "Marília Mendonça",
+      "artistDeezerId": 7068771,
+      "trackId": 3666233262,
+      "altTrackIds": [
+        1183661482,
+        1408741862,
+        3776796002,
+        3957763431,
+        4303912032
+      ],
+      "album": {
+        "id": 859926372,
+        "title": "As Sofrências da Marília Mendonça",
+        "releaseDate": "2025-11-28",
+        "recordType": "album"
+      },
+      "duration": 205,
+      "rank": 904103,
+      "topPosition": 1,
+      "year": 2021
+    },
+    {
+      "id": "marilia-mendonca--leao",
+      "title": "Leão",
+      "artist": "Marília Mendonça",
+      "artistDeezerId": 7068771,
+      "trackId": 2343735535,
+      "altTrackIds": [
+        2056080287,
+        2282308287,
+        3776795882,
+        4303912042
+      ],
+      "album": {
+        "id": 457973495,
+        "title": "Marília Mendonça: As Melhores 2023",
+        "releaseDate": "2023-05-24",
+        "recordType": "album"
+      },
+      "duration": 166,
+      "rank": 817443,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "marina-sena--carnaval",
+      "title": "CARNAVAL",
+      "artist": "Marina Sena",
+      "artistDeezerId": 516265,
+      "trackId": 3285898091,
+      "altTrackIds": [
+        3704290842,
+        3705394022,
+        4252826901,
+        4252826981
+      ],
+      "album": {
+        "id": 730003741,
+        "title": "Coisas Naturais",
+        "releaseDate": "2025-03-31",
+        "recordType": "album"
+      },
+      "duration": 73,
+      "rank": 682688,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "marina-sena--lua-cheia",
+      "title": "Lua Cheia",
+      "artist": "Marina Sena",
+      "artistDeezerId": 516265,
+      "trackId": 3285898051,
+      "altTrackIds": [
+        3564332361,
+        3704290872,
+        4252826851,
+        4252827021
+      ],
+      "album": {
+        "id": 730003741,
+        "title": "Coisas Naturais",
+        "releaseDate": "2025-03-31",
+        "recordType": "album"
+      },
+      "duration": 197,
+      "rank": 662298,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "marina-sena--numa-ilha",
+      "title": "Numa Ilha",
+      "artist": "Marina Sena",
+      "artistDeezerId": 516265,
+      "trackId": 3285897981,
+      "altTrackIds": [
+        3105231981,
+        3215929791,
+        3215929801,
+        3564332371,
+        4252826861
+      ],
+      "album": {
+        "id": 730003741,
+        "title": "Coisas Naturais",
+        "releaseDate": "2025-03-31",
+        "recordType": "album"
+      },
+      "duration": 249,
+      "rank": 693941,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "matheus-e-kauan--cronometro",
+      "title": "Cronômetro",
+      "artist": "Matheus & Kauan",
+      "artistDeezerId": 3120261,
+      "trackId": 2867481312,
+      "altTrackIds": [
+        2929615011,
+        2976687981,
+        2992499691,
+        3038609831,
+        3136514011,
+        3239712091,
+        3296707281,
+        3371112921,
+        3545398481
+      ],
+      "album": {
+        "id": 607971422,
+        "title": "Praiou (Ao Vivo / Vol.3)",
+        "releaseDate": "2024-07-05",
+        "recordType": "album"
+      },
+      "duration": 165,
+      "rank": 767401,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "matheus-e-kauan--gatilho",
+      "title": "Gatilho",
+      "artist": "Matheus & Kauan",
+      "artistDeezerId": 3120261,
+      "trackId": 1682726817,
+      "altTrackIds": [
+        2265318477,
+        2598561602,
+        2660048312,
+        2976688071,
+        3038609891,
+        3136514201
+      ],
+      "album": {
+        "id": 302149007,
+        "title": "Se Melhorar Estraga (Ao Vivo)",
+        "releaseDate": "2022-03-18",
+        "recordType": "album"
+      },
+      "duration": 155,
+      "rank": 578666,
+      "topPosition": 3,
+      "year": 2022
+    },
+    {
+      "id": "matheus-e-kauan--nao-sei-se-to-solteiro",
+      "title": "Não Sei Se Tô Solteiro",
+      "artist": "Matheus & Kauan",
+      "artistDeezerId": 3120261,
+      "trackId": 2805847702,
+      "altTrackIds": [
+        2738152931,
+        2867481322,
+        2929615051,
+        2992499711
+      ],
+      "album": {
+        "id": 587779912,
+        "title": "Praiou (Ao Vivo / Vol.2)",
+        "releaseDate": "2024-05-24",
+        "recordType": "album"
+      },
+      "duration": 173,
+      "rank": 598930,
+      "topPosition": 2,
+      "year": 2024
+    },
+    {
+      "id": "matue--backstage",
+      "title": "BACKSTAGE",
+      "artist": "Matuê",
+      "artistDeezerId": 11329214,
+      "trackId": 3700579852,
+      "altTrackIds": [],
+      "album": {
+        "id": 871930192,
+        "title": "XTRANHO",
+        "releaseDate": "2025-12-10",
+        "recordType": "album"
+      },
+      "duration": 139,
+      "rank": 763319,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "matue--maquina-do-tempo",
+      "title": "Máquina do Tempo",
+      "artist": "Matuê",
+      "artistDeezerId": 11329214,
+      "trackId": 1049882352,
+      "altTrackIds": [],
+      "album": {
+        "id": 166848802,
+        "title": "Máquina do Tempo",
+        "releaseDate": "2020-09-03",
+        "recordType": "album"
+      },
+      "duration": 230,
+      "rank": 740701,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "matue--vampiro",
+      "title": "Vampiro",
+      "artist": "Matuê",
+      "artistDeezerId": 11329214,
+      "trackId": 1623099982,
+      "altTrackIds": [],
+      "album": {
+        "id": 287980152,
+        "title": "Vampiro",
+        "releaseDate": "2022-03-29",
+        "recordType": "single"
+      },
+      "duration": 250,
+      "rank": 720519,
+      "topPosition": 3,
+      "year": 2022
+    },
+    {
+      "id": "mc-cabelinho--carta-aberta",
+      "title": "carta aberta",
+      "artist": "MC Cabelinho",
+      "artistDeezerId": 11268268,
+      "trackId": 3124822521,
+      "altTrackIds": [
+        2540977811
+      ],
+      "album": {
+        "id": 679082741,
+        "title": "Não Sou Santo Mas Não Sou Bandido",
+        "releaseDate": "2024-12-16",
+        "recordType": "album"
+      },
+      "duration": 262,
+      "rank": 643725,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "mc-cabelinho--solitario",
+      "title": "SOLITÁRIO",
+      "artist": "MC Cabelinho",
+      "artistDeezerId": 11268268,
+      "trackId": 4266710182,
+      "altTrackIds": [],
+      "album": {
+        "id": 1071100582,
+        "title": "ESCORPIÃO",
+        "releaseDate": "2026-09-28",
+        "recordType": "album"
+      },
+      "duration": 184,
+      "rank": 640173,
+      "topPosition": 3,
+      "year": 2026
+    },
+    {
+      "id": "mc-cabelinho--veneno",
+      "title": "VENENO",
+      "artist": "MC Cabelinho",
+      "artistDeezerId": 11268268,
+      "trackId": 4266710202,
+      "altTrackIds": [],
+      "album": {
+        "id": 1071100582,
+        "title": "ESCORPIÃO",
+        "releaseDate": "2026-09-28",
+        "recordType": "album"
+      },
+      "duration": 186,
+      "rank": 691200,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "mc-daniel--nunca-mais",
+      "title": "Nunca Mais",
+      "artist": "MC Daniel",
+      "artistDeezerId": 4637777,
+      "trackId": 3326073391,
+      "altTrackIds": [],
+      "album": {
+        "id": 742904121,
+        "title": "Nunca Mais",
+        "releaseDate": "2025-04-24",
+        "recordType": "single"
+      },
+      "duration": 181,
+      "rank": 549304,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "mc-hariel--hoje-eu-vou-ganhar-red-bull-symphonic",
+      "title": "Hoje Eu Vou Ganhar (Red Bull Symphonic)",
+      "artist": "MC Hariel",
+      "artistDeezerId": 6705395,
+      "trackId": 4234385312,
+      "altTrackIds": [],
+      "album": {
+        "id": 1058443942,
+        "title": "MC Hariel - Red Bull Symphonic São Paulo",
+        "releaseDate": "2026-09-02",
+        "recordType": "album"
+      },
+      "duration": 169,
+      "rank": 430247,
+      "topPosition": 3,
+      "year": 2022
+    },
+    {
+      "id": "mc-hariel--maca-verde",
+      "title": "Maçã Verde",
+      "artist": "MC Hariel",
+      "artistDeezerId": 6705395,
+      "trackId": 1097278102,
+      "altTrackIds": [
+        1653587132
+      ],
+      "album": {
+        "id": 177084422,
+        "title": "Avisa que é o Funk",
+        "releaseDate": "2020-10-09",
+        "recordType": "ep"
+      },
+      "duration": 164,
+      "rank": 579975,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "mc-hariel--o-fim-e-triste",
+      "title": "O Fim é Triste",
+      "artist": "MC Hariel",
+      "artistDeezerId": 6705395,
+      "trackId": 1792780327,
+      "altTrackIds": [],
+      "album": {
+        "id": 327811117,
+        "title": "O Fim é Triste (feat. DJ BOY)",
+        "releaseDate": "2022-06-17",
+        "recordType": "single"
+      },
+      "duration": 158,
+      "rank": 517938,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "mc-ryan-sp--namora-ai",
+      "title": "Namora Aí",
+      "artist": "MC Ryan SP",
+      "artistDeezerId": 49259572,
+      "trackId": 2046781487,
+      "altTrackIds": [
+        2057306007
+      ],
+      "album": {
+        "id": 382652877,
+        "title": "Namora Aí",
+        "releaseDate": "2022-12-09",
+        "recordType": "single"
+      },
+      "duration": 148,
+      "rank": 494479,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "melim--amores-e-flores",
+      "title": "Amores E Flores",
+      "artist": "Melim",
+      "artistDeezerId": 9708982,
+      "trackId": 1209031392,
+      "altTrackIds": [
+        1111180282,
+        1992805587,
+        2345233615,
+        2526331721
+      ],
+      "album": {
+        "id": 200141862,
+        "title": "Amores E Flores",
+        "releaseDate": "2021-01-22",
+        "recordType": "album"
+      },
+      "duration": 171,
+      "rank": 512995,
+      "topPosition": 3,
+      "year": 2021
+    },
+    {
+      "id": "melim--cabelo-de-anjo",
+      "title": "Cabelo De Anjo",
+      "artist": "Melim",
+      "artistDeezerId": 9708982,
+      "trackId": 956499192,
+      "altTrackIds": [
+        956499162,
+        1992805577
+      ],
+      "album": {
+        "id": 147400272,
+        "title": "Eu Feat. Você",
+        "releaseDate": "2020-05-15",
+        "recordType": "album"
+      },
+      "duration": 214,
+      "rank": 538234,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "melim--eu",
+      "title": "Eu",
+      "artist": "Melim",
+      "artistDeezerId": 9708982,
+      "trackId": 956499172,
+      "altTrackIds": [
+        1974911687,
+        2345233575,
+        2526331771
+      ],
+      "album": {
+        "id": 147400272,
+        "title": "Eu Feat. Você",
+        "releaseDate": "2020-05-15",
+        "recordType": "album"
+      },
+      "duration": 185,
+      "rank": 565400,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "mumuzinho--a-tres",
+      "title": "A Três",
+      "artist": "Mumuzinho",
+      "artistDeezerId": 1646315,
+      "trackId": 3054766801,
+      "altTrackIds": [
+        3335908581,
+        3347453461,
+        3475136331,
+        3497893471,
+        3600665772
+      ],
+      "album": {
+        "id": 659716271,
+        "title": "Conectado com Mumuzinho",
+        "releaseDate": "2024-10-28",
+        "recordType": "album"
+      },
+      "duration": 153,
+      "rank": 522832,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "mumuzinho--em-qualquer-cama",
+      "title": "Em Qualquer Cama",
+      "artist": "Mumuzinho",
+      "artistDeezerId": 1646315,
+      "trackId": 3475136451,
+      "altTrackIds": [
+        3278018811,
+        3278018921,
+        3497893481,
+        3600665712
+      ],
+      "album": {
+        "id": 793194061,
+        "title": "Churrasco e Resenha do Mumuzinho",
+        "releaseDate": "2025-07-31",
+        "recordType": "album"
+      },
+      "duration": 171,
+      "rank": 603941,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "mumuzinho--fechadao-com-o-amor",
+      "title": "Fechadão Com O Amor",
+      "artist": "Mumuzinho",
+      "artistDeezerId": 1646315,
+      "trackId": 4037392501,
+      "altTrackIds": [
+        3952451331
+      ],
+      "album": {
+        "id": 988501141,
+        "title": "Simples Assim (Ao Vivo / Vol.1)",
+        "releaseDate": "2026-05-29",
+        "recordType": "album"
+      },
+      "duration": 145,
+      "rank": 711046,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "murilo-huff--deixa-eu",
+      "title": "Deixa Eu",
+      "artist": "Murilo Huff",
+      "artistDeezerId": 7810466,
+      "trackId": 3486261391,
+      "altTrackIds": [
+        3772530832
+      ],
+      "album": {
+        "id": 797262881,
+        "title": "Acústico (Ao Vivo)",
+        "releaseDate": "2025-08-14",
+        "recordType": "album"
+      },
+      "duration": 158,
+      "rank": 865336,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "murilo-huff--mulher-sem-ciume",
+      "title": "Mulher Sem Ciúme",
+      "artist": "Murilo Huff",
+      "artistDeezerId": 7810466,
+      "trackId": 3415420651,
+      "altTrackIds": [
+        3486261381
+      ],
+      "album": {
+        "id": 772853521,
+        "title": "Acústico, Vol.2 (Ao Vivo)",
+        "releaseDate": "2025-05-29",
+        "recordType": "album"
+      },
+      "duration": 163,
+      "rank": 550252,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "murilo-huff--veneno",
+      "title": "Veneno",
+      "artist": "Murilo Huff",
+      "artistDeezerId": 7810466,
+      "trackId": 3415420661,
+      "altTrackIds": [
+        3281449141,
+        3281862571,
+        3486261371
+      ],
+      "album": {
+        "id": 772853521,
+        "title": "Acústico, Vol.2 (Ao Vivo)",
+        "releaseDate": "2025-05-29",
+        "recordType": "album"
+      },
+      "duration": 178,
+      "rank": 761699,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "nattan--eu-to-querendo-de-novo",
+      "title": "Eu Tô Querendo De Novo",
+      "artist": "Nattan",
+      "artistDeezerId": 13097199,
+      "trackId": 3890790331,
+      "altTrackIds": [
+        3752399572,
+        3763953872,
+        3940726871
+      ],
+      "album": {
+        "id": 936202831,
+        "title": "Nattan In Vegas (Ao Vivo)",
+        "releaseDate": "2026-03-13",
+        "recordType": "album"
+      },
+      "duration": 135,
+      "rank": 663352,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "nattan--homem-e-homem-moleque-e-moleque",
+      "title": "Homem É Homem, Moleque É Moleque",
+      "artist": "Nattan",
+      "artistDeezerId": 13097199,
+      "trackId": 3661339692,
+      "altTrackIds": [
+        3752399592,
+        3890790351,
+        3940726921
+      ],
+      "album": {
+        "id": 858381292,
+        "title": "Homem É Homem, Moleque É Moleque",
+        "releaseDate": "2025-11-21",
+        "recordType": "single"
+      },
+      "duration": 144,
+      "rank": 627134,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "nattan--love-gostosinho",
+      "title": "Love Gostosinho",
+      "artist": "Nattan",
+      "artistDeezerId": 13097199,
+      "trackId": 2032229807,
+      "altTrackIds": [
+        2056478547
+      ],
+      "album": {
+        "id": 379339567,
+        "title": "O Fantástico Mundo De Nattan (Ao Vivo)",
+        "releaseDate": "2022-12-08",
+        "recordType": "album"
+      },
+      "duration": 163,
+      "rank": 648401,
+      "topPosition": 2,
+      "year": 2022
+    },
+    {
+      "id": "orochi--amor-de-fim-de-noite",
+      "title": "Amor de Fim de Noite",
+      "artist": "Orochi",
+      "artistDeezerId": 1107447,
+      "trackId": 914213802,
+      "altTrackIds": [
+        769551042
+      ],
+      "album": {
+        "id": 138386102,
+        "title": "Celebridade",
+        "releaseDate": "2020-03-27",
+        "recordType": "album"
+      },
+      "duration": 221,
+      "rank": 692746,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "orochi--celebridade",
+      "title": "Celebridade",
+      "artist": "Orochi",
+      "artistDeezerId": 1107447,
+      "trackId": 914213842,
+      "altTrackIds": [],
+      "album": {
+        "id": 138386102,
+        "title": "Celebridade",
+        "releaseDate": "2020-03-27",
+        "recordType": "album"
+      },
+      "duration": 231,
+      "rank": 655956,
+      "topPosition": 2,
+      "year": 2020
+    },
+    {
+      "id": "orochi--mitsubishi",
+      "title": "Mitsubishi",
+      "artist": "Orochi",
+      "artistDeezerId": 1107447,
+      "trackId": 914213752,
+      "altTrackIds": [
+        793729292
+      ],
+      "album": {
+        "id": 138386102,
+        "title": "Celebridade",
+        "releaseDate": "2020-03-27",
+        "recordType": "album"
+      },
+      "duration": 182,
+      "rank": 641192,
+      "topPosition": 3,
+      "year": 2020
+    },
+    {
+      "id": "os-baroes-da-pisadinha--basta-voce-me-ligar",
+      "title": "Basta Você Me Ligar",
+      "artist": "Os Barões da Pisadinha",
+      "artistDeezerId": 61474832,
+      "trackId": 1102523572,
+      "altTrackIds": [
+        1102523832,
+        1102523942,
+        1548233562,
+        1548241462,
+        1548245512,
+        2030948937,
+        2030954507
+      ],
+      "album": {
+        "id": 178213842,
+        "title": "Conquistas (Ao Vivo)",
+        "releaseDate": "2020-10-16",
+        "recordType": "album"
+      },
+      "duration": 182,
+      "rank": 590244,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "os-baroes-da-pisadinha--esquema-preferido",
+      "title": "Esquema Preferido",
+      "artist": "Os Barões da Pisadinha",
+      "artistDeezerId": 61474832,
+      "trackId": 3205856341,
+      "altTrackIds": [
+        1475691702,
+        1548233492,
+        1548241482,
+        1548245542,
+        2030948907,
+        2030954457,
+        2840596422,
+        3018384261,
+        3076107091,
+        3135976351,
+        3205850601,
+        3205851071,
+        3205851281,
+        3329509511,
+        4166846202
+      ],
+      "album": {
+        "id": 704141811,
+        "title": "Os Barões da Pisadinha Top Hits",
+        "releaseDate": "2020-04-09",
+        "recordType": "album"
+      },
+      "duration": 201,
+      "rank": 589044,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "os-baroes-da-pisadinha--recairei",
+      "title": "Recairei",
+      "artist": "Os Barões da Pisadinha",
+      "artistDeezerId": 61474832,
+      "trackId": 3205856431,
+      "altTrackIds": [
+        924652282,
+        1102523592,
+        1102523742,
+        1102523962,
+        1548233542,
+        1548241452,
+        1548245502,
+        2030948927,
+        2030954497,
+        2840596412,
+        3018384281,
+        3076107071,
+        3135976371,
+        3205850631,
+        3205851091,
+        3205851401,
+        3705402292
+      ],
+      "album": {
+        "id": 704141811,
+        "title": "Os Barões da Pisadinha Top Hits",
+        "releaseDate": "2020-04-09",
+        "recordType": "album"
+      },
+      "duration": 166,
+      "rank": 575989,
+      "topPosition": 3,
+      "year": 2020
+    },
+    {
+      "id": "os-garotin--calor-e-arrepio",
+      "title": "calor e arrepio",
+      "artist": "Os Garotin",
+      "artistDeezerId": 218897445,
+      "trackId": 3997459231,
+      "altTrackIds": [
+        3514152001
+      ],
+      "album": {
+        "id": 974007741,
+        "title": "FORÇA DA JUVENTUDE",
+        "releaseDate": "2026-05-16",
+        "recordType": "album"
+      },
+      "duration": 185,
+      "rank": 515640,
+      "topPosition": 3,
+      "year": 2026
+    },
+    {
+      "id": "os-garotin--pouco-a-pouco",
+      "title": "pouco a pouco",
+      "artist": "Os Garotin",
+      "artistDeezerId": 218897445,
+      "trackId": 3684604032,
+      "altTrackIds": [
+        3682665822
+      ],
+      "album": {
+        "id": 866221642,
+        "title": "OS GAROTIN DE SÃO GONÇALO",
+        "releaseDate": "2024-05-08",
+        "recordType": "album"
+      },
+      "duration": 170,
+      "rank": 524698,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "os-garotin--zero-a-cem",
+      "title": "Zero a Cem",
+      "artist": "Os Garotin",
+      "artistDeezerId": 218897445,
+      "trackId": 3684379272,
+      "altTrackIds": [
+        3682665862
+      ],
+      "album": {
+        "id": 866133442,
+        "title": "Zero a Cem",
+        "releaseDate": "2023-08-07",
+        "recordType": "single"
+      },
+      "duration": 190,
+      "rank": 566409,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "pabllo-vittar--bad-good",
+      "title": "BAD GOOD",
+      "artist": "Pabllo Vittar",
+      "artistDeezerId": 11301722,
+      "trackId": 4317785492,
+      "altTrackIds": [],
+      "album": {
+        "id": 1109504772,
+        "title": "LOST IN LUST",
+        "releaseDate": "2026-10-01",
+        "recordType": "album"
+      },
+      "duration": 177,
+      "rank": 723554,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "pabllo-vittar--polizia",
+      "title": "POLIZIA",
+      "artist": "Pabllo Vittar",
+      "artistDeezerId": 11301722,
+      "trackId": 4317785552,
+      "altTrackIds": [],
+      "album": {
+        "id": 1109504772,
+        "title": "LOST IN LUST",
+        "releaseDate": "2026-10-01",
+        "recordType": "album"
+      },
+      "duration": 160,
+      "rank": 643126,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "pabllo-vittar--rockstar",
+      "title": "ROCKSTAR",
+      "artist": "Pabllo Vittar",
+      "artistDeezerId": 11301722,
+      "trackId": 4317785502,
+      "altTrackIds": [
+        4129108851,
+        4210817852
+      ],
+      "album": {
+        "id": 1109504772,
+        "title": "LOST IN LUST",
+        "releaseDate": "2026-10-01",
+        "recordType": "album"
+      },
+      "duration": 148,
+      "rank": 641436,
+      "topPosition": 3,
+      "year": 2026
+    },
+    {
+      "id": "pedro-sampaio--dancarina",
+      "title": "DANÇARINA",
+      "artist": "Pedro Sampaio",
+      "artistDeezerId": 50633822,
+      "trackId": 1638787832,
+      "altTrackIds": [
+        1656817732,
+        1776731677
+      ],
+      "album": {
+        "id": 291514702,
+        "title": "CHAMA MEU NOME",
+        "releaseDate": "2022-02-02",
+        "recordType": "album"
+      },
+      "duration": 110,
+      "rank": 778826,
+      "topPosition": 3,
+      "year": 2022
+    },
+    {
+      "id": "pedro-sampaio--jetski",
+      "title": "JETSKI",
+      "artist": "Pedro Sampaio",
+      "artistDeezerId": 50633822,
+      "trackId": 3708173892,
+      "altTrackIds": [
+        3829132661
+      ],
+      "album": {
+        "id": 874612272,
+        "title": "JETSKI",
+        "releaseDate": "2025-12-18",
+        "recordType": "single"
+      },
+      "duration": 152,
+      "rank": 868825,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "pedro-sampaio--sequencia-feiticeira",
+      "title": "SEQUÊNCIA FEITICEIRA",
+      "artist": "Pedro Sampaio",
+      "artistDeezerId": 50633822,
+      "trackId": 3648601552,
+      "altTrackIds": [
+        3511049601
+      ],
+      "album": {
+        "id": 853981182,
+        "title": "SEQUÊNCIAS #1",
+        "releaseDate": "2025-11-18",
+        "recordType": "album"
+      },
+      "duration": 129,
+      "rank": 852021,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "pericles--daquele-jeitao",
+      "title": "Daquele Jeitão",
+      "artist": "Péricles",
+      "artistDeezerId": 423066,
+      "trackId": 2765579531,
+      "altTrackIds": [
+        2747487231,
+        2765558921
+      ],
+      "album": {
+        "id": 577890251,
+        "title": "Calendário",
+        "releaseDate": "2023-10-05",
+        "recordType": "album"
+      },
+      "duration": 173,
+      "rank": 610166,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "pericles--falta-de-amor",
+      "title": "Falta de Amor",
+      "artist": "Péricles",
+      "artistDeezerId": 423066,
+      "trackId": 4078363311,
+      "altTrackIds": [
+        4256480181
+      ],
+      "album": {
+        "id": 1002634671,
+        "title": "As Vozes, Vol. 1 (Ao Vivo)",
+        "releaseDate": "2026-06-18",
+        "recordType": "album"
+      },
+      "duration": 234,
+      "rank": 595084,
+      "topPosition": 3,
+      "year": 2026
+    },
+    {
+      "id": "pericles--foguete",
+      "title": "Foguete",
+      "artist": "Péricles",
+      "artistDeezerId": 423066,
+      "trackId": 3620123952,
+      "altTrackIds": [
+        4078363291,
+        4256480161,
+        4256480531
+      ],
+      "album": {
+        "id": 844046872,
+        "title": "Foguete",
+        "releaseDate": "2025-10-30",
+        "recordType": "single"
+      },
+      "duration": 159,
+      "rank": 599975,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "pixote--amor-e-fe",
+      "title": "Amor e Fé",
+      "artist": "Pixote",
+      "artistDeezerId": 147184,
+      "trackId": 2062870737,
+      "altTrackIds": [
+        1710015147,
+        1718880637
+      ],
+      "album": {
+        "id": 385185567,
+        "title": "Pixote House Music (Ao Vivo)",
+        "releaseDate": "2022-12-16",
+        "recordType": "album"
+      },
+      "duration": 289,
+      "rank": 598845,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "pixote--coracao-e-cadeado",
+      "title": "Coração e Cadeado",
+      "artist": "Pixote",
+      "artistDeezerId": 147184,
+      "trackId": 3608026302,
+      "altTrackIds": [
+        3299377361
+      ],
+      "album": {
+        "id": 839969432,
+        "title": "Pixote nas Alturas",
+        "releaseDate": "2025-11-07",
+        "recordType": "album"
+      },
+      "duration": 189,
+      "rank": 525133,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "pixote--vida-e-mo",
+      "title": "Vida e Mô",
+      "artist": "Pixote",
+      "artistDeezerId": 147184,
+      "trackId": 3608026242,
+      "altTrackIds": [
+        3531158491
+      ],
+      "album": {
+        "id": 839969432,
+        "title": "Pixote nas Alturas",
+        "releaseDate": "2025-11-07",
+        "recordType": "album"
+      },
+      "duration": 170,
+      "rank": 516627,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "priscilla--10-10",
+      "title": "10/10",
+      "artist": "Priscilla",
+      "artistDeezerId": 4089983,
+      "trackId": 2768751931,
+      "altTrackIds": [
+        2774003871
+      ],
+      "album": {
+        "id": 578820681,
+        "title": "PRISCILLA",
+        "releaseDate": "2024-05-09",
+        "recordType": "album"
+      },
+      "duration": 136,
+      "rank": 355116,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "priscilla--quer-dancar",
+      "title": "QUER DANÇAR",
+      "artist": "Priscilla",
+      "artistDeezerId": 4089983,
+      "trackId": 2768751921,
+      "altTrackIds": [
+        2521481531
+      ],
+      "album": {
+        "id": 578820681,
+        "title": "PRISCILLA",
+        "releaseDate": "2024-05-09",
+        "recordType": "album"
+      },
+      "duration": 130,
+      "rank": 421921,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "priscilla--unicornios",
+      "title": "UNICÓRNIOS",
+      "artist": "Priscilla",
+      "artistDeezerId": 4089983,
+      "trackId": 2768752061,
+      "altTrackIds": [],
+      "album": {
+        "id": 578820681,
+        "title": "PRISCILLA",
+        "releaseDate": "2024-05-09",
+        "recordType": "album"
+      },
+      "duration": 182,
+      "rank": 369908,
+      "topPosition": 2,
+      "year": 2024
+    },
+    {
+      "id": "simone-mendes--dois-fugitivos",
+      "title": "Dois Fugitivos",
+      "artist": "Simone Mendes",
+      "artistDeezerId": 73171372,
+      "trackId": 2496275381,
+      "altTrackIds": [
+        2116131517,
+        2281020167,
+        2545946122,
+        2725843061,
+        2755450601,
+        2805848462,
+        2957705991,
+        3138566121,
+        3319920841,
+        3475143421,
+        3545398231,
+        3809948392,
+        3991263471
+      ],
+      "album": {
+        "id": 499497341,
+        "title": "Cintilante (Ao Vivo / Vol.2)",
+        "releaseDate": "2023-10-20",
+        "recordType": "album"
+      },
+      "duration": 173,
+      "rank": 667715,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "simone-mendes--dois-tristes",
+      "title": "Dois Tristes",
+      "artist": "Simone Mendes",
+      "artistDeezerId": 73171372,
+      "trackId": 2725843031,
+      "altTrackIds": [
+        2674743712,
+        2755450611,
+        2805848442,
+        2877032792,
+        2957705971,
+        3060658481,
+        3138566051,
+        3319920821,
+        3362337461,
+        3475143401,
+        3545398211,
+        3809948382,
+        3991263451
+      ],
+      "album": {
+        "id": 565841851,
+        "title": "Simone Mendes - Só Hits",
+        "releaseDate": "2024-04-04",
+        "recordType": "album"
+      },
+      "duration": 189,
+      "rank": 695218,
+      "topPosition": 2,
+      "year": 2024
+    },
+    {
+      "id": "simone-mendes--erro-gostoso",
+      "title": "Erro Gostoso",
+      "artist": "Simone Mendes",
+      "artistDeezerId": 73171372,
+      "trackId": 2496275401,
+      "altTrackIds": [
+        2116131507,
+        2281020147,
+        2545946212,
+        2725843021,
+        2755450621,
+        2805848492,
+        2957705981,
+        3138566081,
+        3319920831,
+        3362337481,
+        3475143391,
+        3545398191,
+        3809948412,
+        3991263431
+      ],
+      "album": {
+        "id": 499497341,
+        "title": "Cintilante (Ao Vivo / Vol.2)",
+        "releaseDate": "2023-10-20",
+        "recordType": "album"
+      },
+      "duration": 178,
+      "rank": 814928,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "sorriso-maroto--vai-me-esquecer-tambem",
+      "title": "Vai Me Esquecer Também",
+      "artist": "Sorriso Maroto",
+      "artistDeezerId": 362764,
+      "trackId": 1369691182,
+      "altTrackIds": [
+        4166842792
+      ],
+      "album": {
+        "id": 229444512,
+        "title": "A.M.A (Ao Vivo)",
+        "releaseDate": "2021-05-07",
+        "recordType": "album"
+      },
+      "duration": 202,
+      "rank": 674817,
+      "topPosition": 1,
+      "year": 2021
+    },
+    {
+      "id": "tarcisio-do-acordeon--protecao-de-tela",
+      "title": "Proteção de Tela",
+      "artist": "Tarcísio do Acordeon",
+      "artistDeezerId": 84292982,
+      "trackId": 1418968212,
+      "altTrackIds": [],
+      "album": {
+        "id": 240816852,
+        "title": "Meu Sonho - Pt. 2",
+        "releaseDate": "2021-07-02",
+        "recordType": "ep"
+      },
+      "duration": 216,
+      "rank": 635740,
+      "topPosition": 1,
+      "year": 2021
+    },
+    {
+      "id": "tarcisio-do-acordeon--role",
+      "title": "Rolê",
+      "artist": "Tarcísio do Acordeon",
+      "artistDeezerId": 84292982,
+      "trackId": 1442170372,
+      "altTrackIds": [],
+      "album": {
+        "id": 246523402,
+        "title": "Rolê",
+        "releaseDate": "2021-07-23",
+        "recordType": "single"
+      },
+      "duration": 174,
+      "rank": 610595,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "teto--fim-de-semana-no-rio",
+      "title": "Fim de Semana no Rio",
+      "artist": "Teto",
+      "artistDeezerId": 114472782,
+      "trackId": 1690856697,
+      "altTrackIds": [],
+      "album": {
+        "id": 304155717,
+        "title": "Fim de Semana no Rio",
+        "releaseDate": "2022-03-30",
+        "recordType": "single"
+      },
+      "duration": 165,
+      "rank": 622318,
+      "topPosition": 3,
+      "year": 2022
+    },
+    {
+      "id": "teto--flow-espacial",
+      "title": "Flow Espacial",
+      "artist": "Teto",
+      "artistDeezerId": 114472782,
+      "trackId": 2125595797,
+      "altTrackIds": [],
+      "album": {
+        "id": 400900767,
+        "title": "Flow Espacial",
+        "releaseDate": "2023-01-30",
+        "recordType": "single"
+      },
+      "duration": 166,
+      "rank": 660070,
+      "topPosition": 1,
+      "year": 2023
+    },
+    {
+      "id": "teto--m4",
+      "title": "M4",
+      "artist": "Teto",
+      "artistDeezerId": 114472782,
+      "trackId": 1214470822,
+      "altTrackIds": [],
+      "album": {
+        "id": 201157762,
+        "title": "M4",
+        "releaseDate": "2021-01-20",
+        "recordType": "single"
+      },
+      "duration": 170,
+      "rank": 659443,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "thiago-pantaleao--desculpa-por-eu-nao-te-amar",
+      "title": "Desculpa por Eu Não Te Amar",
+      "artist": "Thiago Pantaleão",
+      "artistDeezerId": 102204612,
+      "trackId": 1906733137,
+      "altTrackIds": [
+        1817577117,
+        2248645057,
+        2248645087
+      ],
+      "album": {
+        "id": 355096937,
+        "title": "Fim do Mundo",
+        "releaseDate": "2022-09-23",
+        "recordType": "album"
+      },
+      "duration": 186,
+      "rank": 463421,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "thiago-pantaleao--malicia",
+      "title": "Malícia",
+      "artist": "Thiago Pantaleão",
+      "artistDeezerId": 102204612,
+      "trackId": 2931040291,
+      "altTrackIds": [
+        2528048661,
+        3279441421
+      ],
+      "album": {
+        "id": 624093771,
+        "title": "NOVA ERA",
+        "releaseDate": "2024-08-16",
+        "recordType": "album"
+      },
+      "duration": 188,
+      "rank": 389026,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "thiago-pantaleao--mente-pra-mim",
+      "title": "Mente Pra Mim",
+      "artist": "Thiago Pantaleão",
+      "artistDeezerId": 102204612,
+      "trackId": 1906733147,
+      "altTrackIds": [
+        2206078757,
+        2248645097
+      ],
+      "album": {
+        "id": 355096937,
+        "title": "Fim do Mundo",
+        "releaseDate": "2022-09-23",
+        "recordType": "album"
+      },
+      "duration": 158,
+      "rank": 422216,
+      "topPosition": 2,
+      "year": 2022
+    },
+    {
+      "id": "thiaguinho--em-busca-da-minha-sorte",
+      "title": "Em Busca Da Minha Sorte",
+      "artist": "Thiaguinho",
+      "artistDeezerId": 1644275,
+      "trackId": 2728135791,
+      "altTrackIds": [
+        2728135861,
+        2816364782,
+        2951101141,
+        3127043371
+      ],
+      "album": {
+        "id": 566380841,
+        "title": "Sorte (Ao Vivo / EP01)",
+        "releaseDate": "2024-04-05",
+        "recordType": "album"
+      },
+      "duration": 197,
+      "rank": 684877,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "thiaguinho--me-balancou",
+      "title": "Me Balançou",
+      "artist": "Thiaguinho",
+      "artistDeezerId": 1644275,
+      "trackId": 3726261852,
+      "altTrackIds": [
+        4007893331
+      ],
+      "album": {
+        "id": 880570612,
+        "title": "Bem Black, Vol. 1 (Ao Vivo)",
+        "releaseDate": "2026-01-09",
+        "recordType": "album"
+      },
+      "duration": 193,
+      "rank": 698266,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "thiaguinho--pensamentos-intrusivos",
+      "title": "Pensamentos Intrusivos",
+      "artist": "Thiaguinho",
+      "artistDeezerId": 1644275,
+      "trackId": 3917123481,
+      "altTrackIds": [
+        4007893341
+      ],
+      "album": {
+        "id": 945777421,
+        "title": "Bem Black - Vol. 2 (Ao Vivo)",
+        "releaseDate": "2026-03-27",
+        "recordType": "album"
+      },
+      "duration": 195,
+      "rank": 696448,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "turma-do-pagode--duvido",
+      "title": "Duvido",
+      "artist": "Turma do Pagode",
+      "artistDeezerId": 373974,
+      "trackId": 3258693531,
+      "altTrackIds": [
+        3013075881,
+        3206029781,
+        3329508971
+      ],
+      "album": {
+        "id": 721055991,
+        "title": "Turma do Pagode - Sucessos",
+        "releaseDate": "2024-01-01",
+        "recordType": "album"
+      },
+      "duration": 163,
+      "rank": 751446,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "turma-do-pagode--investigador-sem-coracao",
+      "title": "Investigador (Sem Coração)",
+      "artist": "Turma do Pagode",
+      "artistDeezerId": 373974,
+      "trackId": 4153735262,
+      "altTrackIds": [
+        4031224941,
+        4089547221,
+        4252958971,
+        4260008701,
+        4265264422,
+        4295542552
+      ],
+      "album": {
+        "id": 1029032442,
+        "title": "Turma Futebol Clube - Vol. 2 Ao Vivo",
+        "releaseDate": "2026-07-23",
+        "recordType": "album"
+      },
+      "duration": 159,
+      "rank": 802780,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "turma-do-pagode--suposto-namorado",
+      "title": "Suposto Namorado",
+      "artist": "Turma do Pagode",
+      "artistDeezerId": 373974,
+      "trackId": 3206029831,
+      "altTrackIds": [
+        3172649301,
+        3329508991
+      ],
+      "album": {
+        "id": 704197211,
+        "title": "Mixturadin 3 Ao Vivo",
+        "releaseDate": "2025-01-28",
+        "recordType": "album"
+      },
+      "duration": 235,
+      "rank": 602865,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "tz-da-coronel--joao-e-maria",
+      "title": "João E Maria",
+      "artist": "Tz da Coronel",
+      "artistDeezerId": 102703622,
+      "trackId": 4223082722,
+      "altTrackIds": [],
+      "album": {
+        "id": 1053896472,
+        "title": "João E Maria",
+        "releaseDate": "2026-08-21",
+        "recordType": "single"
+      },
+      "duration": 213,
+      "rank": 395125,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "tz-da-coronel--qual-e-seu-desejo",
+      "title": "Qual é seu desejo?",
+      "artist": "Tz da Coronel",
+      "artistDeezerId": 102703622,
+      "trackId": 2847498542,
+      "altTrackIds": [
+        2670809602,
+        3173888621
+      ],
+      "album": {
+        "id": 601709552,
+        "title": "Direto da Selva",
+        "releaseDate": "2024-06-27",
+        "recordType": "album"
+      },
+      "duration": 153,
+      "rank": 590491,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "veigh--engana-dizendo-que-ama",
+      "title": "Engana Dizendo Que Ama",
+      "artist": "Veigh",
+      "artistDeezerId": 52528582,
+      "trackId": 2271327857,
+      "altTrackIds": [
+        4276744932,
+        4323162042
+      ],
+      "album": {
+        "id": 438102847,
+        "title": "Dos Prédios Deluxe",
+        "releaseDate": "2023-05-19",
+        "recordType": "album"
+      },
+      "duration": 188,
+      "rank": 670090,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "veigh--novo-balanco",
+      "title": "Novo Balanço",
+      "artist": "Veigh",
+      "artistDeezerId": 52528582,
+      "trackId": 2271327847,
+      "altTrackIds": [
+        4323161992
+      ],
+      "album": {
+        "id": 438102847,
+        "title": "Dos Prédios Deluxe",
+        "releaseDate": "2023-05-19",
+        "recordType": "album"
+      },
+      "duration": 140,
+      "rank": 633462,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "veigh--talvez-voce-precise-de-mim",
+      "title": "Talvez você precise de mim",
+      "artist": "Veigh",
+      "artistDeezerId": 52528582,
+      "trackId": 3408825081,
+      "altTrackIds": [
+        4323162202
+      ],
+      "album": {
+        "id": 770655151,
+        "title": "Eu Venci o Mundo",
+        "releaseDate": "2025-06-27",
+        "recordType": "album"
+      },
+      "duration": 126,
+      "rank": 750301,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "vintage-culture--hands-up",
+      "title": "Hands Up",
+      "artist": "Vintage Culture",
+      "artistDeezerId": 4782876,
+      "trackId": 3973081701,
+      "altTrackIds": [],
+      "album": {
+        "id": 965716091,
+        "title": "Hands Up",
+        "releaseDate": "2026-05-15",
+        "recordType": "single"
+      },
+      "duration": 188,
+      "rank": 590344,
+      "topPosition": 2,
+      "year": 2026
+    },
+    {
+      "id": "vintage-culture--toxic",
+      "title": "Toxic",
+      "artist": "Vintage Culture",
+      "artistDeezerId": 4782876,
+      "trackId": 4043532201,
+      "altTrackIds": [],
+      "album": {
+        "id": 990778001,
+        "title": "Toxic",
+        "releaseDate": "2026-07-03",
+        "recordType": "ep"
+      },
+      "duration": 191,
+      "rank": 636089,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "vintage-culture--weak",
+      "title": "Weak",
+      "artist": "Vintage Culture",
+      "artistDeezerId": 4782876,
+      "trackId": 2805952562,
+      "altTrackIds": [
+        2617772492,
+        2655327622,
+        2655327632,
+        2710014662,
+        2710014672,
+        2728105251,
+        2747934341,
+        2747934351,
+        2780955011,
+        2874508322,
+        2874508332,
+        3014898821,
+        3014898961
+      ],
+      "album": {
+        "id": 587809722,
+        "title": "Promised Land",
+        "releaseDate": "2024-05-24",
+        "recordType": "album"
+      },
+      "duration": 202,
+      "rank": 589151,
+      "topPosition": 3,
+      "year": 2024
+    },
+    {
+      "id": "vitor-fernandes--voce-que-me-mudou",
+      "title": "Você que Me Mudou",
+      "artist": "Vitor Fernandes",
+      "artistDeezerId": 7317188,
+      "trackId": 2046264217,
+      "altTrackIds": [
+        4320944022
+      ],
+      "album": {
+        "id": 382585997,
+        "title": "Incomparável",
+        "releaseDate": "2022-12-09",
+        "recordType": "album"
+      },
+      "duration": 164,
+      "rank": 409080,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "vitor-kley--a-cura",
+      "title": "A Cura",
+      "artist": "Vitor Kley",
+      "artistDeezerId": 7746050,
+      "trackId": 1522301102,
+      "altTrackIds": [],
+      "album": {
+        "id": 265676442,
+        "title": "A Cura",
+        "releaseDate": "2021-01-27",
+        "recordType": "single"
+      },
+      "duration": 245,
+      "rank": 524953,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "vitor-kley--ainda-bem-que-chegou",
+      "title": "Ainda Bem Que Chegou",
+      "artist": "Vitor Kley",
+      "artistDeezerId": 7746050,
+      "trackId": 1522328852,
+      "altTrackIds": [
+        1522309672,
+        1522309892,
+        1522329182,
+        2456263315,
+        2503575041
+      ],
+      "album": {
+        "id": 265682822,
+        "title": "A Bolha",
+        "releaseDate": "2020-06-18",
+        "recordType": "album"
+      },
+      "duration": 180,
+      "rank": 541138,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "vitor-kley--o-amor-e-o-segredo",
+      "title": "O Amor é o Segredo",
+      "artist": "Vitor Kley",
+      "artistDeezerId": 7746050,
+      "trackId": 1522328892,
+      "altTrackIds": [
+        1522310012,
+        1522328322,
+        1522363442,
+        2494404831,
+        2503575181
+      ],
+      "album": {
+        "id": 265682822,
+        "title": "A Bolha",
+        "releaseDate": "2020-06-18",
+        "recordType": "album"
+      },
+      "duration": 183,
+      "rank": 470631,
+      "topPosition": 3,
+      "year": 2020
+    },
+    {
+      "id": "wesley-safadao--cicatrizes",
+      "title": "Cicatrizes",
+      "artist": "Wesley Safadão",
+      "artistDeezerId": 4611283,
+      "trackId": 3471248221,
+      "altTrackIds": [],
+      "album": {
+        "id": 791898721,
+        "title": "TBT WS 3 (Ao Vivo)",
+        "releaseDate": "2025-07-25",
+        "recordType": "album"
+      },
+      "duration": 164,
+      "rank": 567400,
+      "topPosition": 3,
+      "year": 2025
+    },
+    {
+      "id": "wesley-safadao--mentira-estampada",
+      "title": "Mentira Estampada",
+      "artist": "Wesley Safadão",
+      "artistDeezerId": 4611283,
+      "trackId": 2976325991,
+      "altTrackIds": [
+        2976280961
+      ],
+      "album": {
+        "id": 637650001,
+        "title": "Arrocha Safadão",
+        "releaseDate": "2024-09-06",
+        "recordType": "album"
+      },
+      "duration": 173,
+      "rank": 783997,
+      "topPosition": 1,
+      "year": 2024
+    },
+    {
+      "id": "wesley-safadao--tu-xera",
+      "title": "Tu Xera",
+      "artist": "Wesley Safadão",
+      "artistDeezerId": 4611283,
+      "trackId": 3149227991,
+      "altTrackIds": [],
+      "album": {
+        "id": 685807691,
+        "title": "Tu Xera",
+        "releaseDate": "2024-12-23",
+        "recordType": "single"
+      },
+      "duration": 158,
+      "rank": 604002,
+      "topPosition": 2,
+      "year": 2024
+    },
+    {
+      "id": "xama--bandida-sexy",
+      "title": "Bandida Sexy",
+      "artist": "Xamã",
+      "artistDeezerId": 4545763,
+      "trackId": 2287441177,
+      "altTrackIds": [
+        2253446127
+      ],
+      "album": {
+        "id": 442460817,
+        "title": "O Último Romântico Online",
+        "releaseDate": "2023-05-25",
+        "recordType": "album"
+      },
+      "duration": 184,
+      "rank": 558071,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "xama--deixe-me-ir",
+      "title": "Deixe-me Ir",
+      "artist": "Xamã",
+      "artistDeezerId": 4545763,
+      "trackId": 2302605665,
+      "altTrackIds": [
+        1494390512
+      ],
+      "album": {
+        "id": 447041835,
+        "title": "Deixe-me Ir",
+        "releaseDate": "2023-06-09",
+        "recordType": "single"
+      },
+      "duration": 219,
+      "rank": 558109,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "xama--leao",
+      "title": "Leão",
+      "artist": "Xamã",
+      "artistDeezerId": 4545763,
+      "trackId": 1174869322,
+      "altTrackIds": [],
+      "album": {
+        "id": 192764272,
+        "title": "Zodíaco",
+        "releaseDate": "2020-12-14",
+        "recordType": "album"
+      },
+      "duration": 195,
+      "rank": 577935,
+      "topPosition": 1,
+      "year": 2020
+    },
+    {
+      "id": "ze-felipe--facilita-ai",
+      "title": "Facilita Aí",
+      "artist": "Zé Felipe",
+      "artistDeezerId": 5576810,
+      "trackId": 2511401271,
+      "altTrackIds": [
+        2110658227
+      ],
+      "album": {
+        "id": 503931491,
+        "title": "Zé Felipe - As Melhores 2023",
+        "releaseDate": "2023-08-01",
+        "recordType": "album"
+      },
+      "duration": 143,
+      "rank": 536429,
+      "topPosition": 3,
+      "year": 2023
+    },
+    {
+      "id": "ze-felipe--roca-em-mim",
+      "title": "Roça Em Mim",
+      "artist": "Zé Felipe",
+      "artistDeezerId": 5576810,
+      "trackId": 2511401251,
+      "altTrackIds": [
+        2008329317
+      ],
+      "album": {
+        "id": 503931491,
+        "title": "Zé Felipe - As Melhores 2023",
+        "releaseDate": "2023-08-01",
+        "recordType": "album"
+      },
+      "duration": 158,
+      "rank": 618941,
+      "topPosition": 1,
+      "year": 2022
+    },
+    {
+      "id": "ze-felipe--senta-danada",
+      "title": "Senta Danada",
+      "artist": "Zé Felipe",
+      "artistDeezerId": 5576810,
+      "trackId": 1539159722,
+      "altTrackIds": [
+        1421455182
+      ],
+      "album": {
+        "id": 269694762,
+        "title": "Joseph",
+        "releaseDate": "2021-11-12",
+        "recordType": "album"
+      },
+      "duration": 172,
+      "rank": 541940,
+      "topPosition": 2,
+      "year": 2021
+    },
+    {
+      "id": "ze-neto-e-cristiano--barulho-do-foguete",
+      "title": "Barulho Do Foguete",
+      "artist": "Zé Neto & Cristiano",
+      "artistDeezerId": 5895828,
+      "trackId": 2346446755,
+      "altTrackIds": [
+        2471537971,
+        2557357172,
+        3685345852,
+        3685357382,
+        3806996182,
+        3873405251,
+        4081315611
+      ],
+      "album": {
+        "id": 458739925,
+        "title": "As Melhores",
+        "releaseDate": "2023-02-14",
+        "recordType": "album"
+      },
+      "duration": 133,
+      "rank": 816452,
+      "topPosition": 2,
+      "year": 2023
+    },
+    {
+      "id": "ze-neto-e-cristiano--cadeira-cativa",
+      "title": "Cadeira Cativa",
+      "artist": "Zé Neto & Cristiano",
+      "artistDeezerId": 5895828,
+      "trackId": 4081315541,
+      "altTrackIds": [
+        4053915861
+      ],
+      "album": {
+        "id": 1003520921,
+        "title": "Zé Neto & Cristiano - Hits 2026 (Ao Vivo)",
+        "releaseDate": "2026-04-04",
+        "recordType": "album"
+      },
+      "duration": 160,
+      "rank": 964187,
+      "topPosition": 1,
+      "year": 2026
+    },
+    {
+      "id": "ze-neto-e-cristiano--oi-tudo-bem",
+      "title": "Oi, Tudo Bem?",
+      "artist": "Zé Neto & Cristiano",
+      "artistDeezerId": 5895828,
+      "trackId": 4081315561,
+      "altTrackIds": [
+        4053915901
+      ],
+      "album": {
+        "id": 1003520921,
+        "title": "Zé Neto & Cristiano - Hits 2026 (Ao Vivo)",
+        "releaseDate": "2026-04-04",
+        "recordType": "album"
+      },
+      "duration": 187,
+      "rank": 807400,
+      "topPosition": 3,
+      "year": 2026
+    },
+    {
+      "id": "ze-vaqueiro--pergunta-boba",
+      "title": "Pergunta Boba",
+      "artist": "Zé Vaqueiro",
+      "artistDeezerId": 68221232,
+      "trackId": 3648071202,
+      "altTrackIds": [],
+      "album": {
+        "id": 853810602,
+        "title": "Muído Do Original (Ao Vivo Em Caruaru)",
+        "releaseDate": "2025-11-13",
+        "recordType": "album"
+      },
+      "duration": 235,
+      "rank": 721678,
+      "topPosition": 1,
+      "year": 2025
+    },
+    {
+      "id": "ze-vaqueiro--so-penso-em-vaquejada",
+      "title": "Só Penso Em Vaquejada",
+      "artist": "Zé Vaqueiro",
+      "artistDeezerId": 68221232,
+      "trackId": 3648071152,
+      "altTrackIds": [
+        3651628012
+      ],
+      "album": {
+        "id": 853810602,
+        "title": "Muído Do Original (Ao Vivo Em Caruaru)",
+        "releaseDate": "2025-11-13",
+        "recordType": "album"
+      },
+      "duration": 175,
+      "rank": 689087,
+      "topPosition": 2,
+      "year": 2025
+    },
+    {
+      "id": "ze-vaqueiro--volta-comigo-bb",
+      "title": "Volta Comigo BB",
+      "artist": "Zé Vaqueiro",
+      "artistDeezerId": 68221232,
+      "trackId": 2852324632,
+      "altTrackIds": [
+        1360289752,
+        3239600231
+      ],
+      "album": {
+        "id": 603396062,
+        "title": "São João com Zé Vaqueiro",
+        "releaseDate": "2024-06-20",
+        "recordType": "album"
+      },
+      "duration": 210,
+      "rank": 631097,
+      "topPosition": 3,
+      "year": 2021
+    }
+  ]
+}

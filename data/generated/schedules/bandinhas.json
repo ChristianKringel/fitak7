@@ -8447,6 +8447,143 @@
           "answerIndex": 3
         }
       ]
+    },
+    "2026-12-07": {
+      "rounds": [
+        {
+          "songId": "la-montanara--bella-bella-dona",
+          "trackId": 374566841,
+          "altTrackIds": [],
+          "title": "BELLA BELLA DONA",
+          "artist": "La Montanara",
+          "options": [
+            {
+              "title": "Mamma Maria",
+              "artist": "Super Musical Monte Carlo"
+            },
+            {
+              "title": "Não Consigo Te Esquecer",
+              "artist": "Monte Azul"
+            },
+            {
+              "title": "BELLA BELLA DONA",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "Na Magia da Música",
+              "artist": "La Montanara"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "super-banda-hopus--konis-hupen",
+          "trackId": 863428852,
+          "altTrackIds": [],
+          "title": "Konis Hupen",
+          "artist": "Super Banda Hopus",
+          "options": [
+            {
+              "title": "A Marreca",
+              "artist": "Banda Cavalinho"
+            },
+            {
+              "title": "Mimosa",
+              "artist": "Os Futuristas"
+            },
+            {
+              "title": "Chora Seu Domingos",
+              "artist": "Os Futuristas"
+            },
+            {
+              "title": "Konis Hupen",
+              "artist": "Super Banda Hopus"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "super-banda-santa-cruz--zilletaler-hochzeitsmarsch",
+          "trackId": 4274563652,
+          "altTrackIds": [],
+          "title": "Zilletaler Hochzeitsmarsch",
+          "artist": "Super Banda Santa Cruz",
+          "options": [
+            {
+              "title": "So Ein Schönerr Tag (Das Flieguer Lied)",
+              "artist": "Super Banda Choppão"
+            },
+            {
+              "title": "Eu Vou Pra Oktoberfest",
+              "artist": "Banda Ghermania"
+            },
+            {
+              "title": "Zilletaler Hochzeitsmarsch",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Panela Velha",
+              "artist": "Banda Munich"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "super-banda-choppao--liechtensteiner-polka",
+          "trackId": 463900312,
+          "altTrackIds": [
+            481544172,
+            4071608591
+          ],
+          "title": "LIECHTENSTEINER - POLKA",
+          "artist": "Super Banda Choppão",
+          "options": [
+            {
+              "title": "Agora é Chopeidança, Vem pra Festança - ( Parídia: Sara Perche Ti Amo )",
+              "artist": "Vox 3"
+            },
+            {
+              "title": "Polka Party",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Polkinha do Jonas",
+              "artist": "Super Banda K'necus"
+            },
+            {
+              "title": "LIECHTENSTEINER - POLKA",
+              "artist": "Super Banda Choppão"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "banda-ghermania--ein-prosit",
+          "trackId": 462350862,
+          "altTrackIds": [],
+          "title": "Ein Prosit",
+          "artist": "Banda Ghermania",
+          "options": [
+            {
+              "title": "Centopéia do Chopp - Hino da Centopéia",
+              "artist": "Vox 3"
+            },
+            {
+              "title": "Sehnne Valsa",
+              "artist": "Banda Ghermania"
+            },
+            {
+              "title": "Chora Seu Domingos",
+              "artist": "Os Futuristas"
+            },
+            {
+              "title": "Ein Prosit",
+              "artist": "Banda Ghermania"
+            }
+          ],
+          "answerIndex": 3
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,7085 @@
+{
+  "category": "anos-90",
+  "topShare": 1,
+  "songs": [
+    {
+      "id": "adriana-calcanhotto--esquadros",
+      "title": "Esquadros",
+      "artist": "Adriana Calcanhotto",
+      "artistDeezerId": 4333,
+      "trackId": 13231220,
+      "altTrackIds": [
+        7664378,
+        13207416,
+        71395447,
+        77528428
+      ],
+      "album": {
+        "id": 1213001,
+        "title": "Senhas",
+        "releaseDate": "1992-07-21",
+        "recordType": "album"
+      },
+      "duration": 188,
+      "rank": 633827,
+      "topPosition": 1,
+      "year": 1992
+    },
+    {
+      "id": "adriana-calcanhotto--mentiras",
+      "title": "Mentiras",
+      "artist": "Adriana Calcanhotto",
+      "artistDeezerId": 4333,
+      "trackId": 13231219,
+      "altTrackIds": [
+        1102779102,
+        1127329532
+      ],
+      "album": {
+        "id": 1213001,
+        "title": "Senhas",
+        "releaseDate": "1992-07-21",
+        "recordType": "album"
+      },
+      "duration": 179,
+      "rank": 589432,
+      "topPosition": 2,
+      "year": 1992
+    },
+    {
+      "id": "adriana-calcanhotto--vambora",
+      "title": "Vambora",
+      "artist": "Adriana Calcanhotto",
+      "artistDeezerId": 4333,
+      "trackId": 13239094,
+      "altTrackIds": [
+        7664385,
+        13207414,
+        71395445,
+        77528431,
+        1127329552
+      ],
+      "album": {
+        "id": 1213602,
+        "title": "Maritmo",
+        "releaseDate": "1998-06-15",
+        "recordType": "album"
+      },
+      "duration": 256,
+      "rank": 552368,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "ana-carolina--a-cancao-tocou-na-hora-errada",
+      "title": "A Canção Tocou na Hora Errada",
+      "artist": "Ana Carolina",
+      "artistDeezerId": 7144,
+      "trackId": 13288447,
+      "altTrackIds": [
+        61794865
+      ],
+      "album": {
+        "id": 1217537,
+        "title": "Ana Carolina",
+        "releaseDate": "1990-01-01",
+        "recordType": "album"
+      },
+      "duration": 255,
+      "rank": 438358,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "ana-carolina--beatriz",
+      "title": "Beatriz",
+      "artist": "Ana Carolina",
+      "artistDeezerId": 7144,
+      "trackId": 13288454,
+      "altTrackIds": [
+        5786009,
+        61794873
+      ],
+      "album": {
+        "id": 1217537,
+        "title": "Ana Carolina",
+        "releaseDate": "1990-01-01",
+        "recordType": "album"
+      },
+      "duration": 226,
+      "rank": 449978,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "ana-carolina--garganta",
+      "title": "Garganta",
+      "artist": "Ana Carolina",
+      "artistDeezerId": 7144,
+      "trackId": 13288446,
+      "altTrackIds": [
+        5786012,
+        61794857,
+        97081292
+      ],
+      "album": {
+        "id": 1217537,
+        "title": "Ana Carolina",
+        "releaseDate": "1990-01-01",
+        "recordType": "album"
+      },
+      "duration": 215,
+      "rank": 660950,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "ara-ketu--mal-acostumada",
+      "title": "Mal Acostumada",
+      "artist": "Ara Ketu",
+      "artistDeezerId": 448690,
+      "trackId": 13246782,
+      "altTrackIds": [
+        13358433,
+        15419273,
+        71326946,
+        3226631721,
+        3226632561
+      ],
+      "album": {
+        "id": 1214174,
+        "title": "Ao Vivo",
+        "releaseDate": "1998-08-15",
+        "recordType": "album"
+      },
+      "duration": 263,
+      "rank": 508610,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "ara-ketu--minha-razao-de-viver",
+      "title": "Minha Razão de Viver",
+      "artist": "Ara Ketu",
+      "artistDeezerId": 448690,
+      "trackId": 3674771302,
+      "altTrackIds": [
+        13263993,
+        977818092,
+        3226632601
+      ],
+      "album": {
+        "id": 862972742,
+        "title": "45 Anos",
+        "releaseDate": "2025-11-23",
+        "recordType": "album"
+      },
+      "duration": 226,
+      "rank": 504377,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "ara-ketu--sempre-sera",
+      "title": "Sempre Será",
+      "artist": "Ara Ketu",
+      "artistDeezerId": 448690,
+      "trackId": 13263829,
+      "altTrackIds": [
+        3226631851,
+        3226632551
+      ],
+      "album": {
+        "id": 1215488,
+        "title": "Ara Ketu Dez",
+        "releaseDate": "1995-10-15",
+        "recordType": "album"
+      },
+      "duration": 239,
+      "rank": 446226,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "art-popular--oa-oa-cancao-do-amor",
+      "title": "Ôa Ôa (Canção do Amor)",
+      "artist": "Art Popular",
+      "artistDeezerId": 242505,
+      "trackId": 114791230,
+      "altTrackIds": [
+        96129436,
+        526720222,
+        554668482,
+        953971352,
+        959864272,
+        1742358477,
+        1742359067,
+        2835677692
+      ],
+      "album": {
+        "id": 11895764,
+        "title": "O Canto da Razão",
+        "releaseDate": "2015-08-27",
+        "recordType": "album"
+      },
+      "duration": 214,
+      "rank": 454278,
+      "topPosition": 3,
+      "year": 1993
+    },
+    {
+      "id": "art-popular--pimpolho",
+      "title": "Pimpolho",
+      "artist": "Art Popular",
+      "artistDeezerId": 242505,
+      "trackId": 115438090,
+      "altTrackIds": [
+        3386462,
+        3387145,
+        96129452,
+        141340331,
+        959864352,
+        1008677092,
+        1010544932,
+        1742358557,
+        1742359147
+      ],
+      "album": {
+        "id": 11961350,
+        "title": "Temporal",
+        "releaseDate": "1996-07-07",
+        "recordType": "album"
+      },
+      "duration": 192,
+      "rank": 531488,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "art-popular--temporal",
+      "title": "Temporal",
+      "artist": "Art Popular",
+      "artistDeezerId": 242505,
+      "trackId": 115438104,
+      "altTrackIds": [
+        3386476,
+        3387148,
+        141340349,
+        526720372,
+        953971262,
+        988649892
+      ],
+      "album": {
+        "id": 11961350,
+        "title": "Temporal",
+        "releaseDate": "1996-07-07",
+        "recordType": "album"
+      },
+      "duration": 275,
+      "rank": 619626,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "as-meninas--xibom-bombom",
+      "title": "Xibom Bombom",
+      "artist": "As Meninas",
+      "artistDeezerId": 242518,
+      "trackId": 1417503272,
+      "altTrackIds": [
+        2290171965,
+        2292423845,
+        2295931735,
+        4008286651
+      ],
+      "album": {
+        "id": 240479262,
+        "title": "Xibom Bombom",
+        "releaseDate": "1999-07-10",
+        "recordType": "album"
+      },
+      "duration": 227,
+      "rank": 447951,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "asa-de-aguia--danca-do-vampiro",
+      "title": "Dança Do Vampiro",
+      "artist": "Asa de Águia",
+      "artistDeezerId": 362980,
+      "trackId": 15415382,
+      "altTrackIds": [
+        13266832,
+        62130651,
+        71493664,
+        950649702
+      ],
+      "album": {
+        "id": 1423557,
+        "title": "Maxximum - Asa de Águia",
+        "releaseDate": "2005-11-14",
+        "recordType": "album"
+      },
+      "duration": 275,
+      "rank": 431607,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "asa-de-aguia--manivela",
+      "title": "Manivela",
+      "artist": "Asa de Águia",
+      "artistDeezerId": 362980,
+      "trackId": 15437765,
+      "altTrackIds": [
+        16977187,
+        71493659,
+        950649742
+      ],
+      "album": {
+        "id": 1425872,
+        "title": "Tá Reclamando De Quê ?",
+        "releaseDate": "2006-11-07",
+        "recordType": "album"
+      },
+      "duration": 216,
+      "rank": 423895,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "asa-de-aguia--xo-satanas",
+      "title": "Xô Satanás",
+      "artist": "Asa de Águia",
+      "artistDeezerId": 362980,
+      "trackId": 15021228,
+      "altTrackIds": [
+        13266843,
+        15415374,
+        71493653,
+        950649822
+      ],
+      "album": {
+        "id": 1385029,
+        "title": "A Lenda",
+        "releaseDate": "2006-11-10",
+        "recordType": "album"
+      },
+      "duration": 209,
+      "rank": 378642,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "banda-beijo--perae",
+      "title": "Peraê",
+      "artist": "Banda Beijo",
+      "artistDeezerId": 187858,
+      "trackId": 3322033021,
+      "altTrackIds": [
+        3012137,
+        139877769,
+        4292329342
+      ],
+      "album": {
+        "id": 741477081,
+        "title": "Ao Vivo (Live)",
+        "releaseDate": "1998-01-01",
+        "recordType": "album"
+      },
+      "duration": 262,
+      "rank": 332376,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "banda-calypso--dancando-calypso",
+      "title": "Dançando Calypso",
+      "artist": "Banda Calypso",
+      "artistDeezerId": 16590,
+      "trackId": 1742369787,
+      "altTrackIds": [
+        2812439012
+      ],
+      "album": {
+        "id": 316377167,
+        "title": "15 Anos, Vol. 1 (Ao Vivo)",
+        "releaseDate": "2015-06-05",
+        "recordType": "album"
+      },
+      "duration": 190,
+      "rank": 361855,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "banda-eva--beleza-rara",
+      "title": "Beleza Rara",
+      "artist": "Banda Eva",
+      "artistDeezerId": 14531,
+      "trackId": 3042366,
+      "altTrackIds": [
+        2178732,
+        3009269,
+        4678724,
+        16619451,
+        44357351,
+        112726158
+      ],
+      "album": {
+        "id": 294993,
+        "title": "20 Grandes Sucessos De Banda Eva",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 235,
+      "rank": 515073,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "banda-eva--eva-eva",
+      "title": "Eva (Eva)",
+      "artist": "Banda Eva",
+      "artistDeezerId": 14531,
+      "trackId": 2178742,
+      "altTrackIds": [
+        3009271,
+        3042365,
+        16619450,
+        44357491,
+        112726160
+      ],
+      "album": {
+        "id": 217908,
+        "title": "Ao Vivo (Ao Vivo)",
+        "releaseDate": "1998-06-15",
+        "recordType": "album"
+      },
+      "duration": 278,
+      "rank": 507791,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "banda-eva--vem-meu-amor",
+      "title": "Vem Meu Amor",
+      "artist": "Banda Eva",
+      "artistDeezerId": 14531,
+      "trackId": 2178734,
+      "altTrackIds": [
+        3009275,
+        3042367,
+        16619456,
+        44357401
+      ],
+      "album": {
+        "id": 217908,
+        "title": "Ao Vivo (Ao Vivo)",
+        "releaseDate": "1998-06-15",
+        "recordType": "album"
+      },
+      "duration": 211,
+      "rank": 464926,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "barao-vermelho--amor-meu-grande-amor",
+      "title": "Amor meu grande amor",
+      "artist": "Barão Vermelho",
+      "artistDeezerId": 13946,
+      "trackId": 1409437222,
+      "altTrackIds": [
+        126748071,
+        137275342,
+        137275354,
+        137275356,
+        527959941,
+        527961681,
+        2872101722,
+        3067954811,
+        3258563521,
+        3258754891
+      ],
+      "album": {
+        "id": 238497352,
+        "title": "Álbum",
+        "releaseDate": "1996-01-01",
+        "recordType": "album"
+      },
+      "duration": 277,
+      "rank": 540206,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "barao-vermelho--por-voce",
+      "title": "Por você",
+      "artist": "Barão Vermelho",
+      "artistDeezerId": 13946,
+      "trackId": 556382992,
+      "altTrackIds": [
+        7446765,
+        70041293,
+        527959921,
+        527961671,
+        2872101732,
+        3067954821,
+        3261329001,
+        3284195581
+      ],
+      "album": {
+        "id": 73449602,
+        "title": "E-collection",
+        "releaseDate": "2000-01-01",
+        "recordType": "album"
+      },
+      "duration": 210,
+      "rank": 690002,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "barao-vermelho--puro-extase",
+      "title": "Puro êxtase",
+      "artist": "Barão Vermelho",
+      "artistDeezerId": 13946,
+      "trackId": 556382982,
+      "altTrackIds": [
+        7446764,
+        70041300,
+        126748061,
+        527959981,
+        527961791,
+        2872101712,
+        3067954801,
+        3258754961,
+        3261366851,
+        3284195511
+      ],
+      "album": {
+        "id": 73449602,
+        "title": "E-collection",
+        "releaseDate": "2000-01-01",
+        "recordType": "album"
+      },
+      "duration": 235,
+      "rank": 532599,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "biquini-cavadao--janaina",
+      "title": "Janaína",
+      "artist": "Biquini Cavadão",
+      "artistDeezerId": 14570,
+      "trackId": 357233861,
+      "altTrackIds": [
+        60814284,
+        65625727,
+        65625746,
+        95990496,
+        96166320,
+        99558800,
+        358063771,
+        774687612,
+        780525902,
+        977711232,
+        1282217362,
+        1686781727,
+        1686862587,
+        1686973477,
+        1772021927,
+        2043350707,
+        2482325001,
+        3711329292
+      ],
+      "album": {
+        "id": 41021011,
+        "title": "1985/2007 Sucessos Regravados, Vol. 2",
+        "releaseDate": "2007-12-05",
+        "recordType": "album"
+      },
+      "duration": 218,
+      "rank": 564948,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "biquini-cavadao--quando-eu-te-encontrar",
+      "title": "Quando Eu Te Encontrar",
+      "artist": "Biquini Cavadão",
+      "artistDeezerId": 14570,
+      "trackId": 357233851,
+      "altTrackIds": [
+        60867979,
+        65625732,
+        95990512,
+        96166336,
+        99558816,
+        358063811,
+        642423392,
+        774687692,
+        780525972,
+        977711252,
+        1282217382,
+        1685917327,
+        1686781767,
+        1686862657,
+        1686973467,
+        1772021947,
+        1775336847,
+        2043350767,
+        2346524335,
+        3078070841,
+        3711329302
+      ],
+      "album": {
+        "id": 41021011,
+        "title": "1985/2007 Sucessos Regravados, Vol. 2",
+        "releaseDate": "2007-12-05",
+        "recordType": "album"
+      },
+      "duration": 248,
+      "rank": 545785,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "biquini-cavadao--vento-ventania",
+      "title": "Vento Ventania",
+      "artist": "Biquini Cavadão",
+      "artistDeezerId": 14570,
+      "trackId": 3040957,
+      "altTrackIds": [
+        3041316,
+        16594370,
+        16594379,
+        357233831,
+        358063791,
+        413746082,
+        774687792,
+        780526022,
+        977711332,
+        1686781747,
+        1686862697,
+        1686973447,
+        1772022037,
+        2615870822,
+        2626744702,
+        3711329252
+      ],
+      "album": {
+        "id": 294894,
+        "title": "Descivilização",
+        "releaseDate": "1991-01-01",
+        "recordType": "album"
+      },
+      "duration": 261,
+      "rank": 676083,
+      "topPosition": 1,
+      "year": 1991
+    },
+    {
+      "id": "bruno-e-marrone--dormi-na-praca",
+      "title": "Dormi na praça",
+      "artist": "Bruno & Marrone",
+      "artistDeezerId": 15055,
+      "trackId": 3890232,
+      "altTrackIds": [
+        9054590,
+        13290507,
+        13304041,
+        15099389,
+        15406709,
+        15415064,
+        68950380,
+        70024824,
+        80606394,
+        106542176,
+        135869780,
+        513131432,
+        513133952,
+        1799334757,
+        2234477187,
+        3398279341,
+        3524662841
+      ],
+      "album": {
+        "id": 363300,
+        "title": "Volume 1",
+        "releaseDate": "1995-12-06",
+        "recordType": "album"
+      },
+      "duration": 208,
+      "rank": 703633,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "bruno-e-marrone--feriado-nacional",
+      "title": "Feriado Nacional",
+      "artist": "Bruno & Marrone",
+      "artistDeezerId": 15055,
+      "trackId": 13319411,
+      "altTrackIds": [
+        13290506,
+        13304040,
+        15406697,
+        15415066,
+        68950382,
+        70024834,
+        106542180,
+        3398279411,
+        3865257491
+      ],
+      "album": {
+        "id": 1220696,
+        "title": "Cilada De Amor",
+        "releaseDate": "2003-12-31",
+        "recordType": "album"
+      },
+      "duration": 161,
+      "rank": 595770,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "bruno-e-marrone--vida-vazia",
+      "title": "Vida Vazia",
+      "artist": "Bruno & Marrone",
+      "artistDeezerId": 15055,
+      "trackId": 13319416,
+      "altTrackIds": [
+        13290500,
+        13304046,
+        70024846,
+        106542152,
+        3864410971
+      ],
+      "album": {
+        "id": 1220696,
+        "title": "Cilada De Amor",
+        "releaseDate": "2003-12-31",
+        "recordType": "album"
+      },
+      "duration": 223,
+      "rank": 680849,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "caetano-veloso--nao-enche",
+      "title": "Não Enche",
+      "artist": "Caetano Veloso",
+      "artistDeezerId": 232,
+      "trackId": 881651,
+      "altTrackIds": [
+        5192139,
+        1482208302
+      ],
+      "album": {
+        "id": 100113,
+        "title": "Muito Mais",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 198,
+      "rank": 535881,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "caetano-veloso--samba-de-verao",
+      "title": "Samba De Verão",
+      "artist": "Caetano Veloso",
+      "artistDeezerId": 232,
+      "trackId": 1564387,
+      "altTrackIds": [
+        15425364,
+        623738072
+      ],
+      "album": {
+        "id": 160551,
+        "title": "A Bossa De Caetano",
+        "releaseDate": "2008-06-05",
+        "recordType": "album"
+      },
+      "duration": 187,
+      "rank": 551618,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "caetano-veloso--sozinho",
+      "title": "Sozinho",
+      "artist": "Caetano Veloso",
+      "artistDeezerId": 232,
+      "trackId": 5192133,
+      "altTrackIds": [
+        921568,
+        12335477,
+        552381732,
+        3369383301
+      ],
+      "album": {
+        "id": 475998,
+        "title": "Prenda Minha Ao Vivo",
+        "releaseDate": "1999-01-19",
+        "recordType": "album"
+      },
+      "duration": 191,
+      "rank": 676634,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "capital-inicial--eu-vou-estar",
+      "title": "Eu Vou Estar",
+      "artist": "Capital Inicial",
+      "artistDeezerId": 16275,
+      "trackId": 13305138,
+      "altTrackIds": [
+        137199462,
+        1800326677,
+        1990887707,
+        2853428092,
+        2862511372,
+        3418036061,
+        3442162131
+      ],
+      "album": {
+        "id": 1219107,
+        "title": "Atrás dos Olhos",
+        "releaseDate": "1999-05-05",
+        "recordType": "album"
+      },
+      "duration": 203,
+      "rank": 583000,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "capital-inicial--o-mundo",
+      "title": "O Mundo",
+      "artist": "Capital Inicial",
+      "artistDeezerId": 16275,
+      "trackId": 13305134,
+      "altTrackIds": [
+        71630139,
+        137199452,
+        1800326517,
+        1877635967,
+        1990887727,
+        2411022245,
+        2853427992,
+        2862511292,
+        3418036011,
+        3442162171
+      ],
+      "album": {
+        "id": 1219107,
+        "title": "Atrás dos Olhos",
+        "releaseDate": "1999-05-05",
+        "recordType": "album"
+      },
+      "duration": 268,
+      "rank": 545634,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "capital-inicial--o-passageiro-the-passenger",
+      "title": "O Passageiro (The Passenger)",
+      "artist": "Capital Inicial",
+      "artistDeezerId": 16275,
+      "trackId": 13307896,
+      "altTrackIds": [
+        71630140,
+        137199450,
+        2853427952,
+        2862511322,
+        3418036001,
+        3442162151
+      ],
+      "album": {
+        "id": 1219299,
+        "title": "Eletricidade",
+        "releaseDate": "1989-05-07",
+        "recordType": "album"
+      },
+      "duration": 259,
+      "rank": 588248,
+      "topPosition": 1,
+      "year": 1991
+    },
+    {
+      "id": "cassia-eller--malandragem",
+      "title": "Malandragem",
+      "artist": "Cássia Eller",
+      "artistDeezerId": 13576,
+      "trackId": 98891500,
+      "altTrackIds": [
+        15622998,
+        32112381,
+        34557301,
+        98891540,
+        98891554,
+        112659896,
+        390393061,
+        405551082,
+        975414202,
+        2760814381,
+        2893605211,
+        3050886421,
+        3121499881
+      ],
+      "album": {
+        "id": 10115726,
+        "title": "Cássia Eller (1994)",
+        "releaseDate": "1994-01-01",
+        "recordType": "album"
+      },
+      "duration": 250,
+      "rank": 707644,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "cassia-eller--o-segundo-sol",
+      "title": "O Segundo Sol",
+      "artist": "Cássia Eller",
+      "artistDeezerId": 13576,
+      "trackId": 99483914,
+      "altTrackIds": [
+        15622994,
+        98891574,
+        112659902,
+        137727485,
+        405551232,
+        975414192,
+        2760814421,
+        2893605201,
+        3121499811
+      ],
+      "album": {
+        "id": 10186966,
+        "title": "Com Você ... Meu Mundo Ficaria Completo",
+        "releaseDate": "1999-01-01",
+        "recordType": "album"
+      },
+      "duration": 253,
+      "rank": 686683,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "cassia-eller--por-enquanto",
+      "title": "Por Enquanto",
+      "artist": "Cássia Eller",
+      "artistDeezerId": 13576,
+      "trackId": 15425658,
+      "altTrackIds": [
+        32112281,
+        34557311,
+        98891570,
+        112659910,
+        975414182,
+        2760814401,
+        2893605181,
+        3121499831
+      ],
+      "album": {
+        "id": 1424447,
+        "title": "Cássia Eller",
+        "releaseDate": "2011-12-07",
+        "recordType": "album"
+      },
+      "duration": 244,
+      "rank": 643455,
+      "topPosition": 3,
+      "year": 1990
+    },
+    {
+      "id": "charlie-brown-jr--o-preco",
+      "title": "O Preço",
+      "artist": "Charlie Brown Jr.",
+      "artistDeezerId": 8691,
+      "trackId": 423921412,
+      "altTrackIds": [
+        424783112,
+        971480032,
+        1321030092,
+        2431798615
+      ],
+      "album": {
+        "id": 50898202,
+        "title": "Preço Curto, Prazo Longo",
+        "releaseDate": "2017-11-03",
+        "recordType": "album"
+      },
+      "duration": 210,
+      "rank": 596868,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "charlie-brown-jr--proibida-pra-mim-grazon",
+      "title": "Proibida Pra Mim (Grazon)",
+      "artist": "Charlie Brown Jr.",
+      "artistDeezerId": 8691,
+      "trackId": 3413349,
+      "altTrackIds": [
+        3144756,
+        112661636,
+        419953062,
+        424783242,
+        449197042,
+        709616392,
+        971479882,
+        1321030142,
+        1509937792,
+        1509945432,
+        2219502627,
+        2431798635,
+        2732815611,
+        2992537991,
+        3105272161
+      ],
+      "album": {
+        "id": 324231,
+        "title": "Transpiração Continua Prolongada",
+        "releaseDate": "2005-12-10",
+        "recordType": "album"
+      },
+      "duration": 167,
+      "rank": 782397,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "charlie-brown-jr--tudo-que-ela-gosta-de-escutar",
+      "title": "Tudo Que Ela Gosta De Escutar",
+      "artist": "Charlie Brown Jr.",
+      "artistDeezerId": 8691,
+      "trackId": 3413342,
+      "altTrackIds": [
+        3144755,
+        112661640,
+        419952992,
+        424783152,
+        449197132,
+        709616422,
+        971479892,
+        1104021812,
+        1321030042,
+        1509937702,
+        1509945282,
+        2219502677,
+        2572113142,
+        2732815631,
+        2992538031,
+        3105272181
+      ],
+      "album": {
+        "id": 324231,
+        "title": "Transpiração Continua Prolongada",
+        "releaseDate": "2005-12-10",
+        "recordType": "album"
+      },
+      "duration": 176,
+      "rank": 608255,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "cheiro-de-amor--vai-sacudir-vai-abalar",
+      "title": "Vai Sacudir, Vai Abalar",
+      "artist": "Cheiro de Amor",
+      "artistDeezerId": 5078442,
+      "trackId": 363807291,
+      "altTrackIds": [
+        2096873687,
+        2782733172,
+        3340179401
+      ],
+      "album": {
+        "id": 41847871,
+        "title": "É Demais Meu Rei!!!",
+        "releaseDate": "2017-05-26",
+        "recordType": "album"
+      },
+      "duration": 248,
+      "rank": 382071,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "chiclete-com-banana--cara-caramba-sou-camaleao",
+      "title": "Cara Caramba Sou Camaleão",
+      "artist": "Chiclete com Banana",
+      "artistDeezerId": 298143,
+      "trackId": 2168602397,
+      "altTrackIds": [
+        13290775,
+        13540173,
+        15020216,
+        15402416,
+        71381583,
+        71440770
+      ],
+      "album": {
+        "id": 412090617,
+        "title": "RCA 100 Anos De Música - Chiclete Com Banana",
+        "releaseDate": "2002-10-31",
+        "recordType": "album"
+      },
+      "duration": 212,
+      "rank": 422722,
+      "topPosition": 2,
+      "year": 1992
+    },
+    {
+      "id": "chiclete-com-banana--diga-que-valeu",
+      "title": "Diga Que Valeu",
+      "artist": "Chiclete com Banana",
+      "artistDeezerId": 298143,
+      "trackId": 13249189,
+      "altTrackIds": [
+        13247190,
+        13252031,
+        13290768,
+        13540170,
+        15415713,
+        71381593,
+        71440763,
+        2642307062
+      ],
+      "album": {
+        "id": 1214355,
+        "title": "Santo Protetor",
+        "releaseDate": "1997-01-09",
+        "recordType": "album"
+      },
+      "duration": 226,
+      "rank": 455637,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "chiclete-com-banana--foi-por-esse-amor",
+      "title": "Foi por Esse Amor",
+      "artist": "Chiclete com Banana",
+      "artistDeezerId": 298143,
+      "trackId": 13319505,
+      "altTrackIds": [
+        13290769,
+        15402409,
+        15415707,
+        71381587,
+        71440764
+      ],
+      "album": {
+        "id": 1220702,
+        "title": "Banana Coral",
+        "releaseDate": "1994-11-04",
+        "recordType": "album"
+      },
+      "duration": 220,
+      "rank": 397124,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "chico-buarque--futuros-amantes",
+      "title": "Futuros Amantes",
+      "artist": "Chico Buarque",
+      "artistDeezerId": 3543,
+      "trackId": 559707302,
+      "altTrackIds": [
+        988369,
+        10972641,
+        34952781,
+        43563871,
+        559707422,
+        559707852,
+        577221492,
+        586765392,
+        698433672,
+        2545314271
+      ],
+      "album": {
+        "id": 74098292,
+        "title": "Série Aplauso - Chico Buarque",
+        "releaseDate": "1996-01-01",
+        "recordType": "album"
+      },
+      "duration": 209,
+      "rank": 451689,
+      "topPosition": 1,
+      "year": 1993
+    },
+    {
+      "id": "chico-cesar--a-primeira-vista",
+      "title": "À Primeira Vista",
+      "artist": "Chico César",
+      "artistDeezerId": 12718,
+      "trackId": 1739664,
+      "altTrackIds": [
+        12514688,
+        40519591,
+        63990349,
+        87336629,
+        111257188,
+        1392714212,
+        3262561551
+      ],
+      "album": {
+        "id": 176338,
+        "title": "Aos Vivos",
+        "releaseDate": "2006-05-09",
+        "recordType": "album"
+      },
+      "duration": 213,
+      "rank": 574163,
+      "topPosition": 1,
+      "year": 1995
+    },
+    {
+      "id": "chico-cesar--mama-africa",
+      "title": "Mama África",
+      "artist": "Chico César",
+      "artistDeezerId": 12718,
+      "trackId": 1739655,
+      "altTrackIds": [
+        12514694,
+        40519571,
+        63990345,
+        87336619,
+        111257186,
+        1392714272,
+        3292467521
+      ],
+      "album": {
+        "id": 176338,
+        "title": "Aos Vivos",
+        "releaseDate": "2006-05-09",
+        "recordType": "album"
+      },
+      "duration": 211,
+      "rank": 518182,
+      "topPosition": 2,
+      "year": 1995
+    },
+    {
+      "id": "chico-cesar--onde-estara-o-meu-amor",
+      "title": "Onde Estará O Meu Amor",
+      "artist": "Chico César",
+      "artistDeezerId": 12718,
+      "trackId": 63745086,
+      "altTrackIds": [
+        87336625,
+        1392714382
+      ],
+      "album": {
+        "id": 6259527,
+        "title": "Beleza Mano",
+        "releaseDate": "2009-03-13",
+        "recordType": "album"
+      },
+      "duration": 179,
+      "rank": 375590,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "chico-science-e-nacao-zumbi--a-praieira",
+      "title": "A Praieira",
+      "artist": "Chico Science & Nação Zumbi",
+      "artistDeezerId": 242950,
+      "trackId": 13359627,
+      "altTrackIds": [
+        71216051,
+        4017533421
+      ],
+      "album": {
+        "id": 1224093,
+        "title": "Da Lama Ao Caos",
+        "releaseDate": "1994-03-15",
+        "recordType": "album"
+      },
+      "duration": 216,
+      "rank": 502751,
+      "topPosition": 3,
+      "year": 1994
+    },
+    {
+      "id": "chico-science-e-nacao-zumbi--da-lama-ao-caos",
+      "title": "Da Lama ao Caos",
+      "artist": "Chico Science & Nação Zumbi",
+      "artistDeezerId": 242950,
+      "trackId": 13359629,
+      "altTrackIds": [
+        71216047,
+        4017533361
+      ],
+      "album": {
+        "id": 1224093,
+        "title": "Da Lama Ao Caos",
+        "releaseDate": "1994-03-15",
+        "recordType": "album"
+      },
+      "duration": 271,
+      "rank": 516957,
+      "topPosition": 2,
+      "year": 1994
+    },
+    {
+      "id": "chico-science-e-nacao-zumbi--maracatu-atomico",
+      "title": "Maracatu Atômico",
+      "artist": "Chico Science & Nação Zumbi",
+      "artistDeezerId": 242950,
+      "trackId": 16976899,
+      "altTrackIds": [
+        13275274,
+        13275275,
+        4017533371
+      ],
+      "album": {
+        "id": 1215892,
+        "title": "Afrociberdelia",
+        "releaseDate": "1996-05-15",
+        "recordType": "album"
+      },
+      "duration": 285,
+      "rank": 620403,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "chitaozinho-e-xororo--alo",
+      "title": "Alô",
+      "artist": "Chitãozinho & Xororó",
+      "artistDeezerId": 15355,
+      "trackId": 7456218,
+      "altTrackIds": [
+        4685837,
+        102521220,
+        135869716,
+        141338797,
+        426043602,
+        437772072,
+        826866302,
+        2256519057
+      ],
+      "album": {
+        "id": 687811,
+        "title": "Alô",
+        "releaseDate": "1999-01-01",
+        "recordType": "album"
+      },
+      "duration": 202,
+      "rank": 588349,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "chitaozinho-e-xororo--brincar-de-ser-feliz",
+      "title": "Brincar De Ser Feliz",
+      "artist": "Chitãozinho & Xororó",
+      "artistDeezerId": 15355,
+      "trackId": 4669479,
+      "altTrackIds": [
+        102521196,
+        345342281,
+        426043652,
+        437772042,
+        826866262,
+        2256518827
+      ],
+      "album": {
+        "id": 429990,
+        "title": "Planeta Azul",
+        "releaseDate": "2006-09-21",
+        "recordType": "album"
+      },
+      "duration": 242,
+      "rank": 560022,
+      "topPosition": 3,
+      "year": 1991
+    },
+    {
+      "id": "chitaozinho-e-xororo--evidencias",
+      "title": "Evidências",
+      "artist": "Chitãozinho & Xororó",
+      "artistDeezerId": 15355,
+      "trackId": 1093761562,
+      "altTrackIds": [
+        4685835,
+        135869766,
+        141338793,
+        345342261,
+        368759311,
+        426043742,
+        437772222,
+        826866502,
+        1065668472,
+        1157001632,
+        1461684452,
+        1463123342,
+        2256519127,
+        2534426031
+      ],
+      "album": {
+        "id": 176253462,
+        "title": "Do Tamanho do Nosso Amor",
+        "releaseDate": "2013-01-01",
+        "recordType": "album"
+      },
+      "duration": 279,
+      "rank": 618902,
+      "topPosition": 1,
+      "year": 1990
+    },
+    {
+      "id": "chrystian-e-ralf--cheiro-de-shampoo",
+      "title": "Cheiro de shampoo",
+      "artist": "Chrystian & Ralf",
+      "artistDeezerId": 495845,
+      "trackId": 4104075,
+      "altTrackIds": [
+        4741651,
+        9054578,
+        521083202,
+        521083292
+      ],
+      "album": {
+        "id": 382647,
+        "title": "Chrystian & Ralf",
+        "releaseDate": "1995-09-27",
+        "recordType": "album"
+      },
+      "duration": 208,
+      "rank": 503388,
+      "topPosition": 3,
+      "year": 1993
+    },
+    {
+      "id": "chrystian-e-ralf--o-que-tiver-que-vir-vira",
+      "title": "O Que Tiver Que Vir Virá",
+      "artist": "Chrystian & Ralf",
+      "artistDeezerId": 495845,
+      "trackId": 16456288,
+      "altTrackIds": [
+        69923893,
+        521083412,
+        1441527312
+      ],
+      "album": {
+        "id": 1538222,
+        "title": "Maxximum - Chrystian & Ralf",
+        "releaseDate": "2005-08-08",
+        "recordType": "album"
+      },
+      "duration": 243,
+      "rank": 540216,
+      "topPosition": 2,
+      "year": 1992
+    },
+    {
+      "id": "chrystian-e-ralf--olhos-de-luar",
+      "title": "Olhos de Luar",
+      "artist": "Chrystian & Ralf",
+      "artistDeezerId": 495845,
+      "trackId": 16456493,
+      "altTrackIds": [
+        69923897
+      ],
+      "album": {
+        "id": 1538222,
+        "title": "Maxximum - Chrystian & Ralf",
+        "releaseDate": "2005-08-08",
+        "recordType": "album"
+      },
+      "duration": 287,
+      "rank": 562106,
+      "topPosition": 1,
+      "year": 1992
+    },
+    {
+      "id": "cidade-negra--a-estrada",
+      "title": "A Estrada",
+      "artist": "Cidade Negra",
+      "artistDeezerId": 16072,
+      "trackId": 15281248,
+      "altTrackIds": [
+        7675573,
+        15430171,
+        70564508,
+        70935410,
+        137275214
+      ],
+      "album": {
+        "id": 1409852,
+        "title": "Quanto Mais Curtido Melhor",
+        "releaseDate": "1998-07-23",
+        "recordType": "album"
+      },
+      "duration": 282,
+      "rank": 681003,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "cidade-negra--a-sombra-da-maldade",
+      "title": "A Sombra da Maldade",
+      "artist": "Cidade Negra",
+      "artistDeezerId": 16072,
+      "trackId": 70564507,
+      "altTrackIds": [
+        7675576,
+        13258447,
+        15430157,
+        70935413,
+        137275200
+      ],
+      "album": {
+        "id": 6927398,
+        "title": "Hits",
+        "releaseDate": "1999-07-05",
+        "recordType": "album"
+      },
+      "duration": 284,
+      "rank": 563907,
+      "topPosition": 3,
+      "year": 1994
+    },
+    {
+      "id": "cidade-negra--onde-voce-mora",
+      "title": "Onde Você Mora?",
+      "artist": "Cidade Negra",
+      "artistDeezerId": 16072,
+      "trackId": 70311991,
+      "altTrackIds": [
+        70564505,
+        71136025,
+        137275220,
+        931401302
+      ],
+      "album": {
+        "id": 6898684,
+        "title": "Dubs",
+        "releaseDate": "2010-02-26",
+        "recordType": "album"
+      },
+      "duration": 263,
+      "rank": 613153,
+      "topPosition": 2,
+      "year": 1994
+    },
+    {
+      "id": "claudinho-e-buchecha--nosso-sonho",
+      "title": "Nosso Sonho",
+      "artist": "Claudinho & Buchecha",
+      "artistDeezerId": 192501,
+      "trackId": 4676027,
+      "altTrackIds": [
+        4675196,
+        2032103587
+      ],
+      "album": {
+        "id": 430516,
+        "title": "Novo Millennium",
+        "releaseDate": "2005-01-01",
+        "recordType": "album"
+      },
+      "duration": 306,
+      "rank": 676642,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "claudinho-e-buchecha--quero-te-encontrar",
+      "title": "Quero Te Encontrar",
+      "artist": "Claudinho & Buchecha",
+      "artistDeezerId": 192501,
+      "trackId": 3008633,
+      "altTrackIds": [
+        4675186,
+        4676025
+      ],
+      "album": {
+        "id": 291582,
+        "title": "A Forma",
+        "releaseDate": "1997-01-01",
+        "recordType": "album"
+      },
+      "duration": 230,
+      "rank": 622407,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "claudinho-e-buchecha--so-love",
+      "title": "Só Love",
+      "artist": "Claudinho & Buchecha",
+      "artistDeezerId": 192501,
+      "trackId": 4676021,
+      "altTrackIds": [
+        4675185,
+        1994218607
+      ],
+      "album": {
+        "id": 430516,
+        "title": "Novo Millennium",
+        "releaseDate": "2005-01-01",
+        "recordType": "album"
+      },
+      "duration": 252,
+      "rank": 617412,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "companhia-do-pagode--na-boquinha-da-garrafa",
+      "title": "Na Boquinha da Garrafa",
+      "artist": "Companhia do Pagode",
+      "artistDeezerId": 167509,
+      "trackId": 1880360757,
+      "altTrackIds": [
+        2592553852
+      ],
+      "album": {
+        "id": 349550137,
+        "title": "Na Boquinha da Garrafa, Vol. 1",
+        "releaseDate": "1995-09-02",
+        "recordType": "album"
+      },
+      "duration": 194,
+      "rank": 431581,
+      "topPosition": 1,
+      "year": 1995
+    },
+    {
+      "id": "daniel--adoro-amar-voce",
+      "title": "Adoro amar você",
+      "artist": "Daniel",
+      "artistDeezerId": 64998,
+      "trackId": 753588,
+      "altTrackIds": [
+        3862155,
+        3870252,
+        63431897,
+        541150482,
+        4121220881
+      ],
+      "album": {
+        "id": 89097,
+        "title": "Daniel",
+        "releaseDate": "1998-08-03",
+        "recordType": "album"
+      },
+      "duration": 284,
+      "rank": 595073,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "daniel--declaracao-de-amor",
+      "title": "Declaração de amor",
+      "artist": "Daniel",
+      "artistDeezerId": 64998,
+      "trackId": 753597,
+      "altTrackIds": [
+        3862157,
+        3870237,
+        541150492,
+        4121220851
+      ],
+      "album": {
+        "id": 89097,
+        "title": "Daniel",
+        "releaseDate": "1998-08-03",
+        "recordType": "album"
+      },
+      "duration": 277,
+      "rank": 498515,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "daniel--dengo",
+      "title": "Dengo",
+      "artist": "Daniel",
+      "artistDeezerId": 64998,
+      "trackId": 753603,
+      "altTrackIds": [
+        3862160,
+        3870257,
+        63431907,
+        541150502
+      ],
+      "album": {
+        "id": 89097,
+        "title": "Daniel",
+        "releaseDate": "1998-08-03",
+        "recordType": "album"
+      },
+      "duration": 195,
+      "rank": 488331,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "daniela-mercury--a-primeira-vista",
+      "title": "À Primeira Vista",
+      "artist": "Daniela Mercury",
+      "artistDeezerId": 8649,
+      "trackId": 15268683,
+      "altTrackIds": [
+        19701411,
+        131460718,
+        142827494
+      ],
+      "album": {
+        "id": 1407314,
+        "title": "Feijão Com Arroz",
+        "releaseDate": "1991-01-01",
+        "recordType": "album"
+      },
+      "duration": 285,
+      "rank": 474160,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "daniela-mercury--nobre-vagabundo",
+      "title": "Nobre Vagabundo",
+      "artist": "Daniela Mercury",
+      "artistDeezerId": 8649,
+      "trackId": 15268671,
+      "altTrackIds": [
+        19700641,
+        142827512,
+        3122725161,
+        3140216381,
+        3590498462
+      ],
+      "album": {
+        "id": 1407314,
+        "title": "Feijão Com Arroz",
+        "releaseDate": "1991-01-01",
+        "recordType": "album"
+      },
+      "duration": 233,
+      "rank": 395421,
+      "topPosition": 3,
+      "year": 1996
+    },
+    {
+      "id": "daniela-mercury--o-canto-da-cidade",
+      "title": "O Canto da Cidade",
+      "artist": "Daniela Mercury",
+      "artistDeezerId": 8649,
+      "trackId": 15254567,
+      "altTrackIds": [
+        15800767,
+        97284246,
+        131460742,
+        2571013832,
+        3122725031,
+        3590499542,
+        3590499602
+      ],
+      "album": {
+        "id": 1215098,
+        "title": "O Canto da Cidade",
+        "releaseDate": "1993-04-30",
+        "recordType": "album"
+      },
+      "duration": 202,
+      "rank": 472744,
+      "topPosition": 2,
+      "year": 1992
+    },
+    {
+      "id": "djavan--eu-te-devoro",
+      "title": "Eu Te Devoro",
+      "artist": "Djavan",
+      "artistDeezerId": 14687,
+      "trackId": 74616921,
+      "altTrackIds": [
+        45234521,
+        74636768,
+        85519182,
+        2727698781
+      ],
+      "album": {
+        "id": 7371898,
+        "title": "Bicho Solto - O XIII",
+        "releaseDate": "1998-11-18",
+        "recordType": "album"
+      },
+      "duration": 298,
+      "rank": 745452,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "djavan--se",
+      "title": "Se",
+      "artist": "Djavan",
+      "artistDeezerId": 14687,
+      "trackId": 11124894,
+      "altTrackIds": [
+        74617711,
+        74636770,
+        85519180,
+        1463309822,
+        2727698941
+      ],
+      "album": {
+        "id": 1017869,
+        "title": "Na Pista, Etc.",
+        "releaseDate": "2006-10-15",
+        "recordType": "album"
+      },
+      "duration": 304,
+      "rank": 758638,
+      "topPosition": 1,
+      "year": 1992
+    },
+    {
+      "id": "djavan--um-amor-puro",
+      "title": "Um Amor Puro",
+      "artist": "Djavan",
+      "artistDeezerId": 14687,
+      "trackId": 92772828,
+      "altTrackIds": [
+        74636777,
+        85519188
+      ],
+      "album": {
+        "id": 9416446,
+        "title": "Djavan Ao Vivo, Vol. 1",
+        "releaseDate": "2000-04-10",
+        "recordType": "album"
+      },
+      "duration": 327,
+      "rank": 729974,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "e-o-tchan--a-nova-loira-do-tchan",
+      "title": "A Nova Loira Do Tchan",
+      "artist": "É o Tchan",
+      "artistDeezerId": 167531,
+      "trackId": 518490732,
+      "altTrackIds": [
+        434507342,
+        518483002,
+        1693004517,
+        1693006447,
+        3365657701
+      ],
+      "album": {
+        "id": 66648342,
+        "title": "10 Anos De É O Tchan",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 204,
+      "rank": 356310,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "e-o-tchan--danca-da-cordinha",
+      "title": "Dança Da Cordinha",
+      "artist": "É o Tchan",
+      "artistDeezerId": 167531,
+      "trackId": 518490662,
+      "altTrackIds": [
+        518483012,
+        537420522,
+        1516413122,
+        1693004977,
+        1693006457,
+        1693008057
+      ],
+      "album": {
+        "id": 66648342,
+        "title": "10 Anos De É O Tchan",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 198,
+      "rank": 458890,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "e-o-tchan--ralando-o-tchan-danca-do-ventre",
+      "title": "Ralando O Tchan (Dança Do Ventre)",
+      "artist": "É o Tchan",
+      "artistDeezerId": 167531,
+      "trackId": 518490672,
+      "altTrackIds": [
+        518483062,
+        529383681,
+        1693006507,
+        1693008767
+      ],
+      "album": {
+        "id": 66648342,
+        "title": "10 Anos De É O Tchan",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 212,
+      "rank": 448016,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "ed-motta--daqui-pro-meier",
+      "title": "Daqui Pro Méier",
+      "artist": "Ed Motta",
+      "artistDeezerId": 15395,
+      "trackId": 2801342,
+      "altTrackIds": [
+        2801367,
+        408626622,
+        408626832
+      ],
+      "album": {
+        "id": 272217,
+        "title": "Manual Prático Para Festas, Bailes E Afins",
+        "releaseDate": "2007-09-18",
+        "recordType": "album"
+      },
+      "duration": 291,
+      "rank": 326110,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "ed-motta--fora-da-lei",
+      "title": "Fora Da Lei",
+      "artist": "Ed Motta",
+      "artistDeezerId": 15395,
+      "trackId": 2801344,
+      "altTrackIds": [
+        2801363,
+        2801368,
+        408626702,
+        408626722,
+        710622562
+      ],
+      "album": {
+        "id": 272217,
+        "title": "Manual Prático Para Festas, Bailes E Afins",
+        "releaseDate": "2007-09-18",
+        "recordType": "album"
+      },
+      "duration": 291,
+      "rank": 527741,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "edson-e-hudson--te-quero-pra-mim-it-matters-to-me",
+      "title": "Te Quero Pra Mim (It Matters To Me)",
+      "artist": "Edson & Hudson",
+      "artistDeezerId": 242123,
+      "trackId": 96003782,
+      "altTrackIds": [
+        13265757,
+        96015888,
+        99530440
+      ],
+      "album": {
+        "id": 9763276,
+        "title": "O Melhor de Edson & Hudson",
+        "releaseDate": "2005-01-01",
+        "recordType": "album"
+      },
+      "duration": 192,
+      "rank": 541823,
+      "topPosition": 1,
+      "year": 1993
+    },
+    {
+      "id": "engenheiros-do-hawaii--era-um-garoto-que-como-eu-amava-os-beatles-e-os-rolling-stones",
+      "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+      "artist": "Engenheiros do Hawaii",
+      "artistDeezerId": 14691,
+      "trackId": 13252212,
+      "altTrackIds": [
+        70086902,
+        122316406,
+        1564486852,
+        1564488292,
+        1564489222
+      ],
+      "album": {
+        "id": 1214563,
+        "title": "O Papa É Pop",
+        "releaseDate": "1998-10-22",
+        "recordType": "album"
+      },
+      "duration": 262,
+      "rank": 722174,
+      "topPosition": 1,
+      "year": 1990
+    },
+    {
+      "id": "engenheiros-do-hawaii--piano-bar",
+      "title": "Piano Bar",
+      "artist": "Engenheiros do Hawaii",
+      "artistDeezerId": 14691,
+      "trackId": 13310141,
+      "altTrackIds": [
+        3574071,
+        72290898,
+        122316432,
+        137542389,
+        137727557,
+        411541502
+      ],
+      "album": {
+        "id": 1219434,
+        "title": "Várias Variáveis",
+        "releaseDate": "1991-06-21",
+        "recordType": "album"
+      },
+      "duration": 256,
+      "rank": 631102,
+      "topPosition": 2,
+      "year": 1991
+    },
+    {
+      "id": "engenheiros-do-hawaii--pra-ser-sincero",
+      "title": "Pra Ser Sincero",
+      "artist": "Engenheiros do Hawaii",
+      "artistDeezerId": 14691,
+      "trackId": 13252215,
+      "altTrackIds": [
+        3574070,
+        13310067,
+        70086911,
+        72290902,
+        122316412,
+        122316488,
+        137542387,
+        137727561,
+        411541522,
+        1564486122,
+        1564487142,
+        1564488322
+      ],
+      "album": {
+        "id": 1214563,
+        "title": "O Papa É Pop",
+        "releaseDate": "1998-10-22",
+        "recordType": "album"
+      },
+      "duration": 191,
+      "rank": 623988,
+      "topPosition": 3,
+      "year": 1990
+    },
+    {
+      "id": "exaltasamba--gamei",
+      "title": "Gamei",
+      "artist": "Exaltasamba",
+      "artistDeezerId": 243657,
+      "trackId": 3457232,
+      "altTrackIds": [
+        3458033,
+        3458193,
+        32130701,
+        79183959,
+        141340899
+      ],
+      "album": {
+        "id": 327975,
+        "title": "Bis - ExaltaSamba",
+        "releaseDate": "2005-12-30",
+        "recordType": "album"
+      },
+      "duration": 251,
+      "rank": 570044,
+      "topPosition": 3,
+      "year": 1996
+    },
+    {
+      "id": "exaltasamba--me-apaixonei-pela-pessoa-errada",
+      "title": "Me Apaixonei Pela Pessoa Errada",
+      "artist": "Exaltasamba",
+      "artistDeezerId": 243657,
+      "trackId": 3457247,
+      "altTrackIds": [
+        3457323,
+        3457524,
+        3458030,
+        3458199,
+        32130641,
+        79183975,
+        144948822
+      ],
+      "album": {
+        "id": 327975,
+        "title": "Bis - ExaltaSamba",
+        "releaseDate": "2005-12-30",
+        "recordType": "album"
+      },
+      "duration": 208,
+      "rank": 616155,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "exaltasamba--telegrama",
+      "title": "Telegrama",
+      "artist": "Exaltasamba",
+      "artistDeezerId": 243657,
+      "trackId": 3457236,
+      "altTrackIds": [
+        3457324,
+        3458024,
+        32130651,
+        79183953,
+        141340889,
+        144948824
+      ],
+      "album": {
+        "id": 327975,
+        "title": "Bis - ExaltaSamba",
+        "releaseDate": "2005-12-30",
+        "recordType": "album"
+      },
+      "duration": 218,
+      "rank": 579801,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "fabio-jr--alma-gemea",
+      "title": "Alma Gêmea",
+      "artist": "Fábio Jr.",
+      "artistDeezerId": 314749,
+      "trackId": 5690453,
+      "altTrackIds": [
+        7674850,
+        13304165,
+        13309728,
+        13540146,
+        15402887,
+        62224880,
+        77913330,
+        713799042,
+        713802902,
+        727883732,
+        3398279081
+      ],
+      "album": {
+        "id": 519674,
+        "title": "Românticos",
+        "releaseDate": "2010-03-26",
+        "recordType": "album"
+      },
+      "duration": 296,
+      "rank": 588295,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "fabio-jr--pareco-um-menino",
+      "title": "Pareço um Menino",
+      "artist": "Fábio Jr.",
+      "artistDeezerId": 314749,
+      "trackId": 13540151,
+      "altTrackIds": [
+        7674852,
+        13304154,
+        15406389,
+        62224879,
+        77913347,
+        713799162,
+        713802982,
+        727883572,
+        3398279121
+      ],
+      "album": {
+        "id": 1240015,
+        "title": "Fabio Jr.",
+        "releaseDate": "2011-08-18",
+        "recordType": "album"
+      },
+      "duration": 146,
+      "rank": 509370,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "fabio-jr--so-voce",
+      "title": "Só Você",
+      "artist": "Fábio Jr.",
+      "artistDeezerId": 314749,
+      "trackId": 7674853,
+      "altTrackIds": [
+        13304145,
+        13309734,
+        13309900,
+        15406380,
+        62224869,
+        77913355,
+        713799242,
+        713802912,
+        727883752,
+        2867352212,
+        3398279111
+      ],
+      "album": {
+        "id": 708658,
+        "title": "Seleção Essencial - Grandes Sucessos - Fábio Jr.",
+        "releaseDate": "2012-04-17",
+        "recordType": "album"
+      },
+      "duration": 226,
+      "rank": 564035,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "fernanda-abreu--speed-racer",
+      "title": "Speed Racer",
+      "artist": "Fernanda Abreu",
+      "artistDeezerId": 454426,
+      "trackId": 1401410992,
+      "altTrackIds": [
+        1080464432,
+        1091098422
+      ],
+      "album": {
+        "id": 236612102,
+        "title": "Raio X",
+        "releaseDate": "2016-08-12",
+        "recordType": "album"
+      },
+      "duration": 290,
+      "rank": 418678,
+      "topPosition": 2,
+      "year": 1990
+    },
+    {
+      "id": "fernanda-abreu--um-amor-um-lugar",
+      "title": "Um Amor, Um Lugar",
+      "artist": "Fernanda Abreu",
+      "artistDeezerId": 454426,
+      "trackId": 1401410962,
+      "altTrackIds": [
+        1080464412
+      ],
+      "album": {
+        "id": 236612102,
+        "title": "Raio X",
+        "releaseDate": "2016-08-12",
+        "recordType": "album"
+      },
+      "duration": 187,
+      "rank": 483895,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "fernanda-abreu--voce-pra-mim",
+      "title": "Você Pra Mim",
+      "artist": "Fernanda Abreu",
+      "artistDeezerId": 454426,
+      "trackId": 1401411012,
+      "altTrackIds": [
+        1080464402,
+        1091098402,
+        1164961252,
+        1490023692,
+        1516412982
+      ],
+      "album": {
+        "id": 236612102,
+        "title": "Raio X",
+        "releaseDate": "2016-08-12",
+        "recordType": "album"
+      },
+      "duration": 282,
+      "rank": 368871,
+      "topPosition": 3,
+      "year": 1990
+    },
+    {
+      "id": "fundo-de-quintal--a-batucada-dos-nossos-tantas",
+      "title": "A Batucada Dos Nossos Tantãs",
+      "artist": "Fundo de Quintal",
+      "artistDeezerId": 144342,
+      "trackId": 108414308,
+      "altTrackIds": [
+        15543112,
+        137792097,
+        3530373891
+      ],
+      "album": {
+        "id": 11304394,
+        "title": "A Batucada Dos Nossos Tantãs",
+        "releaseDate": "1993-01-01",
+        "recordType": "album"
+      },
+      "duration": 198,
+      "rank": 474632,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "fundo-de-quintal--amor-dos-deuses",
+      "title": "Amor Dos Deuses",
+      "artist": "Fundo de Quintal",
+      "artistDeezerId": 144342,
+      "trackId": 108417082,
+      "altTrackIds": [
+        108415028,
+        137792107,
+        2500948881
+      ],
+      "album": {
+        "id": 11304576,
+        "title": "Grupo Fundo de Quintal & Convidados",
+        "releaseDate": "1988-01-01",
+        "recordType": "album"
+      },
+      "duration": 265,
+      "rank": 543742,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "fundo-de-quintal--nosso-grito",
+      "title": "Nosso Grito",
+      "artist": "Fundo de Quintal",
+      "artistDeezerId": 144342,
+      "trackId": 108957828,
+      "altTrackIds": [
+        15543114,
+        4016969061
+      ],
+      "album": {
+        "id": 11354804,
+        "title": "Chega Pra Sambar",
+        "releaseDate": "1999-01-01",
+        "recordType": "album"
+      },
+      "duration": 208,
+      "rank": 520044,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "gabriel-o-pensador--astronauta",
+      "title": "Astronauta",
+      "artist": "Gabriel o Pensador",
+      "artistDeezerId": 17089,
+      "trackId": 15140899,
+      "altTrackIds": [
+        15283354,
+        1935705927
+      ],
+      "album": {
+        "id": 1215563,
+        "title": "Nádegas A Declarar",
+        "releaseDate": "1999-08-18",
+        "recordType": "album"
+      },
+      "duration": 283,
+      "rank": 476398,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "gabriel-o-pensador--cachimbo-da-paz",
+      "title": "Cachimbo da Paz",
+      "artist": "Gabriel o Pensador",
+      "artistDeezerId": 17089,
+      "trackId": 15116695,
+      "altTrackIds": [
+        19707101,
+        642686352,
+        1935705877
+      ],
+      "album": {
+        "id": 1215540,
+        "title": "Quebra - Cabeça",
+        "releaseDate": "1993-11-07",
+        "recordType": "album"
+      },
+      "duration": 333,
+      "rank": 666861,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "gabriel-o-pensador--retrato-de-um-playboy-parte-ii",
+      "title": "Retrato de um Playboy (Parte II)",
+      "artist": "Gabriel o Pensador",
+      "artistDeezerId": 17089,
+      "trackId": 15283355,
+      "altTrackIds": [],
+      "album": {
+        "id": 1410274,
+        "title": "Gabriel o Pensador (Ao Vivo)",
+        "releaseDate": "2016-12-02",
+        "recordType": "album"
+      },
+      "duration": 238,
+      "rank": 546819,
+      "topPosition": 2,
+      "year": 1993
+    },
+    {
+      "id": "gal-costa--brasil",
+      "title": "Brasil",
+      "artist": "Gal Costa",
+      "artistDeezerId": 12038,
+      "trackId": 3571319731,
+      "altTrackIds": [
+        3340178991,
+        3558922151,
+        3571319891,
+        3573436741,
+        3592885082,
+        3592885672
+      ],
+      "album": {
+        "id": 826911891,
+        "title": "Série Aplauso - Gal Costa",
+        "releaseDate": "2025-10-03",
+        "recordType": "album"
+      },
+      "duration": 169,
+      "rank": 480674,
+      "topPosition": 2,
+      "year": 1991
+    },
+    {
+      "id": "gal-costa--nuvem-negra",
+      "title": "Nuvem Negra",
+      "artist": "Gal Costa",
+      "artistDeezerId": 12038,
+      "trackId": 73419072,
+      "altTrackIds": [
+        71216168,
+        3571319951,
+        3592885152,
+        3592885632
+      ],
+      "album": {
+        "id": 7228365,
+        "title": "O Sorriso Do Gato De Alice",
+        "releaseDate": "1994-03-10",
+        "recordType": "album"
+      },
+      "duration": 270,
+      "rank": 471588,
+      "topPosition": 3,
+      "year": 1993
+    },
+    {
+      "id": "gal-costa--quase-um-segundo",
+      "title": "Quase Um Segundo",
+      "artist": "Gal Costa",
+      "artistDeezerId": 12038,
+      "trackId": 15021888,
+      "altTrackIds": [
+        71392082
+      ],
+      "album": {
+        "id": 1385165,
+        "title": "Aquele Frevo Axé",
+        "releaseDate": "1998-12-21",
+        "recordType": "album"
+      },
+      "duration": 243,
+      "rank": 571933,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "gian-e-giovani--cacador-de-coracoes",
+      "title": "Caçador de corações",
+      "artist": "Gian & Giovani",
+      "artistDeezerId": 147170,
+      "trackId": 12334516,
+      "altTrackIds": [
+        2337680,
+        793712882,
+        1774996927,
+        4215368462,
+        4218057492
+      ],
+      "album": {
+        "id": 1133518,
+        "title": "Gian & Giovani (Vol. 2)",
+        "releaseDate": "2001-01-01",
+        "recordType": "album"
+      },
+      "duration": 223,
+      "rank": 472412,
+      "topPosition": 3,
+      "year": 1990
+    },
+    {
+      "id": "gian-e-giovani--o-grande-amor-da-minha-vida-convite-de-casamento",
+      "title": "O Grande Amor da Minha Vida (Convite de Casamento)",
+      "artist": "Gian & Giovani",
+      "artistDeezerId": 147170,
+      "trackId": 65440039,
+      "altTrackIds": [
+        2337690,
+        13309117,
+        53073761,
+        793713012
+      ],
+      "album": {
+        "id": 6414878,
+        "title": "Maxximum - Gian & Giovani",
+        "releaseDate": "2005-08-08",
+        "recordType": "album"
+      },
+      "duration": 258,
+      "rank": 648334,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "gian-e-giovani--olha-amor",
+      "title": "Olha amor",
+      "artist": "Gian & Giovani",
+      "artistDeezerId": 147170,
+      "trackId": 12334521,
+      "altTrackIds": [
+        13309105,
+        793712892,
+        4218057412
+      ],
+      "album": {
+        "id": 1133519,
+        "title": "Gian & Giovani (Vol. 3)",
+        "releaseDate": "2001-01-01",
+        "recordType": "album"
+      },
+      "duration": 235,
+      "rank": 551199,
+      "topPosition": 2,
+      "year": 1992
+    },
+    {
+      "id": "gilberto-gil--estrela",
+      "title": "Estrela",
+      "artist": "Gilberto Gil",
+      "artistDeezerId": 2077,
+      "trackId": 904663542,
+      "altTrackIds": [
+        59279281,
+        1509257382,
+        1589489232,
+        3279555101,
+        3279637961,
+        4245419311
+      ],
+      "album": {
+        "id": 136629232,
+        "title": "Quanta (Deluxe Edition)",
+        "releaseDate": "1982-08-09",
+        "recordType": "album"
+      },
+      "duration": 266,
+      "rank": 556997,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "gilberto-gil--parabolicamara",
+      "title": "Parabolicamará",
+      "artist": "Gilberto Gil",
+      "artistDeezerId": 2077,
+      "trackId": 904655432,
+      "altTrackIds": [
+        2865870342,
+        3260881591
+      ],
+      "album": {
+        "id": 136627392,
+        "title": "Parabolicamará",
+        "releaseDate": "1991-01-01",
+        "recordType": "album"
+      },
+      "duration": 270,
+      "rank": 338136,
+      "topPosition": 2,
+      "year": 1991
+    },
+    {
+      "id": "grupo-malicia--anatomia",
+      "title": "Anatomia",
+      "artist": "Grupo Malícia",
+      "artistDeezerId": 1412270,
+      "trackId": 13534609,
+      "altTrackIds": [
+        3996089631
+      ],
+      "album": {
+        "id": 1239515,
+        "title": "Alguém Especial",
+        "releaseDate": "2011-08-15",
+        "recordType": "album"
+      },
+      "duration": 252,
+      "rank": 448582,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "grupo-malicia--primeiro-beijo",
+      "title": "Primeiro Beijo",
+      "artist": "Grupo Malícia",
+      "artistDeezerId": 1412270,
+      "trackId": 13534605,
+      "altTrackIds": [],
+      "album": {
+        "id": 1239514,
+        "title": "Sétimo Céu",
+        "releaseDate": "2018-07-09",
+        "recordType": "album"
+      },
+      "duration": 268,
+      "rank": 451839,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "grupo-malicia--sentinela",
+      "title": "Sentinela",
+      "artist": "Grupo Malícia",
+      "artistDeezerId": 1412270,
+      "trackId": 1193288732,
+      "altTrackIds": [],
+      "album": {
+        "id": 196642692,
+        "title": "Pagode E Cafuné",
+        "releaseDate": "1994-06-20",
+        "recordType": "album"
+      },
+      "duration": 223,
+      "rank": 391030,
+      "topPosition": 3,
+      "year": 1994
+    },
+    {
+      "id": "grupo-raca--eu-e-ela",
+      "title": "Eu e Ela",
+      "artist": "Grupo Raça",
+      "artistDeezerId": 266585,
+      "trackId": 15419121,
+      "altTrackIds": [
+        15004142,
+        71546783
+      ],
+      "album": {
+        "id": 1423867,
+        "title": "Maxximum - Grupo Raça",
+        "releaseDate": "2005-11-14",
+        "recordType": "album"
+      },
+      "duration": 249,
+      "rank": 519889,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "grupo-raca--o-teu-chamego",
+      "title": "O Teu Chamego",
+      "artist": "Grupo Raça",
+      "artistDeezerId": 266585,
+      "trackId": 71546823,
+      "altTrackIds": [
+        15021896
+      ],
+      "album": {
+        "id": 7029301,
+        "title": "Feito Pra Você",
+        "releaseDate": "1992-03-30",
+        "recordType": "album"
+      },
+      "duration": 242,
+      "rank": 347637,
+      "topPosition": 3,
+      "year": 1992
+    },
+    {
+      "id": "grupo-raca--seja-mais-voce",
+      "title": "Seja Mais Você",
+      "artist": "Grupo Raça",
+      "artistDeezerId": 266585,
+      "trackId": 15019662,
+      "altTrackIds": [
+        15019637,
+        15419128,
+        71546841
+      ],
+      "album": {
+        "id": 1384809,
+        "title": "Da África à Sapucaí",
+        "releaseDate": "1991-03-30",
+        "recordType": "album"
+      },
+      "duration": 213,
+      "rank": 394178,
+      "topPosition": 2,
+      "year": 1991
+    },
+    {
+      "id": "harmonia-do-samba--agachadinho",
+      "title": "Agachadinho",
+      "artist": "Harmonia do Samba",
+      "artistDeezerId": 211084,
+      "trackId": 15420011,
+      "altTrackIds": [
+        14926925
+      ],
+      "album": {
+        "id": 1423955,
+        "title": "Maxximum - Harmonia do Samba",
+        "releaseDate": "2005-08-22",
+        "recordType": "album"
+      },
+      "duration": 160,
+      "rank": 421059,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "harmonia-do-samba--desafio",
+      "title": "Desafio",
+      "artist": "Harmonia do Samba",
+      "artistDeezerId": 211084,
+      "trackId": 15420015,
+      "altTrackIds": [
+        14926921,
+        1241724982
+      ],
+      "album": {
+        "id": 1423955,
+        "title": "Maxximum - Harmonia do Samba",
+        "releaseDate": "2005-08-22",
+        "recordType": "album"
+      },
+      "duration": 169,
+      "rank": 459837,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "harmonia-do-samba--vem-nenem",
+      "title": "Vem Neném",
+      "artist": "Harmonia do Samba",
+      "artistDeezerId": 211084,
+      "trackId": 15420007,
+      "altTrackIds": [
+        14926920
+      ],
+      "album": {
+        "id": 1423955,
+        "title": "Maxximum - Harmonia do Samba",
+        "releaseDate": "2005-08-22",
+        "recordType": "album"
+      },
+      "duration": 294,
+      "rank": 471199,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "ivete-sangalo--se-eu-nao-te-amasse-tanto-assim",
+      "title": "Se Eu Não Te Amasse Tanto Assim",
+      "artist": "Ivete Sangalo",
+      "artistDeezerId": 8647,
+      "trackId": 4678278,
+      "altTrackIds": [
+        1157554,
+        112661518,
+        405551382,
+        562771952,
+        668926222
+      ],
+      "album": {
+        "id": 430708,
+        "title": "Ivete Sangalo",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 249,
+      "rank": 529713,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "joao-mineiro-e-marciano--ainda-ontem-chorei-de-saudade",
+      "title": "Ainda Ontem Chorei De Saudade",
+      "artist": "João Mineiro & Marciano",
+      "artistDeezerId": 244597,
+      "trackId": 3508136,
+      "altTrackIds": [
+        3507984,
+        3508244,
+        12566337,
+        1257007392
+      ],
+      "album": {
+        "id": 332173,
+        "title": "Selecao De Ouro - 20 Sucessos",
+        "releaseDate": "2005-12-21",
+        "recordType": "album"
+      },
+      "duration": 189,
+      "rank": 538279,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "joao-mineiro-e-marciano--se-eu-nao-puder-te-esquecer",
+      "title": "Se Eu Não Puder Te Esquecer",
+      "artist": "João Mineiro & Marciano",
+      "artistDeezerId": 244597,
+      "trackId": 3508245,
+      "altTrackIds": [
+        3507972,
+        3507999,
+        142343891
+      ],
+      "album": {
+        "id": 332178,
+        "title": "Raizes Sertanejas",
+        "releaseDate": "2005-12-30",
+        "recordType": "album"
+      },
+      "duration": 216,
+      "rank": 414432,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "joao-mineiro-e-marciano--seu-amor-ainda-e-tudo",
+      "title": "Seu Amor Ainda É Tudo",
+      "artist": "João Mineiro & Marciano",
+      "artistDeezerId": 244597,
+      "trackId": 3508113,
+      "altTrackIds": [
+        3507988,
+        3508021,
+        3508298,
+        366810011
+      ],
+      "album": {
+        "id": 332172,
+        "title": "Os Grandes Sucessos",
+        "releaseDate": "2005-12-21",
+        "recordType": "album"
+      },
+      "duration": 220,
+      "rank": 475734,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "joao-paulo-e-daniel--estou-apaixonado",
+      "title": "Estou apaixonado",
+      "artist": "João Paulo & Daniel",
+      "artistDeezerId": 496076,
+      "trackId": 3871118,
+      "altTrackIds": [
+        9054660,
+        126721367,
+        546820892,
+        546821102,
+        730392762
+      ],
+      "album": {
+        "id": 361637,
+        "title": "Volume 7",
+        "releaseDate": "1994-01-06",
+        "recordType": "album"
+      },
+      "duration": 282,
+      "rank": 567952,
+      "topPosition": 3,
+      "year": 1996
+    },
+    {
+      "id": "joao-paulo-e-daniel--minha-estrela-perdida",
+      "title": "Minha estrela perdida",
+      "artist": "João Paulo & Daniel",
+      "artistDeezerId": 496076,
+      "trackId": 3871125,
+      "altTrackIds": [
+        546820972,
+        546821182
+      ],
+      "album": {
+        "id": 361637,
+        "title": "Volume 7",
+        "releaseDate": "1994-01-06",
+        "recordType": "album"
+      },
+      "duration": 250,
+      "rank": 652462,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "joao-paulo-e-daniel--so-da-voce-na-minha-vida",
+      "title": "Só dá você na minha vida",
+      "artist": "João Paulo & Daniel",
+      "artistDeezerId": 496076,
+      "trackId": 3901938,
+      "altTrackIds": [
+        9054669,
+        126721371,
+        546820862,
+        730392752
+      ],
+      "album": {
+        "id": 364223,
+        "title": "Volume 5",
+        "releaseDate": "1994-01-06",
+        "recordType": "album"
+      },
+      "duration": 183,
+      "rank": 618840,
+      "topPosition": 2,
+      "year": 1994
+    },
+    {
+      "id": "jorge-ben-jor--bebete-vaobora",
+      "title": "Bebete Vãobora",
+      "artist": "Jorge Ben Jor",
+      "artistDeezerId": 4917,
+      "trackId": 537441292,
+      "altTrackIds": [
+        405765412,
+        529383891
+      ],
+      "album": {
+        "id": 69991962,
+        "title": "Puro Suingue",
+        "releaseDate": "2006-07-04",
+        "recordType": "album"
+      },
+      "duration": 158,
+      "rank": 461457,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "jorge-ben-jor--filho-maravilha-fio-maravilha",
+      "title": "Filho maravilha (Fio maravilha)",
+      "artist": "Jorge Ben Jor",
+      "artistDeezerId": 4917,
+      "trackId": 753135,
+      "altTrackIds": [
+        39068961,
+        112661340,
+        126773121
+      ],
+      "album": {
+        "id": 89049,
+        "title": "Música!",
+        "releaseDate": "1993-06-08",
+        "recordType": "album"
+      },
+      "duration": 215,
+      "rank": 563562,
+      "topPosition": 1,
+      "year": 1991
+    },
+    {
+      "id": "jorge-ben-jor--o-homem-da-gravata-florida",
+      "title": "O Homem Da Gravata Florida",
+      "artist": "Jorge Ben Jor",
+      "artistDeezerId": 4917,
+      "trackId": 4700503,
+      "altTrackIds": [],
+      "album": {
+        "id": 432731,
+        "title": "A Tabua De Esmeralda",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 185,
+      "rank": 411426,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "jota-quest--encontrar-alguem",
+      "title": "Encontrar Alguém",
+      "artist": "Jota Quest",
+      "artistDeezerId": 13521,
+      "trackId": 13262579,
+      "altTrackIds": [
+        11238024,
+        13304663,
+        15382164,
+        46227241,
+        65583845,
+        128503813,
+        934875242,
+        936701072,
+        936701742,
+        936895092,
+        1282217222
+      ],
+      "album": {
+        "id": 1215376,
+        "title": "Jota Quest",
+        "releaseDate": "1996-09-05",
+        "recordType": "album"
+      },
+      "duration": 223,
+      "rank": 505384,
+      "topPosition": 3,
+      "year": 1996
+    },
+    {
+      "id": "jota-quest--facil",
+      "title": "Fácil",
+      "artist": "Jota Quest",
+      "artistDeezerId": 13521,
+      "trackId": 6347394,
+      "altTrackIds": [
+        11238029,
+        15382196,
+        65583848,
+        128503825,
+        934875262,
+        936700962,
+        936701642,
+        936895002,
+        1282217312,
+        2467251625,
+        2467253295
+      ],
+      "album": {
+        "id": 583105,
+        "title": "De Volta Ao Planeta",
+        "releaseDate": "1998-06-01",
+        "recordType": "album"
+      },
+      "duration": 316,
+      "rank": 711853,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "jota-quest--sempre-assim",
+      "title": "Sempre Assim",
+      "artist": "Jota Quest",
+      "artistDeezerId": 13521,
+      "trackId": 6347392,
+      "altTrackIds": [
+        11238027,
+        15382171,
+        46227271,
+        65583853,
+        128503821,
+        934875322,
+        936701172,
+        936701802,
+        936895232,
+        1282217282,
+        2467251765,
+        2467253425
+      ],
+      "album": {
+        "id": 583105,
+        "title": "De Volta Ao Planeta",
+        "releaseDate": "1998-06-01",
+        "recordType": "album"
+      },
+      "duration": 216,
+      "rank": 617434,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "karametade--danda",
+      "title": "Dandá",
+      "artist": "Karametade",
+      "artistDeezerId": 379458,
+      "trackId": 15019721,
+      "altTrackIds": [
+        757363452,
+        757363552,
+        757363772,
+        2949569891,
+        2951466661,
+        2953110891,
+        2961604241
+      ],
+      "album": {
+        "id": 1384814,
+        "title": "Nunca Vou Deixar Você",
+        "releaseDate": "2010-03-30",
+        "recordType": "album"
+      },
+      "duration": 285,
+      "rank": 402205,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "karametade--decisao",
+      "title": "Decisão",
+      "artist": "Karametade",
+      "artistDeezerId": 379458,
+      "trackId": 15023045,
+      "altTrackIds": [
+        71675284,
+        757363262,
+        757363472,
+        757363732,
+        2949569851,
+        2951466581,
+        2953110731,
+        2961604051
+      ],
+      "album": {
+        "id": 1385018,
+        "title": "Karametade 1997",
+        "releaseDate": "2010-03-30",
+        "recordType": "album"
+      },
+      "duration": 235,
+      "rank": 499912,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "karametade--nao-sei-se-te-aceito",
+      "title": "Não Sei Se Te Aceito",
+      "artist": "Karametade",
+      "artistDeezerId": 379458,
+      "trackId": 15019724,
+      "altTrackIds": [
+        757363762,
+        2949569881,
+        2953110921
+      ],
+      "album": {
+        "id": 1384814,
+        "title": "Nunca Vou Deixar Você",
+        "releaseDate": "2010-03-30",
+        "recordType": "album"
+      },
+      "duration": 272,
+      "rank": 440444,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "katinguele--inarai",
+      "title": "Inaraí",
+      "artist": "Katinguelê",
+      "artistDeezerId": 102544,
+      "trackId": 112580142,
+      "altTrackIds": [
+        540876532,
+        564336232,
+        1713852137,
+        1959963627,
+        1959963707,
+        2681070362,
+        3164337591,
+        3508964361
+      ],
+      "album": {
+        "id": 11666216,
+        "title": "Katinguelê Na Área",
+        "releaseDate": "1998-03-17",
+        "recordType": "album"
+      },
+      "duration": 234,
+      "rank": 583109,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "katinguele--no-compasso-do-criador",
+      "title": "No compasso do criador",
+      "artist": "Katinguelê",
+      "artistDeezerId": 102544,
+      "trackId": 112580434,
+      "altTrackIds": [
+        3884628,
+        132496654,
+        540876492,
+        564336252,
+        1913392037,
+        1959963747,
+        2681070352,
+        3164337581,
+        3508964351
+      ],
+      "album": {
+        "id": 11666236,
+        "title": "No compasso do criador",
+        "releaseDate": "1995-04-10",
+        "recordType": "album"
+      },
+      "duration": 254,
+      "rank": 381599,
+      "topPosition": 3,
+      "year": 1996
+    },
+    {
+      "id": "katinguele--recado-a-minha-amada",
+      "title": "Recado a minha amada",
+      "artist": "Katinguelê",
+      "artistDeezerId": 102544,
+      "trackId": 112580446,
+      "altTrackIds": [
+        540876522,
+        564336182,
+        1713852117,
+        1957722967,
+        1959963657,
+        2681070162,
+        3164337541,
+        3508964341
+      ],
+      "album": {
+        "id": 11666236,
+        "title": "No compasso do criador",
+        "releaseDate": "1995-04-10",
+        "recordType": "album"
+      },
+      "duration": 243,
+      "rank": 567120,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "kid-abelha--eu-tive-um-sonho",
+      "title": "Eu tive um sonho",
+      "artist": "Kid Abelha",
+      "artistDeezerId": 17283,
+      "trackId": 55612251,
+      "altTrackIds": [
+        54393111,
+        54619711,
+        58065871,
+        58067221,
+        98692220,
+        104797214,
+        126773017,
+        142838678,
+        434271352,
+        4042480631
+      ],
+      "album": {
+        "id": 5424621,
+        "title": "Iê Iê Iê",
+        "releaseDate": "1997-07-08",
+        "recordType": "album"
+      },
+      "duration": 188,
+      "rank": 504189,
+      "topPosition": 3,
+      "year": 1993
+    },
+    {
+      "id": "kid-abelha--grand-hotel",
+      "title": "Grand' hotel",
+      "artist": "Kid Abelha",
+      "artistDeezerId": 17283,
+      "trackId": 433508992,
+      "altTrackIds": [
+        54333771,
+        54619771,
+        58067211,
+        98692214,
+        104797200,
+        126772999,
+        433509292,
+        434271292,
+        458937742,
+        4042480581
+      ],
+      "album": {
+        "id": 52325432,
+        "title": "Geração Pop",
+        "releaseDate": "1993-01-01",
+        "recordType": "album"
+      },
+      "duration": 209,
+      "rank": 520367,
+      "topPosition": 2,
+      "year": 1994
+    },
+    {
+      "id": "kid-abelha--na-rua-na-chuva-na-fazenda-casinha-de-sape",
+      "title": "Na rua, na chuva, na fazenda (Casinha de sapé)",
+      "artist": "Kid Abelha",
+      "artistDeezerId": 17283,
+      "trackId": 54336031,
+      "altTrackIds": [
+        54393161,
+        58067271,
+        104797196,
+        126773001,
+        142838744,
+        434271282,
+        458937662,
+        4042480541
+      ],
+      "album": {
+        "id": 5287521,
+        "title": "Meu Mundo Gira em Torno de Você",
+        "releaseDate": "1996-06-22",
+        "recordType": "album"
+      },
+      "duration": 224,
+      "rank": 663871,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "kiloucura--meu-casamento",
+      "title": "Meu Casamento",
+      "artist": "Kiloucura",
+      "artistDeezerId": 1504028,
+      "trackId": 3470838321,
+      "altTrackIds": [
+        3996089621
+      ],
+      "album": {
+        "id": 791741511,
+        "title": "Meu casamento",
+        "releaseDate": "2025-08-15",
+        "recordType": "single"
+      },
+      "duration": 223,
+      "rank": 383282,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "kiloucura--pela-vida-inteira",
+      "title": "Pela Vida Inteira",
+      "artist": "Kiloucura",
+      "artistDeezerId": 1504028,
+      "trackId": 3122356831,
+      "altTrackIds": [
+        2105049427,
+        2359598535
+      ],
+      "album": {
+        "id": 678438401,
+        "title": "Tudo Que Eu Sonhei",
+        "releaseDate": "2024-12-03",
+        "recordType": "album"
+      },
+      "duration": 227,
+      "rank": 361596,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "latino--me-leva",
+      "title": "Me Leva",
+      "artist": "Latino",
+      "artistDeezerId": 245043,
+      "trackId": 15022413,
+      "altTrackIds": [
+        3529178,
+        6331119,
+        6373732,
+        12556696
+      ],
+      "album": {
+        "id": 1384939,
+        "title": "Marcas De Amor",
+        "releaseDate": "2010-03-30",
+        "recordType": "album"
+      },
+      "duration": 216,
+      "rank": 565472,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "latino--so-voce",
+      "title": "Só Voce",
+      "artist": "Latino",
+      "artistDeezerId": 245043,
+      "trackId": 15022420,
+      "altTrackIds": [
+        3529181,
+        6331123,
+        12556701,
+        433636972
+      ],
+      "album": {
+        "id": 1384939,
+        "title": "Marcas De Amor",
+        "releaseDate": "2010-03-30",
+        "recordType": "album"
+      },
+      "duration": 225,
+      "rank": 326163,
+      "topPosition": 2,
+      "year": 1994
+    },
+    {
+      "id": "leandro-e-leonardo--eu-juro",
+      "title": "Eu juro",
+      "artist": "Leandro & Leonardo",
+      "artistDeezerId": 67644,
+      "trackId": 3890808,
+      "altTrackIds": [
+        126728009
+      ],
+      "album": {
+        "id": 363349,
+        "title": "Volume 9",
+        "releaseDate": "1994-09-01",
+        "recordType": "album"
+      },
+      "duration": 254,
+      "rank": 601903,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "leandro-e-leonardo--rumo-a-goiania",
+      "title": "Rumo à Goiânia",
+      "artist": "Leandro & Leonardo",
+      "artistDeezerId": 67644,
+      "trackId": 4103257,
+      "altTrackIds": [
+        9054810
+      ],
+      "album": {
+        "id": 382591,
+        "title": "Bailão do Leandro e Leonardo",
+        "releaseDate": "1994-09-01",
+        "recordType": "album"
+      },
+      "duration": 240,
+      "rank": 575523,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "leandro-e-leonardo--talisma",
+      "title": "Talismã",
+      "artist": "Leandro & Leonardo",
+      "artistDeezerId": 67644,
+      "trackId": 4091003,
+      "altTrackIds": [
+        126728017
+      ],
+      "album": {
+        "id": 381638,
+        "title": "Volume 4",
+        "releaseDate": "1994-03-04",
+        "recordType": "album"
+      },
+      "duration": 258,
+      "rank": 568975,
+      "topPosition": 3,
+      "year": 1990
+    },
+    {
+      "id": "legiao-urbana--giz",
+      "title": "Giz",
+      "artist": "Legião Urbana",
+      "artistDeezerId": 15810,
+      "trackId": 3530220,
+      "altTrackIds": [
+        3530453,
+        422282322,
+        423088292
+      ],
+      "album": {
+        "id": 334226,
+        "title": "Mais Do Mesmo",
+        "releaseDate": "2007-09-01",
+        "recordType": "album"
+      },
+      "duration": 200,
+      "rank": 599220,
+      "topPosition": 2,
+      "year": 1993
+    },
+    {
+      "id": "legiao-urbana--perfeicao",
+      "title": "Perfeição",
+      "artist": "Legião Urbana",
+      "artistDeezerId": 15810,
+      "trackId": 3530219,
+      "altTrackIds": [
+        3530446
+      ],
+      "album": {
+        "id": 334226,
+        "title": "Mais Do Mesmo",
+        "releaseDate": "2007-09-01",
+        "recordType": "album"
+      },
+      "duration": 275,
+      "rank": 581299,
+      "topPosition": 3,
+      "year": 1993
+    },
+    {
+      "id": "legiao-urbana--vento-no-litoral",
+      "title": "Vento No Litoral",
+      "artist": "Legião Urbana",
+      "artistDeezerId": 15810,
+      "trackId": 3530218,
+      "altTrackIds": [
+        3531473,
+        422282352,
+        423088322
+      ],
+      "album": {
+        "id": 334226,
+        "title": "Mais Do Mesmo",
+        "releaseDate": "2007-09-01",
+        "recordType": "album"
+      },
+      "duration": 365,
+      "rank": 667651,
+      "topPosition": 1,
+      "year": 1991
+    },
+    {
+      "id": "lenine--hoje-eu-quero-sair-so",
+      "title": "Hoje Eu Quero Sair Só",
+      "artist": "Lenine",
+      "artistDeezerId": 12030,
+      "trackId": 13252070,
+      "altTrackIds": [],
+      "album": {
+        "id": 1214551,
+        "title": "O Dia em que Faremos Contato",
+        "releaseDate": "1997-08-11",
+        "recordType": "album"
+      },
+      "duration": 338,
+      "rank": 553493,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "lenine--jack-soul-brasileiro",
+      "title": "Jack Soul Brasileiro",
+      "artist": "Lenine",
+      "artistDeezerId": 12030,
+      "trackId": 72227516,
+      "altTrackIds": [
+        93115328,
+        3252882701,
+        3260899231
+      ],
+      "album": {
+        "id": 1422614,
+        "title": "Na Pressão",
+        "releaseDate": "1999-09-22",
+        "recordType": "album"
+      },
+      "duration": 244,
+      "rank": 516041,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "lenine--paciencia",
+      "title": "Paciência",
+      "artist": "Lenine",
+      "artistDeezerId": 12030,
+      "trackId": 15405314,
+      "altTrackIds": [
+        93115332,
+        3252882461,
+        3255373441
+      ],
+      "album": {
+        "id": 1422614,
+        "title": "Na Pressão",
+        "releaseDate": "1999-09-22",
+        "recordType": "album"
+      },
+      "duration": 284,
+      "rank": 644216,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "leonardo--eu-juro",
+      "title": "Eu Juro",
+      "artist": "Leonardo",
+      "artistDeezerId": 109903,
+      "trackId": 826866232,
+      "altTrackIds": [
+        2387443805
+      ],
+      "album": {
+        "id": 122025122,
+        "title": "A História Continua (ao Vivo)",
+        "releaseDate": "2019-12-18",
+        "recordType": "album"
+      },
+      "duration": 234,
+      "rank": 547165,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "leonardo--nao-aprendi-a-dizer-adeus",
+      "title": "Não Aprendi A Dizer Adeus",
+      "artist": "Leonardo",
+      "artistDeezerId": 109903,
+      "trackId": 112664168,
+      "altTrackIds": [
+        13247092,
+        13249328,
+        14135567,
+        15025360,
+        826866242,
+        1791675617
+      ],
+      "album": {
+        "id": 11674892,
+        "title": "A Arte De Leonardo",
+        "releaseDate": "2015-10-30",
+        "recordType": "album"
+      },
+      "duration": 87,
+      "rank": 578870,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "leonardo--temporal-de-amor",
+      "title": "Temporal de Amor",
+      "artist": "Leonardo",
+      "artistDeezerId": 109903,
+      "trackId": 13247084,
+      "altTrackIds": [
+        13249332,
+        14135575,
+        826866352
+      ],
+      "album": {
+        "id": 1214195,
+        "title": "Leonardo Ao Vivo",
+        "releaseDate": "1999-11-30",
+        "recordType": "album"
+      },
+      "duration": 273,
+      "rank": 590544,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "los-hermanos--anna-julia",
+      "title": "Anna Júlia",
+      "artist": "Los Hermanos",
+      "artistDeezerId": 7691,
+      "trackId": 13305147,
+      "altTrackIds": [
+        46716491,
+        62224576,
+        62224641,
+        70282183,
+        958373292
+      ],
+      "album": {
+        "id": 1219108,
+        "title": "Los Hermanos",
+        "releaseDate": "2003-06-05",
+        "recordType": "album"
+      },
+      "duration": 212,
+      "rank": 759751,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "los-hermanos--primavera",
+      "title": "Primavera",
+      "artist": "Los Hermanos",
+      "artistDeezerId": 7691,
+      "trackId": 13305152,
+      "altTrackIds": [
+        62224581
+      ],
+      "album": {
+        "id": 1219108,
+        "title": "Los Hermanos",
+        "releaseDate": "2003-06-05",
+        "recordType": "album"
+      },
+      "duration": 261,
+      "rank": 525160,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "los-hermanos--quem-sabe",
+      "title": "Quem Sabe",
+      "artist": "Los Hermanos",
+      "artistDeezerId": 7691,
+      "trackId": 13305148,
+      "altTrackIds": [
+        62224577,
+        958373272
+      ],
+      "album": {
+        "id": 1219108,
+        "title": "Los Hermanos",
+        "releaseDate": "2003-06-05",
+        "recordType": "album"
+      },
+      "duration": 152,
+      "rank": 472882,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "lulu-santos--apenas-mais-uma-de-amor",
+      "title": "Apenas mais uma de amor",
+      "artist": "Lulu Santos",
+      "artistDeezerId": 13584,
+      "trackId": 3878759,
+      "altTrackIds": [
+        72305271,
+        72318839,
+        97456454,
+        136331722,
+        137729177
+      ],
+      "album": {
+        "id": 362314,
+        "title": "Pop Brasil",
+        "releaseDate": "1983-10-20",
+        "recordType": "album"
+      },
+      "duration": 239,
+      "rank": 661664,
+      "topPosition": 1,
+      "year": 1992
+    },
+    {
+      "id": "lulu-santos--assim-caminha-a-humanidade",
+      "title": "Assim Caminha a Humanidade",
+      "artist": "Lulu Santos",
+      "artistDeezerId": 13584,
+      "trackId": 15444988,
+      "altTrackIds": [
+        13290483,
+        15022957,
+        60737870,
+        71575130,
+        72305274,
+        72318846,
+        97456460,
+        136331804,
+        2043348647
+      ],
+      "album": {
+        "id": 1426909,
+        "title": "Focus - O Essencial de Lulu Santos",
+        "releaseDate": "1999-08-22",
+        "recordType": "album"
+      },
+      "duration": 208,
+      "rank": 605590,
+      "topPosition": 2,
+      "year": 1994
+    },
+    {
+      "id": "lulu-santos--sereia",
+      "title": "Sereia",
+      "artist": "Lulu Santos",
+      "artistDeezerId": 13584,
+      "trackId": 13290475,
+      "altTrackIds": [
+        15445002,
+        60737881,
+        97456462,
+        136331858,
+        2043348567
+      ],
+      "album": {
+        "id": 1217642,
+        "title": "Eu e Memê, Memê e Eu",
+        "releaseDate": "1995-02-20",
+        "recordType": "album"
+      },
+      "duration": 275,
+      "rank": 575515,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "mamonas-assassinas--1406",
+      "title": "1406",
+      "artist": "Mamonas Assassinas",
+      "artistDeezerId": 698,
+      "trackId": 3105901,
+      "altTrackIds": [
+        79083793,
+        445245852,
+        2578363472,
+        3570042921
+      ],
+      "album": {
+        "id": 300301,
+        "title": "Mamonas Assassinas",
+        "releaseDate": "2005-12-28",
+        "recordType": "album"
+      },
+      "duration": 248,
+      "rank": 608564,
+      "topPosition": 2,
+      "year": 1995
+    },
+    {
+      "id": "mamonas-assassinas--pelados-em-santos",
+      "title": "Pelados Em Santos",
+      "artist": "Mamonas Assassinas",
+      "artistDeezerId": 698,
+      "trackId": 3105903,
+      "altTrackIds": [
+        79083785,
+        438702902,
+        2578363432,
+        3570042931
+      ],
+      "album": {
+        "id": 300301,
+        "title": "Mamonas Assassinas",
+        "releaseDate": "2005-12-28",
+        "recordType": "album"
+      },
+      "duration": 202,
+      "rank": 629949,
+      "topPosition": 1,
+      "year": 1995
+    },
+    {
+      "id": "mamonas-assassinas--vira-vira",
+      "title": "Vira-Vira",
+      "artist": "Mamonas Assassinas",
+      "artistDeezerId": 698,
+      "trackId": 3105902,
+      "altTrackIds": [
+        79083786,
+        2578363452,
+        3570042941
+      ],
+      "album": {
+        "id": 300301,
+        "title": "Mamonas Assassinas",
+        "releaseDate": "2005-12-28",
+        "recordType": "album"
+      },
+      "duration": 144,
+      "rank": 586854,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "maria-bethania--as-cancoes-que-voce-fez-pra-mim",
+      "title": "As Canções Que Você Fez Pra Mim",
+      "artist": "Maria Bethânia",
+      "artistDeezerId": 15588,
+      "trackId": 4699805,
+      "altTrackIds": [
+        2443334,
+        4681496,
+        102402628,
+        665416492,
+        3219690871,
+        3369383371,
+        3537958231,
+        4081591051
+      ],
+      "album": {
+        "id": 432633,
+        "title": "As Canções Que Você Fez Pra Mim",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 224,
+      "rank": 621722,
+      "topPosition": 1,
+      "year": 1993
+    },
+    {
+      "id": "maria-bethania--fera-ferida",
+      "title": "Fera Ferida",
+      "artist": "Maria Bethânia",
+      "artistDeezerId": 15588,
+      "trackId": 4699807,
+      "altTrackIds": [
+        2443328,
+        73279151,
+        665416662,
+        3219690881,
+        3355166461,
+        3537958291,
+        4081590891
+      ],
+      "album": {
+        "id": 432633,
+        "title": "As Canções Que Você Fez Pra Mim",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 208,
+      "rank": 569768,
+      "topPosition": 3,
+      "year": 1992
+    },
+    {
+      "id": "maria-bethania--olha",
+      "title": "Olha",
+      "artist": "Maria Bethânia",
+      "artistDeezerId": 15588,
+      "trackId": 4699806,
+      "altTrackIds": [
+        1436690392,
+        3219690891,
+        3355166441,
+        3537958251
+      ],
+      "album": {
+        "id": 432633,
+        "title": "As Canções Que Você Fez Pra Mim",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 220,
+      "rank": 582865,
+      "topPosition": 2,
+      "year": 1993
+    },
+    {
+      "id": "marina-lima--nao-sei-dancar",
+      "title": "Não Sei Dançar",
+      "artist": "Marina Lima",
+      "artistDeezerId": 204899,
+      "trackId": 3345428,
+      "altTrackIds": [
+        3345601,
+        3345750,
+        31060091,
+        3821650691
+      ],
+      "album": {
+        "id": 318807,
+        "title": "Marina Lima",
+        "releaseDate": "2006-01-22",
+        "recordType": "album"
+      },
+      "duration": 304,
+      "rank": 538684,
+      "topPosition": 1,
+      "year": 1991
+    },
+    {
+      "id": "marina-lima--o-chamado",
+      "title": "O Chamado",
+      "artist": "Marina Lima",
+      "artistDeezerId": 204899,
+      "trackId": 3345591,
+      "altTrackIds": [
+        3345740,
+        31060041,
+        114405712,
+        866274382,
+        1366055272
+      ],
+      "album": {
+        "id": 318822,
+        "title": "Acontecimentos",
+        "releaseDate": "2006-05-04",
+        "recordType": "album"
+      },
+      "duration": 246,
+      "rank": 477163,
+      "topPosition": 3,
+      "year": 1993
+    },
+    {
+      "id": "marina-lima--pessoa",
+      "title": "Pessoa",
+      "artist": "Marina Lima",
+      "artistDeezerId": 204899,
+      "trackId": 3345600,
+      "altTrackIds": [
+        3345749,
+        31059981,
+        623718172,
+        1366055332,
+        3821650731
+      ],
+      "album": {
+        "id": 318822,
+        "title": "Acontecimentos",
+        "releaseDate": "2006-05-04",
+        "recordType": "album"
+      },
+      "duration": 194,
+      "rank": 486605,
+      "topPosition": 2,
+      "year": 1993
+    },
+    {
+      "id": "marisa-monte--ainda-lembro",
+      "title": "Ainda Lembro",
+      "artist": "Marisa Monte",
+      "artistDeezerId": 13523,
+      "trackId": 953836982,
+      "altTrackIds": [
+        948004972,
+        2571085032
+      ],
+      "album": {
+        "id": 146932082,
+        "title": "Mais",
+        "releaseDate": "1991-01-01",
+        "recordType": "album"
+      },
+      "duration": 250,
+      "rank": 605352,
+      "topPosition": 2,
+      "year": 1991
+    },
+    {
+      "id": "marisa-monte--beija-eu",
+      "title": "Beija Eu",
+      "artist": "Marisa Monte",
+      "artistDeezerId": 13523,
+      "trackId": 953836962,
+      "altTrackIds": [
+        948004952
+      ],
+      "album": {
+        "id": 146932082,
+        "title": "Mais",
+        "releaseDate": "1991-01-01",
+        "recordType": "album"
+      },
+      "duration": 194,
+      "rank": 689183,
+      "topPosition": 1,
+      "year": 1991
+    },
+    {
+      "id": "marisa-monte--na-estrada",
+      "title": "Na Estrada",
+      "artist": "Marisa Monte",
+      "artistDeezerId": 13523,
+      "trackId": 953843122,
+      "altTrackIds": [
+        2571085102
+      ],
+      "album": {
+        "id": 146933722,
+        "title": "Verde Anil Amarelo Cor de Rosa e Carvão",
+        "releaseDate": "1994-01-01",
+        "recordType": "album"
+      },
+      "duration": 214,
+      "rank": 554514,
+      "topPosition": 3,
+      "year": 1994
+    },
+    {
+      "id": "mauricio-manieri--bem-querer",
+      "title": "Bem Querer",
+      "artist": "Maurício Manieri",
+      "artistDeezerId": 447424,
+      "trackId": 13252229,
+      "altTrackIds": [
+        13304892,
+        645592482,
+        1368849972,
+        3728831102
+      ],
+      "album": {
+        "id": 1214564,
+        "title": "A Noite Inteira",
+        "releaseDate": "1999-05-05",
+        "recordType": "album"
+      },
+      "duration": 239,
+      "rank": 611480,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "mauricio-manieri--minha-menina",
+      "title": "Minha Menina",
+      "artist": "Maurício Manieri",
+      "artistDeezerId": 447424,
+      "trackId": 13304885,
+      "altTrackIds": [
+        645592302,
+        3728831392
+      ],
+      "album": {
+        "id": 1219092,
+        "title": "Ao Vivo - Maurício Manieri",
+        "releaseDate": "1999-05-05",
+        "recordType": "album"
+      },
+      "duration": 316,
+      "rank": 396636,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "mc-marcinho--princesa",
+      "title": "Princesa",
+      "artist": "MC Marcinho",
+      "artistDeezerId": 444082,
+      "trackId": 553853792,
+      "altTrackIds": [
+        1336105912
+      ],
+      "album": {
+        "id": 73020272,
+        "title": "As 10 Mais",
+        "releaseDate": "2018-09-14",
+        "recordType": "album"
+      },
+      "duration": 261,
+      "rank": 350527,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "mc-marcinho--quero-voce",
+      "title": "Quero Você",
+      "artist": "MC Marcinho",
+      "artistDeezerId": 444082,
+      "trackId": 553853782,
+      "altTrackIds": [],
+      "album": {
+        "id": 73020272,
+        "title": "As 10 Mais",
+        "releaseDate": "2018-09-14",
+        "recordType": "album"
+      },
+      "duration": 204,
+      "rank": 338151,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "mc-marcinho--rap-do-solitario",
+      "title": "Rap do Solitário",
+      "artist": "MC Marcinho",
+      "artistDeezerId": 444082,
+      "trackId": 553853772,
+      "altTrackIds": [
+        1336105872
+      ],
+      "album": {
+        "id": 73020272,
+        "title": "As 10 Mais",
+        "releaseDate": "2018-09-14",
+        "recordType": "album"
+      },
+      "duration": 313,
+      "rank": 578255,
+      "topPosition": 1,
+      "year": 1995
+    },
+    {
+      "id": "milionario-e-jose-rico--duas-camisas-agora-voce-vai-decidir",
+      "title": "Duas camisas (Agora você vai decidir)",
+      "artist": "Milionário & José Rico",
+      "artistDeezerId": 1459493,
+      "trackId": 4113609,
+      "altTrackIds": [
+        9054574
+      ],
+      "album": {
+        "id": 383195,
+        "title": "Volume 14 (Lembrança)",
+        "releaseDate": "2000-04-03",
+        "recordType": "album"
+      },
+      "duration": 202,
+      "rank": 473582,
+      "topPosition": 3,
+      "year": 1996
+    },
+    {
+      "id": "milionario-e-jose-rico--tribunal-do-amor",
+      "title": "Tribunal do amor",
+      "artist": "Milionário & José Rico",
+      "artistDeezerId": 1459493,
+      "trackId": 4113585,
+      "altTrackIds": [
+        4112163,
+        4113649,
+        9054567,
+        98836590,
+        3776276022,
+        4264385132,
+        4303216432
+      ],
+      "album": {
+        "id": 383193,
+        "title": "Volume 12 (Tribunal do Amor)",
+        "releaseDate": "2000-04-03",
+        "recordType": "album"
+      },
+      "duration": 232,
+      "rank": 505210,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "milionario-e-jose-rico--vontade-dividida",
+      "title": "Vontade dividida",
+      "artist": "Milionário & José Rico",
+      "artistDeezerId": 1459493,
+      "trackId": 3871832,
+      "altTrackIds": [
+        73348455,
+        98361832,
+        3421071551,
+        3543212101,
+        4046228551
+      ],
+      "album": {
+        "id": 361683,
+        "title": "Vontade Dividida (Volume 20)",
+        "releaseDate": "1994-05-15",
+        "recordType": "album"
+      },
+      "duration": 241,
+      "rank": 601045,
+      "topPosition": 1,
+      "year": 1991
+    },
+    {
+      "id": "milton-nascimento--certas-coisas",
+      "title": "Certas coisas",
+      "artist": "Milton Nascimento",
+      "artistDeezerId": 4720,
+      "trackId": 17135847,
+      "altTrackIds": [
+        685939,
+        126774245,
+        142838686
+      ],
+      "album": {
+        "id": 1603080,
+        "title": "Dose Dupla Milton Nascimento",
+        "releaseDate": "2012-03-07",
+        "recordType": "album"
+      },
+      "duration": 259,
+      "rank": 327943,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "milton-nascimento--coisas-da-vida",
+      "title": "Coisas da Vida",
+      "artist": "Milton Nascimento",
+      "artistDeezerId": 4720,
+      "trackId": 15315014,
+      "altTrackIds": [],
+      "album": {
+        "id": 1414453,
+        "title": "Txai",
+        "releaseDate": "1991-04-23",
+        "recordType": "album"
+      },
+      "duration": 302,
+      "rank": 394272,
+      "topPosition": 1,
+      "year": 1990
+    },
+    {
+      "id": "milton-nascimento--resposta",
+      "title": "Resposta",
+      "artist": "Milton Nascimento",
+      "artistDeezerId": 4720,
+      "trackId": 17135852,
+      "altTrackIds": [
+        685952,
+        142839904
+      ],
+      "album": {
+        "id": 1603080,
+        "title": "Dose Dupla Milton Nascimento",
+        "releaseDate": "2012-03-07",
+        "recordType": "album"
+      },
+      "duration": 267,
+      "rank": 394138,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "molejo--brincadeira-de-crianca",
+      "title": "Brincadeira de criança",
+      "artist": "Molejo",
+      "artistDeezerId": 281161,
+      "trackId": 2881503792,
+      "altTrackIds": [
+        74224219,
+        82108314,
+        126720813,
+        1932729317
+      ],
+      "album": {
+        "id": 612663792,
+        "title": "Brincadeira de Criança",
+        "releaseDate": "1997-01-01",
+        "recordType": "album"
+      },
+      "duration": 225,
+      "rank": 430284,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "molejo--cilada",
+      "title": "Cilada",
+      "artist": "Molejo",
+      "artistDeezerId": 281161,
+      "trackId": 73616525,
+      "altTrackIds": [
+        74224214,
+        82108258,
+        126720829,
+        142838822,
+        429823812
+      ],
+      "album": {
+        "id": 7258481,
+        "title": "Não Quero Saber de Ti Ti Ti",
+        "releaseDate": "1993-12-02",
+        "recordType": "album"
+      },
+      "duration": 223,
+      "rank": 568433,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "molejo--danca-da-vassoura",
+      "title": "Dança da vassoura",
+      "artist": "Molejo",
+      "artistDeezerId": 281161,
+      "trackId": 2881503802,
+      "altTrackIds": [
+        74224218,
+        82108322,
+        126720811,
+        142838218,
+        1932729327
+      ],
+      "album": {
+        "id": 612663792,
+        "title": "Brincadeira de Criança",
+        "releaseDate": "1997-01-01",
+        "recordType": "album"
+      },
+      "duration": 208,
+      "rank": 429521,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "nando-reis--me-diga",
+      "title": "Me diga",
+      "artist": "Nando Reis",
+      "artistDeezerId": 65623,
+      "trackId": 705848,
+      "altTrackIds": [
+        14650240,
+        2082039267,
+        2082039407,
+        2196544867
+      ],
+      "album": {
+        "id": 84557,
+        "title": "Infernal...But There's Still a Full Moon Shining Over Jalalabad",
+        "releaseDate": "2002-02-01",
+        "recordType": "album"
+      },
+      "duration": 255,
+      "rank": 438918,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "natiruts--meu-reggae-e-roots",
+      "title": "Meu Reggae É Roots",
+      "artist": "Natiruts",
+      "artistDeezerId": 16124,
+      "trackId": 518487012,
+      "altTrackIds": [
+        49946251,
+        75282504,
+        80648982,
+        127678397,
+        429918942,
+        518492262,
+        518493522,
+        559589652,
+        948002972,
+        948003562,
+        948009332,
+        948011642,
+        2824068412,
+        2824069392,
+        2824076162
+      ],
+      "album": {
+        "id": 66647952,
+        "title": "O Melhor Do Natiruts",
+        "releaseDate": "2005-12-06",
+        "recordType": "album"
+      },
+      "duration": 209,
+      "rank": 561026,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "natiruts--o-carcara-e-a-rosa",
+      "title": "O Carcará E A Rosa",
+      "artist": "Natiruts",
+      "artistDeezerId": 16124,
+      "trackId": 518487002,
+      "altTrackIds": [
+        49946331,
+        75282508,
+        80648980,
+        127678413,
+        429919042,
+        518492342,
+        518493512,
+        948003052,
+        948003642,
+        948009412,
+        948011772,
+        2824068402,
+        2824069402,
+        2824076222
+      ],
+      "album": {
+        "id": 66647952,
+        "title": "O Melhor Do Natiruts",
+        "releaseDate": "2005-12-06",
+        "recordType": "album"
+      },
+      "duration": 228,
+      "rank": 540271,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "natiruts--presente-de-um-beija-flor",
+      "title": "Presente De Um Beija-Flor",
+      "artist": "Natiruts",
+      "artistDeezerId": 16124,
+      "trackId": 518486982,
+      "altTrackIds": [
+        49946151,
+        75282510,
+        127678377,
+        518480852,
+        518492382,
+        559589632,
+        948003082,
+        948003722,
+        948011742,
+        1282217512,
+        2362592185,
+        2824068472,
+        2824069422,
+        2824076312
+      ],
+      "album": {
+        "id": 66647952,
+        "title": "O Melhor Do Natiruts",
+        "releaseDate": "2005-12-06",
+        "recordType": "album"
+      },
+      "duration": 328,
+      "rank": 651479,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "negritude-junior--conto-de-fadas",
+      "title": "Conto De Fadas",
+      "artist": "Negritude Júnior",
+      "artistDeezerId": 241519,
+      "trackId": 3324845,
+      "altTrackIds": [
+        3324657,
+        3325260,
+        142343207,
+        547815332,
+        1292766882,
+        1449860592
+      ],
+      "album": {
+        "id": 317010,
+        "title": "Bis - Negritude Junior",
+        "releaseDate": "2005-12-10",
+        "recordType": "album"
+      },
+      "duration": 247,
+      "rank": 376397,
+      "topPosition": 2,
+      "year": 1993
+    },
+    {
+      "id": "negritude-junior--tanajura",
+      "title": "Tanajura",
+      "artist": "Negritude Júnior",
+      "artistDeezerId": 241519,
+      "trackId": 3324848,
+      "altTrackIds": [
+        3324660,
+        3325266,
+        142750636,
+        547815322,
+        774728722,
+        1298934732,
+        1449860612,
+        1767014897
+      ],
+      "album": {
+        "id": 317010,
+        "title": "Bis - Negritude Junior",
+        "releaseDate": "2005-12-10",
+        "recordType": "album"
+      },
+      "duration": 210,
+      "rank": 378298,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "negritude-junior--timidez",
+      "title": "Timidez",
+      "artist": "Negritude Júnior",
+      "artistDeezerId": 241519,
+      "trackId": 3324834,
+      "altTrackIds": [
+        3324646,
+        3325267,
+        142343211,
+        547815352,
+        1303429642,
+        1449860582
+      ],
+      "album": {
+        "id": 317010,
+        "title": "Bis - Negritude Junior",
+        "releaseDate": "2005-12-10",
+        "recordType": "album"
+      },
+      "duration": 249,
+      "rank": 336929,
+      "topPosition": 3,
+      "year": 1993
+    },
+    {
+      "id": "nenhum-de-nos--o-astronauta-de-marmore-starman",
+      "title": "O Astronauta de Mármore (Starman)",
+      "artist": "Nenhum de Nós",
+      "artistDeezerId": 114140,
+      "trackId": 16988518,
+      "altTrackIds": [
+        142337041,
+        142337055,
+        142337057,
+        142337059,
+        142337061,
+        4139165441
+      ],
+      "album": {
+        "id": 1310220,
+        "title": "Maxximum - Nenhum De Nós",
+        "releaseDate": "1999-09-03",
+        "recordType": "album"
+      },
+      "duration": 193,
+      "rank": 663569,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "nenhum-de-nos--sobre-o-tempo",
+      "title": "Sobre o Tempo",
+      "artist": "Nenhum de Nós",
+      "artistDeezerId": 114140,
+      "trackId": 16988528,
+      "altTrackIds": [
+        141340473,
+        142336465,
+        660238142,
+        1509997822
+      ],
+      "album": {
+        "id": 1310220,
+        "title": "Maxximum - Nenhum De Nós",
+        "releaseDate": "1999-09-03",
+        "recordType": "album"
+      },
+      "duration": 275,
+      "rank": 478874,
+      "topPosition": 3,
+      "year": 1990
+    },
+    {
+      "id": "nenhum-de-nos--voce-vai-lembrar-de-mim",
+      "title": "Você Vai Lembrar De Mim",
+      "artist": "Nenhum de Nós",
+      "artistDeezerId": 114140,
+      "trackId": 1379588922,
+      "altTrackIds": [
+        678053982,
+        1032625462,
+        1132216752,
+        1509945762,
+        1509997752,
+        2572100982,
+        2572101032,
+        4139165471
+      ],
+      "album": {
+        "id": 231835542,
+        "title": "Paz e Amor",
+        "releaseDate": "1998-03-15",
+        "recordType": "album"
+      },
+      "duration": 289,
+      "rank": 567760,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "netinho--barracos-escombros",
+      "title": "Barracos (Escombros)",
+      "artist": "Netinho",
+      "artistDeezerId": 188608,
+      "trackId": 4141418861,
+      "altTrackIds": [
+        3060905,
+        70058288,
+        103624748,
+        142343095
+      ],
+      "album": {
+        "id": 1024318601,
+        "title": "Grandeza e Simplicidade",
+        "releaseDate": "2026-07-12",
+        "recordType": "album"
+      },
+      "duration": 87,
+      "rank": 302553,
+      "topPosition": 3,
+      "year": 1996
+    },
+    {
+      "id": "netinho--menina",
+      "title": "Menina",
+      "artist": "Netinho",
+      "artistDeezerId": 188608,
+      "trackId": 4701612,
+      "altTrackIds": [
+        3060906,
+        70058295,
+        103624750,
+        439718382,
+        1431762002,
+        4141418921
+      ],
+      "album": {
+        "id": 432879,
+        "title": "Total - O Melhor De Netinho",
+        "releaseDate": "1997-01-01",
+        "recordType": "album"
+      },
+      "duration": 217,
+      "rank": 437156,
+      "topPosition": 2,
+      "year": 1993
+    },
+    {
+      "id": "netinho--milla",
+      "title": "Milla",
+      "artist": "Netinho",
+      "artistDeezerId": 188608,
+      "trackId": 439717912,
+      "altTrackIds": [
+        3068126,
+        4701615,
+        70058289,
+        103624766,
+        439717922,
+        439717932,
+        439717942
+      ],
+      "album": {
+        "id": 53285622,
+        "title": "Milla",
+        "releaseDate": "2017-12-15",
+        "recordType": "ep"
+      },
+      "duration": 294,
+      "rank": 529904,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "ney-matogrosso--mesmo-que-seja-eu",
+      "title": "Mesmo Que Seja Eu",
+      "artist": "Ney Matogrosso",
+      "artistDeezerId": 15552,
+      "trackId": 4682221,
+      "altTrackIds": [
+        3476760471
+      ],
+      "album": {
+        "id": 431016,
+        "title": "Ney Matogrosso Ao Vivo",
+        "releaseDate": "1999-01-01",
+        "recordType": "album"
+      },
+      "duration": 228,
+      "rank": 463123,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "ney-matogrosso--partido-alto",
+      "title": "Partido Alto",
+      "artist": "Ney Matogrosso",
+      "artistDeezerId": 15552,
+      "trackId": 4676312,
+      "altTrackIds": [],
+      "album": {
+        "id": 430535,
+        "title": "Um Brasileiro",
+        "releaseDate": "2006-03-07",
+        "recordType": "album"
+      },
+      "duration": 231,
+      "rank": 423134,
+      "topPosition": 3,
+      "year": 1996
+    },
+    {
+      "id": "ney-matogrosso--poema",
+      "title": "Poema",
+      "artist": "Ney Matogrosso",
+      "artistDeezerId": 15552,
+      "trackId": 4685133,
+      "altTrackIds": [
+        4682220,
+        112660032,
+        416174812,
+        3476760411
+      ],
+      "album": {
+        "id": 431244,
+        "title": "Olhos De Farol",
+        "releaseDate": "2007-01-18",
+        "recordType": "album"
+      },
+      "duration": 262,
+      "rank": 698391,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "o-rappa--hey-joe",
+      "title": "Hey Joe",
+      "artist": "O Rappa",
+      "artistDeezerId": 12807,
+      "trackId": 67320516,
+      "altTrackIds": [
+        800261,
+        63420115
+      ],
+      "album": {
+        "id": 6584056,
+        "title": "Rappa-Mundi",
+        "releaseDate": "1994-10-19",
+        "recordType": "album"
+      },
+      "duration": 265,
+      "rank": 722693,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "o-rappa--me-deixa",
+      "title": "Me deixa",
+      "artist": "O Rappa",
+      "artistDeezerId": 12807,
+      "trackId": 3668415,
+      "altTrackIds": [
+        800288,
+        3915941,
+        7447308,
+        7447343,
+        63420122,
+        126849983,
+        142839898,
+        430494612,
+        3827710671
+      ],
+      "album": {
+        "id": 345395,
+        "title": "Lado B Lado A",
+        "releaseDate": "1994-10-19",
+        "recordType": "album"
+      },
+      "duration": 247,
+      "rank": 698401,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "o-rappa--minha-alma-a-paz-que-eu-nao-quero",
+      "title": "Minha alma (A paz que eu não quero)",
+      "artist": "O Rappa",
+      "artistDeezerId": 12807,
+      "trackId": 3668419,
+      "altTrackIds": [
+        800252,
+        7447303,
+        7447338,
+        63420114,
+        126849981,
+        3827710591
+      ],
+      "album": {
+        "id": 345395,
+        "title": "Lado B Lado A",
+        "releaseDate": "1994-10-19",
+        "recordType": "album"
+      },
+      "duration": 303,
+      "rank": 780358,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "olodum--nossa-gente-avisa-la",
+      "title": "Nossa Gente (Avisa Lá)",
+      "artist": "Olodum",
+      "artistDeezerId": 65531,
+      "trackId": 13259130,
+      "altTrackIds": [
+        4091029,
+        4103644,
+        460143122,
+        460143672,
+        460144172,
+        469401782,
+        477957242,
+        482720712,
+        3185038121,
+        4248169211
+      ],
+      "album": {
+        "id": 1215116,
+        "title": "A Música Do Olodum - 20 Anos",
+        "releaseDate": "1999-11-05",
+        "recordType": "album"
+      },
+      "duration": 182,
+      "rank": 358728,
+      "topPosition": 3,
+      "year": 1992
+    },
+    {
+      "id": "olodum--requebra",
+      "title": "Requebra",
+      "artist": "Olodum",
+      "artistDeezerId": 65531,
+      "trackId": 13259127,
+      "altTrackIds": [
+        771971,
+        4103645,
+        460143192,
+        460143662,
+        460144182,
+        469401802,
+        477957392,
+        482720692,
+        3185038141
+      ],
+      "album": {
+        "id": 1215116,
+        "title": "A Música Do Olodum - 20 Anos",
+        "releaseDate": "1999-11-05",
+        "recordType": "album"
+      },
+      "duration": 233,
+      "rank": 384086,
+      "topPosition": 2,
+      "year": 1993
+    },
+    {
+      "id": "olodum--vem-meu-amor",
+      "title": "Vem meu amor",
+      "artist": "Olodum",
+      "artistDeezerId": 65531,
+      "trackId": 4091033,
+      "altTrackIds": [
+        477957282,
+        3185038111,
+        4248169251
+      ],
+      "album": {
+        "id": 381641,
+        "title": "A Música do Olodum",
+        "releaseDate": "2001-01-01",
+        "recordType": "album"
+      },
+      "duration": 156,
+      "rank": 422330,
+      "topPosition": 1,
+      "year": 1992
+    },
+    {
+      "id": "os-morenos--marrom-bombom",
+      "title": "Marrom Bombom",
+      "artist": "Os Morenos",
+      "artistDeezerId": 1520943,
+      "trackId": 15022031,
+      "altTrackIds": [
+        349552601,
+        2434446505,
+        3604963772
+      ],
+      "album": {
+        "id": 1384913,
+        "title": "Os Morenos",
+        "releaseDate": "2010-03-30",
+        "recordType": "album"
+      },
+      "duration": 215,
+      "rank": 593161,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "os-morenos--teu-charme",
+      "title": "Teu Charme",
+      "artist": "Os Morenos",
+      "artistDeezerId": 1520943,
+      "trackId": 15022767,
+      "altTrackIds": [
+        71546701,
+        349552611
+      ],
+      "album": {
+        "id": 1384987,
+        "title": "Teu Charme",
+        "releaseDate": "2010-09-21",
+        "recordType": "album"
+      },
+      "duration": 274,
+      "rank": 394452,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "os-paralamas-do-sucesso--ela-disse-adeus",
+      "title": "Ela Disse Adeus",
+      "artist": "Os Paralamas do Sucesso",
+      "artistDeezerId": 16230,
+      "trackId": 3316913,
+      "altTrackIds": [
+        112659738,
+        423566372,
+        423567182,
+        1544061972,
+        2371667535,
+        3117497431,
+        3419859291
+      ],
+      "album": {
+        "id": 316238,
+        "title": "Arquivo II 1991 - 2000",
+        "releaseDate": "2005-12-09",
+        "recordType": "album"
+      },
+      "duration": 226,
+      "rank": 578333,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "os-paralamas-do-sucesso--tendo-a-lua",
+      "title": "Tendo A Lua",
+      "artist": "Os Paralamas do Sucesso",
+      "artistDeezerId": 16230,
+      "trackId": 3316907,
+      "altTrackIds": [
+        95991138,
+        95991184,
+        112659730,
+        421182812,
+        423567102,
+        696953012,
+        2371667525,
+        3419859271
+      ],
+      "album": {
+        "id": 316238,
+        "title": "Arquivo II 1991 - 2000",
+        "releaseDate": "2005-12-09",
+        "recordType": "album"
+      },
+      "duration": 220,
+      "rank": 555964,
+      "topPosition": 3,
+      "year": 1991
+    },
+    {
+      "id": "os-paralamas-do-sucesso--uma-brasileira",
+      "title": "Uma Brasileira",
+      "artist": "Os Paralamas do Sucesso",
+      "artistDeezerId": 16230,
+      "trackId": 103091352,
+      "altTrackIds": [
+        103091526,
+        423089242,
+        423567202,
+        696953142,
+        1544061992,
+        2371667495
+      ],
+      "album": {
+        "id": 10714888,
+        "title": "Vamo Batê Lata - Paralamas",
+        "releaseDate": "2015-02-24",
+        "recordType": "ep"
+      },
+      "duration": 221,
+      "rank": 649124,
+      "topPosition": 1,
+      "year": 1995
+    },
+    {
+      "id": "os-travessos--maravilha-te-amar",
+      "title": "Maravilha Te Amar",
+      "artist": "Os Travessos",
+      "artistDeezerId": 264313,
+      "trackId": 66256434,
+      "altTrackIds": [
+        4112547,
+        127075585,
+        694866432,
+        1518984982,
+        1564486372,
+        1733204927,
+        3630060772
+      ],
+      "album": {
+        "id": 6482287,
+        "title": "Nossa Dança",
+        "releaseDate": "1997-06-01",
+        "recordType": "album"
+      },
+      "duration": 189,
+      "rank": 383279,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "os-travessos--quando-a-gente-ama",
+      "title": "Quando a Gente Ama",
+      "artist": "Os Travessos",
+      "artistDeezerId": 264313,
+      "trackId": 66256439,
+      "altTrackIds": [
+        4112549,
+        127075581,
+        546043792,
+        571976482,
+        673589472,
+        694866392,
+        1533503722,
+        1564486412,
+        1733204937,
+        1733205157,
+        2881582852,
+        3630060782,
+        3631289112,
+        3631334222,
+        3631366332
+      ],
+      "album": {
+        "id": 6482287,
+        "title": "Nossa Dança",
+        "releaseDate": "1997-06-01",
+        "recordType": "album"
+      },
+      "duration": 267,
+      "rank": 488968,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "os-travessos--tu-mandas-no-meu-coracao",
+      "title": "Tu Mandas No Meu Coração",
+      "artist": "Os Travessos",
+      "artistDeezerId": 264313,
+      "trackId": 66256435,
+      "altTrackIds": [
+        571976532,
+        1733204997,
+        1733205207,
+        2876855782,
+        2881582802,
+        3630060842,
+        3631289062,
+        3631335012,
+        3631366382
+      ],
+      "album": {
+        "id": 6482287,
+        "title": "Nossa Dança",
+        "releaseDate": "1997-06-01",
+        "recordType": "album"
+      },
+      "duration": 244,
+      "rank": 566983,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "pato-fu--cancao-pra-voce-viver-mais",
+      "title": "Canção Pra Você Viver Mais",
+      "artist": "Pato Fu",
+      "artistDeezerId": 13520,
+      "trackId": 15410866,
+      "altTrackIds": [
+        15421571,
+        71355534,
+        137275284,
+        2327884295,
+        2837275662,
+        4288749052
+      ],
+      "album": {
+        "id": 1423056,
+        "title": "Televisão de Cachorro",
+        "releaseDate": "1998-04-01",
+        "recordType": "album"
+      },
+      "duration": 324,
+      "rank": 553912,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "pato-fu--depois",
+      "title": "Depois",
+      "artist": "Pato Fu",
+      "artistDeezerId": 13520,
+      "trackId": 5814849,
+      "altTrackIds": [
+        71355542,
+        137275282,
+        1564588842,
+        2837275702,
+        3216793861,
+        3232461611,
+        4288749002
+      ],
+      "album": {
+        "id": 529785,
+        "title": "Isopor",
+        "releaseDate": "1999-03-30",
+        "recordType": "album"
+      },
+      "duration": 266,
+      "rank": 534410,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "pato-fu--sobre-o-tempo",
+      "title": "Sobre o Tempo",
+      "artist": "Pato Fu",
+      "artistDeezerId": 13520,
+      "trackId": 13310106,
+      "altTrackIds": [
+        15421563,
+        71355526,
+        137275270,
+        1564588472,
+        2167869197,
+        2327884285,
+        2837275722,
+        3894988271,
+        4288748902
+      ],
+      "album": {
+        "id": 1219431,
+        "title": "Gol de Quem?",
+        "releaseDate": "1991-01-01",
+        "recordType": "album"
+      },
+      "duration": 207,
+      "rank": 548652,
+      "topPosition": 2,
+      "year": 1995
+    },
+    {
+      "id": "patricia-marx--ficar-com-voce",
+      "title": "Ficar Com Você",
+      "artist": "Patrícia Marx",
+      "artistDeezerId": 123180,
+      "trackId": 3542603621,
+      "altTrackIds": [
+        3542583471,
+        3542583571,
+        3542583981,
+        3542604021,
+        3542604111,
+        3559258311,
+        3809723042,
+        4007955971,
+        4007956041,
+        4007956101
+      ],
+      "album": {
+        "id": 816736061,
+        "title": "Trinta",
+        "releaseDate": "2016-03-15",
+        "recordType": "album"
+      },
+      "duration": 254,
+      "rank": 305339,
+      "topPosition": 2,
+      "year": 1994
+    },
+    {
+      "id": "patricia-marx--quando-chove",
+      "title": "Quando Chove",
+      "artist": "Patrícia Marx",
+      "artistDeezerId": 123180,
+      "trackId": 3542603571,
+      "altTrackIds": [
+        3542583511,
+        3542583971,
+        3542603971,
+        3542604101,
+        3542605441,
+        3559255511,
+        4007955921,
+        4007956031,
+        4007956091
+      ],
+      "album": {
+        "id": 816736061,
+        "title": "Trinta",
+        "releaseDate": "2016-03-15",
+        "recordType": "album"
+      },
+      "duration": 196,
+      "rank": 461427,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "pique-novo--chega-de-sofrer",
+      "title": "Chega De Sofrer",
+      "artist": "Pique Novo",
+      "artistDeezerId": 1561230,
+      "trackId": 1280553472,
+      "altTrackIds": [
+        78285148,
+        2572109452
+      ],
+      "album": {
+        "id": 216066392,
+        "title": "Pelas Ruas",
+        "releaseDate": "1999-03-05",
+        "recordType": "album"
+      },
+      "duration": 197,
+      "rank": 362557,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "pique-novo--lugares",
+      "title": "Lugares",
+      "artist": "Pique Novo",
+      "artistDeezerId": 1561230,
+      "trackId": 1328540662,
+      "altTrackIds": [
+        1999190557,
+        2164339447,
+        2572109442
+      ],
+      "album": {
+        "id": 221153442,
+        "title": "Em Cada Esquina",
+        "releaseDate": "1997-09-01",
+        "recordType": "album"
+      },
+      "duration": 271,
+      "rank": 325554,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "pique-novo--supra-sumo-do-amor",
+      "title": "Supra Sumo Do Amor",
+      "artist": "Pique Novo",
+      "artistDeezerId": 1561230,
+      "trackId": 1328540632,
+      "altTrackIds": [],
+      "album": {
+        "id": 221153442,
+        "title": "Em Cada Esquina",
+        "releaseDate": "1997-09-01",
+        "recordType": "album"
+      },
+      "duration": 227,
+      "rank": 327537,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "planet-hemp--legalize-ja",
+      "title": "Legalize Já",
+      "artist": "Planet Hemp",
+      "artistDeezerId": 461124,
+      "trackId": 137275236,
+      "altTrackIds": [
+        437571412,
+        437571432,
+        3062572561,
+        4117143731
+      ],
+      "album": {
+        "id": 14722734,
+        "title": "Planet Hemp (Ao Vivo)",
+        "releaseDate": "2001-12-02",
+        "recordType": "album"
+      },
+      "duration": 133,
+      "rank": 446376,
+      "topPosition": 2,
+      "year": 1995
+    },
+    {
+      "id": "planet-hemp--mantenha-o-respeito",
+      "title": "Mantenha o Respeito",
+      "artist": "Planet Hemp",
+      "artistDeezerId": 461124,
+      "trackId": 144735112,
+      "altTrackIds": [
+        137275264,
+        437571422,
+        3062572761
+      ],
+      "album": {
+        "id": 15705260,
+        "title": "Usuário",
+        "releaseDate": "1995-03-22",
+        "recordType": "album"
+      },
+      "duration": 195,
+      "rank": 619593,
+      "topPosition": 1,
+      "year": 1995
+    },
+    {
+      "id": "planet-hemp--queimando-tudo",
+      "title": "Queimando Tudo",
+      "artist": "Planet Hemp",
+      "artistDeezerId": 461124,
+      "trackId": 144735158,
+      "altTrackIds": [
+        137275240,
+        3062572601,
+        3065868291
+      ],
+      "album": {
+        "id": 15705274,
+        "title": "Os Cães Ladram Mas a Caravana Não Pára",
+        "releaseDate": "2017-03-22",
+        "recordType": "album"
+      },
+      "duration": 172,
+      "rank": 434208,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "raca-negra--cheia-de-manias",
+      "title": "Cheia de Manias",
+      "artist": "Raça Negra",
+      "artistDeezerId": 315082,
+      "trackId": 113864804,
+      "altTrackIds": [
+        25043591,
+        36999991,
+        66883621,
+        66883641,
+        66883655,
+        67156244,
+        113864868,
+        123220328,
+        395899882,
+        438849812,
+        683406622,
+        705328182,
+        1803440737
+      ],
+      "album": {
+        "id": 11793284,
+        "title": "Raça Negra - Vol. 3",
+        "releaseDate": "1992-01-01",
+        "recordType": "album"
+      },
+      "duration": 211,
+      "rank": 628875,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "raca-negra--doce-paixao",
+      "title": "Doce Paixão",
+      "artist": "Raça Negra",
+      "artistDeezerId": 315082,
+      "trackId": 113863316,
+      "altTrackIds": [
+        66883610,
+        66883629,
+        113864846
+      ],
+      "album": {
+        "id": 11793140,
+        "title": "Raça Negra - Vol. 4",
+        "releaseDate": "1993-01-01",
+        "recordType": "album"
+      },
+      "duration": 217,
+      "rank": 505776,
+      "topPosition": 3,
+      "year": 1993
+    },
+    {
+      "id": "raca-negra--e-tarde-demais",
+      "title": "É Tarde Demais",
+      "artist": "Raça Negra",
+      "artistDeezerId": 315082,
+      "trackId": 113864886,
+      "altTrackIds": [
+        4683170,
+        25043581,
+        36999971,
+        66883620,
+        66883640,
+        66883656,
+        113864850,
+        123220342,
+        395899842,
+        405580972,
+        705328172,
+        1738338767,
+        1781165007,
+        1803440887
+      ],
+      "album": {
+        "id": 11793292,
+        "title": "Raça Negra - Vol. 6",
+        "releaseDate": "1995-01-01",
+        "recordType": "album"
+      },
+      "duration": 214,
+      "rank": 589988,
+      "topPosition": 2,
+      "year": 1995
+    },
+    {
+      "id": "raimundos--a-mais-pedida",
+      "title": "A mais pedida",
+      "artist": "Raimundos",
+      "artistDeezerId": 66479,
+      "trackId": 761234,
+      "altTrackIds": [
+        34626351,
+        78522938,
+        126727989,
+        350038551,
+        370317451
+      ],
+      "album": {
+        "id": 89752,
+        "title": "Só No Forevis",
+        "releaseDate": "1995-10-03",
+        "recordType": "album"
+      },
+      "duration": 233,
+      "rank": 626949,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "raimundos--i-saw-you-saying-that-you-say-that-you-saw",
+      "title": "I Saw You Saying (That You Say That You Saw)",
+      "artist": "Raimundos",
+      "artistDeezerId": 66479,
+      "trackId": 3895377,
+      "altTrackIds": [
+        17135809,
+        34626151,
+        78522936,
+        80135018,
+        350038471,
+        370317331
+      ],
+      "album": {
+        "id": 363699,
+        "title": "Lavô Tá Novo",
+        "releaseDate": "1995-10-03",
+        "recordType": "album"
+      },
+      "duration": 204,
+      "rank": 657289,
+      "topPosition": 2,
+      "year": 1995
+    },
+    {
+      "id": "raimundos--mulher-de-fases",
+      "title": "Mulher de fases",
+      "artist": "Raimundos",
+      "artistDeezerId": 66479,
+      "trackId": 761220,
+      "altTrackIds": [
+        34626221,
+        78522930,
+        126727953,
+        142838496,
+        350038491,
+        370317581
+      ],
+      "album": {
+        "id": 89752,
+        "title": "Só No Forevis",
+        "releaseDate": "1995-10-03",
+        "recordType": "album"
+      },
+      "duration": 213,
+      "rank": 742242,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "rick-e-renner--ela-e-demais",
+      "title": "Ela é demais",
+      "artist": "Rick & Renner",
+      "artistDeezerId": 64997,
+      "trackId": 784297,
+      "altTrackIds": [
+        688705,
+        3923478,
+        3923480,
+        6634506,
+        12334792,
+        1748243187,
+        1748263917,
+        1748612317,
+        2572109632,
+        2710571572
+      ],
+      "album": {
+        "id": 91805,
+        "title": "Mil Vezes Cantarei",
+        "releaseDate": "1994-04-19",
+        "recordType": "album"
+      },
+      "duration": 216,
+      "rank": 723392,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "rick-e-renner--muleca",
+      "title": "Muleca",
+      "artist": "Rick & Renner",
+      "artistDeezerId": 64997,
+      "trackId": 764215,
+      "altTrackIds": [
+        3909586,
+        3923472,
+        6634499,
+        12334789,
+        1748243217,
+        2710571592
+      ],
+      "album": {
+        "id": 90022,
+        "title": "Instante Mágico",
+        "releaseDate": "1994-04-19",
+        "recordType": "album"
+      },
+      "duration": 215,
+      "rank": 547035,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "rick-e-renner--preciso-te-encontrar",
+      "title": "Preciso te encontrar",
+      "artist": "Rick & Renner",
+      "artistDeezerId": 64997,
+      "trackId": 3918920,
+      "altTrackIds": [
+        3923470,
+        2710571432
+      ],
+      "album": {
+        "id": 365872,
+        "title": "Rick & Renner (Vol. 1)",
+        "releaseDate": "1994-04-19",
+        "recordType": "album"
+      },
+      "duration": 200,
+      "rank": 577568,
+      "topPosition": 2,
+      "year": 1993
+    },
+    {
+      "id": "rionegro-e-solimoes--a-gente-se-entrega",
+      "title": "A Gente Se Entrega",
+      "artist": "Rionegro & Solimões",
+      "artistDeezerId": 315735,
+      "trackId": 690943572,
+      "altTrackIds": [
+        701408822,
+        1116010282
+      ],
+      "album": {
+        "id": 99221112,
+        "title": "O Amor Supera Tudo",
+        "releaseDate": "2013-12-06",
+        "recordType": "album"
+      },
+      "duration": 219,
+      "rank": 471265,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "rionegro-e-solimoes--frio-da-madrugada",
+      "title": "Frio da Madrugada",
+      "artist": "Rionegro & Solimões",
+      "artistDeezerId": 315735,
+      "trackId": 690943592,
+      "altTrackIds": [
+        701408882,
+        3025462911,
+        3500162081,
+        3534926091
+      ],
+      "album": {
+        "id": 99221112,
+        "title": "O Amor Supera Tudo",
+        "releaseDate": "2013-12-06",
+        "recordType": "album"
+      },
+      "duration": 260,
+      "rank": 597057,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "rionegro-e-solimoes--peao-apaixonado",
+      "title": "Peão Apaixonado",
+      "artist": "Rionegro & Solimões",
+      "artistDeezerId": 315735,
+      "trackId": 682729032,
+      "altTrackIds": [
+        406496282,
+        686583592,
+        701408842
+      ],
+      "album": {
+        "id": 97565212,
+        "title": "Peão Apaixonado",
+        "releaseDate": "2015-07-17",
+        "recordType": "album"
+      },
+      "duration": 187,
+      "rank": 496345,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "rita-lee--alo-alo-marciano",
+      "title": "Alô! Alô! Marciano",
+      "artist": "Rita Lee",
+      "artistDeezerId": 1893,
+      "trackId": 128068961,
+      "altTrackIds": [
+        76414483,
+        140344297,
+        3059129021
+      ],
+      "album": {
+        "id": 13522567,
+        "title": "Em Bossa 'N Roll (Edição Comemorativa - 25 Anos) - Ao Vivo",
+        "releaseDate": "1991-01-01",
+        "recordType": "album"
+      },
+      "duration": 202,
+      "rank": 376084,
+      "topPosition": 2,
+      "year": 1991
+    },
+    {
+      "id": "rita-lee--balada-do-louco",
+      "title": "Balada Do Louco",
+      "artist": "Rita Lee",
+      "artistDeezerId": 1893,
+      "trackId": 140344301,
+      "altTrackIds": [],
+      "album": {
+        "id": 15109745,
+        "title": "Acústico (Live)",
+        "releaseDate": "2017-01-20",
+        "recordType": "album"
+      },
+      "duration": 215,
+      "rank": 366926,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "rita-lee--xuxuzinho",
+      "title": "Xuxuzinho",
+      "artist": "Rita Lee",
+      "artistDeezerId": 1893,
+      "trackId": 1140484232,
+      "altTrackIds": [],
+      "album": {
+        "id": 185980142,
+        "title": "Flerte Fatal",
+        "releaseDate": "2020-11-16",
+        "recordType": "album"
+      },
+      "duration": 178,
+      "rank": 393428,
+      "topPosition": 1,
+      "year": 1995
+    },
+    {
+      "id": "roberta-miranda--duas-tacas",
+      "title": "Duas taças",
+      "artist": "Roberta Miranda",
+      "artistDeezerId": 65349,
+      "trackId": 3460256791,
+      "altTrackIds": [
+        4681379,
+        418726692,
+        966467372,
+        3016583981,
+        3346952281
+      ],
+      "album": {
+        "id": 788184091,
+        "title": "Roberta Miranda - Vol. 4",
+        "releaseDate": "1990-01-01",
+        "recordType": "album"
+      },
+      "duration": 194,
+      "rank": 346866,
+      "topPosition": 3,
+      "year": 1990
+    },
+    {
+      "id": "roberta-miranda--eu-te-amo-te-amo-te-amo",
+      "title": "Eu te amo, te amo, te amo",
+      "artist": "Roberta Miranda",
+      "artistDeezerId": 65349,
+      "trackId": 702364,
+      "altTrackIds": [
+        4681382,
+        137275412
+      ],
+      "album": {
+        "id": 84217,
+        "title": "Roberta Miranda - Vol. 9",
+        "releaseDate": "1994-04-01",
+        "recordType": "album"
+      },
+      "duration": 260,
+      "rank": 421738,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "roberta-miranda--majestade-o-sabia",
+      "title": "Majestade O Sabiá",
+      "artist": "Roberta Miranda",
+      "artistDeezerId": 65349,
+      "trackId": 1157001832,
+      "altTrackIds": [
+        4681377,
+        367579991,
+        966467422,
+        1070277392,
+        2846377362
+      ],
+      "album": {
+        "id": 189251912,
+        "title": "Vida",
+        "releaseDate": "2014-09-15",
+        "recordType": "album"
+      },
+      "duration": 229,
+      "rank": 539105,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "roberto-carlos--luz-divina",
+      "title": "Luz Divina",
+      "artist": "Roberto Carlos",
+      "artistDeezerId": 7613,
+      "trackId": 62912473,
+      "altTrackIds": [
+        15087564,
+        70374697,
+        72318129,
+        103464852,
+        103468474,
+        103468620
+      ],
+      "album": {
+        "id": 1402291,
+        "title": "Línea Azul - Vol. X - Pájaro Herido",
+        "releaseDate": "2013-01-02",
+        "recordType": "album"
+      },
+      "duration": 291,
+      "rank": 418965,
+      "topPosition": 3,
+      "year": 1991
+    },
+    {
+      "id": "roberto-carlos--mulher-de-40",
+      "title": "Mulher de 40",
+      "artist": "Roberto Carlos",
+      "artistDeezerId": 7613,
+      "trackId": 72318107,
+      "altTrackIds": [
+        103468556,
+        3952575981
+      ],
+      "album": {
+        "id": 7107320,
+        "title": "Roberto Carlos (1996 Remasterizado)",
+        "releaseDate": "2013-01-02",
+        "recordType": "album"
+      },
+      "duration": 322,
+      "rank": 484576,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "roberto-carlos--nossa-senhora",
+      "title": "Nossa Senhora",
+      "artist": "Roberto Carlos",
+      "artistDeezerId": 7613,
+      "trackId": 72318128,
+      "altTrackIds": [
+        103468510,
+        103468618,
+        3952576091
+      ],
+      "album": {
+        "id": 7107322,
+        "title": "Mensagens (Remasterizado)",
+        "releaseDate": "2015-07-07",
+        "recordType": "album"
+      },
+      "duration": 365,
+      "rank": 551635,
+      "topPosition": 1,
+      "year": 1993
+    },
+    {
+      "id": "roupa-nova--a-viagem",
+      "title": "A Viagem",
+      "artist": "Roupa Nova",
+      "artistDeezerId": 16476,
+      "trackId": 13244016,
+      "altTrackIds": [
+        16161402,
+        45208181,
+        52263181,
+        67795842,
+        774688992,
+        780697372,
+        1550351122,
+        2252950047,
+        2255253387,
+        2584835342
+      ],
+      "album": {
+        "id": 1213987,
+        "title": "Novela Hits",
+        "releaseDate": "1996-01-10",
+        "recordType": "album"
+      },
+      "duration": 209,
+      "rank": 638344,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "roupa-nova--amar-e",
+      "title": "Amar é...",
+      "artist": "Roupa Nova",
+      "artistDeezerId": 16476,
+      "trackId": 2584835252,
+      "altTrackIds": [
+        6488086,
+        13290114,
+        16513313,
+        52263101,
+        67795847,
+        780697342,
+        1550351222,
+        2155121007,
+        2252952487,
+        2255253537
+      ],
+      "album": {
+        "id": 523692112,
+        "title": "O Melhor De Roupa Nova",
+        "releaseDate": "1998-02-09",
+        "recordType": "album"
+      },
+      "duration": 270,
+      "rank": 522483,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "roupa-nova--os-coracoes-nao-sao-iguais",
+      "title": "Os Corações Não São Iguais",
+      "artist": "Roupa Nova",
+      "artistDeezerId": 16476,
+      "trackId": 45208251,
+      "altTrackIds": [
+        67795843,
+        769531112,
+        2252950127,
+        2255253467
+      ],
+      "album": {
+        "id": 4460901,
+        "title": "Vidavida",
+        "releaseDate": "2010-06-25",
+        "recordType": "album"
+      },
+      "duration": 256,
+      "rank": 508499,
+      "topPosition": 3,
+      "year": 1994
+    },
+    {
+      "id": "sampa-crew--eterno-amor",
+      "title": "Eterno Amor",
+      "artist": "Sampa Crew",
+      "artistDeezerId": 240693,
+      "trackId": 1224086682,
+      "altTrackIds": [
+        15024040,
+        519570262,
+        519570352,
+        3058490061,
+        3493723811,
+        3493812281,
+        3493933171,
+        3493933401,
+        3493933491,
+        3493940331
+      ],
+      "album": {
+        "id": 203281092,
+        "title": "Ritmo Amor Poesia",
+        "releaseDate": "1990-09-17",
+        "recordType": "album"
+      },
+      "duration": 294,
+      "rank": 543715,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "sampa-crew--mesmo-assim",
+      "title": "Mesmo Assim",
+      "artist": "Sampa Crew",
+      "artistDeezerId": 240693,
+      "trackId": 15024036,
+      "altTrackIds": [
+        15024047,
+        3493675891,
+        3493723861,
+        3493812321
+      ],
+      "album": {
+        "id": 1385112,
+        "title": "Sampa Crew",
+        "releaseDate": "1994-03-30",
+        "recordType": "album"
+      },
+      "duration": 248,
+      "rank": 437304,
+      "topPosition": 2,
+      "year": 1994
+    },
+    {
+      "id": "sampa-crew--se-me-lembro-faz-doer",
+      "title": "Se Me Lembro Faz Doer",
+      "artist": "Sampa Crew",
+      "artistDeezerId": 240693,
+      "trackId": 15024046,
+      "altTrackIds": [
+        3493723841,
+        3493933271
+      ],
+      "album": {
+        "id": 1385112,
+        "title": "Sampa Crew",
+        "releaseDate": "1994-03-30",
+        "recordType": "album"
+      },
+      "duration": 245,
+      "rank": 405297,
+      "topPosition": 3,
+      "year": 1994
+    },
+    {
+      "id": "sergio-reis--cavalo-preto",
+      "title": "Cavalo Preto",
+      "artist": "Sérgio Reis",
+      "artistDeezerId": 115056,
+      "trackId": 13320345,
+      "altTrackIds": [
+        13304180,
+        14838354,
+        988995292,
+        989153632,
+        2572786152,
+        2572786302,
+        2669421992
+      ],
+      "album": {
+        "id": 1220755,
+        "title": "Pantaneiro",
+        "releaseDate": "1993-10-28",
+        "recordType": "album"
+      },
+      "duration": 163,
+      "rank": 565269,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "sergio-reis--disparada",
+      "title": "Disparada",
+      "artist": "Sérgio Reis",
+      "artistDeezerId": 115056,
+      "trackId": 13304220,
+      "altTrackIds": [
+        5967025,
+        13320204,
+        14838348,
+        72294581,
+        727622172,
+        988995372,
+        989153652
+      ],
+      "album": {
+        "id": 1219049,
+        "title": "Sérgio Reis 40 Anos de Estrada",
+        "releaseDate": "1996-03-03",
+        "recordType": "album"
+      },
+      "duration": 248,
+      "rank": 447366,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "sergio-reis--um-violeiro-toca",
+      "title": "Um violeiro toca",
+      "artist": "Sérgio Reis",
+      "artistDeezerId": 115056,
+      "trackId": 12334607,
+      "altTrackIds": [
+        9054702
+      ],
+      "album": {
+        "id": 1133525,
+        "title": "Marcando Estrada",
+        "releaseDate": "1994-06-24",
+        "recordType": "album"
+      },
+      "duration": 209,
+      "rank": 360993,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "skank--garota-nacional",
+      "title": "Garota Nacional",
+      "artist": "Skank",
+      "artistDeezerId": 13545,
+      "trackId": 14897306,
+      "altTrackIds": [
+        7246258,
+        46211491,
+        63135953,
+        135869738,
+        135869798,
+        135869842,
+        136477920,
+        556711442,
+        561561382,
+        2063267257
+      ],
+      "album": {
+        "id": 1373831,
+        "title": "O Samba Poconé",
+        "releaseDate": "1996-06-15",
+        "recordType": "album"
+      },
+      "duration": 316,
+      "rank": 700272,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "skank--resposta",
+      "title": "Resposta",
+      "artist": "Skank",
+      "artistDeezerId": 13545,
+      "trackId": 13263710,
+      "altTrackIds": [
+        7246260,
+        63135954,
+        136477908,
+        2063267277
+      ],
+      "album": {
+        "id": 1215478,
+        "title": "Siderado",
+        "releaseDate": "1998-06-22",
+        "recordType": "album"
+      },
+      "duration": 245,
+      "rank": 740715,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "skank--te-ver",
+      "title": "Te Ver",
+      "artist": "Skank",
+      "artistDeezerId": 13545,
+      "trackId": 13269955,
+      "altTrackIds": [
+        6430921,
+        7246272,
+        63135952,
+        70804830,
+        136477910,
+        550329982,
+        561561282,
+        2063267237
+      ],
+      "album": {
+        "id": 1215891,
+        "title": "Calango",
+        "releaseDate": "1994-10-15",
+        "recordType": "album"
+      },
+      "duration": 278,
+      "rank": 599617,
+      "topPosition": 3,
+      "year": 1994
+    },
+    {
+      "id": "so-pra-contrariar--depois-do-prazer",
+      "title": "Depois do Prazer",
+      "artist": "Só Pra Contrariar",
+      "artistDeezerId": 77057,
+      "trackId": 15401610,
+      "altTrackIds": [
+        13229450,
+        71195928,
+        104297924,
+        2967560211
+      ],
+      "album": {
+        "id": 1422318,
+        "title": "So Pra Contrariar (1997)",
+        "releaseDate": "1997-02-28",
+        "recordType": "album"
+      },
+      "duration": 266,
+      "rank": 537459,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "so-pra-contrariar--domingo",
+      "title": "Domingo",
+      "artist": "Só Pra Contrariar",
+      "artistDeezerId": 77057,
+      "trackId": 2967559981,
+      "altTrackIds": [
+        70893869,
+        573927042,
+        1861529357
+      ],
+      "album": {
+        "id": 635200061,
+        "title": "RCA 100 Anos De Música - Só Pra Contrariar",
+        "releaseDate": "2024-09-06",
+        "recordType": "album"
+      },
+      "duration": 259,
+      "rank": 567902,
+      "topPosition": 2,
+      "year": 1993
+    },
+    {
+      "id": "so-pra-contrariar--que-se-chama-amor",
+      "title": "Que Se Chama Amor",
+      "artist": "Só Pra Contrariar",
+      "artistDeezerId": 77057,
+      "trackId": 104297930,
+      "altTrackIds": [
+        41294511,
+        65440045,
+        573926952,
+        1861529297,
+        2967560151
+      ],
+      "album": {
+        "id": 10851150,
+        "title": "Focus: O Essencial de Só Pra Contrariar",
+        "releaseDate": "1999-07-31",
+        "recordType": "album"
+      },
+      "duration": 241,
+      "rank": 634841,
+      "topPosition": 1,
+      "year": 1993
+    },
+    {
+      "id": "soweto--dere",
+      "title": "Derê",
+      "artist": "Soweto",
+      "artistDeezerId": 240336,
+      "trackId": 3265779,
+      "altTrackIds": [
+        3265122,
+        383888031,
+        548257272
+      ],
+      "album": {
+        "id": 311638,
+        "title": "Eu Sou O Samba - Soweto",
+        "releaseDate": "2006-01-30",
+        "recordType": "album"
+      },
+      "duration": 193,
+      "rank": 524625,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "soweto--farol-das-estrelas",
+      "title": "Farol Das Estrelas",
+      "artist": "Soweto",
+      "artistDeezerId": 240336,
+      "trackId": 3265349,
+      "altTrackIds": [
+        3265780,
+        548257322
+      ],
+      "album": {
+        "id": 311606,
+        "title": "Farol Das Estrelas",
+        "releaseDate": "2005-12-23",
+        "recordType": "album"
+      },
+      "duration": 238,
+      "rank": 646483,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "soweto--tempo-de-aprender",
+      "title": "Tempo De Aprender",
+      "artist": "Soweto",
+      "artistDeezerId": 240336,
+      "trackId": 3265353,
+      "altTrackIds": [
+        3265125
+      ],
+      "album": {
+        "id": 311606,
+        "title": "Farol Das Estrelas",
+        "releaseDate": "2005-12-23",
+        "recordType": "album"
+      },
+      "duration": 241,
+      "rank": 512718,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "terra-samba--carrinho-de-mao",
+      "title": "Carrinho De Mão",
+      "artist": "Terra Samba",
+      "artistDeezerId": 134109,
+      "trackId": 4681752,
+      "altTrackIds": [
+        2179676,
+        3030753141
+      ],
+      "album": {
+        "id": 430995,
+        "title": "Axé Bahia",
+        "releaseDate": "2006-04-26",
+        "recordType": "album"
+      },
+      "duration": 231,
+      "rank": 426412,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "terra-samba--liberar-geral",
+      "title": "Liberar Geral",
+      "artist": "Terra Samba",
+      "artistDeezerId": 134109,
+      "trackId": 352048041,
+      "altTrackIds": [
+        2179663,
+        4681755
+      ],
+      "album": {
+        "id": 40211091,
+        "title": "Liberar Geral",
+        "releaseDate": "1997-04-28",
+        "recordType": "album"
+      },
+      "duration": 216,
+      "rank": 465580,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "terra-samba--ta-tirando-onda",
+      "title": "Tá Tirando Onda",
+      "artist": "Terra Samba",
+      "artistDeezerId": 134109,
+      "trackId": 1506805082,
+      "altTrackIds": [
+        2179665,
+        4681758
+      ],
+      "album": {
+        "id": 261917152,
+        "title": "Deus É Brasileiro",
+        "releaseDate": "2019-09-24",
+        "recordType": "album"
+      },
+      "duration": 187,
+      "rank": 339996,
+      "topPosition": 3,
+      "year": 1996
+    },
+    {
+      "id": "tianastacia--cabrobro",
+      "title": "Cabrobro",
+      "artist": "Tianastácia",
+      "artistDeezerId": 215077,
+      "trackId": 3180348,
+      "altTrackIds": [
+        3179911,
+        2395163395,
+        3223586021,
+        3319010061,
+        4166233692
+      ],
+      "album": {
+        "id": 305192,
+        "title": "Ta Na Boa",
+        "releaseDate": "2006-03-25",
+        "recordType": "album"
+      },
+      "duration": 195,
+      "rank": 531855,
+      "topPosition": 1,
+      "year": 1996
+    },
+    {
+      "id": "tianastacia--conto-de-fraldas",
+      "title": "Conto De Fraldas",
+      "artist": "Tianastácia",
+      "artistDeezerId": 215077,
+      "trackId": 3180352,
+      "altTrackIds": [
+        3179920,
+        3180358,
+        3180654,
+        3277581391,
+        3319010041,
+        4166233682
+      ],
+      "album": {
+        "id": 305192,
+        "title": "Ta Na Boa",
+        "releaseDate": "2006-03-25",
+        "recordType": "album"
+      },
+      "duration": 272,
+      "rank": 391008,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "tianastacia--imperativo",
+      "title": "Imperativo",
+      "artist": "Tianastácia",
+      "artistDeezerId": 215077,
+      "trackId": 3180356,
+      "altTrackIds": [],
+      "album": {
+        "id": 305192,
+        "title": "Ta Na Boa",
+        "releaseDate": "2006-03-25",
+        "recordType": "album"
+      },
+      "duration": 185,
+      "rank": 300188,
+      "topPosition": 3,
+      "year": 1999
+    },
+    {
+      "id": "timbalada--beija-flor",
+      "title": "Beija-Flor",
+      "artist": "Timbalada",
+      "artistDeezerId": 152180,
+      "trackId": 2527277,
+      "altTrackIds": [
+        4680606,
+        395337982,
+        3045226151,
+        3047283881,
+        3619475532,
+        3642036932
+      ],
+      "album": {
+        "id": 247738,
+        "title": "Tribal Bahia",
+        "releaseDate": "2004-01-01",
+        "recordType": "album"
+      },
+      "duration": 268,
+      "rank": 518974,
+      "topPosition": 1,
+      "year": 1993
+    },
+    {
+      "id": "timbalada--margarida-perfumada",
+      "title": "Margarida Perfumada",
+      "artist": "Timbalada",
+      "artistDeezerId": 152180,
+      "trackId": 390204731,
+      "altTrackIds": [
+        2527289,
+        3045215051
+      ],
+      "album": {
+        "id": 45619341,
+        "title": "Andei Road",
+        "releaseDate": "2017-08-04",
+        "recordType": "album"
+      },
+      "duration": 280,
+      "rank": 430706,
+      "topPosition": 2,
+      "year": 1995
+    },
+    {
+      "id": "timbalada--mimar-voce",
+      "title": "Mimar Você",
+      "artist": "Timbalada",
+      "artistDeezerId": 152180,
+      "trackId": 2527283,
+      "altTrackIds": [
+        4680615,
+        390204661,
+        3038395411,
+        3047283841,
+        3642036782
+      ],
+      "album": {
+        "id": 247738,
+        "title": "Tribal Bahia",
+        "releaseDate": "2004-01-01",
+        "recordType": "album"
+      },
+      "duration": 240,
+      "rank": 427322,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "titas--domingo",
+      "title": "Domingo",
+      "artist": "Titãs",
+      "artistDeezerId": 17005,
+      "trackId": 36358821,
+      "altTrackIds": [
+        36362921,
+        60793315,
+        126723411
+      ],
+      "album": {
+        "id": 3536311,
+        "title": "Domingo",
+        "releaseDate": "1984-05-30",
+        "recordType": "album"
+      },
+      "duration": 244,
+      "rank": 505057,
+      "topPosition": 3,
+      "year": 1995
+    },
+    {
+      "id": "titas--e-preciso-saber-viver",
+      "title": "É preciso saber viver",
+      "artist": "Titãs",
+      "artistDeezerId": 17005,
+      "trackId": 36363011,
+      "altTrackIds": [
+        3750836792
+      ],
+      "album": {
+        "id": 3536801,
+        "title": "Volume 02",
+        "releaseDate": "1984-05-30",
+        "recordType": "album"
+      },
+      "duration": 251,
+      "rank": 643801,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "titas--os-cegos-do-castelo",
+      "title": "Os Cegos do Castelo",
+      "artist": "Titãs",
+      "artistDeezerId": 17005,
+      "trackId": 124138162,
+      "altTrackIds": [
+        60793318
+      ],
+      "album": {
+        "id": 13022824,
+        "title": "Acústico MTV",
+        "releaseDate": "1997-09-22",
+        "recordType": "album"
+      },
+      "duration": 296,
+      "rank": 617959,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "ultraje-a-rigor--ah-se-eu-fosse-homem",
+      "title": "Ah, se eu fosse homem...",
+      "artist": "Ultraje a Rigor",
+      "artistDeezerId": 67062,
+      "trackId": 3921825101,
+      "altTrackIds": [
+        96168060,
+        3921978101
+      ],
+      "album": {
+        "id": 947567121,
+        "title": "Ultraje a Rigor - 30 Anos",
+        "releaseDate": "2014-01-27",
+        "recordType": "album"
+      },
+      "duration": 167,
+      "rank": 337755,
+      "topPosition": 3,
+      "year": 1993
+    },
+    {
+      "id": "ultraje-a-rigor--filha-da-puta",
+      "title": "Filha da Puta",
+      "artist": "Ultraje a Rigor",
+      "artistDeezerId": 67062,
+      "trackId": 95681842,
+      "altTrackIds": [
+        96168062,
+        424036292,
+        3921824731,
+        3921824901
+      ],
+      "album": {
+        "id": 9735376,
+        "title": "18 Anos Sem Tirar",
+        "releaseDate": "1999-01-01",
+        "recordType": "album"
+      },
+      "duration": 169,
+      "rank": 374869,
+      "topPosition": 2,
+      "year": 1992
+    },
+    {
+      "id": "ultraje-a-rigor--nada-a-declarar",
+      "title": "Nada a Declarar",
+      "artist": "Ultraje a Rigor",
+      "artistDeezerId": 67062,
+      "trackId": 95681832,
+      "altTrackIds": [
+        96168088,
+        99524240
+      ],
+      "album": {
+        "id": 9735376,
+        "title": "18 Anos Sem Tirar",
+        "releaseDate": "1999-01-01",
+        "recordType": "album"
+      },
+      "duration": 180,
+      "rank": 376212,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "vanessa-rangel--palpite",
+      "title": "Palpite",
+      "artist": "Vanessa Rangel",
+      "artistDeezerId": 1480447,
+      "trackId": 1040237222,
+      "altTrackIds": [],
+      "album": {
+        "id": 164599512,
+        "title": "Vanessa Rangel",
+        "releaseDate": "2020-08-07",
+        "recordType": "album"
+      },
+      "duration": 232,
+      "rank": 710223,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "virguloides--bagulho-no-bumba",
+      "title": "Bagulho no Bumba",
+      "artist": "Virgulóides",
+      "artistDeezerId": 1528801,
+      "trackId": 2808220452,
+      "altTrackIds": [],
+      "album": {
+        "id": 588588792,
+        "title": "Virgulóides?",
+        "releaseDate": "2024-05-01",
+        "recordType": "album"
+      },
+      "duration": 200,
+      "rank": 332040,
+      "topPosition": 1,
+      "year": 1997
+    },
+    {
+      "id": "wando--aquele-amor-que-faz-gostoso-me-deixou-f-d-p",
+      "title": "Aquele Amor Que Faz Gostoso Me Deixou (F.D.P.)",
+      "artist": "Wando",
+      "artistDeezerId": 167499,
+      "trackId": 3978289,
+      "altTrackIds": [
+        145430860
+      ],
+      "album": {
+        "id": 371901,
+        "title": "Fogo E Paixao - O Melhor De Wando",
+        "releaseDate": "2006-07-04",
+        "recordType": "album"
+      },
+      "duration": 261,
+      "rank": 347107,
+      "topPosition": 2,
+      "year": 1997
+    },
+    {
+      "id": "wando--mordida-na-maca",
+      "title": "Mordida Na Maçã",
+      "artist": "Wando",
+      "artistDeezerId": 167499,
+      "trackId": 3978288,
+      "altTrackIds": [
+        145435162
+      ],
+      "album": {
+        "id": 371901,
+        "title": "Fogo E Paixao - O Melhor De Wando",
+        "releaseDate": "2006-07-04",
+        "recordType": "album"
+      },
+      "duration": 230,
+      "rank": 348432,
+      "topPosition": 1,
+      "year": 1995
+    },
+    {
+      "id": "zeca-baleiro--disritmia",
+      "title": "Disritmia",
+      "artist": "Zeca Baleiro",
+      "artistDeezerId": 12614,
+      "trackId": 64215054,
+      "altTrackIds": [
+        73502404,
+        101296834,
+        954201852,
+        4053392961
+      ],
+      "album": {
+        "id": 6291835,
+        "title": "Vô Imbolá",
+        "releaseDate": "2008-09-30",
+        "recordType": "album"
+      },
+      "duration": 262,
+      "rank": 502395,
+      "topPosition": 2,
+      "year": 1999
+    },
+    {
+      "id": "zeca-baleiro--heavy-metal-do-senhor",
+      "title": "Heavy Metal Do Senhor",
+      "artist": "Zeca Baleiro",
+      "artistDeezerId": 12614,
+      "trackId": 12060663,
+      "altTrackIds": [
+        12060405,
+        12060675,
+        44690741,
+        73502415,
+        977850132,
+        3881318551
+      ],
+      "album": {
+        "id": 1106625,
+        "title": "Por Onde Andará Stephen Fry",
+        "releaseDate": "2008-06-23",
+        "recordType": "album"
+      },
+      "duration": 242,
+      "rank": 415883,
+      "topPosition": 3,
+      "year": 1997
+    },
+    {
+      "id": "zeca-baleiro--lenha",
+      "title": "Lenha",
+      "artist": "Zeca Baleiro",
+      "artistDeezerId": 12614,
+      "trackId": 64215047,
+      "altTrackIds": [
+        73502401,
+        3921736321
+      ],
+      "album": {
+        "id": 6291835,
+        "title": "Vô Imbolá",
+        "releaseDate": "2008-09-30",
+        "recordType": "album"
+      },
+      "duration": 249,
+      "rank": 611461,
+      "topPosition": 1,
+      "year": 1999
+    },
+    {
+      "id": "zeca-pagodinho--minha-fe",
+      "title": "Minha Fé",
+      "artist": "Zeca Pagodinho",
+      "artistDeezerId": 188053,
+      "trackId": 107992316,
+      "altTrackIds": [
+        1208889292,
+        2846560332,
+        2846561092
+      ],
+      "album": {
+        "id": 11263884,
+        "title": "Zeca Pagodinho",
+        "releaseDate": "2015-09-25",
+        "recordType": "album"
+      },
+      "duration": 203,
+      "rank": 460287,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "zeca-pagodinho--seu-balance",
+      "title": "Seu Balancê",
+      "artist": "Zeca Pagodinho",
+      "artistDeezerId": 188053,
+      "trackId": 15425672,
+      "altTrackIds": [
+        16477140,
+        16630689,
+        107992312,
+        400733922,
+        725664892,
+        725664922,
+        1208889172,
+        1399675552,
+        2846560482
+      ],
+      "album": {
+        "id": 1424448,
+        "title": "Juras De Amor",
+        "releaseDate": "2011-12-09",
+        "recordType": "album"
+      },
+      "duration": 224,
+      "rank": 562807,
+      "topPosition": 1,
+      "year": 1998
+    },
+    {
+      "id": "zeca-pagodinho--verdade",
+      "title": "Verdade",
+      "artist": "Zeca Pagodinho",
+      "artistDeezerId": 188053,
+      "trackId": 4682319,
+      "altTrackIds": [
+        15425665,
+        15425734,
+        16477153,
+        16630685,
+        112659966,
+        400733822,
+        585476962,
+        720627292,
+        1208889322
+      ],
+      "album": {
+        "id": 431023,
+        "title": "Deixa Clarear",
+        "releaseDate": "2006-08-10",
+        "recordType": "album"
+      },
+      "duration": 256,
+      "rank": 494479,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "zelia-duncan--catedral",
+      "title": "Catedral",
+      "artist": "Zélia Duncan",
+      "artistDeezerId": 9220,
+      "trackId": 3902968,
+      "altTrackIds": [
+        126748143,
+        142839422,
+        142839438,
+        1842474937
+      ],
+      "album": {
+        "id": 364294,
+        "title": "Zélia Duncan",
+        "releaseDate": "1994-03-09",
+        "recordType": "album"
+      },
+      "duration": 170,
+      "rank": 641044,
+      "topPosition": 1,
+      "year": 1994
+    },
+    {
+      "id": "zelia-duncan--enquanto-durmo",
+      "title": "Enquanto durmo",
+      "artist": "Zélia Duncan",
+      "artistDeezerId": 9220,
+      "trackId": 6469113,
+      "altTrackIds": [
+        4676016,
+        126748147,
+        142839442
+      ],
+      "album": {
+        "id": 596181,
+        "title": "Intimidade",
+        "releaseDate": "1996-10-16",
+        "recordType": "album"
+      },
+      "duration": 263,
+      "rank": 440636,
+      "topPosition": 2,
+      "year": 1996
+    },
+    {
+      "id": "zelia-duncan--quase-sem-querer",
+      "title": "Quase sem querer",
+      "artist": "Zélia Duncan",
+      "artistDeezerId": 9220,
+      "trackId": 6470581,
+      "altTrackIds": [
+        126748141,
+        142839436
+      ],
+      "album": {
+        "id": 596298,
+        "title": "Acesso",
+        "releaseDate": "1998-05-21",
+        "recordType": "album"
+      },
+      "duration": 257,
+      "rank": 417920,
+      "topPosition": 3,
+      "year": 1998
+    },
+    {
+      "id": "zeze-di-camargo-e-luciano--coracao-esta-em-pedacos",
+      "title": "Coração Está em Pedaços",
+      "artist": "Zezé Di Camargo & Luciano",
+      "artistDeezerId": 269973,
+      "trackId": 13265518,
+      "altTrackIds": [
+        72295783,
+        128435671,
+        635984932
+      ],
+      "album": {
+        "id": 1215611,
+        "title": "Zezé Di Camargo & Luciano 1992",
+        "releaseDate": "2003-12-31",
+        "recordType": "album"
+      },
+      "duration": 232,
+      "rank": 653163,
+      "topPosition": 3,
+      "year": 1992
+    },
+    {
+      "id": "zeze-di-camargo-e-luciano--pra-nao-pensar-em-voce",
+      "title": "Pra Não Pensar em Você",
+      "artist": "Zezé Di Camargo & Luciano",
+      "artistDeezerId": 269973,
+      "trackId": 13260125,
+      "altTrackIds": [
+        13263895,
+        13927271,
+        72294095,
+        99549552,
+        635985002,
+        826866422
+      ],
+      "album": {
+        "id": 1215202,
+        "title": "Zezé Di Camargo & Luciano 1998",
+        "releaseDate": "1998-08-22",
+        "recordType": "album"
+      },
+      "duration": 299,
+      "rank": 689679,
+      "topPosition": 2,
+      "year": 1998
+    },
+    {
+      "id": "zeze-di-camargo-e-luciano--voce-vai-ver",
+      "title": "Você Vai Ver",
+      "artist": "Zezé Di Camargo & Luciano",
+      "artistDeezerId": 269973,
+      "trackId": 6647773,
+      "altTrackIds": [
+        12269946,
+        13263887,
+        46715461,
+        72295825,
+        2044209077
+      ],
+      "album": {
+        "id": 614616,
+        "title": "Vem Cuidar De Mim",
+        "releaseDate": "2010-07-12",
+        "recordType": "album"
+      },
+      "duration": 237,
+      "rank": 706390,
+      "topPosition": 1,
+      "year": 1994
+    }
+  ]
+}

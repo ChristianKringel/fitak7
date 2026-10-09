@@ -10026,6 +10026,172 @@
           "answerIndex": 1
         }
       ]
+    },
+    "2026-12-07": {
+      "rounds": [
+        {
+          "songId": "ira--um-girassol-da-cor-de-seu-cabelo",
+          "trackId": 95986744,
+          "altTrackIds": [],
+          "title": "Um Girassol da Cor de Seu Cabelo",
+          "artist": "Ira!",
+          "options": [
+            {
+              "title": "Grand' hotel",
+              "artist": "Kid Abelha"
+            },
+            {
+              "title": "Blunt Of Judah",
+              "artist": "Nação Zumbi"
+            },
+            {
+              "title": "Gritos na multidão",
+              "artist": "Ira!"
+            },
+            {
+              "title": "Um Girassol da Cor de Seu Cabelo",
+              "artist": "Ira!"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "rita-lee--corre-corre",
+          "trackId": 104938154,
+          "altTrackIds": [
+            76414495,
+            128068985,
+            1366055082,
+            1408860532
+          ],
+          "title": "Corre-Corre",
+          "artist": "Rita Lee",
+          "options": [
+            {
+              "title": "Inferno",
+              "artist": "Nação Zumbi"
+            },
+            {
+              "title": "Cor De Rosa Choque",
+              "artist": "Rita Lee"
+            },
+            {
+              "title": "Hoje Eu Acordei Feliz",
+              "artist": "Charlie Brown Jr."
+            },
+            {
+              "title": "Corre-Corre",
+              "artist": "Rita Lee"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "kid-abelha--como-eu-quero",
+          "trackId": 433508882,
+          "altTrackIds": [
+            54393131,
+            54619681,
+            82463760,
+            82829010,
+            98692228,
+            433509242,
+            434271332
+          ],
+          "title": "Como eu quero",
+          "artist": "Kid Abelha",
+          "options": [
+            {
+              "title": "Pro Dia Nascer Feliz",
+              "artist": "Barão Vermelho"
+            },
+            {
+              "title": "Como eu quero",
+              "artist": "Kid Abelha"
+            },
+            {
+              "title": "Você Não Serve Pra Mim",
+              "artist": "Ira!"
+            },
+            {
+              "title": "Pra Ser Sincero",
+              "artist": "Engenheiros do Hawaii"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "roupa-nova--bem-simples",
+          "trackId": 4683249,
+          "altTrackIds": [
+            780697332,
+            2252950057,
+            2255253397
+          ],
+          "title": "Bem Simples",
+          "artist": "Roupa Nova",
+          "options": [
+            {
+              "title": "Bem Simples",
+              "artist": "Roupa Nova"
+            },
+            {
+              "title": "Veja Bem Meu Bem",
+              "artist": "Los Hermanos"
+            },
+            {
+              "title": "Um Par",
+              "artist": "Los Hermanos"
+            },
+            {
+              "title": "Andrea Doria",
+              "artist": "Legião Urbana"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "ultraje-a-rigor--nos-vamos-invadir-sua-praia",
+          "trackId": 63652995,
+          "altTrackIds": [
+            3859547,
+            17135763,
+            85143566,
+            85143712,
+            95681868,
+            96168096,
+            99524266,
+            126748183,
+            424036802,
+            424036812,
+            3921824421,
+            3921824691,
+            3921824701,
+            3926294801
+          ],
+          "title": "Nós vamos invadir sua praia",
+          "artist": "Ultraje a Rigor",
+          "options": [
+            {
+              "title": "Fogo",
+              "artist": "Capital Inicial"
+            },
+            {
+              "title": "Nós vamos invadir sua praia",
+              "artist": "Ultraje a Rigor"
+            },
+            {
+              "title": "Eu me amo",
+              "artist": "Ultraje a Rigor"
+            },
+            {
+              "title": "Erva Venenosa",
+              "artist": "Rita Lee"
+            }
+          ],
+          "answerIndex": 1
+        }
+      ]
     }
   }
 }
