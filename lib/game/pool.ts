@@ -49,10 +49,17 @@ export interface PoolSong {
   rank: number;
   /** Position in the artist's popularity ranking, 1 = most popular. */
   topPosition: number;
+  /** Original release year; only set in categories with `years`. */
+  year?: number;
 }
 
 export interface CategoryPool {
   category: string;
+  /**
+   * Share of each artist's top songs that can be answers (see
+   * `answerCandidates`); defaults to TOP_SHARE_PER_ARTIST. Hits lists use 1.
+   */
+  topShare?: number;
   songs: PoolSong[];
 }
 

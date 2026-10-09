@@ -11,8 +11,9 @@ export function pickInfiniteSong<T extends Pick<PoolSong, "id" | "artist" | "top
   pool: readonly T[],
   playedIds: readonly string[],
   rng: Rng,
+  topShare?: number,
 ): T {
-  const { songs: candidates, weight } = answerCandidates(pool);
+  const { songs: candidates, weight } = answerCandidates(pool, topShare);
   const played = new Set(playedIds);
   const fresh = candidates.filter((s) => !played.has(s.id));
   if (fresh.length > 0) return weightedPick(rng, fresh, weight);

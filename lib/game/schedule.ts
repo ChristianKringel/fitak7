@@ -51,6 +51,12 @@ export interface BuildScheduleInput {
   days?: number;
   /** Share of each artist's most popular songs that can be answers. */
   topShare?: number;
+  /**
+   * Never repeat an artist on the same day, even if that means reusing a
+   * song played less than NO_REPEAT_DAYS ago (hits lists). By default a new
+   * artist is only preferred.
+   */
+  uniqueArtists?: boolean;
 }
 
 function pickSong(
@@ -60,10 +66,15 @@ function pickSong(
   date: string,
   lastUsed: ReadonlyMap<string, string>,
   chosenToday: readonly PoolSong[],
+  uniqueArtists: boolean,
 ): { song: PoolSong; recentRepeat: boolean } {
   const chosenIds = new Set(chosenToday.map((s) => s.id));
   const artistsToday = new Set(chosenToday.map((s) => s.artist));
-  const available = pool.filter((s) => !chosenIds.has(s.id));
+  let available = pool.filter((s) => !chosenIds.has(s.id));
+  if (uniqueArtists) {
+    const newArtists = available.filter((s) => !artistsToday.has(s.artist));
+    if (newArtists.length > 0) available = newArtists;
+  }
   const preferNewArtist = (songs: PoolSong[]) => {
     const fresh = songs.filter((s) => !artistsToday.has(s.artist));
     return fresh.length > 0 ? fresh : songs;
@@ -97,7 +108,7 @@ export function buildSchedule(input: BuildScheduleInput): {
   schedule: CategorySchedule;
   stats: ScheduleStats;
 } {
-  const { category, pool, existing, today, topShare } = input;
+  const { category, pool, existing, today, topShare, uniqueArtists = false } = input;
   const totalDays = input.days ?? DEFAULT_SCHEDULE_DAYS;
   const { songs: answers, weight } = answerCandidates(pool, topShare);
   if (answers.length < ROUNDS_PER_DAY) {
@@ -134,7 +145,7 @@ export function buildSchedule(input: BuildScheduleInput): {
     const rng = seededRng(`${category}:${date}`);
     const chosen: PoolSong[] = [];
     for (let i = 0; i < ROUNDS_PER_DAY; i++) {
-      const { song, recentRepeat } = pickSong(rng, answers, weight, date, lastUsed, chosen);
+      const { song, recentRepeat } = pickSong(rng, answers, weight, date, lastUsed, chosen, uniqueArtists);
       chosen.push(song);
       if (recentRepeat) stats.recentRepeats++;
     }

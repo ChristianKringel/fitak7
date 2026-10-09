@@ -100,6 +100,22 @@ describe("buildSchedule", () => {
     }
   });
 
+  it("never repeats an artist on a day with uniqueArtists, reusing songs instead", () => {
+    // One big artist and five small ones: the small ones run out of rested songs.
+    const big = makePool(1, 100);
+    const small = makePool(6, 3).filter((s) => s.artist !== "Artist 0");
+    const input = { category: "decade", pool: [...big, ...small], existing: null, today: TODAY, days: 20, topShare: 1 };
+
+    expect(buildSchedule(input).stats.daysWithRepeatedArtist).toBeGreaterThan(0);
+
+    const { schedule, stats } = buildSchedule({ ...input, uniqueArtists: true });
+    expect(stats.daysWithRepeatedArtist).toBe(0);
+    expect(stats.recentRepeats).toBeGreaterThan(0);
+    for (const day of Object.values(schedule.days)) {
+      expect(new Set(day.rounds.map((r) => r.artist)).size).toBe(ROUNDS_PER_DAY);
+    }
+  });
+
   it("still fills days when the pool is too small, reusing the least recent songs", () => {
     const { schedule, stats } = buildSchedule({
       category: "small",

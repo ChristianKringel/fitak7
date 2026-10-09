@@ -37,7 +37,7 @@ export async function POST(request: Request, ctx: RouteContext<"/api/infinite/[c
     return round && round.category === slug ? [round.songId] : [];
   });
 
-  const song = pickInfiniteSong(pool.songs, playedIds, Math.random);
+  const song = pickInfiniteSong(pool.songs, playedIds, Math.random, pool.topShare);
   let options;
   try {
     options = buildOptions(song, pool.songs, Math.random);
