@@ -7,6 +7,7 @@ export const ROOT_DIR = path.resolve(import.meta.dirname, "../..");
 export const CATALOG_PATH = path.join(ROOT_DIR, "data/catalog.json");
 export const POOLS_DIR = path.join(ROOT_DIR, "data/generated/pools");
 export const SCHEDULES_DIR = path.join(ROOT_DIR, "data/generated/schedules");
+export const SONG_YEARS_PATH = path.join(ROOT_DIR, "data/generated/song-years.json");
 
 export async function readCatalog(): Promise<Catalog> {
   return parseCatalog(JSON.parse(await readFile(CATALOG_PATH, "utf8")));

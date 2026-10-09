@@ -50,6 +50,8 @@ async function main() {
       existing,
       today,
       days,
+      topShare: pool.topShare,
+      uniqueArtists: category.years !== undefined,
     });
     await writeFile(file, JSON.stringify(schedule, null, 2) + "\n");
 
