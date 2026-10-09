@@ -31,6 +31,8 @@ pnpm schedule:build   # gera a agenda dos desafios diários
 
 **Respostas:** só os 10% mais populares de cada artista (pelo rank do Deezer, mínimo de 3 músicas) podem ser a resposta, com mais peso para as mais tocadas. As outras músicas só aparecem como opções erradas. Ajustável em `lib/game/config.ts` (`TOP_SHARE_PER_ARTIST`, `MIN_TOP_SONGS_PER_ARTIST`).
 
+**Categorias por década (listas de hits):** categorias com `years` no catálogo (Anos 70 a Anos 2020) só têm músicas brasileiras muito conhecidas, tanto nas respostas quanto nas opções erradas. Só entram artistas relevantes na década, cada um com um limite de músicas definido na curadoria (`hits` do artista no catálogo: 7 para os ícones da década, 3 por padrão, 1 para hit único). Entram as músicas mais populares do artista (rank do Deezer, entre as 40 mais populares dele e acima de um rank mínimo) lançadas nos anos da categoria, até o limite, mais as listadas em `include`. Todas podem ser resposta. No diário, nunca há duas músicas do mesmo artista no mesmo dia; no infinito pode. Ajustável em `lib/game/config.ts` (`HITS_DEFAULT_PER_ARTIST`, `HITS_CANDIDATES_PER_ARTIST`, `HITS_MIN_RANK`); lógica em `lib/game/hits.ts`.
+
 **Modos:**
 - **Desafio diário:** 5 músicas por categoria por dia, iguais para todos. Vira à meia-noite de `America/Sao_Paulo`. Cada categoria tem o seu. Não pode rejogar o dia. Resultado final X/5 com texto compartilhável (ex.: `🟩🟥🟩🟩🟩`).
 - **Infinito/treino:** músicas aleatórias da categoria, sem fim, com contagem de sequência de acertos. Não repetir músicas dentro da sessão.
@@ -57,8 +59,10 @@ Durações ficam em `lib/game/config.ts` (`NORMAL_CLIP_SECONDS = 15`, `HARD_CLIP
 data/
   catalog.json                    # CURADO À MÃO. Categorias e artistas.
   CATEGORIAS.md                   # Bandas de cada categoria, espelhando o catalog.json.
+  DECADAS.md                      # Artistas das categorias por década, espelhando o catalog.json.
   generated/
     pools/{categoria}.json        # GERADO por pool:build. Não editar à mão.
+    song-years.json               # GERADO por pool:build (cache de anos do MusicBrainz). Não editar à mão.
     schedules/{categoria}.json    # GERADO por schedule:build. Não editar à mão.
 ```
 
@@ -84,7 +88,9 @@ data/
 
 Um artista pode estar em várias categorias. `deezerId: null` significa "ainda não resolvido".
 
-**Sempre que mexer em categorias ou artistas no `catalog.json`** (adicionar, remover, renomear, mudar de categoria), atualizar também o `data/CATEGORIAS.md` no mesmo commit.
+Campos opcionais: `years: [de, até]` na categoria (inclusivo) a transforma em lista de hits. `songYears: { "Título": ano }` no artista corrige o ano de lançamento de uma música quando o MusicBrainz erra ou não acha. `hits: { "anos-80": { "limit": 7, "include": ["Título"] } }` no artista define quantas músicas ele tem naquela década e quais entram sempre.
+
+**Sempre que mexer em categorias ou artistas no `catalog.json`** (adicionar, remover, renomear, mudar de categoria), atualizar também o `data/CATEGORIAS.md` (ou o `data/DECADAS.md`, para as categorias por década) no mesmo commit.
 
 **`catalog:resolve`** busca no Deezer os artistas com `deezerId: null`. Só grava o ID automaticamente quando há correspondência exata de nome e o candidato é claramente o mais popular (`nb_fan`). Nos casos ambíguos, imprime os 3 melhores candidatos (nome, fãs, link) e não grava nada. Nunca chutar.
 
@@ -94,6 +100,7 @@ Um artista pode estar em várias categorias. `deezerId: null` significa "ainda n
 - Descarta faixas sem preview e faixas muito curtas (vinhetas, intros: < 60s).
 - Cada música tem um `id` estável derivado de artista + título normalizado (não do ID do Deezer).
 - Ao final, imprime um resumo por categoria e avisa se alguma tiver poucas músicas para sustentar o desafio diário.
+- **Anos de lançamento (listas de hits):** as datas de álbum do Deezer não servem (relançamentos e remasters: a Legião inteira aparece como 2007). O ano vem do `songYears` do catálogo ou, senão, do MusicBrainz (`lib/musicbrainz/`, busca de gravações, 1 requisição por segundo, User-Agent com a URL do repositório), pegando o primeiro lançamento entre as gravações com o mesmo título e o mesmo artista. Só as músicas candidatas (top 40 de cada artista, acima do rank mínimo) são consultadas, e o resultado fica em cache em `song-years.json`. Músicas não encontradas só são consultadas de novo com `--retry-missing-years`; músicas sem ano ficam de fora e são listadas no resumo. `--sample=<categoria>` lista os hits com ano e rank.
 
 **`schedule:build`** gera a agenda dos próximos N dias (padrão 60) por categoria, sem sobrescrever dias passados nem o dia atual. Cada dia guarda as 5 músicas **e as opções de cada rodada já embaralhadas**, para todo mundo ver exatamente o mesmo desafio. Evitar repetir música dentro de 90 dias e evitar dois artistas iguais no mesmo dia quando possível.
 

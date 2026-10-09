@@ -24,6 +24,60 @@
       "slug": "bandas-de-baile",
       "name": "Bandas de Baile",
       "description": "Bandas de baile e bailão do Sul do Brasil."
+    },
+    {
+      "slug": "anos-70",
+      "name": "Anos 70",
+      "description": "Os maiores sucessos brasileiros lançados entre 1970 e 1979.",
+      "years": [
+        1970,
+        1979
+      ]
+    },
+    {
+      "slug": "anos-80",
+      "name": "Anos 80",
+      "description": "Os maiores sucessos brasileiros lançados entre 1980 e 1989.",
+      "years": [
+        1980,
+        1989
+      ]
+    },
+    {
+      "slug": "anos-90",
+      "name": "Anos 90",
+      "description": "Os maiores sucessos brasileiros lançados entre 1990 e 1999.",
+      "years": [
+        1990,
+        1999
+      ]
+    },
+    {
+      "slug": "anos-2000",
+      "name": "Anos 2000",
+      "description": "Os maiores sucessos brasileiros lançados entre 2000 e 2009.",
+      "years": [
+        2000,
+        2009
+      ]
+    },
+    {
+      "slug": "anos-2010",
+      "name": "Anos 2010",
+      "description": "Os maiores sucessos brasileiros lançados entre 2010 e 2019.",
+      "years": [
+        2010,
+        2019
+      ]
+    },
+    {
+      "slug": "anos-2020",
+      "name": "Anos 2020",
+      "description": "Os maiores sucessos brasileiros lançados entre 2020 e 2026.",
+      "years": [
+        2020,
+        2029
+      ]
     }
   ],
   "artists": [
@@ -32,7 +86,10 @@
       "deezerId": 14691,
       "categories": [
         "rock-gaucho",
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -43,7 +100,9 @@
       "deezerId": 114140,
       "categories": [
         "rock-gaucho",
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -73,7 +132,8 @@
       "name": "Cachorro Grande",
       "deezerId": 14827,
       "categories": [
-        "rock-gaucho"
+        "rock-gaucho",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -123,7 +183,9 @@
       "name": "Legião Urbana",
       "deezerId": 15810,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -133,7 +195,10 @@
       "name": "Titãs",
       "deezerId": 17005,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -143,7 +208,10 @@
       "name": "Os Paralamas do Sucesso",
       "deezerId": 16230,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -153,7 +221,9 @@
       "name": "Barão Vermelho",
       "deezerId": 13946,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -163,7 +233,10 @@
       "name": "Capital Inicial",
       "deezerId": 16275,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -173,7 +246,9 @@
       "name": "Ira!",
       "deezerId": 15770,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -193,7 +268,8 @@
       "name": "Teixeirinha",
       "deezerId": 156387,
       "categories": [
-        "musica-gaucha"
+        "musica-gaucha",
+        "anos-70"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -885,7 +961,9 @@
       "name": "Los Hermanos",
       "deezerId": 7691,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-90",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -895,7 +973,8 @@
       "name": "Secos & Molhados",
       "deezerId": 454333,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-70"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -905,7 +984,8 @@
       "name": "CPM 22",
       "deezerId": 13544,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -915,7 +995,8 @@
       "name": "Novos Baianos",
       "deezerId": 241426,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-70"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -925,7 +1006,10 @@
       "name": "Rita Lee",
       "deezerId": 1893,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-70",
+        "anos-80",
+        "anos-90"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -935,7 +1019,9 @@
       "name": "Ultraje a Rigor",
       "deezerId": 67062,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -945,7 +1031,9 @@
       "name": "Charlie Brown Jr.",
       "deezerId": 8691,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-90",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -955,7 +1043,9 @@
       "name": "Raimundos",
       "deezerId": 66479,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-90",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -965,7 +1055,8 @@
       "name": "Mamonas Assassinas",
       "deezerId": 698,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-90"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -985,7 +1076,8 @@
       "name": "RPM",
       "deezerId": 61883,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80"
       ],
       "excludeAlbumIds": [
         112276032,
@@ -1009,7 +1101,8 @@
       "name": "Os Mutantes",
       "deezerId": 110459,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-70"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -1019,7 +1112,9 @@
       "name": "Roupa Nova",
       "deezerId": 16476,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -1029,7 +1124,8 @@
       "name": "Pitty",
       "deezerId": 12815,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -1039,7 +1135,9 @@
       "name": "Skank",
       "deezerId": 13545,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-90",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -1049,7 +1147,9 @@
       "name": "O Rappa",
       "deezerId": 12807,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-90",
+        "anos-2000"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
@@ -1059,7 +1159,4452 @@
       "name": "Kid Abelha",
       "deezerId": 17283,
       "categories": [
-        "rock-br"
+        "rock-br",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Roberto Carlos",
+      "deezerId": 7613,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Erasmo Carlos",
+      "deezerId": 183051,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Raul Seixas",
+      "deezerId": 12144,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ney Matogrosso",
+      "deezerId": 15552,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tim Maia",
+      "deezerId": 13704,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jorge Ben Jor",
+      "deezerId": 4917,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gal Costa",
+      "deezerId": 12038,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Caetano Veloso",
+      "deezerId": 232,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gilberto Gil",
+      "deezerId": 2077,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Chico Buarque",
+      "deezerId": 3543,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Elis Regina",
+      "deezerId": 15827,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Milton Nascimento",
+      "deezerId": 4720,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Maria Bethânia",
+      "deezerId": 15588,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Belchior",
+      "deezerId": 95768,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fagner",
+      "deezerId": 72034,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zé Ramalho",
+      "deezerId": 215594,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Alceu Valença",
+      "deezerId": 110746,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Djavan",
+      "deezerId": 14687,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Clara Nunes",
+      "deezerId": 12524,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Martinho da Vila",
+      "deezerId": 12762,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Benito di Paula",
+      "deezerId": 14313,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Originais do Samba",
+      "deezerId": 369185,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Wando",
+      "deezerId": 167499,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Odair José",
+      "deezerId": 241412,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Reginaldo Rossi",
+      "deezerId": 240948,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sidney Magal",
+      "deezerId": 454853,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "As Frenéticas",
+      "deezerId": 361650,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Guilherme Arantes",
+      "deezerId": 244037,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Beto Guedes",
+      "deezerId": 242661,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "14 Bis",
+      "deezerId": 13731,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "A Cor do Som",
+      "deezerId": 367637,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Moraes Moreira",
+      "deezerId": 100769,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ivan Lins",
+      "deezerId": 9743,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "João Bosco",
+      "deezerId": 12727,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Paulinho da Viola",
+      "deezerId": 12459,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Alcione",
+      "deezerId": 15846,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Beth Carvalho",
+      "deezerId": 12449,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Luiz Melodia",
+      "deezerId": 186011,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Hyldon",
+      "deezerId": 289604,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cassiano",
+      "deezerId": 363183,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Antônio Marcos",
+      "deezerId": 1402769,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fábio Jr.",
+      "deezerId": 314749,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Peninha",
+      "deezerId": 1492413,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gonzaguinha",
+      "deezerId": 243988,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Milionário & José Rico",
+      "deezerId": 1459493,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Trio Parada Dura",
+      "deezerId": 115959,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sérgio Reis",
+      "deezerId": 115056,
+      "categories": [
+        "anos-70",
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Agnaldo Timóteo",
+      "deezerId": 242208,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Vinicius de Moraes",
+      "deezerId": 1968,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Toquinho",
+      "deezerId": 80624,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Baby do Brasil",
+      "deezerId": 447359,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pepeu Gomes",
+      "deezerId": 66446,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ednardo",
+      "deezerId": 243486,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cartola",
+      "deezerId": 15551,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Antonio Carlos Jobim",
+      "deezerId": 4085,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jessé",
+      "deezerId": 453057,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Dalto",
+      "deezerId": 243152,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Amado Batista",
+      "deezerId": 15032,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Nelson Ned",
+      "deezerId": 102712,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Waldick Soriano",
+      "deezerId": 1402539,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Lindomar Castilho",
+      "deezerId": 1401728,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Vanusa",
+      "deezerId": 264483,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Evaldo Braga",
+      "deezerId": 14302,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fafá de Belém",
+      "deezerId": 95771,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Simone",
+      "deezerId": 14256185,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tonico & Tinoco",
+      "deezerId": 215125,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tião Carreiro & Pardinho",
+      "deezerId": 1448219,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Léo Canhoto & Robertinho",
+      "deezerId": 1402550,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pena Branca & Xavantinho",
+      "deezerId": 9741,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sá, Rodrix & Guarabyra",
+      "deezerId": 5385514,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jair Rodrigues",
+      "deezerId": 99132,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Agepê",
+      "deezerId": 281149,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Dona Ivone Lara",
+      "deezerId": 434727,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Roberto Ribeiro",
+      "deezerId": 240807,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Banda Black Rio",
+      "deezerId": 195223,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Carlos Dafé",
+      "deezerId": 207222,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Made in Brazil",
+      "deezerId": 1562360,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "O Terço",
+      "deezerId": 241406,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Casa das Máquinas",
+      "deezerId": 1261663,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sérgio Sampaio",
+      "deezerId": 3751671,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Taiguara",
+      "deezerId": 235549,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Wilson Simonal",
+      "deezerId": 86828,
+      "categories": [
+        "anos-70"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fernando Mendes",
+      "deezerId": 243717,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gretchen",
+      "deezerId": 244008,
+      "categories": [
+        "anos-70",
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cazuza",
+      "deezerId": 14578,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Blitz",
+      "deezerId": 8912,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Lulu Santos",
+      "deezerId": 13584,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Plebe Rude",
+      "deezerId": 241090,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Biquini Cavadão",
+      "deezerId": 14570,
+      "categories": [
+        "anos-80",
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Camisa de Vênus",
+      "deezerId": 893264,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Lobão",
+      "deezerId": 752296,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Marina Lima",
+      "deezerId": 204899,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Metrô",
+      "deezerId": 12365686,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Léo Jaime",
+      "deezerId": 379467,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Eduardo Dusek",
+      "deezerId": 167530,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "João Penca e Seus Miquinhos Amestrados",
+      "deezerId": 1562282,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rádio Táxi",
+      "deezerId": 379462,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Magazine",
+      "deezerId": 294005891,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gang 90 & Absurdettes",
+      "deezerId": 460513,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Kiko Zambianchi",
+      "deezerId": 244883,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ritchie",
+      "deezerId": 454800,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zizi Possi",
+      "deezerId": 15851,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Joanna",
+      "deezerId": 152138,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Elba Ramalho",
+      "deezerId": 15853,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Chitãozinho & Xororó",
+      "deezerId": 15355,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Leandro & Leonardo",
+      "deezerId": 67644,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Xuxa",
+      "deezerId": 297983,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Trem da Alegria",
+      "deezerId": 1401730,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "A Turma do Balão Mágico",
+      "deezerId": 1551656,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Polegar",
+      "deezerId": 10082750,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Angélica",
+      "deezerId": 165857,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fundo de Quintal",
+      "deezerId": 144342,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zeca Pagodinho",
+      "deezerId": 188053,
+      "categories": [
+        "anos-80",
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jovelina Pérola Negra",
+      "deezerId": 434728,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Bezerra da Silva",
+      "deezerId": 16016,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Almir Guineto",
+      "deezerId": 192616,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Luiz Caldas",
+      "deezerId": 200190,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sarajane",
+      "deezerId": 3423081,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Banda Mel",
+      "deezerId": 4923289,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Chiclete com Banana",
+      "deezerId": 298143,
+      "categories": [
+        "anos-80",
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Marisa Monte",
+      "deezerId": 13523,
+      "categories": [
+        "anos-80",
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Emílio Santiago",
+      "deezerId": 13688,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "José Augusto",
+      "deezerId": 244675,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Hanói-Hanói",
+      "deezerId": 9505144,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sempre Livre",
+      "deezerId": 1404128,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Herva Doce",
+      "deezerId": 1416437,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Absyntho",
+      "deezerId": 7327636,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Dr. Silvana & Cia",
+      "deezerId": 5383701,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rosana",
+      "deezerId": 89760192,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sandra de Sá",
+      "deezerId": 67655,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Oswaldo Montenegro",
+      "deezerId": 64820,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Beto Barbosa",
+      "deezerId": 115997,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Kaoma",
+      "deezerId": 440,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Heróis da Resistência",
+      "deezerId": 66443,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Yahoo",
+      "deezerId": 156396,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Uns e Outros",
+      "deezerId": 1521832,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tunai",
+      "deezerId": 293637,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Inimigos do Rei",
+      "deezerId": 1528886,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ed Motta",
+      "deezerId": 15395,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Chrystian & Ralf",
+      "deezerId": 495845,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Roberta Miranda",
+      "deezerId": 65349,
+      "categories": [
+        "anos-80",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rionegro & Solimões",
+      "deezerId": 315735,
+      "categories": [
+        "anos-80",
+        "anos-2000",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ângela Rô Rô",
+      "deezerId": 264911,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jorge Aragão",
+      "deezerId": 12530,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Leci Brandão",
+      "deezerId": 96832,
+      "categories": [
+        "anos-80"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jota Quest",
+      "deezerId": 13521,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cidade Negra",
+      "deezerId": 16072,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Chico Science & Nação Zumbi",
+      "deezerId": 242950,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Planet Hemp",
+      "deezerId": 461124,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gabriel o Pensador",
+      "deezerId": 17089,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pato Fu",
+      "deezerId": 13520,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cássia Eller",
+      "deezerId": 13576,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Daniela Mercury",
+      "deezerId": 8649,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Banda Eva",
+      "deezerId": 14531,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "É o Tchan",
+      "deezerId": 167531,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Netinho",
+      "deezerId": 188608,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Asa de Águia",
+      "deezerId": 362980,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ara Ketu",
+      "deezerId": 448690,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Timbalada",
+      "deezerId": 152180,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Harmonia do Samba",
+      "deezerId": 211084,
+      "categories": [
+        "anos-90",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Terra Samba",
+      "deezerId": 134109,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Só Pra Contrariar",
+      "deezerId": 77057,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Raça Negra",
+      "deezerId": 315082,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Negritude Júnior",
+      "deezerId": 241519,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Exaltasamba",
+      "deezerId": 243657,
+      "categories": [
+        "anos-90",
+        "anos-2000",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Katinguelê",
+      "deezerId": 102544,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Molejo",
+      "deezerId": 281161,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Art Popular",
+      "deezerId": 242505,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Soweto",
+      "deezerId": 240336,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Travessos",
+      "deezerId": 264313,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Karametade",
+      "deezerId": 379458,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zezé Di Camargo & Luciano",
+      "deezerId": 269973,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "João Paulo & Daniel",
+      "deezerId": 496076,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Daniel",
+      "deezerId": 64998,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gian & Giovani",
+      "deezerId": 147170,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rick & Renner",
+      "deezerId": 64997,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Bruno & Marrone",
+      "deezerId": 15055,
+      "categories": [
+        "anos-90",
+        "anos-2000",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sandy & Junior",
+      "deezerId": 315054,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Claudinho & Buchecha",
+      "deezerId": 192501,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Marcinho",
+      "deezerId": 444082,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Latino",
+      "deezerId": 245043,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Racionais MC's",
+      "deezerId": 4488457,
+      "categories": [
+        "anos-90",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fernanda Abreu",
+      "deezerId": 454426,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Leonardo",
+      "deezerId": 109903,
+      "categories": [
+        "anos-90",
+        "anos-2000",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Chico César",
+      "deezerId": 12718,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zeca Baleiro",
+      "deezerId": 12614,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Lenine",
+      "deezerId": 12030,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Adriana Calcanhotto",
+      "deezerId": 4333,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ana Carolina",
+      "deezerId": 7144,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Virgulóides",
+      "deezerId": 1528801,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tianastácia",
+      "deezerId": 215077,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Penélope",
+      "deezerId": 291222,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Patrícia Marx",
+      "deezerId": 123180,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Banda Beijo",
+      "deezerId": 187858,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Companhia do Pagode",
+      "deezerId": 167509,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Natiruts",
+      "deezerId": 16124,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Maskavo Roots",
+      "deezerId": 893262,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Kelly Key",
+      "deezerId": 65028,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Banda Calypso",
+      "deezerId": 16590,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cheiro de Amor",
+      "deezerId": 5078442,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Morenos",
+      "deezerId": 1520943,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Olodum",
+      "deezerId": 65531,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zélia Duncan",
+      "deezerId": 9220,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sampa Crew",
+      "deezerId": 240693,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Grupo Raça",
+      "deezerId": 266585,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Belo",
+      "deezerId": 74478,
+      "categories": [
+        "anos-90",
+        "anos-2000",
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pixote",
+      "deezerId": 147184,
+      "categories": [
+        "anos-90",
+        "anos-2000",
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Swing & Simpatia",
+      "deezerId": 1401721,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Bokaloka",
+      "deezerId": 495929,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "As Meninas",
+      "deezerId": 242518,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ivete Sangalo",
+      "deezerId": 8647,
+      "categories": [
+        "anos-90",
+        "anos-2000",
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Vanessa Rangel",
+      "deezerId": 1480447,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Kiloucura",
+      "deezerId": 1504028,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Grupo Malícia",
+      "deezerId": 1412270,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pique Novo",
+      "deezerId": 1561230,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cor da Pele",
+      "deezerId": 1451614,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ronaldo e os Barcellos",
+      "deezerId": 1528688,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Grupo Revelação",
+      "deezerId": 16893,
+      "categories": [
+        "anos-90",
+        "anos-2000",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Bell Marques",
+      "deezerId": 3431421,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "A Zorra",
+      "deezerId": 873963,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Carrapicho",
+      "deezerId": 447550,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Maurício Manieri",
+      "deezerId": 447424,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Nando Reis",
+      "deezerId": 65623,
+      "categories": [
+        "anos-90",
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Detonautas",
+      "deezerId": 16256,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "NX Zero",
+      "deezerId": 1209354,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fresno",
+      "deezerId": 361646,
+      "categories": [
+        "anos-2000",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Strike",
+      "deezerId": 70949,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Hateen",
+      "deezerId": 614225,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Dibob",
+      "deezerId": 448979,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Forfun",
+      "deezerId": 807151,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tihuana",
+      "deezerId": 215070,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Marcelo D2",
+      "deezerId": 241998,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Seu Jorge",
+      "deezerId": 1606,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Maria Rita",
+      "deezerId": 4334,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Vanessa da Mata",
+      "deezerId": 16993,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tribalistas",
+      "deezerId": 8014,
+      "categories": [
+        "anos-2000",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Babado Novo",
+      "deezerId": 16428,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Claudia Leitte",
+      "deezerId": 144068,
+      "categories": [
+        "anos-2000",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Psirico",
+      "deezerId": 1116539,
+      "categories": [
+        "anos-2000",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Parangolé",
+      "deezerId": 101813,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Aviões do Forró",
+      "deezerId": 1092645,
+      "categories": [
+        "anos-2000",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Calcinha Preta",
+      "deezerId": 794505,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Falamansa",
+      "deezerId": 494518,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "César Menotti & Fabiano",
+      "deezerId": 379495,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Victor & Leo",
+      "deezerId": 320206,
+      "categories": [
+        "anos-2000",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jorge & Mateus",
+      "deezerId": 3881631,
+      "categories": [
+        "anos-2000",
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "João Bosco & Vinícius",
+      "deezerId": 464904,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Edson & Hudson",
+      "deezerId": 242123,
+      "categories": [
+        "anos-2000",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sorriso Maroto",
+      "deezerId": 362764,
+      "categories": [
+        "anos-2000",
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Turma do Pagode",
+      "deezerId": 373974,
+      "categories": [
+        "anos-2000",
+        "anos-2010",
+        "anos-2020",
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Bonde do Tigrão",
+      "deezerId": 14631,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tati Quebra Barraco",
+      "deezerId": 379106,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rouge",
+      "deezerId": 13671951,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "KLB",
+      "deezerId": 336646,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Br'oz",
+      "deezerId": 10648149,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Wanessa Camargo",
+      "deezerId": 1611694,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Felipe Dylon",
+      "deezerId": 243699,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Armandinho",
+      "deezerId": 12941,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Chimarruts",
+      "deezerId": 242996,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Paula Fernandes",
+      "deezerId": 361639,
+      "categories": [
+        "anos-2000",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Roberta Sá",
+      "deezerId": 95506,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fat Family",
+      "deezerId": 210950,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Leoni",
+      "deezerId": 245116,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Frejat",
+      "deezerId": 65290,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rogério Flausino",
+      "deezerId": 4708083,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Luka",
+      "deezerId": 10890,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cine",
+      "deezerId": 318014,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Restart",
+      "deezerId": 465710,
+      "categories": [
+        "anos-2000",
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pedro Mariano",
+      "deezerId": 199973,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Sandy",
+      "deezerId": 10536,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Bonde do Rolê",
+      "deezerId": 13144,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Diogo Nogueira",
+      "deezerId": 242126,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jeito Moleque",
+      "deezerId": 312131,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Bom Gosto",
+      "deezerId": 192542,
+      "categories": [
+        "anos-2000",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "O Surto",
+      "deezerId": 241414,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Perlla",
+      "deezerId": 533935,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rodriguinho",
+      "deezerId": 256270,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Di Propósito",
+      "deezerId": 12710203,
+      "categories": [
+        "anos-2000"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Anitta",
+      "deezerId": 4390053,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ludmilla",
+      "deezerId": 73396,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Luan Santana",
+      "deezerId": 1264078,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gusttavo Lima",
+      "deezerId": 1541592,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Henrique & Juliano",
+      "deezerId": 4876653,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Marília Mendonça",
+      "deezerId": 7068771,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Maiara & Maraisa",
+      "deezerId": 6511779,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Simone & Simaria",
+      "deezerId": 4542250,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zé Neto & Cristiano",
+      "deezerId": 5895828,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Matheus & Kauan",
+      "deezerId": 3120261,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Wesley Safadão",
+      "deezerId": 4611283,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Michel Teló",
+      "deezerId": 379486,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Lucas Lucco",
+      "deezerId": 4244787,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Naiara Azevedo",
+      "deezerId": 4986093,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Cristiano Araújo",
+      "deezerId": 1702206,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Thiaguinho",
+      "deezerId": 1644275,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ferrugem",
+      "deezerId": 4397349,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Dilsinho",
+      "deezerId": 5417614,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Péricles",
+      "deezerId": 423066,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Imaginasamba",
+      "deezerId": 244332,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pabllo Vittar",
+      "deezerId": 11301722,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Iza",
+      "deezerId": 262833,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Projota",
+      "deezerId": 469683,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Emicida",
+      "deezerId": 4033307,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Criolo",
+      "deezerId": 2531001,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Haikaiss",
+      "deezerId": 5798710,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Guimê",
+      "deezerId": 4811152,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Kevinho",
+      "deezerId": 5237400,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Kevin o Chris",
+      "deezerId": 13889325,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Livinho",
+      "deezerId": 5918943,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Kekel",
+      "deezerId": 10257238,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Nego do Borel",
+      "deezerId": 5053940,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jão",
+      "deezerId": 5297266,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Vitor Kley",
+      "deezerId": 7746050,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Melim",
+      "deezerId": 9708982,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Anavitória",
+      "deezerId": 7765128,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tiago Iorc",
+      "deezerId": 1294975,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Silva",
+      "deezerId": 68030,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Lagum",
+      "deezerId": 8222632,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Atitude 67",
+      "deezerId": 12515948,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Malta",
+      "deezerId": 255385,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Supercombo",
+      "deezerId": 469774,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Liniker",
+      "deezerId": 9151334,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Léo Santana",
+      "deezerId": 4456001,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Xand Avião",
+      "deezerId": 5832280,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Alok",
+      "deezerId": 1429841,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Vintage Culture",
+      "deezerId": 4782876,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Djonga",
+      "deezerId": 8629022,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "BK'",
+      "deezerId": 4633500,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Filipe Ret",
+      "deezerId": 5049074,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Hariel",
+      "deezerId": 6705395,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Thaeme & Thiago",
+      "deezerId": 1702207,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fernando & Sorocaba",
+      "deezerId": 1264687,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Munhoz & Mariano",
+      "deezerId": 1384388,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Israel Novaes",
+      "deezerId": 1702205,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gaab",
+      "deezerId": 364582,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Mumuzinho",
+      "deezerId": 1646315,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Mano Walter",
+      "deezerId": 10672471,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Solange Almeida",
+      "deezerId": 9910102,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gloria Groove",
+      "deezerId": 9848068,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Lexa",
+      "deezerId": 7351232,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Valesca Popozuda",
+      "deezerId": 5001745,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Loma e as Gêmeas Lacração",
+      "deezerId": 14092217,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Rael",
+      "deezerId": 364262,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Marcelo Falcão",
+      "deezerId": 4456031,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Scalene",
+      "deezerId": 1236547,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Banda Uó",
+      "deezerId": 4087043,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tiê",
+      "deezerId": 469715,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Maria Gadú",
+      "deezerId": 446167,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Clarice Falcão",
+      "deezerId": 4244791,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "João Neto & Frederico",
+      "deezerId": 214925,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jads & Jadson",
+      "deezerId": 464921,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Dennis DJ",
+      "deezerId": 4448284,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Marcos & Belutti",
+      "deezerId": 263731,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Henrique & Diego",
+      "deezerId": 3029951,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Fred & Gustavo",
+      "deezerId": 1424540,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC João",
+      "deezerId": 6344196,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Romântico",
+      "deezerId": 5237401,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Delano",
+      "deezerId": 276228,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pikeno & Menor",
+      "deezerId": 7554764,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Brinquedo",
+      "deezerId": 6573849,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pocah",
+      "deezerId": 66952022,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Carol",
+      "deezerId": 5055625,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC K9",
+      "deezerId": 1373378,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Mr. Catra",
+      "deezerId": 281661,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Naldo Benny",
+      "deezerId": 5064691,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Humberto & Ronaldo",
+      "deezerId": 1702209,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Israel & Rodolffo",
+      "deezerId": 5200697,
+      "categories": [
+        "anos-2010",
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zé Henrique & Gabriel",
+      "deezerId": 274361,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Bruninho & Davi",
+      "deezerId": 4596930,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Maria Cecília & Rodolfo",
+      "deezerId": 1264080,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Guilherme & Santiago",
+      "deezerId": 379496,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tati Zaqui",
+      "deezerId": 7745888,
+      "categories": [
+        "anos-2010"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Matuê",
+      "deezerId": 11329214,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Veigh",
+      "deezerId": 52528582,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Teto",
+      "deezerId": 114472782,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "L7nnon",
+      "deezerId": 45663272,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Orochi",
+      "deezerId": 1107447,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Ryan SP",
+      "deezerId": 49259572,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Cabelinho",
+      "deezerId": 11268268,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Kayblack",
+      "deezerId": 77482782,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ana Castela",
+      "deezerId": 123053672,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Simone Mendes",
+      "deezerId": 73171372,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Murilo Huff",
+      "deezerId": 7810466,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Hugo & Guilherme",
+      "deezerId": 10633657,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Guilherme & Benuto",
+      "deezerId": 61145262,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Luísa Sonza",
+      "deezerId": 10286020,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Pedro Sampaio",
+      "deezerId": 50633822,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Marina Sena",
+      "deezerId": 516265,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Duda Beat",
+      "deezerId": 14639121,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Xamã",
+      "deezerId": 4545763,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Felipe Amorim",
+      "deezerId": 7611526,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Nattan",
+      "deezerId": 13097199,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "João Gomes",
+      "deezerId": 135512622,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tarcísio do Acordeon",
+      "deezerId": 84292982,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Vitor Fernandes",
+      "deezerId": 7317188,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Mari Fernandez",
+      "deezerId": 131216322,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zé Vaqueiro",
+      "deezerId": 68221232,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Barões da Pisadinha",
+      "deezerId": 61474832,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Menos É Mais",
+      "deezerId": 104501112,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Tz da Coronel",
+      "deezerId": 102703622,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Daniel",
+      "deezerId": 4637777,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Hungria Hip Hop",
+      "deezerId": 5454687,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Os Garotin",
+      "deezerId": 218897445,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Lauana Prado",
+      "deezerId": 11242224,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Manu Bahtidão",
+      "deezerId": 119396922,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Gustavo Mioto",
+      "deezerId": 7674918,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Diego & Victor Hugo",
+      "deezerId": 7068753,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Thiago Pantaleão",
+      "deezerId": 102204612,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Priscilla",
+      "deezerId": 4089983,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Ana Gabriela",
+      "deezerId": 12526962,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Zé Felipe",
+      "deezerId": 5576810,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Baco Exu do Blues",
+      "deezerId": 11136556,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Felipe & Rodrigo",
+      "deezerId": 172071177,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "João Gustavo & Murilo",
+      "deezerId": 9719682,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Felipe Araújo",
+      "deezerId": 5423737,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Luan Pereira",
+      "deezerId": 122123672,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "George Henrique & Rodrigo",
+      "deezerId": 4039193,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Léo Foguete",
+      "deezerId": 262408191,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Clayton & Romário",
+      "deezerId": 5910045,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Henry Freitas",
+      "deezerId": 13833249,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Jeninho",
+      "deezerId": 52981672,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "MC Lele JP",
+      "deezerId": 67905592,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "DJ Japa NK",
+      "deezerId": 103851292,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Danilo & Davi",
+      "deezerId": 331334421,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Kaique & Felipe",
+      "deezerId": 155184482,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Júnior & Cézar",
+      "deezerId": 51615992,
+      "categories": [
+        "anos-2020"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "João Mineiro & Marciano",
+      "deezerId": 244597,
+      "categories": [
+        "anos-90"
+      ],
+      "excludeAlbumIds": [],
+      "excludeTrackIds": [],
+      "notes": ""
+    },
+    {
+      "name": "Alexandre Pires",
+      "deezerId": 6121,
+      "categories": [
+        "anos-90"
       ],
       "excludeAlbumIds": [],
       "excludeTrackIds": [],

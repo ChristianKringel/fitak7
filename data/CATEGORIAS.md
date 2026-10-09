@@ -2,6 +2,8 @@
 
 Lista das bandas de cada categoria, espelhando `data/catalog.json`. Ao adicionar, remover ou mover artistas no catálogo, atualizar este arquivo junto.
 
+As categorias por década (Anos 70 a Anos 2020) ficam em [`DECADAS.md`](DECADAS.md).
+
 ## Rock Gaúcho (`rock-gaucho`)
 
 Bandas de rock do Rio Grande do Sul.
