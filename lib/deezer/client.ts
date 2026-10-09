@@ -131,7 +131,8 @@ export function createDeezerClient(options: DeezerClientOptions = {}) {
     if (!response.ok) {
       throw new DeezerError(`HTTP ${response.status} for ${url}`, {
         status: response.status,
-        retryable: response.status === 429 || response.status >= 500,
+        // Deezer also answers 403 for a while when it throttles a client.
+        retryable: response.status === 403 || response.status === 429 || response.status >= 500,
       });
     }
     let body: unknown;

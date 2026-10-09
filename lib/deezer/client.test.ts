@@ -65,6 +65,12 @@ describe("createDeezerClient", () => {
     expect(calls).toHaveLength(3);
   });
 
+  it("retries HTTP 403, which Deezer uses when throttling", async () => {
+    const { client, calls } = setup([jsonResponse({}, 403), jsonResponse({ id: 5 })]);
+    await expect(client.get("/album/5/tracks")).resolves.toEqual({ id: 5 });
+    expect(calls).toHaveLength(2);
+  });
+
   it("does not retry HTTP 404", async () => {
     const { client, calls } = setup([jsonResponse({}, 404)]);
     await expect(client.get("/track/3")).rejects.toBeInstanceOf(DeezerError);
