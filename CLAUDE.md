@@ -8,7 +8,7 @@ Jogo web de adivinhar músicas, inspirado no Musicle (musicle.app), focado em ca
 - Deploy na Vercel
 - pnpm como gerenciador de pacotes
 - Vitest para testes da lógica do jogo
-- Sem banco de dados no MVP. Catálogo em JSON versionado no repositório; estado do jogador em localStorage.
+- Catálogo em JSON versionado no repositório; estado do jogador em localStorage. Único banco: Upstash Redis (Vercel Marketplace, região `sa-east-1`), só para as salas do multiplayer, com expiração. Credenciais em `KV_REST_API_URL` e `KV_REST_API_TOKEN`.
 
 ## Comandos
 
@@ -34,7 +34,8 @@ pnpm schedule:build   # gera a agenda dos desafios diários
 **Modos:**
 - **Desafio diário:** 5 músicas por categoria por dia, iguais para todos. Vira à meia-noite de `America/Sao_Paulo`. Cada categoria tem o seu. Não pode rejogar o dia. Resultado final X/5 com texto compartilhável (ex.: `🟩🟥🟩🟩🟩`).
 - **Infinito/treino:** músicas aleatórias da categoria, sem fim, com contagem de sequência de acertos. Não repetir músicas dentro da sessão.
-- **Modo difícil:** toggle global que vale para os dois modos. Trecho de 5s em vez da duração normal.
+- **Modo difícil:** toggle global que vale para o diário e o infinito. Trecho de 5s em vez da duração normal.
+- **Multiplayer (modo desafio):** assíncrono. Alguém cria uma sala (categoria, 5 a 20 rodadas, modo normal ou difícil fixo da sala) e recebe um código de 6 caracteres (`/sala/{código}`). Todos jogam as mesmas músicas, na mesma ordem e com as mesmas opções, cada um no seu tempo; nenhuma música se repete na sala e os artistas só repetem depois de todos aparecerem. Apelido único por sala, até 20 jogadores, um palpite por rodada, rodadas em ordem. Placar: mais acertos, desempate pelo menor tempo total. O tempo de cada rodada é medido no servidor, do primeiro pedido de áudio até o palpite (por isso o áudio da sala não é pré-carregado). A sala expira 3 dias depois de criada. "Revanche" cria uma sala com as mesmas configurações e músicas novas, compartilhada por todos da sala. Limites em `lib/game/room.ts`.
 
 Durações ficam em `lib/game/config.ts` (`NORMAL_CLIP_SECONDS = 15`, `HARD_CLIP_SECONDS = 5`), fáceis de ajustar.
 
@@ -105,6 +106,13 @@ A resposta nunca vai para o cliente antes do palpite. O cliente não recebe IDs 
   - `GET /api/daily/[category]/[index]/audio` resolve a faixa no servidor, busca o preview fresco e redireciona (302). Nunca servir datas futuras.
   - `POST /api/daily/[category]/[index]/guess` recebe a posição escolhida e devolve se acertou + a resposta completa.
 - **Infinito:** o servidor sorteia a música, monta as opções e devolve um **token criptografado** (AES-256-GCM, segredo em `ROUND_SECRET`) que contém a resposta. Atenção: token só assinado (base64 legível) vazaria a resposta. Áudio e palpite recebem esse token. Para não repetir na sessão, o cliente envia os tokens recentes e o servidor exclui essas músicas.
+- **Multiplayer:** a sala (músicas e opções já embaralhadas) fica no Redis (`lib/rooms/store.ts`). O jogador é identificado por um ID secreto num cookie httpOnly por sala (`k7_room_{código}`); esse ID nunca vai no corpo das respostas.
+  - `POST /api/rooms` cria a sala e já coloca o criador nela.
+  - `GET /api/rooms/[code]` devolve configurações e placar; opções e respostas próprias só para quem está na sala.
+  - `POST /api/rooms/[code]/join` entra com um apelido.
+  - `GET /api/rooms/[code]/[index]/audio` redireciona para o preview; não serve rodadas à frente da atual e marca o início do tempo.
+  - `POST /api/rooms/[code]/[index]/guess` registra o palpite (uma vez, em ordem) e devolve a resposta.
+  - `POST /api/rooms/[code]/rematch` cria ou reaproveita a sala da revanche.
 - Cachear a resposta de `/track/{id}` por poucos minutos para não martelar o Deezer.
 
 ## Estado do cliente (localStorage)
@@ -118,12 +126,15 @@ app/
   page.tsx                          # escolha de categoria
   [category]/page.tsx               # desafio diário
   [category]/infinito/page.tsx      # modo infinito
+  multiplayer/page.tsx              # criar sala ou entrar com código
+  sala/[code]/page.tsx              # sala do multiplayer
   api/...                           # route handlers acima
 components/
 lib/
   deezer/       # cliente server-only, throttle, retry, tipos
   game/         # lógica pura: normalização, opções, agenda, pontuação, texto de compartilhar
   rounds/       # tokens criptografados do modo infinito
+  rooms/        # salas do multiplayer no Redis (server-only)
   storage/      # leitura/escrita do localStorage
 data/
 scripts/        # catalog-resolve.ts, build-pool.ts, build-schedule.ts
@@ -141,6 +152,6 @@ scripts/        # catalog-resolve.ts, build-pool.ts, build-schedule.ts
 
 ## Fora do escopo do MVP
 
-Login, ranking, banco de dados, sugestão de artistas pelos usuários, YouTube como fonte alternativa, monetização. Não implementar sem pedido explícito, mas não tomar decisões que tornem isso difícil depois.
+Login, ranking global, banco de dados além das salas no Redis, sugestão de artistas pelos usuários, YouTube como fonte alternativa, monetização. Não implementar sem pedido explícito, mas não tomar decisões que tornem isso difícil depois.
 
 @AGENTS.md
