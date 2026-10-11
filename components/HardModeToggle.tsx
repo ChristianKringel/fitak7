@@ -98,7 +98,7 @@ function HardModeHelp() {
           <p className="font-extrabold">Modo difícil</p>
           <p className="mt-1">
             Você ouve só {HARD_CLIP_SECONDS} segundos de cada música, em vez de {NORMAL_CLIP_SECONDS}. Vale para o
-            desafio diário e para o modo infinito.
+            desafio diário e para o modo Hardcore.
           </p>
         </div>
       )}

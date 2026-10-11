@@ -1,4 +1,5 @@
 import type { InfiniteRoundResponse } from "@/lib/api/types";
+import { INFINITE_ENABLED } from "@/lib/game/config";
 import { pickInfiniteSong } from "@/lib/game/infinite";
 import {
   buildOptions,
@@ -18,6 +19,7 @@ const MAX_RECENT_TOKENS = 300;
  * this session; their songs are not picked again.
  */
 export async function POST(request: Request, ctx: RouteContext<"/api/infinite/[category]/round">) {
+  if (!INFINITE_ENABLED) return jsonError(404, "Modo indisponível.");
   const { category: slug } = await ctx.params;
   const category = await getCategory(slug);
   if (!category) return jsonError(404, "Categoria não encontrada.");
