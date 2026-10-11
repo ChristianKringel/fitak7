@@ -49,4 +49,9 @@ describe("parseCatalog", () => {
     expect(() => parseCatalog(catalog({ years: [1980, 1989] }, { hits: { "anos-80": { limit: 0 } } }))).toThrow(/hits/);
     expect(() => parseCatalog(catalog({ years: [1980, 1989] }, { hits: { "anos-80": { include: [""] } } }))).toThrow(/hits/);
   });
+
+  it("accepts known genres only", () => {
+    expect(parseCatalog(catalog({}, { genre: "rock" })).artists[0].genre).toBe("rock");
+    expect(() => parseCatalog(catalog({}, { genre: "metal" }))).toThrow(/genre/);
+  });
 });
