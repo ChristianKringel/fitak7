@@ -8748,6 +8748,300 @@
           "answerIndex": 0
         }
       ]
+    },
+    "2026-12-08": {
+      "rounds": [
+        {
+          "songId": "corpo-e-alma--para-nao-fala",
+          "trackId": 1027417232,
+          "altTrackIds": [
+            1367868452,
+            2339415655
+          ],
+          "title": "Pára Não Fala",
+          "artist": "Corpo e Alma",
+          "options": [
+            {
+              "title": "Pára Não Fala",
+              "artist": "Corpo e Alma"
+            },
+            {
+              "title": "NUNCA DUVIDE",
+              "artist": "G10"
+            },
+            {
+              "title": "SABOR DE PECADO",
+              "artist": "Musical Festerê"
+            },
+            {
+              "title": "PRA SEMPRE SERÁ MINHA",
+              "artist": "G10"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "os-atuais--barco-do-amor",
+          "trackId": 2457687865,
+          "altTrackIds": [
+            2357992335,
+            2457916515,
+            3226072511,
+            3227974251,
+            3886716051,
+            3886716201,
+            4266757882
+          ],
+          "title": "Barco Do Amor",
+          "artist": "Os Atuais",
+          "options": [
+            {
+              "title": "Fique",
+              "artist": "Passarela"
+            },
+            {
+              "title": "Faz de Conta",
+              "artist": "Passarela"
+            },
+            {
+              "title": "Por Essas e Outras",
+              "artist": "Nave Som"
+            },
+            {
+              "title": "Barco Do Amor",
+              "artist": "Os Atuais"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "musical-jm--direitos-iguais",
+          "trackId": 1812245987,
+          "altTrackIds": [
+            430229792,
+            1812297077,
+            3478082901,
+            3493754331
+          ],
+          "title": "Direitos Iguais",
+          "artist": "Musical JM",
+          "options": [
+            {
+              "title": "Direitos Iguais",
+              "artist": "Musical JM"
+            },
+            {
+              "title": "Praga da Minha Ex",
+              "artist": "Rainha Musical"
+            },
+            {
+              "title": "Se Não Me Queres",
+              "artist": "Flávio Dalcin e Banda Ouro"
+            },
+            {
+              "title": "Cabeluda",
+              "artist": "Flávio Dalcin e Banda Ouro"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "corpo-e-alma--duas-vidas-em-um-so-coracao",
+          "trackId": 374784421,
+          "altTrackIds": [
+            3205123701,
+            3462055891
+          ],
+          "title": "DUAS VIDAS EM UM SÓ CORAÇÃO",
+          "artist": "Corpo e Alma",
+          "options": [
+            {
+              "title": "DUAS VIDAS EM UM SÓ CORAÇÃO",
+              "artist": "Corpo e Alma"
+            },
+            {
+              "title": "CANSEI DE VOCÊ (CANSEI)",
+              "artist": "G10"
+            },
+            {
+              "title": "Por Te Amar Demais",
+              "artist": "Banda Modelo"
+            },
+            {
+              "title": "Coração Remendado",
+              "artist": "Rainha Musical"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "musical-san-francisco--tapa-na-cara",
+          "trackId": 121471806,
+          "altTrackIds": [
+            3593503402,
+            3594493312
+          ],
+          "title": "Tapa na Cara",
+          "artist": "Musical San Francisco",
+          "options": [
+            {
+              "title": "Tapa na Cara",
+              "artist": "Musical San Francisco"
+            },
+            {
+              "title": "DÁ NO MEIO, GUILHERMÃO",
+              "artist": "Musical Festerê"
+            },
+            {
+              "title": "Roxo No Pescoço",
+              "artist": "G10"
+            },
+            {
+              "title": "FUSCÃO DA MULHERADA",
+              "artist": "Musical Festerê"
+            }
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-12-09": {
+      "rounds": [
+        {
+          "songId": "brilha-som--sabor-morango",
+          "trackId": 4091842691,
+          "altTrackIds": [
+            3921074211
+          ],
+          "title": "Sabor Morango",
+          "artist": "Brilha Som",
+          "options": [
+            {
+              "title": "No Acostamento",
+              "artist": "Wilceu Pause"
+            },
+            {
+              "title": "Trago e Choro",
+              "artist": "Flor da Serra"
+            },
+            {
+              "title": "Louco Apaixonado",
+              "artist": "Brilha Som"
+            },
+            {
+              "title": "Sabor Morango",
+              "artist": "Brilha Som"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nave-som--uma-dose-pra-lembrar",
+          "trackId": 3993040101,
+          "altTrackIds": [],
+          "title": "Uma Dose Pra Lembrar",
+          "artist": "Nave Som",
+          "options": [
+            {
+              "title": "Apaixonado por Bailão",
+              "artist": "Sul Brass"
+            },
+            {
+              "title": "Motorista da Rodada",
+              "artist": "Sul Brass"
+            },
+            {
+              "title": "Uma Dose Pra Lembrar",
+              "artist": "Nave Som"
+            },
+            {
+              "title": "Jbl",
+              "artist": "Rainha Musical"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "corpo-e-alma--pra-nao-pensar-em-voce-classe-a",
+          "trackId": 2866117412,
+          "altTrackIds": [],
+          "title": "Pra Não Pensar em Você - Classe A",
+          "artist": "Corpo e Alma",
+          "options": [
+            {
+              "title": "Tem Pouca Diferença",
+              "artist": "Flávio Dalcin e Banda Ouro"
+            },
+            {
+              "title": "Força do Amor",
+              "artist": "San Marino"
+            },
+            {
+              "title": "Pra Não Pensar em Você - Classe A",
+              "artist": "Corpo e Alma"
+            },
+            {
+              "title": "Vim Te Buscar",
+              "artist": "Flávio Dalcin e Banda Ouro"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "os-atuais--pra-dizer",
+          "trackId": 2089608077,
+          "altTrackIds": [
+            4266819062
+          ],
+          "title": "Pra Dizer",
+          "artist": "Os Atuais",
+          "options": [
+            {
+              "title": "Desejo Oculto",
+              "artist": "Rogério Magrão e Banda"
+            },
+            {
+              "title": "Casa Cheia",
+              "artist": "Musical Festerê"
+            },
+            {
+              "title": "Pra Dizer",
+              "artist": "Os Atuais"
+            },
+            {
+              "title": "Previsão do Tempo",
+              "artist": "Porto do Som"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "industria-musical--o-barbeiro",
+          "trackId": 2893619661,
+          "altTrackIds": [],
+          "title": "O Barbeiro",
+          "artist": "Indústria Musical",
+          "options": [
+            {
+              "title": "Você Me Perdeu",
+              "artist": "Flor da Serra"
+            },
+            {
+              "title": "O Barbeiro",
+              "artist": "Indústria Musical"
+            },
+            {
+              "title": "Pra Te Fazer Lembrar",
+              "artist": "Flor da Serra"
+            },
+            {
+              "title": "Pancadas de Choro",
+              "artist": "Destaque Nacional"
+            }
+          ],
+          "answerIndex": 1
+        }
+      ]
     }
   }
 }

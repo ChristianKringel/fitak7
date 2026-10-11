@@ -9315,6 +9315,310 @@
           "answerIndex": 3
         }
       ]
+    },
+    "2026-12-08": {
+      "rounds": [
+        {
+          "songId": "os-4-gauderios--vanera-de-varre-galpao",
+          "trackId": 4091966791,
+          "altTrackIds": [],
+          "title": "Vanera de Varrê Galpão",
+          "artist": "Os 4 Gaudérios",
+          "options": [
+            {
+              "title": "Vanera de Varrê Galpão",
+              "artist": "Os 4 Gaudérios"
+            },
+            {
+              "title": "Magia",
+              "artist": "Tchê Garotos"
+            },
+            {
+              "title": "Andejo",
+              "artist": "Os 4 Gaudérios"
+            },
+            {
+              "title": "Origens",
+              "artist": "Os Fagundes"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "os-monarcas--os-de-bota-e-bombacha",
+          "trackId": 478350222,
+          "altTrackIds": [],
+          "title": "Os de Bota e Bombacha",
+          "artist": "Os Monarcas",
+          "options": [
+            {
+              "title": "Gaúcho Amigo",
+              "artist": "Oswaldir e Carlos Magrão"
+            },
+            {
+              "title": "Os de Bota e Bombacha",
+              "artist": "Os Monarcas"
+            },
+            {
+              "title": "Hospitaleira Vacaria",
+              "artist": "Renato Borghetti"
+            },
+            {
+              "title": "PRENDA DOS SONHOS",
+              "artist": "Os 4 Gaudérios"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "walther-morais--peao-campeiro-e-dancador",
+          "trackId": 2396739395,
+          "altTrackIds": [],
+          "title": "Peão Campeiro e Dançador",
+          "artist": "Walther Morais",
+          "options": [
+            {
+              "title": "NÃO CHORA CHINA VÉIA",
+              "artist": "Garotos de Ouro"
+            },
+            {
+              "title": "Não Aperta Aparicio",
+              "artist": "Gaúcho da Fronteira"
+            },
+            {
+              "title": "Peão Campeiro e Dançador",
+              "artist": "Walther Morais"
+            },
+            {
+              "title": "A Volta do Tordilho Negro",
+              "artist": "Walther Morais"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "os-serranos--criado-em-galpao",
+          "trackId": 450625352,
+          "altTrackIds": [
+            478323352
+          ],
+          "title": "Criado Em Galpão",
+          "artist": "Os Serranos",
+          "options": [
+            {
+              "title": "RODEIO DE VACARIA",
+              "artist": "Garotos de Ouro"
+            },
+            {
+              "title": "Cancioneiro das Coxilhas",
+              "artist": "César Oliveira e Rogério Melo"
+            },
+            {
+              "title": "Tô no Vanerão",
+              "artist": "Os Fagundes"
+            },
+            {
+              "title": "Criado Em Galpão",
+              "artist": "Os Serranos"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "luiz-marenco--quando-o-verso-vem-pras-casa",
+          "trackId": 143383682,
+          "altTrackIds": [
+            65215469,
+            65293730,
+            365183811,
+            451046912,
+            589342692,
+            2744317851,
+            2843984782,
+            3012839811,
+            3066314351,
+            3214288251,
+            3238284131,
+            3296323131,
+            3450344401,
+            4071861091
+          ],
+          "title": "QUANDO O VERSO VEM PRAS CASA",
+          "artist": "Luiz Marenco",
+          "options": [
+            {
+              "title": "Não Estava Pra Peleia",
+              "artist": "César Oliveira e Rogério Melo"
+            },
+            {
+              "title": "Os \"Loco\" Lá da Fronteira",
+              "artist": "César Oliveira e Rogério Melo"
+            },
+            {
+              "title": "Caçada de Tatu",
+              "artist": "Paulinho Mocelin"
+            },
+            {
+              "title": "QUANDO O VERSO VEM PRAS CASA",
+              "artist": "Luiz Marenco"
+            }
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-12-09": {
+      "rounds": [
+        {
+          "songId": "walther-morais--criado-em-galpao",
+          "trackId": 414484342,
+          "altTrackIds": [
+            422538692,
+            4003913941
+          ],
+          "title": "Criado Em Galpão",
+          "artist": "Walther Morais",
+          "options": [
+            {
+              "title": "LEMBRANÇAS",
+              "artist": "Porca Véia"
+            },
+            {
+              "title": "BAILANTA DO TIO FLOR",
+              "artist": "Neto Fagundes"
+            },
+            {
+              "title": "BATENDO ÁGUA",
+              "artist": "Garotos de Ouro"
+            },
+            {
+              "title": "Criado Em Galpão",
+              "artist": "Walther Morais"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "luiz-marenco--rincao-dos-touros",
+          "trackId": 572324642,
+          "altTrackIds": [
+            65215472,
+            365183771,
+            482309862,
+            589342752,
+            3296323331,
+            3450344431,
+            4071861131
+          ],
+          "title": "Rincão Dos Touros",
+          "artist": "Luiz Marenco",
+          "options": [
+            {
+              "title": "Vou Voltar pro Interior",
+              "artist": "Tchê Garotos"
+            },
+            {
+              "title": "Rincão Dos Touros",
+              "artist": "Luiz Marenco"
+            },
+            {
+              "title": "Peão Domador",
+              "artist": "Os Mirins"
+            },
+            {
+              "title": "OS DA ÚLTIMA TROPA",
+              "artist": "Luiz Marenco"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "garotos-de-ouro--a-gaita-do-belizario",
+          "trackId": 361259641,
+          "altTrackIds": [
+            2976599741,
+            3067401761,
+            3168844831,
+            3223355621,
+            3294600761,
+            3430500741,
+            4071860661
+          ],
+          "title": "A GAITA DO BELIZÁRIO",
+          "artist": "Garotos de Ouro",
+          "options": [
+            {
+              "title": "Da Cidade pro Campo",
+              "artist": "Tchê Guri"
+            },
+            {
+              "title": "Cada Vez Mais Xucro",
+              "artist": "Baitaca"
+            },
+            {
+              "title": "O Colono",
+              "artist": "Os Fagundes"
+            },
+            {
+              "title": "A GAITA DO BELIZÁRIO",
+              "artist": "Garotos de Ouro"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "sandro-coelho--enfermeiro",
+          "trackId": 374158511,
+          "altTrackIds": [],
+          "title": "Enfermeiro",
+          "artist": "Sandro Coelho",
+          "options": [
+            {
+              "title": "Zaino Aporreado",
+              "artist": "Mano Lima"
+            },
+            {
+              "title": "Os Ginetes do Brasil",
+              "artist": "Tchê Barbaridade"
+            },
+            {
+              "title": "Origens",
+              "artist": "Neto Fagundes"
+            },
+            {
+              "title": "Enfermeiro",
+              "artist": "Sandro Coelho"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "oswaldir-e-carlos-magrao--xote-do-caminhoneiro",
+          "trackId": 483937962,
+          "altTrackIds": [],
+          "title": "Xote do Caminhoneiro",
+          "artist": "Oswaldir e Carlos Magrão",
+          "options": [
+            {
+              "title": "É Disso Que o Velho Gosta",
+              "artist": "Oswaldir e Carlos Magrão"
+            },
+            {
+              "title": "Regresso Farroupilha",
+              "artist": "Cristiano Quevedo"
+            },
+            {
+              "title": "O Novo Encontro Com o Tico",
+              "artist": "Baitaca"
+            },
+            {
+              "title": "Xote do Caminhoneiro",
+              "artist": "Oswaldir e Carlos Magrão"
+            }
+          ],
+          "answerIndex": 3
+        }
+      ]
     }
   }
 }

@@ -9666,6 +9666,319 @@
           "answerIndex": 2
         }
       ]
+    },
+    "2026-12-08": {
+      "rounds": [
+        {
+          "songId": "tnt--cachorro-louco",
+          "trackId": 685317502,
+          "altTrackIds": [
+            2888511612
+          ],
+          "title": "Cachorro Louco",
+          "artist": "TNT",
+          "options": [
+            {
+              "title": "Porque Não",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Cowboy",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Rancho",
+              "artist": "Graforréia Xilarmônica"
+            },
+            {
+              "title": "Cachorro Louco",
+              "artist": "TNT"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "comunidade-nin-jitsu--detetive",
+          "trackId": 1094177342,
+          "altTrackIds": [
+            548336092,
+            1103241002,
+            1120517452,
+            1167106952,
+            1803353847
+          ],
+          "title": "Detetive",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            {
+              "title": "Detetive",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Vem Pra Cá",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Surfista Calhorda",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Me Deixa Desafinar",
+              "artist": "Bidê ou Balde"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "engenheiros-do-hawaii--somos-quem-podemos-ser",
+          "trackId": 13310154,
+          "altTrackIds": [
+            3574069,
+            13310134,
+            70086910,
+            72290890,
+            122316362,
+            122316396,
+            685828572,
+            1564486092,
+            1564488272,
+            1564489152
+          ],
+          "title": "Somos Quem Podemos Ser",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            {
+              "title": "Mesmo Que Mude",
+              "artist": "Bidê ou Balde"
+            },
+            {
+              "title": "Rancho",
+              "artist": "Graforréia Xilarmônica"
+            },
+            {
+              "title": "(Não Existe Lugar) Mais Longe Que o Japão",
+              "artist": "Bidê ou Balde"
+            },
+            {
+              "title": "Somos Quem Podemos Ser",
+              "artist": "Engenheiros do Hawaii"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "os-replicantes--porque-nao",
+          "trackId": 13310377,
+          "altTrackIds": [
+            651564932
+          ],
+          "title": "Porque Não",
+          "artist": "Os Replicantes",
+          "options": [
+            {
+              "title": "Cachorro Louco",
+              "artist": "TNT"
+            },
+            {
+              "title": "Você Vai Lembrar De Mim",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Colégio Interno",
+              "artist": "Graforréia Xilarmônica"
+            },
+            {
+              "title": "Porque Não",
+              "artist": "Os Replicantes"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--danca-do-tempo",
+          "trackId": 703676062,
+          "altTrackIds": [
+            1509997732
+          ],
+          "title": "Dança do Tempo",
+          "artist": "Nenhum de Nós",
+          "options": [
+            {
+              "title": "Pose",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Merda de Bar",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Paz e Amor",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Dança do Tempo",
+              "artist": "Nenhum de Nós"
+            }
+          ],
+          "answerIndex": 3
+        }
+      ]
+    },
+    "2026-12-09": {
+      "rounds": [
+        {
+          "songId": "comunidade-nin-jitsu--cowboy",
+          "trackId": 1167106852,
+          "altTrackIds": [
+            101490084,
+            548336132,
+            1103240992
+          ],
+          "title": "Cowboy",
+          "artist": "Comunidade Nin-Jitsu",
+          "options": [
+            {
+              "title": "Viajar",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Era um Garoto, Que Como Eu, Amava os Beatles e os Rolling Stones",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Cowboy",
+              "artist": "Comunidade Nin-Jitsu"
+            },
+            {
+              "title": "Até O Fim",
+              "artist": "Engenheiros do Hawaii"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "papas-da-lingua--eu-sei",
+          "trackId": 4154048102,
+          "altTrackIds": [
+            3314335,
+            445912502,
+            723079752,
+            3947977401,
+            3947977601,
+            4147007022
+          ],
+          "title": "Eu Sei",
+          "artist": "Papas da Língua",
+          "options": [
+            {
+              "title": "Sexperienced",
+              "artist": "Cachorro Grande"
+            },
+            {
+              "title": "Irmã Dr. Robert",
+              "artist": "TNT"
+            },
+            {
+              "title": "Festa Punk",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Eu Sei",
+              "artist": "Papas da Língua"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "engenheiros-do-hawaii--dom-quixote",
+          "trackId": 685828432,
+          "altTrackIds": [],
+          "title": "Dom Quixote",
+          "artist": "Engenheiros do Hawaii",
+          "options": [
+            {
+              "title": "Pequeno Grande Amor",
+              "artist": "Papas da Língua"
+            },
+            {
+              "title": "Dom Quixote",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Nunca Mais Voltar",
+              "artist": "TNT"
+            },
+            {
+              "title": "3 X 4",
+              "artist": "Engenheiros do Hawaii"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "nenhum-de-nos--eu-caminhava",
+          "trackId": 16988520,
+          "altTrackIds": [
+            142337029,
+            142337049,
+            142337051,
+            142337053,
+            433201482,
+            4139165461
+          ],
+          "title": "Eu Caminhava",
+          "artist": "Nenhum de Nós",
+          "options": [
+            {
+              "title": "Astronauta",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Punk de Boutique",
+              "artist": "Os Replicantes"
+            },
+            {
+              "title": "Eu Caminhava",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Tudo Que Ela Gosta de Escutar",
+              "artist": "Comunidade Nin-Jitsu"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "cachorro-grande--voce-me-faz-continuar",
+          "trackId": 96004146,
+          "altTrackIds": [
+            96004582,
+            99053738,
+            1110456912
+          ],
+          "title": "Você Me Faz Continuar",
+          "artist": "Cachorro Grande",
+          "options": [
+            {
+              "title": "Cachorro Louco",
+              "artist": "TNT"
+            },
+            {
+              "title": "O Mundo É Maior Que Teu Quarto",
+              "artist": "TNT"
+            },
+            {
+              "title": "O Preço",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Você Me Faz Continuar",
+              "artist": "Cachorro Grande"
+            }
+          ],
+          "answerIndex": 3
+        }
+      ]
     }
   }
 }

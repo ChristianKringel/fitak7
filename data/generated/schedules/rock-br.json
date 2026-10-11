@@ -10192,6 +10192,321 @@
           "answerIndex": 1
         }
       ]
+    },
+    "2026-12-08": {
+      "rounds": [
+        {
+          "songId": "raimundos--lugar-ao-sol",
+          "trackId": 350038611,
+          "altTrackIds": [
+            434739322
+          ],
+          "title": "Lugar Ao Sol",
+          "artist": "Raimundos",
+          "options": [
+            {
+              "title": "Blunt Of Judah",
+              "artist": "Nação Zumbi"
+            },
+            {
+              "title": "Nada Sei (Apnéia)",
+              "artist": "Kid Abelha"
+            },
+            {
+              "title": "Puro êxtase",
+              "artist": "Barão Vermelho"
+            },
+            {
+              "title": "Lugar Ao Sol",
+              "artist": "Raimundos"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "kid-abelha--as-curvas-da-estrada-de-santos",
+          "trackId": 54331721,
+          "altTrackIds": [],
+          "title": "As curvas da estrada de Santos",
+          "artist": "Kid Abelha",
+          "options": [
+            {
+              "title": "A Novidade",
+              "artist": "Os Paralamas do Sucesso"
+            },
+            {
+              "title": "As curvas da estrada de Santos",
+              "artist": "Kid Abelha"
+            },
+            {
+              "title": "Mulher Diabo",
+              "artist": "Matanza"
+            },
+            {
+              "title": "Os Cegos do Castelo",
+              "artist": "Titãs"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "titas--domingo",
+          "trackId": 36358821,
+          "altTrackIds": [
+            36362921,
+            60793315,
+            126723411
+          ],
+          "title": "Domingo",
+          "artist": "Titãs",
+          "options": [
+            {
+              "title": "Adeus Maria Fulô",
+              "artist": "Os Mutantes"
+            },
+            {
+              "title": "Tempo Ruim",
+              "artist": "Matanza"
+            },
+            {
+              "title": "Domingo",
+              "artist": "Titãs"
+            },
+            {
+              "title": "Das Coisas Que Eu Entendo",
+              "artist": "Nenhum de Nós"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "rita-lee--esse-tal-de-roque-enrow",
+          "trackId": 15709217,
+          "altTrackIds": [
+            104852708,
+            2973000921
+          ],
+          "title": "Esse Tal De Roque Enrow",
+          "artist": "Rita Lee",
+          "options": [
+            {
+              "title": "Eu Vou Tentar",
+              "artist": "Ira!"
+            },
+            {
+              "title": "Menino Bonito",
+              "artist": "Rita Lee"
+            },
+            {
+              "title": "Peito Aberto",
+              "artist": "Kid Abelha"
+            },
+            {
+              "title": "Esse Tal De Roque Enrow",
+              "artist": "Rita Lee"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "nenhum-de-nos--camila-camila",
+          "trackId": 14272468,
+          "altTrackIds": [
+            142336499,
+            142336517,
+            142336519,
+            142336521,
+            142336523,
+            678053992,
+            1509945772,
+            1509997742,
+            2572100972
+          ],
+          "title": "Camila, Camila",
+          "artist": "Nenhum de Nós",
+          "options": [
+            {
+              "title": "Quando a Maré Encher",
+              "artist": "Nação Zumbi"
+            },
+            {
+              "title": "Reggae do manêro",
+              "artist": "Raimundos"
+            },
+            {
+              "title": "Camila, Camila",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Um Sonho",
+              "artist": "Nação Zumbi"
+            }
+          ],
+          "answerIndex": 2
+        }
+      ]
+    },
+    "2026-12-09": {
+      "rounds": [
+        {
+          "songId": "legiao-urbana--vento-no-litoral",
+          "trackId": 3530218,
+          "altTrackIds": [
+            3531473,
+            422282352,
+            423088322
+          ],
+          "title": "Vento No Litoral",
+          "artist": "Legião Urbana",
+          "options": [
+            {
+              "title": "Tora Tora",
+              "artist": "Raimundos"
+            },
+            {
+              "title": "Vento No Litoral",
+              "artist": "Legião Urbana"
+            },
+            {
+              "title": "O Preço",
+              "artist": "Engenheiros do Hawaii"
+            },
+            {
+              "title": "Há Tempos",
+              "artist": "Legião Urbana"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "charlie-brown-jr--dona-do-meu-pensamento",
+          "trackId": 15738363,
+          "altTrackIds": [
+            2020164717,
+            2020190337,
+            2864259782,
+            2864260172
+          ],
+          "title": "Dona do Meu Pensamento",
+          "artist": "Charlie Brown Jr.",
+          "options": [
+            {
+              "title": "Do Sétimo Andar",
+              "artist": "Los Hermanos"
+            },
+            {
+              "title": "O Mundo Dá Voltas",
+              "artist": "CPM 22"
+            },
+            {
+              "title": "Dona do Meu Pensamento",
+              "artist": "Charlie Brown Jr."
+            },
+            {
+              "title": "Irreversível",
+              "artist": "CPM 22"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "barao-vermelho--puro-extase",
+          "trackId": 556382982,
+          "altTrackIds": [
+            7446764,
+            70041300,
+            126748061,
+            527959981,
+            527961791,
+            2872101712,
+            3067954801,
+            3258754961,
+            3261366851,
+            3284195511
+          ],
+          "title": "Puro êxtase",
+          "artist": "Barão Vermelho",
+          "options": [
+            {
+              "title": "Eu não entendo",
+              "artist": "Nenhum de Nós"
+            },
+            {
+              "title": "Amor",
+              "artist": "Secos & Molhados"
+            },
+            {
+              "title": "Rondó do capitão",
+              "artist": "Secos & Molhados"
+            },
+            {
+              "title": "Puro êxtase",
+              "artist": "Barão Vermelho"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "rita-lee--flagra",
+          "trackId": 104914324,
+          "altTrackIds": [
+            69899376,
+            140344309,
+            4117973641
+          ],
+          "title": "Flagra",
+          "artist": "Rita Lee",
+          "options": [
+            {
+              "title": "Nem Luxo Nem Lixo",
+              "artist": "Rita Lee"
+            },
+            {
+              "title": "O Mundo é Bão, Sebastião",
+              "artist": "Titãs"
+            },
+            {
+              "title": "Mudança de Comportamento",
+              "artist": "Ira!"
+            },
+            {
+              "title": "Flagra",
+              "artist": "Rita Lee"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "secos-e-molhados--flores-astrais",
+          "trackId": 710508122,
+          "altTrackIds": [
+            3882285,
+            7446514,
+            438213352
+          ],
+          "title": "Flores Astrais",
+          "artist": "Secos & Molhados",
+          "options": [
+            {
+              "title": "Na rua, na chuva, na fazenda (Casinha de sapé)",
+              "artist": "Kid Abelha"
+            },
+            {
+              "title": "Especial Como Você",
+              "artist": "CPM 22"
+            },
+            {
+              "title": "Flores Astrais",
+              "artist": "Secos & Molhados"
+            },
+            {
+              "title": "Lágrimas e chuva",
+              "artist": "Kid Abelha"
+            }
+          ],
+          "answerIndex": 2
+        }
+      ]
     }
   }
 }
