@@ -21,7 +21,7 @@ export function RoomRules({ open = false }: { open?: boolean }) {
           <ul className="mt-1 list-disc pl-5">
             <li>
               Escolhe a categoria, de {MIN_ROOM_ROUNDS} a {MAX_ROOM_ROUNDS} rodadas e o modo: normal (
-              {NORMAL_CLIP_SECONDS}s) ou difícil ({HARD_CLIP_SECONDS}s).
+              {NORMAL_CLIP_SECONDS}s), difícil ({HARD_CLIP_SECONDS}s) ou Hardcore.
             </li>
             <li>Recebe um código de 6 caracteres e o link para mandar à turma.</li>
             <li>Também joga, nas mesmas condições: não vê as músicas antes nem muda nada depois.</li>
@@ -44,7 +44,12 @@ export function RoomRules({ open = false }: { open?: boolean }) {
               O tempo de cada rodada conta do primeiro play até o palpite. Ouvir de novo pode, mas o tempo continua
               correndo.
             </li>
-            <li>Ganha quem acertar mais. No empate, quem gastou menos tempo no total.</li>
+            <li>
+              No Hardcore, trechos de {HARD_CLIP_SECONDS}s que começam num ponto aleatório da música. Primeiro você
+              escolhe o artista; se acertar, escolhe a música entre 4 desse artista. Vale 1 ponto pelo artista e 1 pela
+              música.
+            </li>
+            <li>Ganha quem fizer mais pontos. No empate, quem gastou menos tempo no total.</li>
             <li>
               Até {MAX_ROOM_PLAYERS} jogadores por sala. A sala expira {TTL_DAYS} dias depois de criada.
             </li>

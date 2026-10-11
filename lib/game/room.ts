@@ -1,9 +1,19 @@
 // Multiplayer rooms ("Modo Desafio"): everyone in a room plays the same songs
-// with the same options, each at their own pace. Ranking: most correct
-// answers, then the shortest total time.
+// with the same options, each at their own pace. Ranking: most points (one
+// per right answer; in hardcore rooms, one for the artist and one for the
+// song), then the shortest total time.
 
-import { buildOptions, toRoundOption } from "./options";
-import type { PoolSong } from "./pool";
+import type { Genre } from "./genres";
+import {
+  buildArtistOptions,
+  buildSongOptions,
+  HARDCORE_POINTS_PER_ROUND,
+  pickClipStart,
+  strongDecoys,
+  type HardcoreRound,
+} from "./hardcore";
+import { buildOptions, OPTIONS_PER_ROUND, toRoundOption } from "./options";
+import type { DecoySong, PoolSong } from "./pool";
 import { answerCandidates } from "./popularity";
 import { randomInt, weightedPick, type Rng } from "./rng";
 import type { ScheduledRound } from "./schedule";
@@ -22,16 +32,26 @@ export const ROOM_CODE_LENGTH = 6;
 export interface RoomSettings {
   category: string;
   roundCount: number;
+  /** Always on in hardcore rooms. */
   hardMode: boolean;
+  /** Artist first, then the song (see lib/game/hardcore.ts). Missing in older rooms. */
+  hardcore?: boolean;
 }
 
-export interface Room extends RoomSettings {
+interface RoomBase extends RoomSettings {
   code: string;
   /** ms since epoch. */
   createdAt: number;
   expiresAt: number;
-  /** Already shuffled, same for every player. */
-  rounds: ScheduledRound[];
+}
+
+/** Rounds are already shuffled, the same for every player. */
+export type Room = RoomBase &
+  ({ hardcore?: false; rounds: ScheduledRound[] } | { hardcore: true; rounds: HardcoreRound[] });
+
+/** Best possible score of a room. */
+export function roomMaxScore(room: Pick<RoomSettings, "roundCount" | "hardcore">): number {
+  return room.roundCount * (room.hardcore ? HARDCORE_POINTS_PER_ROUND : 1);
 }
 
 export function generateRoomCode(rng: Rng): string {
@@ -72,16 +92,15 @@ export function nicknameKey(name: string): string {
 }
 
 /**
- * Picks `count` different songs among each artist's most popular ones,
- * avoiding repeated artists while possible, and builds their options.
+ * Picks `count` different songs among the candidates, avoiding repeated
+ * artists while possible.
  */
-export function buildRoomRounds(
-  pool: readonly PoolSong[],
+function pickRoomSongs(
+  candidates: readonly PoolSong[],
+  weight: (song: PoolSong) => number,
   count: number,
   rng: Rng,
-  topShare?: number,
-): ScheduledRound[] {
-  const { songs: candidates, weight } = answerCandidates(pool, topShare);
+): PoolSong[] {
   if (candidates.length < count) {
     throw new Error(`Only ${candidates.length} answer candidates for ${count} rounds`);
   }
@@ -99,8 +118,21 @@ export function buildRoomRounds(
     // Once every artist was used, start a new cycle over all of them.
     if (fresh.length <= 1) artists.clear();
   }
+  return chosen;
+}
 
-  return chosen.map((song) => {
+/**
+ * Picks `count` different songs among each artist's most popular ones,
+ * avoiding repeated artists while possible, and builds their options.
+ */
+export function buildRoomRounds(
+  pool: readonly PoolSong[],
+  count: number,
+  rng: Rng,
+  topShare?: number,
+): ScheduledRound[] {
+  const { songs: candidates, weight } = answerCandidates(pool, topShare);
+  return pickRoomSongs(candidates, weight, count, rng).map((song) => {
     const { songs, answerIndex } = buildOptions(song, pool, rng);
     return {
       songId: song.id,
@@ -114,8 +146,43 @@ export function buildRoomRounds(
   });
 }
 
+export interface HardcoreRoomInput {
+  pool: readonly PoolSong[];
+  /** Extra wrong songs for the second step (hits lists). */
+  decoys?: readonly DecoySong[];
+  genreOf: (artist: string) => Genre | null;
+  topShare?: number;
+}
+
+/** Hardcore rooms: like `buildRoomRounds`, with both steps of every round. */
+export function buildRoomHardcoreRounds(input: HardcoreRoomInput, count: number, rng: Rng): HardcoreRound[] {
+  const { pool, decoys = [], genreOf, topShare } = input;
+  const songs = [...pool, ...decoys];
+  const artists = [...new Set(pool.map((s) => s.artist))].map((name) => ({ name, genre: genreOf(name) }));
+  const { songs: candidates, weight } = answerCandidates(pool, topShare);
+  const answers = candidates.filter((s) => strongDecoys(s, songs).length >= OPTIONS_PER_ROUND - 1);
+
+  return pickRoomSongs(answers, weight, count, rng).map((song) => {
+    const artistOptions = buildArtistOptions(song.artist, artists, rng);
+    const songOptions = buildSongOptions(song, songs, rng);
+    return {
+      songId: song.id,
+      trackId: song.trackId,
+      altTrackIds: song.altTrackIds,
+      title: song.title,
+      artist: song.artist,
+      artistOptions: artistOptions.options,
+      artistAnswerIndex: artistOptions.answerIndex,
+      songOptions: songOptions.options,
+      songAnswerIndex: songOptions.answerIndex,
+      clipStart: pickClipStart(rng),
+    };
+  });
+}
+
 export interface PlayerAnswer {
-  correct: boolean;
+  /** 0 or 1; in hardcore rooms 0 to 2 (artist, then song). */
+  points: number;
   /** Time spent on the round, ms. */
   elapsedMs: number;
 }
@@ -148,7 +215,7 @@ export interface Standing {
   id: string;
   name: string;
   answered: number;
-  correct: number;
+  points: number;
   totalMs: number;
   finished: boolean;
   /** 1-based, shared on exact ties; null while still playing. */
@@ -156,7 +223,7 @@ export interface Standing {
 }
 
 /**
- * Finished players ranked by correct answers, then total time. Players still
+ * Finished players ranked by points, then total time. Players still
  * playing come after them, most advanced first, without a position.
  */
 export function rankPlayers(players: readonly PlayerProgress[], roundCount: number): Standing[] {
@@ -166,7 +233,7 @@ export function rankPlayers(players: readonly PlayerProgress[], roundCount: numb
       id: p.id,
       name: p.name,
       answered: p.answers.length,
-      correct: p.answers.filter((a) => a.correct).length,
+      points: p.answers.reduce((sum, a) => sum + a.points, 0),
       totalMs: p.answers.reduce((sum, a) => sum + a.elapsedMs, 0),
       finished: p.answers.length >= roundCount,
       position: null,
@@ -176,7 +243,7 @@ export function rankPlayers(players: readonly PlayerProgress[], roundCount: numb
     .filter((s) => s.standing.finished)
     .sort(
       (a, b) =>
-        b.standing.correct - a.standing.correct ||
+        b.standing.points - a.standing.points ||
         a.standing.totalMs - b.standing.totalMs ||
         a.joinedAt - b.joinedAt,
     )
@@ -186,14 +253,14 @@ export function rankPlayers(players: readonly PlayerProgress[], roundCount: numb
     .sort(
       (a, b) =>
         b.standing.answered - a.standing.answered ||
-        b.standing.correct - a.standing.correct ||
+        b.standing.points - a.standing.points ||
         a.joinedAt - b.joinedAt,
     )
     .map((s) => s.standing);
 
   finished.forEach((s, i) => {
     const prev = finished[i - 1];
-    const tied = prev !== undefined && prev.correct === s.correct && prev.totalMs === s.totalMs;
+    const tied = prev !== undefined && prev.points === s.points && prev.totalMs === s.totalMs;
     s.position = tied ? prev.position : i + 1;
   });
   return [...finished, ...playing];

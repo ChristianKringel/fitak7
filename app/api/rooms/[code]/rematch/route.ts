@@ -19,7 +19,7 @@ export async function POST(_request: Request, ctx: RouteContext<"/api/rooms/[cod
   let target = existing ? await getRoom(existing) : null;
   if (!target) {
     const created = await newRoom(
-      { category: room.category, roundCount: room.roundCount, hardMode: room.hardMode },
+      { category: room.category, roundCount: room.roundCount, hardMode: room.hardMode, hardcore: room.hardcore === true },
       now,
     );
     if (!created.ok) return created.response;
