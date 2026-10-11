@@ -3,8 +3,10 @@
 Jogo de adivinhar músicas pelo trecho, focado em categorias de nicho: rock gaúcho, música gaúcha/nativista, bandinhas e rock brasileiro. O jogador ouve um trecho do preview do Deezer e escolhe o título certo entre 4 opções.
 
 - **Desafio diário:** 5 músicas por categoria, iguais para todo mundo, que mudam à meia-noite (horário de Brasília).
-- **Modo infinito:** músicas aleatórias sem fim, com contagem de acertos seguidos.
-- **Modo difícil:** trecho de 5s em vez de 15s, nos dois modos.
+- **Modo Hardcore:** outro desafio diário de 5 músicas, em duas etapas: primeiro acertar o artista (entre 4 do mesmo gênero), depois a música (entre 4 do mesmo artista). O trecho começa num ponto aleatório.
+- **Modo difícil:** trecho de 5s em vez de 15s, no diário e no Hardcore.
+
+O modo infinito está escondido (`INFINITE_ENABLED` em `lib/game/config.ts`).
 
 As regras completas e as decisões de arquitetura estão no [`CLAUDE.md`](CLAUDE.md).
 
@@ -60,7 +62,7 @@ pnpm start
 | `pnpm env:setup` | Cria o `.env.local` com um `ROUND_SECRET` aleatório |
 | `pnpm catalog:resolve` | Busca no Deezer o `deezerId` dos artistas novos do catálogo |
 | `pnpm pool:build` | Gera a lista de músicas jogáveis de cada categoria |
-| `pnpm schedule:build` | Gera a agenda dos desafios diários (próximos 60 dias) |
+| `pnpm schedule:build` | Gera a agenda dos desafios diários e do Hardcore (próximos 60 dias) |
 
 ## Editando o catálogo
 
