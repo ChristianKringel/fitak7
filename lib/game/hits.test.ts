@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 
-import { hitCandidates, selectArtistHits, type HitsRules } from "./hits";
+import { hitCandidates, selectArtistDecoys, selectArtistHits, type HitsRules } from "./hits";
 import type { PoolSong } from "./pool";
 
 function song(title: string, topPosition: number, rank = 500_000): PoolSong {
@@ -108,5 +108,19 @@ describe("hitCandidates", () => {
   it("returns the top songs popular enough, most popular first", () => {
     const songs = [song("C", 3), song("A", 1), song("B", 2, 100), song("D", 4)];
     expect(hitCandidates(songs, { candidatesPerArtist: 3, minRank: 1000 }).map((s) => s.title)).toEqual(["A", "C"]);
+  });
+});
+
+describe("selectArtistDecoys", () => {
+  it("keeps the most popular songs that aren't hits or versions of them", () => {
+    const hits = [song("Tempo Perdido", 1)];
+    const songs = [
+      song("Será", 3),
+      song("Tempo Perdido", 1),
+      song("Tempo Perdido (Ao Vivo)", 2),
+      song("Perfeição", 4),
+      song("Índios", 5),
+    ];
+    expect(selectArtistDecoys(songs, hits, 2).map((s) => s.title)).toEqual(["Será", "Perfeição"]);
   });
 });

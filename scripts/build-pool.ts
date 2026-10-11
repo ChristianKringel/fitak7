@@ -9,18 +9,20 @@
 //     find before.
 //
 // Categories with `years` are hits lists (see lib/game/hits.ts); their
-// songs' release years come from the catalog or MusicBrainz.
+// songs' release years come from the catalog or MusicBrainz. Their pools
+// also keep other popular songs of each artist as hardcore decoys.
 
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 import { createDeezerClient, type DeezerClient } from "@/lib/deezer/client";
 import type { CatalogArtist, Category } from "@/lib/game/catalog";
-import { DEFAULT_HITS_RULES, selectArtistHits } from "@/lib/game/hits";
+import { DEFAULT_HITS_RULES, selectArtistDecoys, selectArtistHits } from "@/lib/game/hits";
 import {
   buildArtistSongs,
   type ArtistSongsResult,
   type CategoryPool,
+  type DecoySong,
   type DiscardReason,
   type PoolSong,
   type SongGroup,
@@ -117,6 +119,7 @@ function buildHitsPool(
   printHits: boolean,
 ): CategoryPool {
   const songs: PoolSong[] = [];
+  const decoys: DecoySong[] = [];
   const unknown: string[] = [];
   const withoutHits: string[] = [];
   const missing: string[] = [];
@@ -139,12 +142,14 @@ function buildHitsPool(
     }
     songs.push(...hits);
     if (hits.length === 0) withoutHits.push(artist.name);
+    else decoys.push(...selectArtistDecoys(artistSongs, hits));
     for (const title of missingIncludes) missing.push(`${artist.name} — ${title}`);
     for (const song of unknownYear) {
       unknown.push(`${song.artist} — ${song.title} (Deezer: ${song.album.releaseDate.slice(0, 4)}, rank ${song.rank})`);
     }
   }
   songs.sort((a, b) => a.id.localeCompare(b.id));
+  decoys.sort((a, b) => a.id.localeCompare(b.id));
 
   if (withoutHits.length > 0) {
     console.log(`    ${category.slug}: no hits in ${years.join("–")} for ${withoutHits.join(", ")}`);
@@ -165,7 +170,7 @@ function buildHitsPool(
       console.log(`  ${song.year ?? "????"}  ${String(song.rank).padStart(6)}  ${song.artist} — ${song.title}`);
     }
   }
-  return { category: category.slug, topShare: 1, songs };
+  return { category: category.slug, topShare: 1, songs, decoys };
 }
 
 async function main() {

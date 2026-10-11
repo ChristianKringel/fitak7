@@ -53,6 +53,9 @@ export interface PoolSong {
   year?: number;
 }
 
+/** A song that only shows up as a wrong option of the hardcore mode. */
+export type DecoySong = Pick<PoolSong, "id" | "title" | "artist" | "rank">;
+
 export interface CategoryPool {
   category: string;
   /**
@@ -61,6 +64,12 @@ export interface CategoryPool {
    */
   topShare?: number;
   songs: PoolSong[];
+  /**
+   * Hits lists only: other popular songs of the artists, from any year, so
+   * the hardcore mode can offer 4 songs by the same artist (see
+   * `selectArtistDecoys`). Niche pools already have whole discographies.
+   */
+  decoys?: DecoySong[];
 }
 
 export type DiscardReason =

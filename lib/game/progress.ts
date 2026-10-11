@@ -4,6 +4,7 @@
 import type { RevealedAnswer } from "@/lib/api/types";
 
 import { addDays } from "./date";
+import { HARDCORE_MAX_SCORE } from "./hardcore";
 import { ROUNDS_PER_DAY } from "./schedule";
 
 export const GAME_STATE_VERSION = 1;
@@ -22,6 +23,25 @@ export interface RoundRecord {
 export interface DailyProgress {
   /** One entry per round; null while unanswered. */
   rounds: (RoundRecord | null)[];
+}
+
+/** A hardcore round: the artist first, then (only if right) the song. */
+export interface HardcoreRoundRecord {
+  /** Played with hard mode on (every step answered so far). */
+  hard: boolean;
+  artistChoice: number;
+  artistAnswerIndex: number;
+  /** Song options of step 2; null when the artist was wrong. */
+  songs: string[] | null;
+  /** Step 2 guess; null until answered. */
+  song: { choice: number; answerIndex: number } | null;
+  /** Set once the round is over. */
+  answer: RevealedAnswer | null;
+}
+
+export interface HardcoreProgress {
+  /** One entry per round; null while the artist is not answered. */
+  rounds: (HardcoreRoundRecord | null)[];
 }
 
 export interface ModeStats {
@@ -47,12 +67,15 @@ export type InfiniteStats = ModeStats;
 export interface CategoryStats {
   daily: DailyStats;
   infinite: InfiniteStats;
+  /** Like `daily`, with points (0 to HARDCORE_MAX_SCORE) instead of correct rounds. */
+  hardcore: DailyStats;
 }
 
 export interface GameState {
   version: typeof GAME_STATE_VERSION;
   preferences: { hardMode: boolean };
   daily: Record<string, Record<string, DailyProgress>>;
+  hardcore: Record<string, Record<string, HardcoreProgress>>;
   stats: Record<string, CategoryStats>;
 }
 
@@ -61,6 +84,7 @@ export function defaultGameState(): GameState {
     version: GAME_STATE_VERSION,
     preferences: { hardMode: false },
     daily: {},
+    hardcore: {},
     stats: {},
   };
 }
@@ -69,14 +93,19 @@ function emptyModeStats(): ModeStats {
   return { played: 0, correct: 0, currentStreak: 0, maxStreak: 0 };
 }
 
+function emptyDailyStats(maxScore: number): DailyStats {
+  return {
+    ...emptyModeStats(),
+    distribution: Array.from({ length: maxScore + 1 }, () => 0),
+    lastPlayedDate: null,
+  };
+}
+
 export function emptyCategoryStats(): CategoryStats {
   return {
-    daily: {
-      ...emptyModeStats(),
-      distribution: Array.from({ length: ROUNDS_PER_DAY + 1 }, () => 0),
-      lastPlayedDate: null,
-    },
+    daily: emptyDailyStats(ROUNDS_PER_DAY),
     infinite: emptyModeStats(),
+    hardcore: emptyDailyStats(HARDCORE_MAX_SCORE),
   };
 }
 
@@ -130,10 +159,7 @@ export function recordInfiniteAnswer(stats: InfiniteStats, correct: boolean): In
   };
 }
 
-function pruneDaily(
-  byDate: Record<string, DailyProgress>,
-  today: string,
-): Record<string, DailyProgress> {
+function pruneDaily<P>(byDate: Record<string, P>, today: string): Record<string, P> {
   const cutoff = addDays(today, -DAILY_PROGRESS_KEEP_DAYS);
   return Object.fromEntries(Object.entries(byDate).filter(([date]) => date >= cutoff));
 }
@@ -180,6 +206,95 @@ export function recordInfiniteRound(state: GameState, category: string, correct:
   };
 }
 
+export function hardcoreProgress(
+  state: GameState,
+  category: string,
+  date: string,
+  rounds = ROUNDS_PER_DAY,
+): HardcoreProgress {
+  const stored = state.hardcore[category]?.[date];
+  return {
+    rounds: Array.from({ length: rounds }, (_, i) => stored?.rounds[i] ?? null),
+  };
+}
+
+export function isHardcoreRoundOver(record: HardcoreRoundRecord | null): boolean {
+  return record?.answer != null;
+}
+
+/** 1 for the right artist, 1 more for the right song. */
+export function hardcoreRoundPoints(record: HardcoreRoundRecord | null): number {
+  if (!record || record.artistChoice !== record.artistAnswerIndex) return 0;
+  return record.song && record.song.choice === record.song.answerIndex ? 2 : 1;
+}
+
+export function isHardcoreDayFinished(progress: HardcoreProgress): boolean {
+  return progress.rounds.every(isHardcoreRoundOver);
+}
+
+export function hardcoreDayScore(progress: HardcoreProgress): number {
+  return progress.rounds.reduce((sum, r) => sum + hardcoreRoundPoints(r), 0);
+}
+
+type HardcoreStep =
+  /** Step 1. Right: `songs` for step 2. Wrong: the revealed `answer`. */
+  | { step: "artist"; choice: number; answerIndex: number; songs: string[] | null; answer: RevealedAnswer | null }
+  /** Step 2, after a right artist. */
+  | { step: "song"; choice: number; answerIndex: number; answer: RevealedAnswer };
+
+/**
+ * Stores a step of a hardcore round, in order (anything else is ignored)
+ * and, when it completes the day, updates the hardcore stats.
+ */
+export function recordHardcoreStep(
+  state: GameState,
+  input: { category: string; date: string; index: number; totalRounds: number; hard: boolean } & HardcoreStep,
+): GameState {
+  const { category, date, index, totalRounds, hard } = input;
+  const progress = hardcoreProgress(state, category, date, totalRounds);
+  if (index < 0 || index >= totalRounds) return state;
+  const current = progress.rounds[index];
+
+  let record: HardcoreRoundRecord;
+  if (input.step === "artist") {
+    if (current) return state;
+    record = {
+      hard,
+      artistChoice: input.choice,
+      artistAnswerIndex: input.answerIndex,
+      songs: input.songs,
+      song: null,
+      answer: input.answer,
+    };
+  } else {
+    if (!current || current.answer || !current.songs) return state;
+    record = {
+      ...current,
+      hard: current.hard && hard,
+      song: { choice: input.choice, answerIndex: input.answerIndex },
+      answer: input.answer,
+    };
+  }
+
+  const rounds = [...progress.rounds];
+  rounds[index] = record;
+  const updated: HardcoreProgress = { rounds };
+
+  const stats = categoryStats(state, category);
+  const nextStats = isHardcoreDayFinished(updated)
+    ? { ...stats, hardcore: recordDailyGame(stats.hardcore, date, hardcoreDayScore(updated)) }
+    : stats;
+
+  return {
+    ...state,
+    hardcore: {
+      ...state.hardcore,
+      [category]: pruneDaily({ ...state.hardcore[category], [date]: updated }, date),
+    },
+    stats: { ...state.stats, [category]: nextStats },
+  };
+}
+
 export function setHardMode(state: GameState, hardMode: boolean): GameState {
   return { ...state, preferences: { ...state.preferences, hardMode } };
 }
@@ -207,6 +322,21 @@ function parseRound(v: unknown): RoundRecord | null {
     : null;
 }
 
+function parseHardcoreRound(v: unknown): HardcoreRoundRecord | null {
+  if (!isObj(v) || typeof v.hard !== "boolean") return null;
+  if (!isCount(v.artistChoice) || !isCount(v.artistAnswerIndex)) return null;
+  const songs = v.songs === null ? null : Array.isArray(v.songs) && v.songs.every(isStr) ? v.songs : undefined;
+  if (songs === undefined) return null;
+  let song: HardcoreRoundRecord["song"] = null;
+  if (v.song !== null) {
+    if (!isObj(v.song) || !isCount(v.song.choice) || !isCount(v.song.answerIndex)) return null;
+    song = { choice: v.song.choice, answerIndex: v.song.answerIndex };
+  }
+  const answer = v.answer === null ? null : parseAnswer(v.answer);
+  if (v.answer !== null && !answer) return null;
+  return { hard: v.hard, artistChoice: v.artistChoice, artistAnswerIndex: v.artistAnswerIndex, songs, song, answer };
+}
+
 function parseModeStats(v: unknown): ModeStats | null {
   if (!isObj(v)) return null;
   const { played, correct, currentStreak, maxStreak } = v;
@@ -219,17 +349,27 @@ function parseModeStats(v: unknown): ModeStats | null {
   };
 }
 
-function parseCategoryStats(v: unknown): CategoryStats | null {
-  if (!isObj(v) || !isObj(v.daily)) return null;
-  const daily = parseModeStats(v.daily);
-  const infinite = parseModeStats(v.infinite);
-  const { distribution, lastPlayedDate } = v.daily;
-  if (!daily || !infinite || !isStrOrNull(lastPlayedDate)) return null;
+function parseDailyStats(v: unknown, maxScore: number): DailyStats | null {
+  if (!isObj(v)) return null;
+  const stats = parseModeStats(v);
+  const { distribution, lastPlayedDate } = v;
+  if (!stats || !isStrOrNull(lastPlayedDate)) return null;
   if (!Array.isArray(distribution) || !distribution.every(isCount)) return null;
-  const fullDistribution = emptyCategoryStats().daily.distribution.map(
+  const fullDistribution = Array.from(
+    { length: maxScore + 1 },
     (_, i) => (distribution[i] as number | undefined) ?? 0,
   );
-  return { daily: { ...daily, distribution: fullDistribution, lastPlayedDate }, infinite };
+  return { ...stats, distribution: fullDistribution, lastPlayedDate };
+}
+
+function parseCategoryStats(v: unknown): CategoryStats | null {
+  if (!isObj(v)) return null;
+  const daily = parseDailyStats(v.daily, ROUNDS_PER_DAY);
+  const infinite = parseModeStats(v.infinite);
+  if (!daily || !infinite) return null;
+  // Added after the first release: missing in older states.
+  const hardcore = parseDailyStats(v.hardcore, HARDCORE_MAX_SCORE) ?? emptyCategoryStats().hardcore;
+  return { daily, infinite, hardcore };
 }
 
 /**
@@ -249,6 +389,15 @@ export function parseGameState(raw: unknown): GameState {
       for (const [date, progress] of Object.entries(byDate)) {
         if (!isObj(progress) || !Array.isArray(progress.rounds)) continue;
         (state.daily[category] ??= {})[date] = { rounds: progress.rounds.map(parseRound) };
+      }
+    }
+  }
+  if (isObj(raw.hardcore)) {
+    for (const [category, byDate] of Object.entries(raw.hardcore)) {
+      if (!isObj(byDate)) continue;
+      for (const [date, progress] of Object.entries(byDate)) {
+        if (!isObj(progress) || !Array.isArray(progress.rounds)) continue;
+        (state.hardcore[category] ??= {})[date] = { rounds: progress.rounds.map(parseHardcoreRound) };
       }
     }
   }

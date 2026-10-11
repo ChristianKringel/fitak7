@@ -28,3 +28,25 @@ export const MIN_TOP_SONGS_PER_ARTIST = 3;
 export const HITS_DEFAULT_PER_ARTIST = 3;
 export const HITS_CANDIDATES_PER_ARTIST = 40;
 export const HITS_MIN_RANK = 300_000;
+
+/**
+ * The endless mode is hidden (pages and API answer 404) while the hardcore
+ * mode takes its place. The code stays; flip this to bring it back.
+ */
+export const INFINITE_ENABLED = false;
+
+/** Length of Deezer previews, in seconds. */
+export const PREVIEW_SECONDS = 30;
+
+/**
+ * Hardcore mode: the clip starts at a random point of the preview, at least
+ * this many seconds in, and early enough to fit the normal clip.
+ */
+export const HARDCORE_MIN_CLIP_START = 2;
+/**
+ * Hardcore mode: the wrong songs of the second step are drawn from the
+ * artist's this many most popular songs, so none is easy to rule out.
+ */
+export const HARDCORE_STRONG_DECOYS = 8;
+/** Popular songs of each artist kept as hardcore decoys in hits lists. */
+export const HARDCORE_DECOYS_PER_ARTIST = 20;

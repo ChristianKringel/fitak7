@@ -3,12 +3,13 @@
 // both answers and wrong options are well-known songs.
 
 import {
+  HARDCORE_DECOYS_PER_ARTIST,
   HITS_CANDIDATES_PER_ARTIST,
   HITS_DEFAULT_PER_ARTIST,
   HITS_MIN_RANK,
 } from "./config";
 import { areConfusableTitles, normalizeTitle } from "./normalize";
-import type { PoolSong } from "./pool";
+import type { DecoySong, PoolSong } from "./pool";
 
 export interface HitsRules {
   /** Release years [from, to], inclusive. */
@@ -97,4 +98,25 @@ export function selectArtistHits(
       return { ...song, ...(year === null ? {} : { year }), topPosition: i + 1 };
     });
   return { hits, unknownYear, missingIncludes };
+}
+
+/**
+ * The artist's most popular songs outside the hits, from any year: wrong
+ * options for the hardcore mode, where all 4 songs are by the same artist.
+ * Songs that look like a hit or a more popular decoy are skipped.
+ */
+export function selectArtistDecoys(
+  songs: readonly PoolSong[],
+  hits: readonly PoolSong[],
+  count: number = HARDCORE_DECOYS_PER_ARTIST,
+): DecoySong[] {
+  const seenTitles = hits.map((s) => s.title);
+  const decoys: DecoySong[] = [];
+  for (const song of [...songs].sort((a, b) => a.topPosition - b.topPosition)) {
+    if (decoys.length >= count) break;
+    if (seenTitles.some((t) => areConfusableTitles(t, song.title))) continue;
+    seenTitles.push(song.title);
+    decoys.push({ id: song.id, title: song.title, artist: song.artist, rank: song.rank });
+  }
+  return decoys;
 }
