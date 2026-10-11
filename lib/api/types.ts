@@ -11,6 +11,32 @@ export interface DailyChallengeResponse {
   rounds: { options: RoundOption[] }[];
 }
 
+export interface HardcoreChallengeResponse {
+  category: string;
+  date: string;
+  rounds: {
+    /** Step 1: artist names. */
+    artists: string[];
+    /** Second of the preview where the clip starts. */
+    clipStart: number;
+  }[];
+}
+
+/** Result of step 1 of a hardcore round. */
+export type HardcoreArtistResponse =
+  | {
+      correct: true;
+      answerIndex: number;
+      /** Step 2: song titles, all by the right artist. */
+      songs: string[];
+    }
+  | {
+      correct: false;
+      answerIndex: number;
+      /** The round is over. */
+      answer: RevealedAnswer;
+    };
+
 export interface InfiniteRoundRequest {
   /** Tokens of rounds already played in this session (most recent last). */
   recent?: string[];
@@ -54,6 +80,8 @@ export interface CreateRoomRequest {
   category: string;
   roundCount: number;
   hardMode: boolean;
+  /** Artist first, then the song; forces hard mode. */
+  hardcore?: boolean;
   name: string;
 }
 
@@ -68,7 +96,8 @@ export interface RoomCodeResponse {
 export interface RoomStanding {
   name: string;
   answered: number;
-  correct: number;
+  /** Out of `RoomResponse.maxScore`. */
+  points: number;
   totalMs: number;
   finished: boolean;
   /** null while still playing. */
@@ -77,18 +106,32 @@ export interface RoomStanding {
 }
 
 export interface RoomRoundRecord {
+  /** Hardcore rooms: the song guess, or the artist guess when it was wrong. */
   choice: number;
   answerIndex: number;
   correct: boolean;
+  /** 0 or 1; in hardcore rooms 0 to 2. */
+  points: number;
+  /** Hardcore rooms only. */
+  hardcore: { artistChoice: number; artistAnswerIndex: number; songs: string[] | null } | null;
   elapsedMs: number;
   answer: RevealedAnswer;
 }
+
+/** What a player sees of a round before answering it. */
+export type RoomRoundView =
+  | { options: RoundOption[] }
+  /** Hardcore rooms: artists of step 1. */
+  | { artists: string[]; clipStart: number };
 
 export interface RoomResponse {
   code: string;
   category: { slug: string; name: string };
   roundCount: number;
   hardMode: boolean;
+  hardcore: boolean;
+  /** Best possible score: `roundCount`, doubled in hardcore rooms. */
+  maxScore: number;
   createdAt: number;
   expiresAt: number;
   maxPlayers: number;
@@ -98,8 +141,10 @@ export interface RoomResponse {
   /** Only for players of the room. */
   me: {
     name: string;
-    rounds: { options: RoundOption[] }[];
+    rounds: RoomRoundView[];
     /** Answered rounds, in order. */
     answers: RoomRoundRecord[];
+    /** Hardcore rooms: the current round when its artist was right and the song is pending. */
+    openStep: { artistChoice: number; artistAnswerIndex: number; songs: string[] } | null;
   } | null;
 }

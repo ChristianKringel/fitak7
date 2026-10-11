@@ -69,9 +69,10 @@ export default async function Home() {
                       <PlayIcon />
                       Desafio diário
                     </Link>
-                    <Link href={`/${category.slug}/infinito`} className={`${secondaryButton} px-2`}>
-                      <InfinityIcon />
-                      Infinito
+                    {/* The endless mode is hidden (INFINITE_ENABLED); hardcore takes its place. */}
+                    <Link href={`/${category.slug}/hardcore`} className={`${secondaryButton} px-2`}>
+                      <SkullIcon />
+                      Hardcore
                     </Link>
                   </div>
                 )}
@@ -92,15 +93,19 @@ function PlayIcon() {
   );
 }
 
-function InfinityIcon() {
+function SkullIcon() {
   return (
-    <svg width="20" height="12" viewBox="0 0 20 12" aria-hidden>
+    <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden>
       <path
-        d="M10 6c-2-3-3.5-4.5-5.5-4.5a4.5 4.5 0 0 0 0 9C6.5 10.5 8 9 10 6zm0 0c2 3 3.5 4.5 5.5 4.5a4.5 4.5 0 0 0 0-9C13.5 1.5 12 3 10 6z"
+        d="M8 1.5c-3.6 0-6 2.4-6 5.6 0 1.9.9 3.2 2.2 4v2.4h7.6v-2.4c1.3-.8 2.2-2.1 2.2-4 0-3.2-2.4-5.6-6-5.6z"
         fill="none"
         stroke="currentColor"
-        strokeWidth="2.2"
+        strokeWidth="1.8"
+        strokeLinejoin="round"
       />
+      <circle cx="5.6" cy="7.4" r="1.4" fill="currentColor" />
+      <circle cx="10.4" cy="7.4" r="1.4" fill="currentColor" />
+      <path d="M6.8 13.5v-1.6M9.2 13.5v-1.6" stroke="currentColor" strokeWidth="1.4" />
     </svg>
   );
 }

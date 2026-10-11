@@ -4,6 +4,8 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 
 import { parseCatalog, type Catalog, type Category } from "@/lib/game/catalog";
+import type { Genre } from "@/lib/game/genres";
+import type { HardcoreSchedule } from "@/lib/game/hardcore";
 import type { CategoryPool } from "@/lib/game/pool";
 import type { CategorySchedule } from "@/lib/game/schedule";
 
@@ -37,12 +39,27 @@ export async function getCategory(slug: string): Promise<Category | null> {
   return catalog?.categories.find((c) => c.slug === slug) ?? null;
 }
 
+/**
+ * Genre of each artist for the hardcore mode: only in hits lists; in niche
+ * categories any artist of the category sounds alike (null).
+ */
+export async function getGenreLookup(category: Category): Promise<(artist: string) => Genre | null> {
+  const catalog = await getCatalog();
+  if (!category.years) return () => null;
+  const genres = new Map(catalog?.artists.map((a) => [a.name, a.genre ?? null]));
+  return (artist) => genres.get(artist) ?? null;
+}
+
 export async function getPool(category: Category): Promise<CategoryPool | null> {
   return load(`generated/pools/${category.slug}.json`, (raw) => raw as CategoryPool);
 }
 
 export async function getSchedule(category: Category): Promise<CategorySchedule | null> {
   return load(`generated/schedules/${category.slug}.json`, (raw) => raw as CategorySchedule);
+}
+
+export async function getHardcoreSchedule(category: Category): Promise<HardcoreSchedule | null> {
+  return load(`generated/schedules/hardcore/${category.slug}.json`, (raw) => raw as HardcoreSchedule);
 }
 
 export interface CategorySummary extends Category {

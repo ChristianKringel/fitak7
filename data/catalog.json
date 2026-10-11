@@ -91,6 +91,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -104,6 +105,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -135,6 +137,7 @@
         "rock-gaucho",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -187,6 +190,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -200,6 +204,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -213,6 +218,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -225,6 +231,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -238,6 +245,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -250,6 +258,7 @@
         "anos-80",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -271,6 +280,7 @@
         "musica-gaucha",
         "anos-70"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -965,6 +975,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -976,6 +987,7 @@
         "rock-br",
         "anos-70"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -987,6 +999,7 @@
         "rock-br",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -998,6 +1011,7 @@
         "rock-br",
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1011,6 +1025,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1023,6 +1038,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1035,6 +1051,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1047,6 +1064,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1058,6 +1076,7 @@
         "rock-br",
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1079,6 +1098,7 @@
         "rock-br",
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [
         112276032,
         89785042,
@@ -1104,6 +1124,7 @@
         "rock-br",
         "anos-70"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1116,6 +1137,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1127,6 +1149,7 @@
         "rock-br",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1139,6 +1162,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1151,6 +1175,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1163,6 +1188,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1175,6 +1201,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1186,6 +1213,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1197,6 +1225,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1209,6 +1238,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1220,6 +1250,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1232,6 +1263,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1244,6 +1276,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1256,6 +1289,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1268,6 +1302,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1280,6 +1315,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1290,6 +1326,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1302,6 +1339,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1314,6 +1352,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1324,6 +1363,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1335,6 +1375,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1346,6 +1387,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1357,6 +1399,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1370,6 +1413,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1381,6 +1425,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1392,6 +1437,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1402,6 +1448,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1412,6 +1459,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1424,6 +1472,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1434,6 +1483,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1445,6 +1495,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1456,6 +1507,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1466,6 +1518,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1477,6 +1530,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1487,6 +1541,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1498,6 +1553,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1508,6 +1564,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1519,6 +1576,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1530,6 +1588,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1540,6 +1599,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1550,6 +1610,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1561,6 +1622,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1572,6 +1634,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1582,6 +1645,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1592,6 +1656,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1602,6 +1667,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1612,6 +1678,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1624,6 +1691,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1635,6 +1703,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1646,6 +1715,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1658,6 +1728,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1669,6 +1740,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1681,6 +1753,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1692,6 +1765,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1703,6 +1777,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1714,6 +1789,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1725,6 +1801,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1736,6 +1813,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1746,6 +1824,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1756,6 +1835,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1766,6 +1846,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1777,6 +1858,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1788,6 +1870,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1799,6 +1882,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1810,6 +1894,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1820,6 +1905,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1830,6 +1916,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1840,6 +1927,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1850,6 +1938,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1861,6 +1950,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1872,6 +1962,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1883,6 +1974,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1893,6 +1985,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1903,6 +1996,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1914,6 +2008,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1924,6 +2019,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1934,6 +2030,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1945,6 +2042,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1955,6 +2053,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1966,6 +2065,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1976,6 +2076,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1986,6 +2087,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -1996,6 +2098,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2006,6 +2109,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2016,6 +2120,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2026,6 +2131,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2036,6 +2142,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2046,6 +2153,7 @@
       "categories": [
         "anos-70"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2057,6 +2165,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2068,6 +2177,7 @@
         "anos-70",
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2078,6 +2188,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2088,6 +2199,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2099,6 +2211,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2109,6 +2222,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2121,6 +2235,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2131,6 +2246,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2141,6 +2257,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2152,6 +2269,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2162,6 +2280,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2172,6 +2291,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2182,6 +2302,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2192,6 +2313,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2202,6 +2324,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2212,6 +2335,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2222,6 +2346,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2233,6 +2358,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2243,6 +2369,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2253,6 +2380,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2263,6 +2391,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2273,6 +2402,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2284,6 +2414,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2295,6 +2426,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2305,6 +2437,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "infantil",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2315,6 +2448,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "infantil",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2325,6 +2459,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "infantil",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2335,6 +2470,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2345,6 +2481,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "infantil",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2356,6 +2493,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2368,6 +2506,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2378,6 +2517,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2388,6 +2528,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2398,6 +2539,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2408,6 +2550,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2418,6 +2561,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2429,6 +2573,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2441,6 +2586,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2453,6 +2599,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2463,6 +2610,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2473,6 +2621,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2483,6 +2632,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2493,6 +2643,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2503,6 +2654,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2513,6 +2665,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2523,6 +2676,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2533,6 +2687,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "romantica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2543,6 +2698,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2553,6 +2709,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2563,6 +2720,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2573,6 +2731,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2583,6 +2742,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2593,6 +2753,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2603,6 +2764,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2613,6 +2775,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2623,6 +2786,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2634,6 +2798,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2645,6 +2810,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2656,6 +2822,7 @@
         "anos-80",
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2668,6 +2835,7 @@
         "anos-2000",
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2678,6 +2846,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2688,6 +2857,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2698,6 +2868,7 @@
       "categories": [
         "anos-80"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2709,6 +2880,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2719,6 +2891,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "reggae",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2729,6 +2902,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2739,6 +2913,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2750,6 +2925,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2760,6 +2936,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2771,6 +2948,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2781,6 +2959,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2791,6 +2970,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2801,6 +2981,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2811,6 +2992,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2821,6 +3003,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2831,6 +3014,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2841,6 +3025,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2852,6 +3037,7 @@
         "anos-90",
         "anos-2010"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2862,6 +3048,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2873,6 +3060,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2883,6 +3071,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2893,6 +3082,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2905,6 +3095,7 @@
         "anos-2000",
         "anos-2010"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2915,6 +3106,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2925,6 +3117,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2935,6 +3128,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2945,6 +3139,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2955,6 +3150,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2965,6 +3161,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2976,6 +3173,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2986,6 +3184,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -2997,6 +3196,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3007,6 +3207,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3017,6 +3218,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3029,6 +3231,7 @@
         "anos-2000",
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3040,6 +3243,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3051,6 +3255,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3062,6 +3267,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3073,6 +3279,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3084,6 +3291,7 @@
         "anos-90",
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3094,6 +3302,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3106,6 +3315,7 @@
         "anos-2000",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3116,6 +3326,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3126,6 +3337,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3136,6 +3348,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3146,6 +3359,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3157,6 +3371,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3167,6 +3382,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3177,6 +3393,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3187,6 +3404,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3197,6 +3415,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3207,6 +3426,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3217,6 +3437,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3228,6 +3449,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "reggae",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3238,6 +3460,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "reggae",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3249,6 +3472,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3260,6 +3484,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3270,6 +3495,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3280,6 +3506,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3290,6 +3517,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3301,6 +3529,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3311,6 +3540,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3321,6 +3551,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3334,6 +3565,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3347,6 +3579,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3358,6 +3591,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3368,6 +3602,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3378,6 +3613,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3391,6 +3627,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3401,6 +3638,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3411,6 +3649,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3421,6 +3660,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3431,6 +3671,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3441,6 +3682,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3451,6 +3693,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3463,6 +3706,7 @@
         "anos-2000",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3473,6 +3717,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3483,6 +3728,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3493,6 +3739,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3503,6 +3750,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3514,6 +3762,7 @@
         "anos-90",
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3524,6 +3773,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3534,6 +3784,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3545,6 +3796,7 @@
         "anos-2000",
         "anos-2010"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3555,6 +3807,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3565,6 +3818,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3575,6 +3829,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3585,6 +3840,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3595,6 +3851,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3605,6 +3862,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3615,6 +3873,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3625,6 +3884,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3635,6 +3895,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3646,6 +3907,7 @@
         "anos-2000",
         "anos-2020"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3656,6 +3918,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3667,6 +3930,7 @@
         "anos-2000",
         "anos-2010"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3678,6 +3942,7 @@
         "anos-2000",
         "anos-2010"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3688,6 +3953,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3699,6 +3965,7 @@
         "anos-2000",
         "anos-2010"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3709,6 +3976,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3719,6 +3987,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3729,6 +3998,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3740,6 +4010,7 @@
         "anos-2000",
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3752,6 +4023,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3762,6 +4034,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3773,6 +4046,7 @@
         "anos-2000",
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3785,6 +4059,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3798,6 +4073,7 @@
         "anos-2020",
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3808,6 +4084,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3818,6 +4095,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3828,6 +4106,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3838,6 +4117,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3848,6 +4128,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3858,6 +4139,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3868,6 +4150,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3878,6 +4161,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "reggae",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3888,6 +4172,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "reggae",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3899,6 +4184,7 @@
         "anos-2000",
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3909,6 +4195,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3919,6 +4206,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3929,6 +4217,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3939,6 +4228,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3949,6 +4239,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3959,6 +4250,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3969,6 +4261,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3980,6 +4273,7 @@
         "anos-2000",
         "anos-2010"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -3990,6 +4284,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4000,6 +4295,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4010,6 +4306,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4020,6 +4317,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4030,6 +4328,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4041,6 +4340,7 @@
         "anos-2000",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4051,6 +4351,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4061,6 +4362,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4071,6 +4373,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4081,6 +4384,7 @@
       "categories": [
         "anos-2000"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4092,6 +4396,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4103,6 +4408,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4114,6 +4420,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4125,6 +4432,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4136,6 +4444,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4147,6 +4456,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4158,6 +4468,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4168,6 +4479,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4179,6 +4491,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4190,6 +4503,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4201,6 +4515,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4211,6 +4526,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4221,6 +4537,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4231,6 +4548,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4241,6 +4559,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4252,6 +4571,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4263,6 +4583,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4274,6 +4595,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4285,6 +4607,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4295,6 +4618,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4306,6 +4630,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4317,6 +4642,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4327,6 +4653,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4337,6 +4664,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4347,6 +4675,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4357,6 +4686,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4367,6 +4697,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4377,6 +4708,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4388,6 +4720,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4398,6 +4731,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4408,6 +4742,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4418,6 +4753,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4429,6 +4765,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4440,6 +4777,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4451,6 +4789,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4462,6 +4801,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4472,6 +4812,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4482,6 +4823,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4493,6 +4835,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4503,6 +4846,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4513,6 +4857,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4523,6 +4868,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4534,6 +4880,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4545,6 +4892,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "axe",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4555,6 +4903,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4566,6 +4915,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "eletronica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4577,6 +4927,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "eletronica",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4588,6 +4939,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4599,6 +4951,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4610,6 +4963,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4621,6 +4975,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4631,6 +4986,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4641,6 +4997,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4651,6 +5008,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4661,6 +5019,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4672,6 +5031,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4683,6 +5043,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4693,6 +5054,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4703,6 +5065,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4714,6 +5077,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4724,6 +5088,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4734,6 +5099,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4744,6 +5110,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4754,6 +5121,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4764,6 +5132,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4774,6 +5143,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "rock",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4784,6 +5154,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4794,6 +5165,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4804,6 +5176,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "mpb",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4814,6 +5187,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4824,6 +5198,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4834,6 +5209,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4845,6 +5221,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4855,6 +5232,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4865,6 +5243,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4875,6 +5254,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4885,6 +5265,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4895,6 +5276,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4905,6 +5287,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4915,6 +5298,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4925,6 +5309,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4935,6 +5320,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4945,6 +5331,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4955,6 +5342,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4965,6 +5353,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4975,6 +5364,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4985,6 +5375,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -4996,6 +5387,7 @@
         "anos-2010",
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5006,6 +5398,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5016,6 +5409,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5026,6 +5420,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5036,6 +5431,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5046,6 +5442,7 @@
       "categories": [
         "anos-2010"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5056,6 +5453,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5066,6 +5464,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5076,6 +5475,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5086,6 +5486,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5096,6 +5497,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5106,6 +5508,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5116,6 +5519,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5126,6 +5530,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5136,6 +5541,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5146,6 +5552,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5156,6 +5563,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5166,6 +5574,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5176,6 +5585,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5186,6 +5596,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5196,6 +5607,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5206,6 +5618,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5216,6 +5629,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5226,6 +5640,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5236,6 +5651,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5246,6 +5662,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5256,6 +5673,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5266,6 +5684,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5276,6 +5695,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5286,6 +5706,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5296,6 +5717,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5306,6 +5728,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5316,6 +5739,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5326,6 +5750,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5336,6 +5761,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5346,6 +5772,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5356,6 +5783,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "soul",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5366,6 +5794,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5376,6 +5805,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5386,6 +5816,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5396,6 +5827,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5406,6 +5838,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5416,6 +5849,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5426,6 +5860,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "pop",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5436,6 +5871,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5446,6 +5882,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5456,6 +5893,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5466,6 +5904,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5476,6 +5915,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5486,6 +5926,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5496,6 +5937,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5506,6 +5948,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5516,6 +5959,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5526,6 +5970,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "forro",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5536,6 +5981,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "rap",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5546,6 +5992,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5556,6 +6003,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "funk",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5566,6 +6014,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5576,6 +6025,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5586,6 +6036,7 @@
       "categories": [
         "anos-2020"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5596,6 +6047,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "sertanejo",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""
@@ -5606,6 +6058,7 @@
       "categories": [
         "anos-90"
       ],
+      "genre": "samba",
       "excludeAlbumIds": [],
       "excludeTrackIds": [],
       "notes": ""

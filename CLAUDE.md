@@ -31,13 +31,14 @@ pnpm schedule:build   # gera a agenda dos desafios diários
 
 **Respostas:** só os 10% mais populares de cada artista (pelo rank do Deezer, mínimo de 3 músicas) podem ser a resposta, com mais peso para as mais tocadas. As outras músicas só aparecem como opções erradas. Ajustável em `lib/game/config.ts` (`TOP_SHARE_PER_ARTIST`, `MIN_TOP_SONGS_PER_ARTIST`).
 
-**Categorias por década (listas de hits):** categorias com `years` no catálogo (Anos 70 a Anos 2020) só têm músicas brasileiras muito conhecidas, tanto nas respostas quanto nas opções erradas. Só entram artistas relevantes na década, cada um com um limite de músicas definido na curadoria (`hits` do artista no catálogo: 7 para os ícones da década, 3 por padrão, 1 para hit único). Entram as músicas mais populares do artista (rank do Deezer, entre as 40 mais populares dele e acima de um rank mínimo) lançadas nos anos da categoria, até o limite, mais as listadas em `include`. Todas podem ser resposta. No diário, nunca há duas músicas do mesmo artista no mesmo dia; no infinito pode. Ajustável em `lib/game/config.ts` (`HITS_DEFAULT_PER_ARTIST`, `HITS_CANDIDATES_PER_ARTIST`, `HITS_MIN_RANK`); lógica em `lib/game/hits.ts`.
+**Categorias por década (listas de hits):** categorias com `years` no catálogo (Anos 70 a Anos 2020) só têm músicas brasileiras muito conhecidas, tanto nas respostas quanto nas opções erradas. Só entram artistas relevantes na década, cada um com um limite de músicas definido na curadoria (`hits` do artista no catálogo: 7 para os ícones da década, 3 por padrão, 1 para hit único). Entram as músicas mais populares do artista (rank do Deezer, entre as 40 mais populares dele e acima de um rank mínimo) lançadas nos anos da categoria, até o limite, mais as listadas em `include`. Todas podem ser resposta. No diário e no Hardcore, nunca há duas músicas do mesmo artista no mesmo dia; no infinito pode. Ajustável em `lib/game/config.ts` (`HITS_DEFAULT_PER_ARTIST`, `HITS_CANDIDATES_PER_ARTIST`, `HITS_MIN_RANK`); lógica em `lib/game/hits.ts`.
 
 **Modos:**
 - **Desafio diário:** 5 músicas por categoria por dia, iguais para todos. Vira à meia-noite de `America/Sao_Paulo`. Cada categoria tem o seu. Não pode rejogar o dia. Resultado final X/5 com texto compartilhável (ex.: `🟩🟥🟩🟩🟩`).
-- **Infinito/treino:** músicas aleatórias da categoria, sem fim, com contagem de sequência de acertos. Não repetir músicas dentro da sessão.
-- **Modo difícil:** toggle global que vale para o diário e o infinito. Trecho de 5s em vez da duração normal.
-- **Multiplayer (modo desafio):** assíncrono. Alguém cria uma sala (categoria, 5 a 20 rodadas, modo normal ou difícil fixo da sala) e recebe um código de 6 caracteres (`/sala/{código}`). Todos jogam as mesmas músicas, na mesma ordem e com as mesmas opções, cada um no seu tempo; nenhuma música se repete na sala e os artistas só repetem depois de todos aparecerem. Apelido único por sala, até 20 jogadores, um palpite por rodada, rodadas em ordem. Placar: mais acertos, desempate pelo menor tempo total. O tempo de cada rodada é medido no servidor, do primeiro pedido de áudio até o palpite (por isso o áudio da sala não é pré-carregado). A sala expira 3 dias depois de criada. "Revanche" cria uma sala com as mesmas configurações e músicas novas, compartilhada por todos da sala. Limites em `lib/game/room.ts`.
+- **Hardcore:** um segundo desafio diário por categoria, com outras músicas (nunca as do diário normal do mesmo dia), 5 rodadas, mesmas regras de virada e de não rejogar. Cada rodada tem duas etapas: primeiro o jogador escolhe o artista entre 4; se errar, a rodada acaba. Se acertar, escolhe a música entre 4 do mesmo artista, todas entre as mais populares dele (`HARDCORE_STRONG_DECOYS`). Os 4 artistas são do mesmo gênero (`genre` do artista, nas categorias por década) ou, nas categorias de nicho, quaisquer da categoria. O trecho começa num ponto aleatório da prévia (`clipStart`, sorteado na agenda), não no início. Pontuação: 1 pelo artista + 1 pela música, total X/10, compartilhável como `🟩🟨🟥🟩🟩` (🟨 = só o artista). Lógica em `lib/game/hardcore.ts`, gêneros em `lib/game/genres.ts`.
+- **Infinito/treino (escondido):** músicas aleatórias da categoria, sem fim, com contagem de sequência de acertos. Não repetir músicas dentro da sessão. Está desligado por `INFINITE_ENABLED = false` em `lib/game/config.ts` (página e API devolvem 404, sem links na interface); o código continua lá.
+- **Modo difícil:** toggle global que vale para o diário e o Hardcore. Trecho de 5s em vez da duração normal.
+- **Multiplayer (modo desafio):** assíncrono. Alguém cria uma sala (categoria, 5 a 20 rodadas, modo normal, difícil ou Hardcore fixo da sala) e recebe um código de 6 caracteres (`/sala/{código}`). Todos jogam as mesmas músicas, na mesma ordem e com as mesmas opções, cada um no seu tempo; nenhuma música se repete na sala e os artistas só repetem depois de todos aparecerem. Apelido único por sala, até 20 jogadores, um palpite por rodada, rodadas em ordem. Placar: mais pontos (1 por acerto), desempate pelo menor tempo total. O tempo de cada rodada é medido no servidor, do primeiro pedido de áudio até o palpite (por isso o áudio da sala não é pré-carregado). **Sala Hardcore:** mesma dinâmica do Hardcore do singleplayer (artista entre 4 do mesmo gênero, depois música entre 4 do artista, trecho a partir de um ponto aleatório), sempre com trecho de 5s. Vale 1 ponto pelo artista e 1 pela música (máximo 2 × rodadas); a rodada termina no erro do artista ou no palpite da música, e o tempo conta até aí. A sala expira 3 dias depois de criada. "Revanche" cria uma sala com as mesmas configurações e músicas novas, compartilhada por todos da sala. Limites em `lib/game/room.ts`.
 
 Durações ficam em `lib/game/config.ts` (`NORMAL_CLIP_SECONDS = 15`, `HARD_CLIP_SECONDS = 5`), fáceis de ajustar.
 
@@ -64,6 +65,7 @@ data/
     pools/{categoria}.json        # GERADO por pool:build. Não editar à mão.
     song-years.json               # GERADO por pool:build (cache de anos do MusicBrainz). Não editar à mão.
     schedules/{categoria}.json    # GERADO por schedule:build. Não editar à mão.
+    schedules/hardcore/{categoria}.json  # GERADO por schedule:build (modo Hardcore). Não editar à mão.
 ```
 
 **`catalog.json`** é a fonte da verdade da curadoria:
@@ -88,7 +90,7 @@ data/
 
 Um artista pode estar em várias categorias. `deezerId: null` significa "ainda não resolvido".
 
-Campos opcionais: `years: [de, até]` na categoria (inclusivo) a transforma em lista de hits. `songYears: { "Título": ano }` no artista corrige o ano de lançamento de uma música quando o MusicBrainz erra ou não acha. `hits: { "anos-80": { "limit": 7, "include": ["Título"] } }` no artista define quantas músicas ele tem naquela década e quais entram sempre.
+Campos opcionais: `years: [de, até]` na categoria (inclusivo) a transforma em lista de hits. `songYears: { "Título": ano }` no artista corrige o ano de lançamento de uma música quando o MusicBrainz erra ou não acha. `hits: { "anos-80": { "limit": 7, "include": ["Título"] } }` no artista define quantas músicas ele tem naquela década e quais entram sempre. `genre` no artista (valores em `lib/game/genres.ts`) é obrigatório na prática para os artistas das décadas: o modo Hardcore usa para mostrar artistas parecidos (o `schedule:build` avisa quem está sem).
 
 **Sempre que mexer em categorias ou artistas no `catalog.json`** (adicionar, remover, renomear, mudar de categoria), atualizar também o `data/CATEGORIAS.md` (ou o `data/DECADAS.md`, para as categorias por década) no mesmo commit.
 
@@ -101,8 +103,9 @@ Campos opcionais: `years: [de, até]` na categoria (inclusivo) a transforma em l
 - Cada música tem um `id` estável derivado de artista + título normalizado (não do ID do Deezer).
 - Ao final, imprime um resumo por categoria e avisa se alguma tiver poucas músicas para sustentar o desafio diário.
 - **Anos de lançamento (listas de hits):** as datas de álbum do Deezer não servem (relançamentos e remasters: a Legião inteira aparece como 2007). O ano vem do `songYears` do catálogo ou, senão, do MusicBrainz (`lib/musicbrainz/`, busca de gravações, 1 requisição por segundo, User-Agent com a URL do repositório), pegando o primeiro lançamento entre as gravações com o mesmo título e o mesmo artista. Só as músicas candidatas (top 40 de cada artista, acima do rank mínimo) são consultadas, e o resultado fica em cache em `song-years.json`. Músicas não encontradas só são consultadas de novo com `--retry-missing-years`; músicas sem ano ficam de fora e são listadas no resumo. `--sample=<categoria>` lista os hits com ano e rank.
+- **Iscas do Hardcore (listas de hits):** o pool das décadas também guarda `decoys`, as músicas mais populares de cada artista fora dos hits, de qualquer ano (`HARDCORE_DECOYS_PER_ARTIST`), só como opções erradas da segunda etapa do Hardcore. Os pools de nicho não precisam: já têm a discografia inteira.
 
-**`schedule:build`** gera a agenda dos próximos N dias (padrão 60) por categoria, sem sobrescrever dias passados nem o dia atual. Cada dia guarda as 5 músicas **e as opções de cada rodada já embaralhadas**, para todo mundo ver exatamente o mesmo desafio. Evitar repetir música dentro de 90 dias e evitar dois artistas iguais no mesmo dia quando possível.
+**`schedule:build`** gera a agenda dos próximos N dias (padrão 60) por categoria, sem sobrescrever dias passados nem o dia atual. Cada dia guarda as 5 músicas **e as opções de cada rodada já embaralhadas**, para todo mundo ver exatamente o mesmo desafio. Evitar repetir música dentro de 90 dias e evitar dois artistas iguais no mesmo dia quando possível. Gera também a agenda do Hardcore (`schedules/hardcore/`), com as opções de artista e de música de cada rodada já embaralhadas e o início do trecho, sem usar as músicas do diário normal no mesmo dia.
 
 ## Arquitetura e anti-trapaça
 
@@ -112,19 +115,25 @@ A resposta nunca vai para o cliente antes do palpite. O cliente não recebe IDs 
   - `GET /api/daily/[category]` devolve as 5 rodadas do dia de hoje (só títulos das opções).
   - `GET /api/daily/[category]/[index]/audio` resolve a faixa no servidor, busca o preview fresco e redireciona (302). Nunca servir datas futuras.
   - `POST /api/daily/[category]/[index]/guess` recebe a posição escolhida e devolve se acertou + a resposta completa.
-- **Infinito:** o servidor sorteia a música, monta as opções e devolve um **token criptografado** (AES-256-GCM, segredo em `ROUND_SECRET`) que contém a resposta. Atenção: token só assinado (base64 legível) vazaria a resposta. Áudio e palpite recebem esse token. Para não repetir na sessão, o cliente envia os tokens recentes e o servidor exclui essas músicas.
+- **Hardcore:** as opções de música só vão para o cliente depois do acerto do artista.
+  - `GET /api/hardcore/[category]` devolve as 5 rodadas de hoje: só os artistas e o início do trecho.
+  - `GET /api/hardcore/[category]/[index]/audio` igual ao do diário.
+  - `POST /api/hardcore/[category]/[index]/artist` recebe a posição do artista. Se acertou, devolve as 4 músicas; se errou, a resposta completa.
+  - `POST /api/hardcore/[category]/[index]/guess` recebe a posição da música e devolve se acertou + a resposta completa.
+- **Infinito (escondido):** o servidor sorteia a música, monta as opções e devolve um **token criptografado** (AES-256-GCM, segredo em `ROUND_SECRET`) que contém a resposta. Atenção: token só assinado (base64 legível) vazaria a resposta. Áudio e palpite recebem esse token. Para não repetir na sessão, o cliente envia os tokens recentes e o servidor exclui essas músicas.
 - **Multiplayer:** a sala (músicas e opções já embaralhadas) fica no Redis (`lib/rooms/store.ts`). O jogador é identificado por um ID secreto num cookie httpOnly por sala (`k7_room_{código}`); esse ID nunca vai no corpo das respostas.
   - `POST /api/rooms` cria a sala e já coloca o criador nela.
   - `GET /api/rooms/[code]` devolve configurações e placar; opções e respostas próprias só para quem está na sala.
   - `POST /api/rooms/[code]/join` entra com um apelido.
   - `GET /api/rooms/[code]/[index]/audio` redireciona para o preview; não serve rodadas à frente da atual e marca o início do tempo.
-  - `POST /api/rooms/[code]/[index]/guess` registra o palpite (uma vez, em ordem) e devolve a resposta.
+  - `POST /api/rooms/[code]/[index]/guess` registra o palpite (uma vez, em ordem) e devolve a resposta. Na sala Hardcore, é o palpite da música e só vale depois do artista certo.
+  - `POST /api/rooms/[code]/[index]/artist` (só sala Hardcore) registra o palpite do artista, uma vez por rodada. Certo: devolve as 4 músicas. Errado: encerra a rodada com 0 ponto e devolve a resposta.
   - `POST /api/rooms/[code]/rematch` cria ou reaproveita a sala da revanche.
 - Cachear a resposta de `/track/{id}` por poucos minutos para não martelar o Deezer.
 
 ## Estado do cliente (localStorage)
 
-Chave versionada (ex.: `game:v1`). Guarda: progresso do diário por categoria e data, estatísticas por categoria e modo (jogos, acertos, sequência atual e máxima, distribuição de acertos no diário), e preferências (modo difícil). Ler com fallback seguro se a chave estiver ausente ou corrompida.
+Chave versionada (ex.: `game:v1`). Guarda: progresso do diário e do Hardcore por categoria e data (no Hardcore, cada etapa da rodada), estatísticas por categoria e modo (jogos, acertos, sequência atual e máxima, distribuição de acertos no diário), e preferências (modo difícil). Ler com fallback seguro se a chave estiver ausente ou corrompida.
 
 ## Estrutura de pastas
 
@@ -132,7 +141,8 @@ Chave versionada (ex.: `game:v1`). Guarda: progresso do diário por categoria e 
 app/
   page.tsx                          # escolha de categoria
   [category]/page.tsx               # desafio diário
-  [category]/infinito/page.tsx      # modo infinito
+  [category]/hardcore/page.tsx      # modo Hardcore
+  [category]/infinito/page.tsx      # modo infinito (escondido)
   multiplayer/page.tsx              # criar sala ou entrar com código
   sala/[code]/page.tsx              # sala do multiplayer
   api/...                           # route handlers acima

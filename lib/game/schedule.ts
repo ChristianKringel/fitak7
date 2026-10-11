@@ -59,7 +59,12 @@ export interface BuildScheduleInput {
   uniqueArtists?: boolean;
 }
 
-function pickSong(
+/**
+ * Picks the next song of a day: one not played in the last NO_REPEAT_DAYS
+ * (or else the least recently played), preferring an artist not chosen yet
+ * that day (or requiring it, with `uniqueArtists`).
+ */
+export function pickSong(
   rng: Rng,
   pool: readonly PoolSong[],
   weight: (song: PoolSong) => number,

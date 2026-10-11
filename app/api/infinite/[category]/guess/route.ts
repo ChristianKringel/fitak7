@@ -1,8 +1,10 @@
+import { INFINITE_ENABLED } from "@/lib/game/config";
 import { findInfiniteRound } from "@/lib/server/infinite";
 import { guessResponse, isValidChoice, jsonError, readJsonObject } from "@/lib/server/http";
 
 /** Body: `{ token, choice: 0-3 }`. Returns the result and the answer. */
 export async function POST(request: Request, ctx: RouteContext<"/api/infinite/[category]/guess">) {
+  if (!INFINITE_ENABLED) return jsonError(404, "Modo indisponível.");
   const body = await readJsonObject(request);
   if (!body || !isValidChoice(body.choice)) return jsonError(400, "Palpite inválido.");
 

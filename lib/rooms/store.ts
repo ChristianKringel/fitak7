@@ -15,6 +15,7 @@ import { generateRoomCode, MAX_ROOM_PLAYERS, nicknameKey, type Room } from "@/li
 //   room:{code}:names      nickname key → player id (unique nicknames)
 //   room:{code}:starts     "{player id}:{round}" → first audio request (ms)
 //   room:{code}:answers    "{player id}:{round}" → StoredAnswer
+//   room:{code}:artists    "{player id}:{round}" → StoredArtistGuess (hardcore step 1)
 //   room:{code}:rematch    code of the rematch room
 //
 // Player ids are secrets (they authenticate the player through a cookie)
@@ -25,13 +26,34 @@ export interface StoredPlayer {
   joinedAt: number;
 }
 
-export interface StoredAnswer {
+/** Step 1 of a hardcore round. */
+export interface StoredArtistGuess {
   choice: number;
   answerIndex: number;
   correct: boolean;
+}
+
+export interface StoredAnswer {
+  /** Hardcore rooms: the song guess, or the artist guess when it was wrong. */
+  choice: number;
+  answerIndex: number;
+  /** Hardcore rooms: both steps right. */
+  correct: boolean;
+  /** Missing in rooms created before hardcore: 1 if correct. */
+  points?: number;
+  /** Hardcore rooms only. */
+  hardcore?: {
+    artist: StoredArtistGuess;
+    /** Song options; null when the artist was wrong. */
+    songs: string[] | null;
+  };
   answeredAt: number;
   elapsedMs: number;
   answer: RevealedAnswer;
+}
+
+export function answerPoints(answer: StoredAnswer): number {
+  return answer.points ?? (answer.correct ? 1 : 0);
 }
 
 let client: Redis | undefined;
@@ -47,6 +69,7 @@ const keys = (code: string) => ({
   names: `room:${code}:names`,
   starts: `room:${code}:starts`,
   answers: `room:${code}:answers`,
+  artists: `room:${code}:artists`,
   rematch: `room:${code}:rematch`,
 });
 
@@ -177,6 +200,26 @@ export async function saveAnswer(
     .pexpireat(k.answers, room.expiresAt)
     .exec();
   return saved === 1;
+}
+
+/** Saves step 1 of a hardcore round unless already guessed; false in that case. */
+export async function saveArtistGuess(
+  room: Room,
+  playerId: string,
+  index: number,
+  guess: StoredArtistGuess,
+): Promise<boolean> {
+  const k = keys(room.code);
+  const [saved] = await redis()
+    .multi()
+    .hsetnx(k.artists, roundField(playerId, index), guess)
+    .pexpireat(k.artists, room.expiresAt)
+    .exec();
+  return saved === 1;
+}
+
+export async function getArtistGuess(room: Room, playerId: string, index: number): Promise<StoredArtistGuess | null> {
+  return redis().hget<StoredArtistGuess>(keys(room.code).artists, roundField(playerId, index));
 }
 
 /** Links a rematch room; returns the code that won if another one was linked first. */

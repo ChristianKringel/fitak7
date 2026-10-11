@@ -5,6 +5,8 @@ import type {
   CreateRoomRequest,
   DailyChallengeResponse,
   GuessResponse,
+  HardcoreArtistResponse,
+  HardcoreChallengeResponse,
   InfiniteRoundResponse,
   RoomCodeResponse,
   RoomResponse,
@@ -50,6 +52,14 @@ export const api = {
   dailyGuess: (category: string, index: number, choice: number, date: string) =>
     post<GuessResponse>(`/api/daily/${enc(category)}/${index}/guess`, { choice, date }),
 
+  hardcore: (category: string) => request<HardcoreChallengeResponse>(`/api/hardcore/${enc(category)}`),
+  hardcoreAudioUrl: (category: string, index: number, date: string) =>
+    `/api/hardcore/${enc(category)}/${index}/audio?date=${enc(date)}`,
+  hardcoreArtist: (category: string, index: number, choice: number, date: string) =>
+    post<HardcoreArtistResponse>(`/api/hardcore/${enc(category)}/${index}/artist`, { choice, date }),
+  hardcoreGuess: (category: string, index: number, choice: number, date: string) =>
+    post<GuessResponse>(`/api/hardcore/${enc(category)}/${index}/guess`, { choice, date }),
+
   infiniteRound: (category: string, recent: string[]) =>
     post<InfiniteRoundResponse>(`/api/infinite/${enc(category)}/round`, { recent }),
   infiniteAudioUrl: (category: string, token: string) =>
@@ -62,6 +72,8 @@ export const api = {
   joinRoom: (code: string, name: string) => post<RoomCodeResponse>(`/api/rooms/${enc(code)}/join`, { name }),
   rematch: (code: string) => post<RoomCodeResponse>(`/api/rooms/${enc(code)}/rematch`, {}),
   roomAudioUrl: (code: string, index: number) => `/api/rooms/${enc(code)}/${index}/audio`,
+  roomArtist: (code: string, index: number, choice: number) =>
+    post<HardcoreArtistResponse>(`/api/rooms/${enc(code)}/${index}/artist`, { choice }),
   roomGuess: (code: string, index: number, choice: number) =>
     post<GuessResponse>(`/api/rooms/${enc(code)}/${index}/guess`, { choice }),
 };

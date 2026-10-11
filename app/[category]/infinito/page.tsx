@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { InfiniteGame } from "@/components/InfiniteGame";
 import { PageHeading } from "@/components/PageHeading";
 import { tapeColor } from "@/components/tape";
+import { INFINITE_ENABLED } from "@/lib/game/config";
 import { getCategory, listCategories } from "@/lib/server/data";
 
 export const dynamicParams = false;
@@ -19,7 +20,8 @@ export async function generateMetadata(props: PageProps<"/[category]/infinito">)
 
 export default async function InfinitePage(props: PageProps<"/[category]/infinito">) {
   const category = await getCategory((await props.params).category);
-  if (!category) notFound();
+  // Hidden while the hardcore mode takes its place (see INFINITE_ENABLED).
+  if (!INFINITE_ENABLED || !category) notFound();
 
   const index = (await listCategories()).findIndex((c) => c.slug === category.slug);
   const color = tapeColor(index);

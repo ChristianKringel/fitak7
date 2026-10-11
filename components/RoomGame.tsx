@@ -5,8 +5,9 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useState, type FormEvent } from "react";
 
 import { api, ApiRequestError } from "@/lib/api/client";
-import type { RoomResponse, RoomStanding } from "@/lib/api/types";
+import type { RoomResponse, RoomRoundRecord, RoomStanding } from "@/lib/api/types";
 import { clipSeconds, HARD_CLIP_SECONDS, NORMAL_CLIP_SECONDS } from "@/lib/game/config";
+import type { HardcoreRoundRecord } from "@/lib/game/progress";
 import { formatDuration, MAX_NICKNAME_LENGTH } from "@/lib/game/room";
 import { roomInviteText, roomShareText } from "@/lib/game/share";
 import { loadNickname, saveNickname } from "@/lib/storage/nickname";
@@ -14,6 +15,7 @@ import { loadNickname, saveNickname } from "@/lib/storage/nickname";
 import { AnswerCard } from "./AnswerCard";
 import { BackLink } from "./BackLink";
 import { Cassette } from "./Cassette";
+import { HardcoreRoundPanel, POINT_COLORS, POINT_LABELS } from "./HardcoreGame";
 import { RoomRules } from "./RoomRules";
 import { RoundPanel } from "./RoundPanel";
 import { ShareButton } from "./ShareButton";
@@ -108,6 +110,7 @@ export function RoomGame({ code, colors }: RoomGameProps) {
             await refresh();
             setViewing(index);
           }}
+          onStep={refresh}
           onNext={() => setViewing(null)}
         />
       ) : (
@@ -127,11 +130,26 @@ function RoomHeading({ room, color }: { room: RoomResponse; color: string }) {
       </p>
       <h1 className="text-[32px] leading-none font-black tracking-[-0.02em]">{room.category.name}</h1>
       <p className="text-sm font-semibold text-muted">
-        {room.roundCount} músicas · {room.hardMode ? `modo difícil (${HARD_CLIP_SECONDS}s)` : `modo normal (${NORMAL_CLIP_SECONDS}s)`}{" "}
-        · expira em {expiresIn(room.expiresAt)}
+        {room.roundCount} músicas · {modeLabel(room)} · expira em {expiresIn(room.expiresAt)}
       </p>
     </div>
   );
+}
+
+function modeLabel(room: RoomResponse): string {
+  if (room.hardcore) return `Hardcore (${HARD_CLIP_SECONDS}s)`;
+  return room.hardMode ? `modo difícil (${HARD_CLIP_SECONDS}s)` : `modo normal (${NORMAL_CLIP_SECONDS}s)`;
+}
+
+/** Square/dot color of an answered round. */
+function roundColor(room: RoomResponse, round: RoomRoundRecord): string {
+  if (room.hardcore) return POINT_COLORS[round.points];
+  return round.correct ? "bg-tape-green" : "bg-tape-red";
+}
+
+function roundLabel(room: RoomResponse, round: RoomRoundRecord): string {
+  if (room.hardcore) return POINT_LABELS[round.points];
+  return round.correct ? "acertou" : "errou";
 }
 
 function expiresIn(expiresAt: number): string {
@@ -224,41 +242,91 @@ interface PlayViewProps {
   color: string;
   viewing: number | null;
   onGuessed: (index: number) => Promise<void>;
+  /** Reloads the room after step 1 of a hardcore round. */
+  onStep: () => Promise<void>;
   onNext: () => void;
 }
 
-function PlayView({ room, me, color, viewing, onGuessed, onNext }: PlayViewProps) {
+function PlayView({ room, me, color, viewing, onGuessed, onStep, onNext }: PlayViewProps) {
   const index = viewing ?? me.answers.length;
   const record = me.answers[index] ?? null;
   const last = index === room.roundCount - 1;
+  const round = me.rounds[index];
+  const heading = `Música ${index + 1} de ${room.roundCount} · ${me.name}`;
+  const after = (
+    <button type="button" className={primaryButton} onClick={onNext}>
+      {last ? "Ver placar" : "Próxima música"}
+    </button>
+  );
 
   async function guess(choice: number) {
     await api.roomGuess(room.code, index, choice);
     await onGuessed(index);
   }
 
+  async function guessArtist(choice: number) {
+    const response = await api.roomArtist(room.code, index, choice);
+    // Right: the room reloads with the open step; wrong: the round is over.
+    if (response.correct) await onStep();
+    else await onGuessed(index);
+  }
+
   return (
     <>
-      {me.answers.length === 0 && <InviteBox room={room} />}
+      {me.answers.length === 0 && !me.openStep && <InviteBox room={room} />}
       <RoundDots room={room} me={me} current={index} />
-      <RoundPanel
-        key={index}
-        heading={`Música ${index + 1} de ${room.roundCount} · ${me.name}`}
-        color={color}
-        options={me.rounds[index].options}
-        audioSrc={api.roomAudioUrl(room.code, index)}
-        clipSeconds={clipSeconds(room.hardMode)}
-        preload={false}
-        result={record}
-        onGuess={guess}
-        after={
-          <button type="button" className={primaryButton} onClick={onNext}>
-            {last ? "Ver placar" : "Próxima música"}
-          </button>
-        }
-      />
+      {"artists" in round ? (
+        <HardcoreRoundPanel
+          key={index}
+          heading={heading}
+          color={color}
+          artists={round.artists}
+          clipStart={round.clipStart}
+          audioSrc={api.roomAudioUrl(room.code, index)}
+          clipSeconds={clipSeconds(room.hardMode)}
+          preload={false}
+          record={hardcoreRecord(record, index === me.answers.length ? me.openStep : null, room.hardMode)}
+          onGuessArtist={guessArtist}
+          onGuessSong={guess}
+          after={after}
+        />
+      ) : (
+        <RoundPanel
+          key={index}
+          heading={heading}
+          color={color}
+          options={round.options}
+          audioSrc={api.roomAudioUrl(room.code, index)}
+          clipSeconds={clipSeconds(room.hardMode)}
+          preload={false}
+          result={record}
+          onGuess={guess}
+          after={after}
+        />
+      )}
     </>
   );
+}
+
+/** The room's view of a hardcore round, in the shape the round panel reads. */
+function hardcoreRecord(
+  record: RoomRoundRecord | null,
+  openStep: NonNullable<RoomResponse["me"]>["openStep"],
+  hard: boolean,
+): HardcoreRoundRecord | null {
+  if (record?.hardcore) {
+    const { artistChoice, artistAnswerIndex, songs } = record.hardcore;
+    return {
+      hard,
+      artistChoice,
+      artistAnswerIndex,
+      songs,
+      song: songs ? { choice: record.choice, answerIndex: record.answerIndex } : null,
+      answer: record.answer,
+    };
+  }
+  if (openStep) return { hard, ...openStep, song: null, answer: null };
+  return null;
 }
 
 function RoundDots({
@@ -277,14 +345,12 @@ function RoundDots({
         return (
           <li
             key={i}
-            aria-label={`Música ${i + 1}: ${round ? (round.correct ? "acertou" : "errou") : "não jogada"}`}
+            aria-label={`Música ${i + 1}: ${round ? roundLabel(room, round) : "não jogada"}`}
             className={`h-3 flex-1 rounded-full border-2 ${
               round
-                ? round.correct
-                  ? "border-ink bg-tape-green"
-                  : "border-ink bg-tape-red"
+                ? `border-ink ${roundColor(room, round)}`
                 : i === current
-                  ? "border-ink bg-tape-yellow"
+                  ? `border-ink ${room.hardcore ? "bg-tape-beige" : "bg-tape-yellow"}`
                   : "border-surface-line bg-surface"
             }`}
           />
@@ -301,11 +367,12 @@ function ResultView({ room, me, color }: { room: RoomResponse; me: NonNullable<R
   const mine = room.standings.find((s) => s.me);
   const finishedCount = room.standings.filter((s) => s.finished).length;
   const totalMs = me.answers.reduce((sum, a) => sum + a.elapsedMs, 0);
-  const score = me.answers.filter((a) => a.correct).length;
+  const score = me.answers.reduce((sum, a) => sum + a.points, 0);
 
   const text = roomShareText({
     categoryName: room.category.name,
     results: me.answers.map((a) => a.correct),
+    hardcorePoints: room.hardcore ? me.answers.map((a) => a.points) : undefined,
     hardMode: room.hardMode,
     totalMs,
     position: mine?.position ? { place: mine.position, of: finishedCount } : null,
@@ -332,14 +399,14 @@ function ResultView({ room, me, color }: { room: RoomResponse; me: NonNullable<R
             {mine?.position ? `${mine.position}º lugar de ${finishedCount}` : "Seu resultado"}
           </p>
           <p className="font-marker text-6xl leading-none tabular-nums">
-            {score}/{room.roundCount}
+            {score}/{room.maxScore}
           </p>
           <p className="font-mono text-sm font-bold">{formatDuration(totalMs)}</p>
           <div className="flex flex-wrap justify-center gap-1.5" aria-hidden>
             {me.answers.map((a, i) => (
               <span
                 key={i}
-                className={`h-6 w-6 rounded-md border-2 border-ink ${a.correct ? "bg-tape-green" : "bg-tape-red"}`}
+                className={`h-6 w-6 rounded-md border-2 border-ink ${roundColor(room, a)}`}
               />
             ))}
           </div>
@@ -369,10 +436,8 @@ function ResultView({ room, me, color }: { room: RoomResponse; me: NonNullable<R
           {me.answers.map((round, i) => (
             <li key={i} className="flex items-center gap-3">
               <span
-                aria-label={round.correct ? "Acertou" : "Errou"}
-                className={`h-3 w-3 shrink-0 rounded-full border-2 border-ink ${
-                  round.correct ? "bg-tape-green" : "bg-tape-red"
-                }`}
+                aria-label={roundLabel(room, round)}
+                className={`h-3 w-3 shrink-0 rounded-full border-2 border-ink ${roundColor(room, round)}`}
               />
               <div className="min-w-0 flex-1">
                 <AnswerCard answer={round.answer} compact />
@@ -406,7 +471,7 @@ function Standings({ room }: { room: RoomResponse }) {
       ) : (
         <ol className="flex flex-col divide-y-2 divide-line rounded-2xl border-2 border-line bg-surface/40">
           {room.standings.map((s, i) => (
-            <StandingRow key={i} standing={s} roundCount={room.roundCount} />
+            <StandingRow key={i} standing={s} roundCount={room.roundCount} maxScore={room.maxScore} />
           ))}
         </ol>
       )}
@@ -414,7 +479,15 @@ function Standings({ room }: { room: RoomResponse }) {
   );
 }
 
-function StandingRow({ standing: s, roundCount }: { standing: RoomStanding; roundCount: number }) {
+function StandingRow({
+  standing: s,
+  roundCount,
+  maxScore,
+}: {
+  standing: RoomStanding;
+  roundCount: number;
+  maxScore: number;
+}) {
   return (
     <li className={`flex items-center gap-3 px-4 py-3 ${s.me ? "font-extrabold" : ""}`}>
       <span className="w-7 shrink-0 font-mono text-sm font-bold tabular-nums">
@@ -426,7 +499,7 @@ function StandingRow({ standing: s, roundCount }: { standing: RoomStanding; roun
       </span>
       {s.finished ? (
         <span className="shrink-0 text-right font-mono text-sm tabular-nums">
-          {s.correct}/{roundCount}
+          {s.points}/{maxScore}
           <span className="ml-2 text-xs text-muted">{formatDuration(s.totalMs)}</span>
         </span>
       ) : (

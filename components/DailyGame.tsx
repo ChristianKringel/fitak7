@@ -205,8 +205,8 @@ function DailyResult({ category, color, categoryName, date, progress, stats }: D
 
       <DailyStatsView stats={stats} highlight={score} />
 
-      <Link href={`/${category}/infinito`} className={secondaryButton}>
-        Continuar no modo infinito
+      <Link href={`/${category}/hardcore`} className={secondaryButton}>
+        Encarar o modo Hardcore
       </Link>
     </div>
   );

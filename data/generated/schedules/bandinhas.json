@@ -8584,6 +8584,274 @@
           "answerIndex": 3
         }
       ]
+    },
+    "2026-12-08": {
+      "rounds": [
+        {
+          "songId": "vox-3--e-wurstwagen",
+          "trackId": 3547546801,
+          "altTrackIds": [],
+          "title": "E - Wurstwagen",
+          "artist": "Vox 3",
+          "options": [
+            {
+              "title": "E - Wurstwagen",
+              "artist": "Vox 3"
+            },
+            {
+              "title": "VALSA DOS AMORES",
+              "artist": "Super Banda Choppão"
+            },
+            {
+              "title": "Festa do Chopp",
+              "artist": "Super Banda Hopus"
+            },
+            {
+              "title": "Das Fliegerlied",
+              "artist": "Super Banda Choppão"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "super-musical-monte-carlo--feriado-nacional-eu-vou-morrer-de-amor",
+          "trackId": 3948862881,
+          "altTrackIds": [],
+          "title": "Feriado Nacional- Eu Vou Morrer de Amor",
+          "artist": "Super Musical Monte Carlo",
+          "options": [
+            {
+              "title": "Polka, Chope e Alegria",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "Só Falta Você",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "Feriado Nacional- Eu Vou Morrer de Amor",
+              "artist": "Super Musical Monte Carlo"
+            },
+            {
+              "title": "Luz de faro",
+              "artist": "Monte Azul"
+            }
+          ],
+          "answerIndex": 2
+        },
+        {
+          "songId": "monte-azul--bruma-en-el-valle",
+          "trackId": 4120060041,
+          "altTrackIds": [],
+          "title": "Bruma en el valle",
+          "artist": "Monte Azul",
+          "options": [
+            {
+              "title": "Bruma en el valle",
+              "artist": "Monte Azul"
+            },
+            {
+              "title": "BELLA BELLA DONA",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "É Homem ou Mulher?",
+              "artist": "Monte Azul"
+            },
+            {
+              "title": "Eu Vou Pra Oktoberfest",
+              "artist": "Banda Ghermania"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "banda-munich--hoem-parapapa",
+          "trackId": 1770771117,
+          "altTrackIds": [],
+          "title": "Hoem Parapapa",
+          "artist": "Banda Munich",
+          "options": [
+            {
+              "title": "SÓ QUERO FESTEJAR",
+              "artist": "Super Banda Choppão"
+            },
+            {
+              "title": "Hey Baby",
+              "artist": "Banda Munich"
+            },
+            {
+              "title": "Chopp e Schnaps",
+              "artist": "Vox 3"
+            },
+            {
+              "title": "Hoem Parapapa",
+              "artist": "Banda Munich"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "la-montanara--polka-chope-e-alegria",
+          "trackId": 3615340882,
+          "altTrackIds": [],
+          "title": "Polka, Chope e Alegria",
+          "artist": "La Montanara",
+          "options": [
+            {
+              "title": "Polka, Chope e Alegria",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "Atardeser de cobre",
+              "artist": "Monte Azul"
+            },
+            {
+              "title": "Das Fliegerlied",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Gross Sauferei",
+              "artist": "La Montanara"
+            }
+          ],
+          "answerIndex": 0
+        }
+      ]
+    },
+    "2026-12-09": {
+      "rounds": [
+        {
+          "songId": "super-banda-santa-cruz--vamos-colher",
+          "trackId": 3131973601,
+          "altTrackIds": [],
+          "title": "Vamos Colher",
+          "artist": "Super Banda Santa Cruz",
+          "options": [
+            {
+              "title": "Vamos Colher",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Pailon Do Fritz",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Maria Deli Qui Deli",
+              "artist": "Super Banda K'necus"
+            },
+            {
+              "title": "O Verão Sempre Vai Voltar",
+              "artist": "Os Montanari"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "vox-3--agora-e-lei-e-se-divertir-com-o-bierhauptstadtwagen-com-sotaque-parodia-sara-perche-ti-amo",
+          "trackId": 3456483091,
+          "altTrackIds": [],
+          "title": "Agora é Lei, É se Divertir, Com o Bierhauptstadtwagen - (Com Sotaque - PARÓDIA: SARA PERCHE TI AMO)",
+          "artist": "Vox 3",
+          "options": [
+            {
+              "title": "Os Kupinchas",
+              "artist": "Super Banda K'necus"
+            },
+            {
+              "title": "Alemon Popaion",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Meu Disfarce",
+              "artist": "Super Banda Santa Cruz"
+            },
+            {
+              "title": "Agora é Lei, É se Divertir, Com o Bierhauptstadtwagen - (Com Sotaque - PARÓDIA: SARA PERCHE TI AMO)",
+              "artist": "Vox 3"
+            }
+          ],
+          "answerIndex": 3
+        },
+        {
+          "songId": "super-banda-hopus--alerta-rancho-grande",
+          "trackId": 854471152,
+          "altTrackIds": [],
+          "title": "Alerta Rancho Grande",
+          "artist": "Super Banda Hopus",
+          "options": [
+            {
+              "title": "Alerta Rancho Grande",
+              "artist": "Super Banda Hopus"
+            },
+            {
+              "title": "Dança da Mareca",
+              "artist": "Super Banda Choppão"
+            },
+            {
+              "title": "Beija Seu Copo de Cerveja",
+              "artist": "Banda Munich"
+            },
+            {
+              "title": "Hoem Parapapa",
+              "artist": "Banda Munich"
+            }
+          ],
+          "answerIndex": 0
+        },
+        {
+          "songId": "la-montanara--nao-sei-o-que-fazer",
+          "trackId": 3616069542,
+          "altTrackIds": [],
+          "title": "Não Sei o Que Fazer",
+          "artist": "La Montanara",
+          "options": [
+            {
+              "title": "Fliegerlied",
+              "artist": "Banda Cavalinho"
+            },
+            {
+              "title": "Não Sei o Que Fazer",
+              "artist": "La Montanara"
+            },
+            {
+              "title": "Alerta Rancho Grande",
+              "artist": "Super Banda Hopus"
+            },
+            {
+              "title": "Noites Quentes",
+              "artist": "Banda Munich"
+            }
+          ],
+          "answerIndex": 1
+        },
+        {
+          "songId": "monte-azul--el-peso-del-silencio",
+          "trackId": 4120060031,
+          "altTrackIds": [],
+          "title": "El peso del silencio",
+          "artist": "Monte Azul",
+          "options": [
+            {
+              "title": "É Homem ou Mulher?",
+              "artist": "Monte Azul"
+            },
+            {
+              "title": "Zigge Zagge",
+              "artist": "Super Banda Choppão"
+            },
+            {
+              "title": "El peso del silencio",
+              "artist": "Monte Azul"
+            },
+            {
+              "title": "Prelúdio De Primavera",
+              "artist": "Os Futuristas"
+            }
+          ],
+          "answerIndex": 2
+        }
+      ]
     }
   }
 }

@@ -1,8 +1,10 @@
 import { describe, expect, it } from "vitest";
 
+import type { Genre } from "./genres";
 import type { PoolSong } from "./pool";
 import { seededRng } from "./rng";
 import {
+  buildRoomHardcoreRounds,
   buildRoomRounds,
   cleanNickname,
   formatDuration,
@@ -15,6 +17,7 @@ import {
   rankPlayers,
   ROOM_CODE_ALPHABET,
   ROOM_CODE_LENGTH,
+  roomMaxScore,
   roundElapsedMs,
   type PlayerProgress,
 } from "./room";
@@ -137,6 +140,25 @@ describe("buildRoomRounds", () => {
   });
 });
 
+describe("buildRoomHardcoreRounds", () => {
+  const genreOf = (artist: string): Genre => (Number(artist.split(" ")[1]) % 2 === 0 ? "rock" : "samba");
+
+  it("builds both steps of every round, without repeating songs", () => {
+    const rounds = buildRoomHardcoreRounds({ pool: makePool(10, 40), genreOf }, 12, seededRng("hc"));
+    expect(new Set(rounds.map((r) => r.songId)).size).toBe(12);
+    for (const round of rounds) {
+      expect(round.artistOptions[round.artistAnswerIndex]).toBe(round.artist);
+      expect(round.artistOptions.every((a) => genreOf(a) === genreOf(round.artist))).toBe(true);
+      expect(round.songOptions[round.songAnswerIndex]).toBe(round.title);
+    }
+  });
+
+  it("doubles the best score", () => {
+    expect(roomMaxScore({ roundCount: 10 })).toBe(10);
+    expect(roomMaxScore({ roundCount: 10, hardcore: true })).toBe(20);
+  });
+});
+
 describe("roundElapsedMs", () => {
   it("counts from the first audio request", () => {
     expect(
@@ -165,7 +187,7 @@ describe("rankPlayers", () => {
     id: name,
     name,
     joinedAt,
-    answers: answers.map(([correct, elapsedMs]) => ({ correct, elapsedMs })),
+    answers: answers.map(([correct, elapsedMs]) => ({ points: correct ? 1 : 0, elapsedMs })),
   });
 
   it("ranks by correct answers, then by total time", () => {
@@ -182,7 +204,21 @@ describe("rankPlayers", () => {
       ["Rápido", 2],
       ["Lento", 3],
     ]);
-    expect(ranked[1]).toMatchObject({ correct: 2, totalMs: 5_000, answered: 3, finished: true });
+    expect(ranked[1]).toMatchObject({ points: 2, totalMs: 5_000, answered: 3, finished: true });
+  });
+
+  it("ranks hardcore rooms by points", () => {
+    const ranked = rankPlayers(
+      [
+        { id: "a", name: "Artistas", joinedAt: 0, answers: [1, 1, 1].map((points) => ({ points, elapsedMs: 1_000 })) },
+        { id: "b", name: "Tudo", joinedAt: 1, answers: [2, 2, 0].map((points) => ({ points, elapsedMs: 9_000 })) },
+      ],
+      3,
+    );
+    expect(ranked.map((s) => [s.name, s.points])).toEqual([
+      ["Tudo", 4],
+      ["Artistas", 3],
+    ]);
   });
 
   it("shares the position on exact ties", () => {

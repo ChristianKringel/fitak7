@@ -1,3 +1,5 @@
+import { isGenre, type Genre } from "./genres";
+
 export interface Category {
   slug: string;
   name: string;
@@ -23,6 +25,11 @@ export interface CatalogArtist {
   /** null means "not resolved yet" (see `pnpm catalog:resolve`). */
   deezerId: number | null;
   categories: string[];
+  /**
+   * Music genre, used by the hardcore mode in hits lists to offer artists
+   * that sound alike. Not needed in niche categories.
+   */
+  genre?: Genre;
   excludeAlbumIds: number[];
   excludeTrackIds: number[];
   /**
@@ -125,6 +132,9 @@ export function parseCatalog(raw: unknown): Catalog {
       !artist.categories.every((s) => slugs.has(s))
     ) {
       fail(`${where}.categories must list known category slugs`);
+    }
+    if (artist.genre !== undefined && !isGenre(artist.genre)) {
+      fail(`${where}.genre must be one of the known genres (lib/game/genres.ts)`);
     }
     if (!isNumberArray(artist.excludeAlbumIds)) {
       fail(`${where}.excludeAlbumIds must be an array of integers`);

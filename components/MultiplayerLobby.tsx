@@ -32,11 +32,24 @@ export function MultiplayerLobby({ categories }: { categories: LobbyCategory[] }
   );
 }
 
+type RoomMode = "normal" | "hard" | "hardcore";
+
+const MODES: { value: RoomMode; label: string; detail: string; selected: string }[] = [
+  { value: "normal", label: "Normal", detail: `Trechos de ${NORMAL_CLIP_SECONDS}s`, selected: "bg-tape-green" },
+  { value: "hard", label: "Difícil", detail: `Trechos de ${HARD_CLIP_SECONDS}s`, selected: "bg-tape-red" },
+  {
+    value: "hardcore",
+    label: "Hardcore",
+    detail: `Artista e música, ${HARD_CLIP_SECONDS}s`,
+    selected: "bg-tape-yellow",
+  },
+];
+
 function CreateRoomForm({ categories }: { categories: LobbyCategory[] }) {
   const router = useRouter();
   const [category, setCategory] = useState(categories[0]?.slug ?? "");
   const [roundCount, setRoundCount] = useState(DEFAULT_ROOM_ROUNDS);
-  const [hard, setHardMode] = useState(false);
+  const [mode, setMode] = useState<RoomMode>("normal");
   const savedName = useSavedNickname();
   // null until the player types: shows the saved nickname.
   const [typedName, setName] = useState<string | null>(null);
@@ -50,7 +63,13 @@ function CreateRoomForm({ categories }: { categories: LobbyCategory[] }) {
     setPending(true);
     setError(null);
     try {
-      const { code } = await api.createRoom({ category, roundCount, hardMode: hard, name });
+      const { code } = await api.createRoom({
+        category,
+        roundCount,
+        hardMode: mode !== "normal",
+        hardcore: mode === "hardcore",
+        name,
+      });
       saveNickname(name.trim());
       router.push(`/sala/${code}`);
     } catch (e) {
@@ -110,30 +129,23 @@ function CreateRoomForm({ categories }: { categories: LobbyCategory[] }) {
 
       <fieldset className="flex flex-col gap-2">
         <legend className="mb-2 text-sm font-bold">Modo</legend>
-        <div className="grid grid-cols-2 gap-2">
-          {[
-            { value: false, label: "Normal", detail: `Trechos de ${NORMAL_CLIP_SECONDS}s` },
-            { value: true, label: "Difícil", detail: `Trechos de ${HARD_CLIP_SECONDS}s` },
-          ].map((mode) => (
+        <div className="grid grid-cols-3 gap-2">
+          {MODES.map((option) => (
             <label
-              key={mode.label}
-              className={`flex min-h-14 cursor-pointer flex-col items-center justify-center rounded-xl border-2 px-2 text-center has-[:focus-visible]:outline-2 ${
-                hard === mode.value
-                  ? mode.value
-                    ? "border-ink bg-tape-red text-ink"
-                    : "border-ink bg-tape-green text-ink"
-                  : "border-surface-line bg-surface text-fg"
+              key={option.value}
+              className={`flex min-h-14 cursor-pointer flex-col items-center justify-center rounded-xl border-2 px-1.5 py-1.5 text-center has-[:focus-visible]:outline-2 ${
+                mode === option.value ? `border-ink ${option.selected} text-ink` : "border-surface-line bg-surface text-fg"
               }`}
             >
               <input
                 type="radio"
                 name="mode"
-                checked={hard === mode.value}
-                onChange={() => setHardMode(mode.value)}
+                checked={mode === option.value}
+                onChange={() => setMode(option.value)}
                 className="sr-only"
               />
-              <span className="text-[15px] font-extrabold">{mode.label}</span>
-              <span className="text-xs font-semibold opacity-80">{mode.detail}</span>
+              <span className="text-[15px] font-extrabold">{option.label}</span>
+              <span className="text-xs leading-tight font-semibold opacity-80">{option.detail}</span>
             </label>
           ))}
         </div>

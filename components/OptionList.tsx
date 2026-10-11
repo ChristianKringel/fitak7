@@ -5,7 +5,8 @@ import type { RoundOption } from "@/lib/api/types";
 const LETTERS = ["A", "B", "C", "D", "E", "F"];
 
 interface OptionListProps {
-  options: RoundOption[];
+  /** Options without an artist show only the title (hardcore steps). */
+  options: (Pick<RoundOption, "title"> & Partial<RoundOption>)[];
   /** Set after the guess: highlights the right and the chosen option. */
   reveal: { choice: number; answerIndex: number } | null;
   disabled: boolean;
@@ -50,7 +51,7 @@ export function OptionList({ options, reveal, disabled, pendingChoice, onChoose 
               </span>
               <span className="flex min-w-0 flex-1 flex-col">
                 <span>{option.title}</span>
-                <span className="text-xs font-medium opacity-70">{option.artist}</span>
+                {option.artist && <span className="text-xs font-medium opacity-70">{option.artist}</span>}
               </span>
               {mark && (
                 <span aria-hidden className="text-xl font-black">
