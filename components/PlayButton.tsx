@@ -9,10 +9,12 @@ interface PlayButtonProps {
   src: string;
   /** Clip length in seconds; null plays the whole preview. */
   seconds: number | null;
+  /** Second of the preview where the clip starts (default 0). */
+  start?: number;
 }
 
 /** Deck key that plays/pauses the clip. */
-export function PlayButton({ player, src, seconds }: PlayButtonProps) {
+export function PlayButton({ player, src, seconds, start = 0 }: PlayButtonProps) {
   const { status } = player;
   const active = status === "playing" || status === "loading";
 
@@ -28,7 +30,7 @@ export function PlayButton({ player, src, seconds }: PlayButtonProps) {
   return (
     <button
       type="button"
-      onClick={() => (active ? player.stop() : player.play(src, seconds))}
+      onClick={() => (active ? player.stop() : player.play(src, seconds, start))}
       className={`${inkButton} w-full`}
     >
       {status === "loading" ? (

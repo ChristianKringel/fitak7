@@ -30,6 +30,18 @@ export function isValidChoice(value: unknown): value is number {
   return Number.isInteger(value) && (value as number) >= 0 && (value as number) < OPTIONS_PER_ROUND;
 }
 
+/** Body of a daily guess: `{ choice: 0-3, date?: "YYYY-MM-DD" }`. */
+export async function readDailyGuess(
+  request: Request,
+): Promise<{ ok: true; choice: number; date: string | undefined } | { ok: false; response: Response }> {
+  const body = await readJsonObject(request);
+  if (!body || !isValidChoice(body.choice)) return { ok: false, response: jsonError(400, "Palpite inválido.") };
+  if (body.date !== undefined && typeof body.date !== "string") {
+    return { ok: false, response: jsonError(400, "Data inválida.") };
+  }
+  return { ok: true, choice: body.choice, date: body.date };
+}
+
 /** Redirects to a fresh preview URL of the first playable version. */
 export async function audioRedirect(trackIds: readonly number[]): Promise<Response> {
   const preview = await resolvePreview(trackIds);

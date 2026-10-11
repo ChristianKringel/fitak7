@@ -6,27 +6,31 @@ export type PlayerStatus = "idle" | "loading" | "playing" | "paused" | "error";
 
 export interface ClipPlayer {
   status: PlayerStatus;
-  /** Seconds played in the current clip. */
+  /** Seconds played in the current clip, counted from its start. */
   position: number;
   /** Limit of the current clip in seconds (null: full preview). */
   limit: number | null;
   /** Loads a source ahead of time so playback starts faster. */
   prepare: (src: string) => void;
-  /** Must be called from a user gesture (iOS). */
-  play: (src: string, limitSeconds: number | null) => void;
+  /**
+   * Must be called from a user gesture (iOS). The clip starts `startSeconds`
+   * into the source (default 0).
+   */
+  play: (src: string, limitSeconds: number | null, startSeconds?: number) => void;
   stop: () => void;
   /** Stops and clears progress, keeping the loaded source. */
   reset: () => void;
 }
 
 /**
- * Plays the first N seconds of an audio source with a single shared
- * <audio> element. The source is our API URL, which redirects to a fresh
+ * Plays N seconds of an audio source, from the start or from a given point,
+ * with a single shared <audio> element. The source is our API URL, which redirects to a fresh
  * Deezer preview.
  */
 export function useClipPlayer(): ClipPlayer {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const limitRef = useRef<number | null>(null);
+  const startRef = useRef(0);
   const frameRef = useRef<number | null>(null);
   const [status, setStatus] = useState<PlayerStatus>("idle");
   const [position, setPosition] = useState(0);
@@ -50,7 +54,7 @@ export function useClipPlayer(): ClipPlayer {
     const audio = getAudio();
     const reachedLimit = () => {
       const max = limitRef.current;
-      if (max === null || audio.currentTime < max) return false;
+      if (max === null || audio.currentTime < startRef.current + max) return false;
       audio.pause();
       stopTicking();
       setPosition(max);
@@ -60,7 +64,7 @@ export function useClipPlayer(): ClipPlayer {
     // Follows playback every frame for a smooth progress ring.
     const loop = () => {
       if (reachedLimit()) return;
-      setPosition(audio.currentTime);
+      setPosition(Math.max(0, audio.currentTime - startRef.current));
       frameRef.current = requestAnimationFrame(loop);
     };
     // Frames don't run in background tabs; timeupdate still enforces the limit.
@@ -126,13 +130,14 @@ export function useClipPlayer(): ClipPlayer {
   );
 
   const play = useCallback(
-    (src: string, limitSeconds: number | null) => {
+    (src: string, limitSeconds: number | null, startSeconds = 0) => {
       const audio = setSource(src);
       limitRef.current = limitSeconds;
+      startRef.current = startSeconds;
       setLimit(limitSeconds);
       setPosition(0);
       setStatus("loading");
-      audio.currentTime = 0;
+      audio.currentTime = startSeconds;
       audio.play().catch((error: unknown) => {
         // AbortError: playback was interrupted by a newer pause/load; not a failure.
         if (error instanceof DOMException && error.name === "AbortError") return;

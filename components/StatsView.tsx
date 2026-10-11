@@ -18,14 +18,27 @@ function percent(correct: number, total: number): string {
   return total === 0 ? "–" : `${Math.round((correct / total) * 100)}%`;
 }
 
-export function DailyStatsView({ stats, highlight }: { stats: CategoryStats["daily"]; highlight?: number }) {
+interface DailyStatsViewProps {
+  stats: CategoryStats["daily"];
+  highlight?: number;
+  title?: string;
+  /** Best score of a day (the hardcore mode counts points). */
+  maxScore?: number;
+}
+
+export function DailyStatsView({
+  stats,
+  highlight,
+  title = "Estatísticas do diário",
+  maxScore = ROUNDS_PER_DAY,
+}: DailyStatsViewProps) {
   const max = Math.max(1, ...stats.distribution);
   return (
     <div className={`${card} flex flex-col gap-4`}>
-      <h3 className="eyebrow text-accent">Estatísticas do diário</h3>
+      <h3 className="eyebrow text-accent">{title}</h3>
       <div className="grid grid-cols-4 gap-2">
         <Stat value={stats.played} label="Jogos" />
-        <Stat value={percent(stats.correct, stats.played * ROUNDS_PER_DAY)} label="Acertos" />
+        <Stat value={percent(stats.correct, stats.played * maxScore)} label="Acertos" />
         <Stat value={stats.currentStreak} label="Dias seguidos" />
         <Stat value={stats.maxStreak} label="Recorde" />
       </div>
@@ -35,7 +48,7 @@ export function DailyStatsView({ stats, highlight }: { stats: CategoryStats["dai
         </p>
         {stats.distribution.map((count, score) => (
           <div key={score} className="flex items-center gap-2 text-sm">
-            <span className="w-3 text-right font-mono tabular-nums">{score}</span>
+            <span className="w-5 text-right font-mono tabular-nums">{score}</span>
             <div className="flex-1">
               <div
                 className={`min-w-7 rounded-md border-2 border-ink px-1.5 py-0.5 text-right font-mono text-xs font-bold text-ink tabular-nums ${
